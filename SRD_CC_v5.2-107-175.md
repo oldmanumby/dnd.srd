@@ -1,4 +1,4 @@
-# Spells
+# SPELLS
 
 ## Bard Spells
 
