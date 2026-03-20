@@ -1,68 +1,217 @@
 # Tools
 
-A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
+A tool helps you make specialized ability checks, craft certain items, or both. A tool's description includes the tool's cost and weight, as well as the following entries:
 
-**Table- Tools**
+**Ability.** This entry lists the ability to use when making an ability check with the tool.
 
-| Item                      | Cost  | Weight |
-|---------------------------|-------|--------|
-| *Artisan's tools*         |       |        |
-| ~ Alchemist's supplies    | 50 gp | 8 lb.  |
-| ~ Brewer's supplies       | 20 gp | 9 lb.  |
-| ~ Calligrapher's supplies | 10 gp | 5 lb.  |
-| ~ Carpenter's tools       | 8 gp  | 6 lb.  |
-| ~ Cartographer's tools    | 15 gp | 6 lb.  |
-| ~ Cobbler's tools         | 5 gp  | 5 lb.  |
-| ~ Cook's utensils         | 1 gp  | 8 lb.  |
-| ~ Glassblower's tools     | 30 gp | 5 lb.  |
-| ~ Jeweler's tools         | 25 gp | 2 lb.  |
-| ~ Leatherworker's tools   | 5 gp  | 5 lb.  |
-| ~ Mason's tools           | 10 gp | 8 lb.  |
-| ~ Painter's supplies      | 10 gp | 5 lb.  |
-| ~ Potter's tools          | 10 gp | 3 lb.  |
-| ~ Smith's tools           | 20 gp | 8 lb.  |
-| ~ Tinker's tools          | 50 gp | 10 lb. |
-| ~ Weaver's tools          | 1 gp  | 5 lb.  |
-| ~ Woodcarver's tools      | 1 gp  | 5 lb.  |
-| Disguise kit              | 25 gp | 3 lb.  |
-| Forgery kit               | 15 gp | 5 lb.  |
-| *Gaming set*              |       |        |
-| ~ Dice set                | 1 sp  | -      |
-| ~ Playing card set        | 5 sp  | -      |
-| Herbalism kit             | 5 gp  | 3 lb.  |
-| *Musical instrument*      |       |        |
-| ~ Bagpipes                | 30 gp | 6 lb.  |
-| ~ Drum                    | 6 gp  | 3 lb.  |
-| ~ Dulcimer                | 25 gp | 10 lb. |
-| ~ Flute                   | 2 gp  | 1 lb.  |
-| ~ Lute                    | 35 gp | 2 lb.  |
-| ~ Lyre                    | 30 gp | 2 lb.  |
-| ~ Horn                    | 3 gp  | 2 lb.  |
-| ~ Pan flute               | 12 gp | 2 lb.  |
-| ~ Shawm                   | 2 gp  | 1 lb.  |
-| ~ Viol                    | 30 gp | 1 lb.  |
-| Navigator's tools         | 25 gp | 2 lb.  |
-| Poisoner's kit            | 50 gp | 2 lb.  |
-| Thieves' tools            | 25 gp | 1 lb.  |
-| Vehicles (land or water)  | *     | *      |
-|                           |       |        |
+**Utilize.** This entry lists things you can do with the tool when you take the Utilize action. You can do one of those things each time you take the action. This entry also provides the DC for the action.
 
-\* See the "Mounts and Vehicles" section.
+**Craft.** This entry lists what, if anything, you can craft with the tool. For crafting rules, see "Crafting Nonmagical Items," "Brewing Potions of Healing," and "Scribing Spell Scrolls" later in "Equipment."
 
-***Artisan's Tools***. These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+**Variants.** This entry appears if the tool has variants, which are listed. Each requires a separate proficiency.
 
-***Disguise Kit***. This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
+## Tool Proficiency
 
-***Forgery Kit***. This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.
+If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have Advantage on the check too.
 
-***Gaming Set***. This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.
+Your features might give you proficiency with a tool. A monster has proficiency with any tool in its stat block.
 
-***Herbalism Kit***. This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.
+## Artisan's Tools
 
-***Musical Instrument***. Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+Artisan's Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.
 
-***Navigator's Tools***. This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
+### Alchemist's Supplies (50 GP)
 
-***Poisoner's Kit***. A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+**Ability:** Intelligence **Weight:** 8 lb.
 
-***Thieves' Tools***. This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
+**Utilize:** Identify a substance (DC 15), or start a fire (DC 15)
+
+**Craft:** Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume
+
+### Brewer's Supplies (20 GP)
+
+**Ability:** Intelligence **Weight:** 9 lb.
+
+**Utilize:** Detect poisoned drink (DC 15), or identify alcohol (DC 10)
+
+**Craft:** Antitoxin
+
+### Calligrapher's Supplies (10 GP)
+
+**Ability:** Dexterity **Weight:** 5 lb.
+
+**Utilize:** Write text with impressive flourishes that guard against forgery (DC 15)
+
+**Craft:** Ink, Spell Scroll
+
+### Carpenter's Tools (8 GP)
+
+**Ability:** Strength **Weight:** 6 lb.
+
+**Utilize:** Seal or pry open a door or container (DC 20)
+
+**Craft:** Club, Greatclub, Quarterstaff, Barrel, Chest, Ladder, Pole, Portable Ram, Torch
+
+### Cartographer's Tools (15 GP)
+
+**Ability:** Wisdom **Weight:** 6 lb.
+
+**Utilize:** Draft a map of a small area (DC 15)
+
+**Craft:** Map
+
+### Cobbler's Tools (5 GP)
+
+**Ability:** Dexterity **Weight:** 5 lb.
+
+**Utilize:** Modify footwear to give Advantage on the wearer's next Dexterity (Acrobatics) check (DC 10)
+
+**Craft:** Climber's Kit
+
+### Cook's Utensils (1 GP)
+
+**Ability:** Wisdom **Weight:** 8 lb.
+
+**Utilize:** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)
+
+**Craft:** Rations
+
+### Glassblower's Tools (30 GP)
+
+**Ability:** Intelligence **Weight:** 5 lb.
+
+**Utilize:** Discern what a glass object held in the past 24 hours (DC 15)
+
+**Craft:** Glass Bottle, Magnifying Glass, Spyglass, Vial
+
+### Jeweler's Tools (25 GP)
+
+**Ability:** Intelligence **Weight:** 2 lb.
+
+**Utilize:** Discern a gem's value (DC 15)
+
+**Craft:** Arcane Focus, Holy Symbol
+
+### Leatherworker's Tools (5 GP)
+
+**Ability:** Dexterity **Weight:** 5 lb.
+
+**Utilize:** Add a design to a leather item (DC 10)
+
+**Craft:** Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin
+
+### Mason's Tools (10 GP)
+
+**Ability:** Strength **Weight:** 8 lb.
+
+**Utilize:** Chisel a symbol or hole in stone (DC 10)
+
+**Craft:** Block and Tackle
+
+### Painter's Supplies (10 GP)
+
+**Ability:** Wisdom **Weight:** 5 lb.
+
+**Utilize:** Paint a recognizable image of something you've seen (DC 10)
+
+**Craft:** Druidic Focus, Holy Symbol
+
+### Potter's Tools (10 GP)
+
+**Ability:** Intelligence **Weight:** 3 lb.
+
+**Utilize:** Discern what a ceramic object held in the past 24 hours (DC 15)
+
+**Craft:** Jug, Lamp
+
+### Smith's Tools (20 GP)
+
+**Ability:** Strength **Weight:** 8 lb.
+
+**Utilize:** Pry open a door or container (DC 20)
+
+**Craft:** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
+
+### Tinker's Tools (50 GP)
+
+**Ability:** Dexterity **Weight:** 10 lb.
+
+**Utilize:** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)
+
+**Craft:** Musket, Pistol, Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunting Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox
+
+### Weaver's Tools (1 GP)
+
+**Ability:** Dexterity **Weight:** 5 lb.
+
+**Utilize:** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)
+
+**Craft:** Padded Armor, Basket, Bedroll, Blanket, Fine Clothes, Net, Robe, Rope, Sack, String, Tent, Traveler's Clothes
+
+### Woodcarver's Tools (1 GP)
+
+**Ability:** Dexterity **Weight:** 5 lb.
+
+**Utilize:** Carve a pattern in wood (DC 10)
+
+**Craft:** Club, Greatclub, Quarterstaff, Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus, Arrows, Bolts, Druidic Focus, Ink Pen, Needles
+
+## Other Tools
+
+### Disguise Kit (25 GP)
+
+**Ability:** Charisma **Weight:** 3 lb.
+
+**Utilize:** Apply makeup (DC 10)
+
+**Craft:** Costume
+
+### Forgery Kit (15 GP)
+
+**Ability:** Dexterity **Weight:** 5 lb.
+
+**Utilize:** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)
+
+### Gaming Set (Varies)
+
+**Ability:** Wisdom **Weight:** —
+
+**Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20)
+
+**Variants:** Dice (1 SP), dragonchess (1 GP), playing cards (5 SP), three-dragon ante (1 GP)
+
+### Herbalism Kit (5 GP)
+
+**Ability:** Intelligence **Weight:** 3 lb.
+
+**Utilize:** Identify a plant (DC 10)
+
+**Craft:** Antitoxin, Candle, Healer's Kit, Potion of Healing
+
+### Musical Instrument (Varies)
+
+**Ability:** Charisma **Weight:** Varies
+
+**Utilize:** Play a known tune (DC 10), or improvise a song (DC 15)
+
+**Variants:** Bagpipes (30 GP, 6 lb.), drum (6 GP, 3 lb.), dulcimer (25 GP, 10 lb.), flute (2 GP, 1 lb.), horn (3 GP, 2 lb.), lute (35 GP, 2 lb.), lyre (30 GP, 2 lb.), pan flute (12 GP, 2 lb.), shawm (2 GP, 1 lb.), viol (30 GP, 1 lb.)
+
+### Navigator's Tools (25 GP)
+
+**Ability:** Wisdom **Weight:** 2 lb.
+
+**Utilize:** Plot a course (DC 10), or determine position by stargazing (DC 15)
+
+### Poisoner's Kit (50 GP)
+
+**Ability:** Intelligence **Weight:** 2 lb.
+
+**Utilize:** Detect a poisoned object (DC 10)
+
+**Craft:** Basic Poison
+
+### Thieves' Tools (25 GP)
+
+**Ability:** Dexterity **Weight:** 1 lb.
+
+**Utilize:** Pick a lock (DC 15), or disarm a trap (DC 15)

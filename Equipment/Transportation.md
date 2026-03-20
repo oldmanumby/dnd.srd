@@ -1,62 +1,80 @@
 # Mounts and Vehicles
 
-A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal's speed and base carrying capacity.
+A mount can help you move more quickly through the wilderness, but its primary purpose is to carry gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal's carrying capacity. See "Monsters" for the animals' stat blocks.
 
-An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together.
+## Mounts and Cargo
 
-Mounts other than those listed here are available in fantasy gaming worlds, but they are rare and not normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar animals) and even aquatic mounts (giant sea horses, for example). Acquiring such a mount often means securing an egg and raising the creature yourself, making a bargain with a powerful entity, or negotiating with the mount itself.
+An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, add their carrying capacities together.
 
-***Barding***. Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.
+## Barding
 
-***Saddles***. A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.
+Barding is armor designed for a mount. Any type of armor on the Armor table in "Equipment" can be purchased as barding. The cost is four times the normal cost, and it weighs twice as much.
 
-***Vehicle Proficiency***. If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.
+## Saddles
 
-***Rowed Vessels***. Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
+A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives Advantage on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.
 
-**Table- Mounts and Other Animals**
+## Mounts and Other Animals
 
-| Item           | Cost   | Speed  | Carrying Capacity |
-|----------------|--------|--------|-------------------|
-| Camel          | 50 gp  | 50 ft. | 480 lb.           |
-| Donkey or mule | 8 gp   | 40 ft. | 420 lb.           |
-| Elephant       | 200 gp | 40 ft. | 1,320 lb.         |
-| Horse, draft   | 50 gp  | 40 ft. | 540 lb.           |
-| Horse, riding  | 75 gp  | 60 ft. | 480 lb.           |
-| Mastiff        | 25 gp  | 40 ft. | 195 lb.           |
-| Pony           | 30 gp  | 40 ft. | 225 lb.           |
-| Warhorse       | 400 gp | 60 ft. | 540 lb.           |
-|                |        |        |                   |
+| Item | Carrying Capacity | Cost |
+|---|---|---|
+| Camel | 450 lb. | 50 GP |
+| Elephant | 1,320 lb. | 200 GP |
+| Horse, Draft | 540 lb. | 50 GP |
+| Horse, Riding | 480 lb. | 75 GP |
+| Mastiff | 195 lb. | 25 GP |
+| Mule | 420 lb. | 8 GP |
+| Pony | 225 lb. | 30 GP |
+| Warhorse | 540 lb. | 400 GP |
 
-**Table- Tack, Harness, and Drawn Vehicles**
+## Tack, Harness, and Drawn Vehicles
 
-| Item               | Cost   | Weight  |
-|--------------------|--------|---------|
-| Barding            | ×4     | ×2      |
-| Bit and bridle     | 2 gp   | 1 lb.   |
-| Carriage           | 100 gp | 600 lb. |
-| Cart               | 15 gp  | 200 lb. |
-| Chariot            | 250 gp | 100 lb. |
-| Feed (per day)     | 5 cp   | 10 lb.  |
-| *Saddle*           |        |         |
-| ~ Exotic           | 60 gp  | 40 lb.  |
-| ~ Military         | 20 gp  | 30 lb.  |
-| ~ Pack             | 5 gp   | 15 lb.  |
-| ~ Riding           | 10 gp  | 25 lb.  |
-| Saddlebags         | 4 gp   | 8 lb.   |
-| Sled               | 20 gp  | 300 lb. |
-| Stabling (per day) | 5 sp   | -       |
-| Wagon              | 35 gp  | 400 lb. |
-|                    |        |         |
+| Item | Weight | Cost |
+|---|---|---|
+| Carriage | 600 lb. | 100 GP |
+| Cart | 200 lb. | 15 GP |
+| Chariot | 100 lb. | 250 GP |
+| Feed per day | 10 lb. | 5 CP |
+| **Saddle** | | |
+| Exotic | 40 lb. | 60 GP |
+| Military | 30 lb. | 20 GP |
+| Riding | 25 lb. | 10 GP |
+| Sled | 300 lb. | 20 GP |
+| Stabling per day | — | 5 SP |
+| Wagon | 400 lb. | 35 GP |
 
-**Table- Waterborne Vehicles**
+## Large Vehicles
 
-| Item         | Cost      | Speed  |
-|--------------|-----------|--------|
-| Galley       | 30,000 gp | 4 mph  |
-| Keelboat     | 3,000 gp  | 1 mph  |
-| Longship     | 10,000 gp | 3 mph  |
-| Rowboat      | 50 gp     | 1½ mph |
-| Sailing ship | 10,000 gp | 2 mph  |
-| Warship      | 25,000 gp | 2½ mph |
-|              |           |        |
+The Airborne and Waterborne Vehicles table provides statistics for various types of large vehicles. The following notes apply.
+
+### Speed
+
+A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.
+
+### Crew
+
+A ship larger than a Keelboat or Rowboat needs a crew of skilled hirelings (see "Hirelings" later in "Equipment") to function. The minimum number of skilled hirelings needed to crew a ship depends on the type of ship, as shown in the table.
+
+### Passengers
+
+The table lists the number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day.
+
+### Damage Threshold
+
+If a vehicle has a damage threshold (see "Rules Glossary"), it's noted in the table.
+
+### Ship Repair
+
+Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 Hit Point of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
+
+## Airborne and Waterborne Vehicles
+
+| Ship | Speed | Crew | Passengers | Cargo (Tons) | AC | HP | Damage Threshold | Cost |
+|---|---|---|---|---|---|---|---|---|
+| Airship | 8 mph | 10 | 20 | 1 | 13 | 300 | — | 40,000 GP |
+| Galley | 4 mph | 80 | — | 150 | 15 | 500 | 20 | 30,000 GP |
+| Keelboat | 1 mph | 1 | 6 | 1/2 | 15 | 100 | 10 | 3,000 GP |
+| Longship | 3 mph | 40 | 150 | 10 | 15 | 300 | 15 | 10,000 GP |
+| Rowboat | 1½ mph | 1 | 3 | — | 11 | 50 | — | 50 GP |
+| Sailing Ship | 2 mph | 20 | 20 | 100 | 15 | 300 | 15 | 10,000 GP |
+| Warship | 2½ mph | 60 | 60 | 200 | 15 | 500 | 20 | 25,000 GP |
