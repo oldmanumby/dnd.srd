@@ -1,375 +1,267 @@
-# ABILITIES
+# The Six Abilities
 
-Six abilities provide a quick description of every creature's physical and mental characteristics:
+All creatures—characters and monsters—have six abilities that measure physical and mental characteristics, as shown on the Ability Descriptions table.
 
-- **Strength**, measuring physical power
-- **Dexterity**, measuring agility
-- **Constitution**, measuring endurance
-- **Intelligence**, measuring reasoning and memory
-- **Wisdom**, measuring perception and insight
-- **Charisma**, measuring force of personality
+## Ability Descriptions
 
-Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities-a creature's assets as well as weaknesses.
+| Ability | Score Measures ... |
+|---|---|
+| Strength | Physical might |
+| Dexterity | Agility, reflexes, and balance |
+| Constitution | Health and stamina |
+| Intelligence | Reasoning and memory |
+| Wisdom | Perceptiveness and mental fortitude |
+| Charisma | Confidence, poise, and charm |
 
-The three main rolls of the game-the ability check, the saving throw, and the attack roll-rely on the six ability scores. The book's introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
+## Ability Scores
 
-## Ability Scores and Modifiers
+Each ability has a score from 1 to 20, although some monsters have a score as high as 30. The score represents the magnitude of an ability. The Ability Scores table summarises what the scores mean.
 
-Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
+| Score | Meaning |
+|---|---|
+| 1 | This is the lowest a score can normally go. If an effect reduces a score to 0, that effect explains what happens. |
+| 2–9 | This represents a weak capability. |
+| 10–11 | This represents the human average. |
+| 12–19 | This represents a strong capability. |
+| 20 | This is the highest an adventurer's score can go unless a feature says otherwise. |
+| 21–29 | This represents an extraordinary capability. |
+| 30 | This is the highest a score can go. |
 
-A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
+## Ability Modifiers
 
-Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
-
-**Table- Ability Scores and Modifiers**
+Each ability has a modifier that you apply whenever you make a D20 Test with that ability (explained in "D20 Tests"). An ability modifier is derived from its score, as shown in the Ability Modifiers table.
 
 | Score | Modifier |
-|-------|----------|
-| 1     | -5       |
-| 2-3   | -4       |
-| 4-5   | -3       |
-| 6-7   | -2       |
-| 8-9   | -1       |
-| 10-11 | +0       |
-| 12-13 | +1       |
-| 14-15 | +2       |
-| 16-17 | +3       |
-| 18-19 | +4       |
-| 20-21 | +5       |
-| 22-23 | +6       |
-| 24-25 | +7       |
-| 26-27 | +8       |
-| 28-29 | +9       |
-| 30    | +10      |
-|       |          |
+|---|---|
+| 1 | −5 |
+| 2–3 | −4 |
+| 4–5 | −3 |
+| 6–7 | −2 |
+| 8–9 | −1 |
+| 10–11 | +0 |
+| 12–13 | +1 |
+| 14–15 | +2 |
+| 16–17 | +3 |
+| 18–19 | +4 |
+| 20–21 | +5 |
+| 22–23 | +6 |
+| 24–25 | +7 |
+| 26–27 | +8 |
+| 28–29 | +9 |
+| 30 | +10 |
 
-To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
+# D20 Tests
 
-Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
+When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called D20 Tests, and they come in three kinds: ability checks, saving throws, and attack rolls. They follow these steps:
 
-# Advantage and Disadvantage
+**1: Roll 1d20.** You always want to roll high. If the roll has Advantage or Disadvantage (described later in "Playing the Game"), you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.
 
-Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
+**2: Add Modifiers.** Add these modifiers to the number rolled on the d20:
 
-If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don't roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
+- **The Relevant Ability Modifier.** "Playing the Game" and "Rules Glossary" explain which ability modifiers to use for various D20 Tests.
+- **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a D20 Test that uses something, such as a skill, in which the creature has proficiency. See "Proficiency" later in "Playing the Game."
+- **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.
 
-If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
+**3: Compare the Total to a Target Number.** If the total of the d20 and its modifiers equals or exceeds the target number, the D20 Test succeeds. Otherwise, it fails. The Game Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a Difficulty Class (DC). The target number for an attack roll is called an Armor Class (AC), which appears on a character sheet or in a stat block (see "Rules Glossary").
 
-When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll or replace the d20, you can reroll or replace only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
+## Ability Checks
 
-You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+An ability check represents a creature using talent and training to try to overcome a challenge, such as forcing open a stuck door, picking a lock, entertaining a crowd, or deciphering a cipher. The GM and the rules often call for an ability check when a creature attempts something other than an attack that has a chance of meaningful failure. When the outcome is uncertain and narratively interesting, the dice determine the result.
 
-# Proficiency Bonus
+### Ability Modifier
 
-Characters have a proficiency bonus determined by level. Monsters also have this bonus, which is incorporated in their stat blocks. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
+An ability check is named for the ability modifier it uses: a Strength check, an Intelligence check, and so on. Different ability checks are called for in different situations, depending on which ability is most relevant. See the Ability Check Examples table for examples of each check's use.
 
-Your proficiency bonus can't be added to a single die roll or other number more than once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
+| Ability | Make a Check To ... |
+|---|---|
+| Strength | Lift, push, pull, or break something |
+| Dexterity | Move nimbly, quickly, or quietly |
+| Constitution | Push your body beyond normal limits |
+| Intelligence | Reason or remember |
+| Wisdom | Notice things in the environment or in creatures' behaviour |
+| Charisma | Influence, entertain, or deceive |
 
-Occasionally, your proficiency bonus might be multiplied or divided (doubled or halved, for example) before you apply it. For example, the rogue's Expertise feature doubles the proficiency bonus for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than once to the same roll, you still add it only once and multiply or divide it only once.
+### Proficiency Bonus
 
-By the same token, if a feature or effect allows you to multiply your proficiency bonus when making an ability check that wouldn't normally benefit from your proficiency bonus, you still don't add the bonus to the check. For that check your proficiency bonus is 0, given the fact that multiplying 0 by any number is still 0. For instance, if you lack proficiency in the History skill, you gain no benefit from a feature that lets you double your proficiency bonus when you make Intelligence (History) checks.
+Add your Proficiency Bonus to an ability check when the GM determines that a skill or tool proficiency is relevant to the check and you have that proficiency. For example, if a rule refers to a Strength (Acrobatics or Athletics) check, you can add your Proficiency Bonus to the check if you have proficiency in the Acrobatics or Athletics skill. See "Proficiency" later in "Playing the Game" for more information about skill and tool proficiencies.
 
-In general, you don't multiply your proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
+### Difficulty Class
 
-# Ability Checks
+The Difficulty Class of an ability check represents the task's difficulty. The more difficult the task, the higher its DC. The rules provide DCs for certain checks, but the GM ultimately sets them. The Typical Difficulty Classes table presents a range of possible DCs for ability checks.
 
-An ability check tests a character's or monster's innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results.
-
-For every ability check, the GM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class.
-
-The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
-
-**Table- Difficulty Classes**
-
-| Task Difficulty   | DC |
-|-------------------|----|
-| Very easy         | 5  |
-| Easy              | 10 |
-| Medium            | 15 |
-| Hard              | 20 |
-| Very hard         | 25 |
+| Task Difficulty | DC |
+|---|---|
+| Very easy | 5 |
+| Easy | 10 |
+| Medium | 15 |
+| Hard | 20 |
+| Very hard | 25 |
 | Nearly impossible | 30 |
-|                   |    |
 
-To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success-the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
+## Saving Throws
 
-## Contests
+A saving throw—also called a save—represents an attempt to evade or resist a threat, such as a fiery explosion, a blast of poisonous gas, or a spell trying to invade your mind. You don't normally choose to make a save; you must make one because your character or a monster (if you're the GM) is at risk. A save's result is detailed in the effect that caused it.
 
-Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal- for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
+If you don't want to resist the effect, you can choose to fail the save without rolling.
 
-Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
+### Ability Modifier
 
-If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
+Saving throws are named for the ability modifiers they use: a Constitution saving throw, a Wisdom saving throw, and so on. Different saving throws are used to resist different kinds of effects, as shown on the Saving Throw Examples table.
 
-## Skills
+| Ability | Make a Save To ... |
+|---|---|
+| Strength | Physically resist direct force |
+| Dexterity | Dodge out of harm's way |
+| Constitution | Endure a toxic hazard |
+| Intelligence | Recognise an illusion as fake |
+| Wisdom | Resist a mental assault |
+| Charisma | Assert your identity |
 
-Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual's proficiency in a skill demonstrates a focus on that aspect. (A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in the monster's stat block.)
+### Proficiency Bonus
 
-For example, a Dexterity check might reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: Acrobatics, Sleight of Hand, and Stealth, respectively. So a character who has proficiency in the Stealth skill is particularly good at Dexterity checks related to sneaking and hiding.
+You add your Proficiency Bonus to your saving throw if you have proficiency in that kind of save. See "Proficiency" later in "Playing the Game."
 
-The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability's description in the later sections of this section for examples of how to use a skill associated with an ability.
+### Difficulty Class
 
-**Table- Related Skills**
+The Difficulty Class for a saving throw is determined by the effect that causes it or by the GM. For example, if a spell forces you to make a save, the DC is determined by the caster's spellcasting ability and Proficiency Bonus. Monster abilities that call for saves specify the DC.
 
-| Strength  | Dexterity       | Intelligence  | Wisdom          | Charisma     |
-|-----------|-----------------|---------------|-----------------|--------------|
-| Athletics | Acrobatics      | Arcana        | Animal Handling | Deception    |
-|           | Sleight of Hand | History       | Insight         | Intimidation |
-|           | Stealth         | Investigation | Medicine        | Performance  |
-|           |                 | Nature        | Perception      | Persuasion   |
-|           |                 | Religion      | Survival        |              |
+## Attack Rolls
 
-Sometimes, the GM might ask for an ability check using a specific skill-for example, "Make a Wisdom (Perception) check." At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
+An attack roll determines whether an attack hits a target. An attack roll hits if the roll equals or exceeds the target's Armor Class. Attack rolls usually occur in battle, described in "Combat" later in "Playing the Game," but the GM might also ask for an attack roll in other situations, such as an archery competition.
 
-For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character's proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.
+### Ability Modifier
 
-### Variant: Skills with Different Abilities
+The Attack Roll Abilities table shows which ability modifier to use for different types of attack rolls.
 
-Normally, your proficiency in a skill applies only to a specific kind of ability check. Proficiency in Athletics, for example, usually applies to Strength checks. In some situations, though, your proficiency might reasonably apply to a different kind of check. In such cases, the GM might ask for a check using an unusual combination of ability and skill, or you might ask your GM if you can apply a proficiency to a different check. For example, if you have to swim from an offshore island to the mainland, your GM might call for a Constitution check to see if you have the stamina to make it that far. In this case, your GM might allow you to apply your proficiency in Athletics and ask for a Constitution (Athletics) check. So if you're proficient in Athletics, you apply your proficiency bonus to the Constitution check just as you would normally do for a Strength (Athletics) check. Similarly, when your half-orc barbarian uses a display of raw strength to intimidate an enemy, your GM might ask for a Strength (Intimidation) check, even though Intimidation is normally associated with Charisma.
+| Ability | Attack Type |
+|---|---|
+| Strength | Melee attack with a weapon or an Unarmed Strike (see "Rules Glossary") |
+| Dexterity | Ranged attack with a weapon |
+| Varies | Spell attack (the ability used is determined by the spellcaster's spellcasting feature, as explained in "Spells") |
 
-## Passive Checks
+Some features let you use different ability modifiers from those listed. For example, the Finesse property (see "Equipment") lets you use Strength or Dexterity with a weapon that has that property.
 
-A passive check is a special kind of ability check that doesn't involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the GM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
+### Proficiency Bonus
 
-Here's how to determine a character's total for a passive check:
+You add your Proficiency Bonus to your attack roll when you attack using a weapon you have proficiency with, as well as when you attack with a spell. See "Proficiency" later in "Playing the Game" for more information about weapon proficiencies.
 
-10 + all modifiers that normally apply to the check
+### Armour Class
 
-If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a **score**.
+A creature's Armor Class represents how well the creature avoids being wounded in combat. The AC of a character is determined at character creation (see "Character Creation"), whereas the AC of a monster appears in its stat block.
 
-For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
+**Calculating AC.** All creatures start with the same base AC calculation:
 
-The rules on hiding in the "Dexterity" section below rely on passive checks, as do the exploration rules.
+> Base AC = 10 + the creature's Dexterity modifier
 
-## Working Together
+A creature's AC can then be modified by armor, magic items, spells, and more.
 
-Sometimes two or more characters team up to attempt a task. The character who's leading the effort-or the one with the highest ability modifier-can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.
+**Only One Base AC.** Some spells and class features give characters a different way to calculate their AC. A character with multiple features that give different ways to calculate AC must choose which one to use; only one base calculation can be in effect for a creature.
 
-A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves' tools, so a character who lacks that proficiency can't help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
+### Rolling 20 or 1
 
-### Group Checks
+If you roll a 20 on the d20 (called a "natural 20") for an attack roll, the attack hits regardless of any modifiers or the target's AC. This is called a Critical Hit (see "Combat" later in "Playing the Game").
 
-When a number of individuals are trying to accomplish something as a group, the GM might ask for a group ability check. In such a situation, the characters who are skilled at a particular task help cover those who aren't.
+If you roll a 1 on the d20 (a "natural 1") for an attack roll, the attack misses regardless of any modifiers or the target's AC.
 
-To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.
+# Advantage/Disadvantage
 
-Group checks don't come up very often, and they're most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the GM might call for a group Wisdom (Survival) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
+Sometimes a D20 Test is modified by Advantage or Disadvantage. Advantage reflects the positive circumstances surrounding a d20 roll, while Disadvantage reflects negative circumstances.
 
-## Using Each Ability
+You usually acquire Advantage or Disadvantage through the use of special abilities and actions. The GM can also decide that circumstances grant Advantage or impose Disadvantage.
 
-Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
+## Roll Two D20s
 
-### Strength
+When a roll has either Advantage or Disadvantage, roll a second d20 when you make the roll. Use the higher of the two rolls if you have Advantage, and use the lower roll if you have Disadvantage. For example, if you have Disadvantage and roll an 18 and a 3, use the 3. If you instead have Advantage and roll those numbers, use the 18.
 
-Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.
+## They Don't Stack
 
-#### Strength Checks
+If multiple situations affect a roll and they all grant Advantage on it, you still roll only two d20s. Similarly, if multiple situations impose Disadvantage on a roll, you roll only two d20s.
 
-A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks.
+If circumstances cause a roll to have both Advantage and Disadvantage, the roll has neither of them, and you roll one d20. This is true even if multiple circumstances impose Disadvantage and only one grants Advantage or vice versa. In such a situation, you have neither Advantage nor Disadvantage.
 
-***Athletics***. Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:
+## Interactions with Rerolls
 
-- You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
-- You try to jump an unusually long distance or pull off a stunt midjump.
-- You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
+When you have Advantage or Disadvantage and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.
 
-***Other Strength Checks***. The GM might also call for a Strength check when you try to accomplish tasks like the following:
+For example, if you have Heroic Inspiration (see the sidebar below) and roll a 3 and an 18 on an ability check that has Advantage or Disadvantage, you could expend your Heroic Inspiration to reroll one of those dice, not both of them.
 
-- Force open a stuck, locked, or barred door
-- Break free of bonds
-- Push through a tunnel that is too small
-- Hang on to a wagon while being dragged behind it
-- Tip over a statue
-- Keep a boulder from rolling
+# Proficiency
 
-#### Attack Rolls and Damage
+Characters and monsters are good at various things. Some are skilled with many weapons, while others can use only a few. Some are better at understanding people's motives, and others are better at unlocking the secrets of the multiverse. All creatures have a Proficiency Bonus, which reflects the impact that training has on the creature's capabilities. A character's Proficiency Bonus increases as the character gains levels (described in "Character Creation"). A monster's Proficiency Bonus is based on its Challenge Rating (see "Rules Glossary"). The Proficiency Bonus table shows how the bonus is determined.
 
-You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
+This bonus is applied to a D20 Test when the creature has proficiency in a skill, in a saving throw, or with an item that the creature uses to make the D20 Test. The bonus is also used for spell attacks and for calculating the DC of saving throws for spells.
 
-#### Lifting and Carrying
+## Proficiency Bonus
 
-Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
+| Level or CR | Bonus |
+|---|---|
+| Up to 4 | +2 |
+| 5–8 | +3 |
+| 9–12 | +4 |
+| 13–16 | +5 |
+| 17–20 | +6 |
+| 21–24 | +7 |
+| 25–28 | +8 |
+| 29–30 | +9 |
 
-***Carrying Capacity***. Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it.
+## The Bonus Doesn't Stack
 
-***Push, Drag, or Lift***. You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.
+Your Proficiency Bonus can't be added to a die roll or another number more than once. For example, if a rule allows you to make a Charisma (Deception or Persuasion) check, you add your Proficiency Bonus if you're proficient in either skill, but you don't add it twice if you're proficient in both skills.
 
-***Size and Strength***. Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature's carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
+Occasionally, a Proficiency Bonus might be multiplied or divided (doubled or halved, for example) before being added. For example, the Expertise feature (see "Rules Glossary") doubles the Proficiency Bonus for certain ability checks. Whenever the bonus is used, it can be multiplied only once and divided only once.
 
-#### Variant: Encumbrance
+## Skill Proficiencies
 
-The rules for lifting and carrying are intentionally simple. Here is a variant if you are looking for more detailed rules for determining how a character is hindered by the weight of equipment. When you use this variant, ignore the Strength column of the Armor table.
+Most ability checks involve using a skill, which represents a category of things creatures try to do with an ability check. The descriptions of the actions you take (see "Actions" later in "Playing the Game") specify which skill applies if you make an ability check for that action, and many other rules note when a skill is relevant. The GM has the ultimate say on whether a skill is relevant in a situation.
 
-If you carry weight in excess of 5 times your Strength score, you are **encumbered**, which means your speed drops by 10 feet.
+If a creature is proficient in a skill, the creature applies its Proficiency Bonus to ability checks involving that skill. Without proficiency in a skill, a creature can still make ability checks involving that skill but doesn't add its Proficiency Bonus. For example, if a character tries to climb a cliff, the GM might ask for a Strength (Athletics) check. If the character has Athletics proficiency, the character adds their Proficiency Bonus to the Strength check. If the character lacks that proficiency, they make the check without adding their Proficiency Bonus.
 
-If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead **heavily encumbered**, which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+### Skill List
 
-### Dexterity
+| Skill | Ability | Example Uses |
+|---|---|---|
+| Acrobatics | Dexterity | Stay on your feet in a tricky situation, or perform an acrobatic stunt. |
+| Animal Handling | Wisdom | Calm or train an animal, or get an animal to behave in a certain way. |
+| Arcana | Intelligence | Recall lore about spells, magic items, and the planes of existence. |
+| Athletics | Strength | Jump farther than normal, stay afloat in rough water, or break something. |
+| Deception | Charisma | Tell a convincing lie, or wear a disguise convincingly. |
+| History | Intelligence | Recall lore about historical events, people, nations, and cultures. |
+| Insight | Wisdom | Discern a person's mood and intentions. |
+| Intimidation | Charisma | Awe or threaten someone into doing what you want. |
+| Investigation | Intelligence | Find obscure information in books, or deduce how something works. |
+| Medicine | Wisdom | Diagnose an illness, or determine what killed the recently slain. |
+| Nature | Intelligence | Recall lore about terrain, plants, animals, and weather. |
+| Perception | Wisdom | Using a combination of senses, notice something that's easy to miss. |
+| Performance | Charisma | Act, tell a story, perform music, or dance. |
+| Persuasion | Charisma | Honestly and graciously convince someone of something. |
+| Religion | Intelligence | Recall lore about gods, religious rituals, and holy symbols. |
+| Sleight of Hand | Dexterity | Pick a pocket, conceal a handheld object, or perform legerdemain. |
+| Stealth | Dexterity | Escape notice by moving quietly and hiding behind things. |
+| Survival | Wisdom | Follow tracks, forage, find a trail, or avoid natural hazards. |
 
-Dexterity measures agility, reflexes, and balance.
+### Determining Skills
 
-#### Dexterity Checks
+A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in its stat block.
 
-A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
+## Saving Throw Proficiencies
 
-***Acrobatics***. Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The GM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
+Proficiency in a saving throw lets a character add their Proficiency Bonus to saves that use a particular ability. For example, proficiency in Wisdom saves lets you add your Proficiency Bonus to your Wisdom saves. Some monsters also have saving throw proficiencies, as noted in their stat blocks.
 
-***Sleight of Hand***. Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The GM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.
+Each class gives proficiency in at least two saving throws, representing that class's training in evading or resisting certain threats. Wizards, for example, are proficient in Intelligence and Wisdom saves; they train to resist mental assault.
 
-***Stealth***. Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+## Equipment Proficiencies
 
-***Other Dexterity Checks***. The GM might call for a Dexterity check when you try to accomplish tasks like the following:
+A character gains proficiency with various weapons and tools from their class and background. There are two categories of equipment proficiency:
 
-- Control a heavily laden cart on a steep descent
-- Steer a chariot around a tight turn
-- Pick a lock
-- Disable a trap
-- Securely tie up a prisoner
-- Wriggle free of bonds
-- Play a stringed instrument
-- Craft a small or detailed object
+- **Weapons.** Anyone can wield a weapon, but proficiency makes you better at wielding it. If you have proficiency with a weapon, you add your Proficiency Bonus to attack rolls you make with it.
+- **Tools.** If you have proficiency with a tool, you can add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in the skill that's also used with that check, you have Advantage on the check too. This means you can benefit from both skill proficiency and tool proficiency on the same ability check.
 
-#### Attack Rolls and Damage
+# Heroic Inspiration
 
-You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
+Sometimes the GM or a rule gives you Heroic Inspiration. If you have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
 
-#### Armor Class
+**Only One at a Time.** You can never have more than one instance of Heroic Inspiration. If something gives you Heroic Inspiration and you already have it, you can give it to a player character in your group who lacks it.
 
-Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class.
+**Gaining Heroic Inspiration.** Your GM can give you Heroic Inspiration for a variety of reasons. Typically, GMs award it when you do something particularly heroic, in character, or entertaining. It's a reward for making the game more fun for everyone playing.
 
-#### Initiative
-
-At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat.
-
-> **Hiding**
->
->The GM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
->
->You can't hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
->
->An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
->
->In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
->
->***Passive Perception***. When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the GM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
->
->***What Can You See?*** One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in the "Adventuring" section.
-
-### Constitution
-
-Constitution measures health, stamina, and vital force.
-
-#### Constitution Checks
-
-Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however.
-
-The GM might call for a Constitution check when you try to accomplish tasks like the following:
-
-- Hold your breath
-- March or labor for hours without rest
-- Go without sleep
-- Survive without food or water
-- Quaff an entire stein of ale in one go
-
-#### Hit Points
-
-Your Constitution modifier contributes to your hit points. Typically, you add your Constitution modifier to each Hit Die you roll for your hit points.
-
-If your Constitution modifier changes, your hit point maximum changes as well, as though you had the new modifier from 1st level. For example, if you raise your Constitution score when you reach 4th level and your Constitution modifier increases from +1 to +2, you adjust your hit point maximum as though the modifier had always been +2. So you add 3 hit points for your first three levels, and then roll your hit points for 4th level using your new modifier. Or if you're 7th level and some effect lowers your Constitution score so as to reduce your Constitution modifier by 1, your hit point maximum is reduced by 7.
-
-### Intelligence
-
-Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
-
-#### Intelligence Checks
-
-An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.
-
-***Arcana***. Your Intelligence (Arcana) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.
-
-***History***. Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
-
-***Investigation***. When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check.
-
-***Nature***. Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.
-
-***Religion***. Your Intelligence (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.
-
-***Other Intelligence Checks***. The GM might call for an Intelligence check when you try to accomplish tasks like the following:
-
-- Communicate with a creature without using words
-- Estimate the value of a precious item
-- Pull together a disguise to pass as a city guard
-- Forge a document
-- Recall lore about a craft or trade
-- Win a game of skill
-
-#### Spellcasting Ability
-
-Wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
-
-### Wisdom
-
-Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.
-
-#### Wisdom Checks
-
-A Wisdom check might reflect an effort to read body language, understand someone's feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Wisdom checks.
-
-***Animal Handling***. When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal's intentions, the GM might call for a Wisdom (Animal Handling) check. You also make a Wisdom (Animal Handling) check to control your mount when you attempt a risky maneuver.
-
-***Insight***. Your Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone's next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms.
-
-***Medicine***. A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.
-
-***Perception***. Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.
-
-***Survival***. The GM might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
-
-***Other Wisdom Checks***. The GM might call for a Wisdom check when you try to accomplish tasks like the following:
-
-- Get a gut feeling about what course of action to follow
-- Discern whether a seemingly dead or living creature is undead
-
-#### Spellcasting Ability
-
-Clerics, druids, and rangers use Wisdom as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
-
-### Charisma
-
-Charisma measures your ability to interact effectively with others. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality.
-
-#### Charisma Checks
-
-A Charisma check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation. The Deception, Intimidation, Performance, and Persuasion skills reflect aptitude in certain kinds of Charisma checks.
-
-***Deception***. Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone's suspicions with false assurances, or maintain a straight face while telling a blatant lie.
-
-***Intimidation***. When you attempt to influence someone through overt threats, hostile actions, and physical violence, the GM might ask you to make a Charisma (Intimidation) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
-
-***Performance***. Your Charisma (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
-
-***Persuasion***. When you attempt to influence someone or a group of people with tact, social graces, or good nature, the GM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
-
-***Other Charisma Checks***. The GM might call for a Charisma check when you try to accomplish tasks like the following:
-
-- Find the best person to talk to for news, rumors, and gossip
-- Blend into a crowd to get the sense of key topics of conversation
-
-#### Spellcasting Ability
-
-Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
-
-# Saving Throws
-
-A saving throw-also called a save-represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don't normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
-
-To make a saving throw, roll a d20 and add the appropriate ability modifier. For example, you use your Dexterity modifier for a Dexterity saving throw.
-
-A saving throw can be modified by a situational bonus or penalty and can be affected by advantage and disadvantage, as determined by the GM.
-
-Each class gives proficiency in at least two saving throws. The wizard, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
-
-The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a spell is determined by the caster's spellcasting ability and proficiency bonus.
-
-The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
+Other rules might allow your character to gain Heroic Inspiration independent of the GM's decision. For example, Human characters start each day with Heroic Inspiration.
