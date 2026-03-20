@@ -1,13 +1,13 @@
 ### Darkvision
 
-*2nd-level transmutation*
+*Level 2 Transmutation* (Druid, Ranger, Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S, M (either a pinch of dried carrot or an agate)
+**Components:** V, S, M (a dried carrot)
 
 **Duration:** 8 hours
 
-You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.
+For the duration, a willing creature you touch has Darkvision with a range of 150 feet.

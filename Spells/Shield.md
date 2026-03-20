@@ -1,8 +1,8 @@
 ### Shield
 
-*1st-level abjuration*
+*Level 1 Abjuration* (Sorcerer, Wizard)
 
-**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the *magic missile* spell
+**Casting Time:** Reaction, which you take when you are
 
 **Range:** Self
 
@@ -10,4 +10,4 @@
 
 **Duration:** 1 round
 
-An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from *magic missile*.
+An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.

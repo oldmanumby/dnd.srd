@@ -1,19 +1,15 @@
 ### Giant Insect
 
-*4th-level transmutation*
+*Level 4 Conjuration* (Druid)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
-**Range:** 30 feet
+**Range:** 60 feet
 
 **Components:** V, S
 
 **Duration:** Concentration, up to 10 minutes
 
-You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a giant centipede, a spider becomes a giant spider, a wasp becomes a giant wasp, and a scorpion becomes a giant scorpion.
+You summon a giant centipede, spider, or wasp (chosen when you cast the spell). It manifests in an unoccupied space you can see within range and uses the Giant Insect stat block. The form you choose determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends. The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its movement to avoid danger.
 
-Each creature obeys your verbal commands, and in combat, they act on your turn each round. The GM has the statistics for these creatures and resolves their actions and movement.
-
-A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an action to dismiss the effect on it.
-
-The GM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp.
+***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.

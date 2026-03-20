@@ -1,8 +1,8 @@
 ### Harm
 
-*6th-level necromancy*
+*Level 6 Necromancy* (Cleric)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -10,4 +10,4 @@
 
 **Duration:** Instantaneous
 
-You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes.
+You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6 Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can’t reduce a target’s Hit Point maximum below 1.

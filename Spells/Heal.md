@@ -1,8 +1,8 @@
 ### Heal
 
-*6th-level evocation*
+*Level 6 Abjuration* (Cleric, Druid)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -10,6 +10,6 @@
 
 **Duration:** Instantaneous
 
-Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.
+Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 Hit Points. This spell also ends the Blinded, Deafened, and Poisoned conditions on the target.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
+***Using a Higher-Level Spell Slot.*** The healing increases by 10 for each spell slot level above 6.

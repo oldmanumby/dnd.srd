@@ -1,8 +1,8 @@
 ### Speak with Animals
 
-*1st-level divination (ritual)*
+*Level 1 Divination* (Bard, Druid, Ranger, Warlock)
 
-**Casting Time:** 1 action
+**Casting Time:** Action or Ritual
 
 **Range:** Self
 
@@ -10,4 +10,4 @@
 
 **Duration:** 10 minutes
 
-You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the GM's discretion.
+For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action’s skill options with them. Most Beasts have little to say about topics that don’t pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.

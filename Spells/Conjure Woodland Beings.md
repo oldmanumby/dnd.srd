@@ -1,26 +1,15 @@
 ### Conjure Woodland Beings
 
-*4th-level conjuration*
+*Level 4 Conjuration* (Druid, Ranger)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
-**Range:** 60 feet
+**Range:** Self
 
-**Components:** V, S, M (one holly berry per creature summoned)
+**Components:** V, S
 
-**Duration:** Concentration, up to 1 hour
+**Duration:** Concentration, up to 10 minutes
 
-You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
+You conjure nature spirits that flit around you in a 10-foot Emanation for the duration. Whenever the Emanation enters the space of a creature you can see and whenever a creature you can see enters the Emanation or ends its turn there, you can force that creature to make a Wisdom saving throw. The creature takes 5d8 Force damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn. In addition, you can take the Disengage action as a Bonus Action for the spell’s duration.
 
-- One fey creature of challenge rating 2 or lower
-- Two fey creatures of challenge rating 1 or lower
-- Four fey creatures of challenge rating 1/2 or lower
-- Eight fey creatures of challenge rating 1/4 or lower
-
-A summoned creature disappears when it drops to 0 hit points or when the spell ends.
-
-The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
-
-The GM has the creatures' statistics.
-
-***At Higher Levels***. When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.

@@ -1,15 +1,15 @@
 ### Bless
 
-*1st-level enchantment*
+*Level 1 Enchantment* (Cleric, Paladin)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
-**Components:** V, S, M (a sprinkling of holy water)
+**Components:** V, S, M (a Holy Symbol worth 5+ GP)
 
 **Duration:** Concentration, up to 1 minute
 
-You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
+You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.

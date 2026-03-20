@@ -1,15 +1,15 @@
 ### False Life
 
-*1st-level necromancy*
+*Level 1 Necromancy* (Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
-**Components:** V, S, M (a small amount of alcohol or distilled spirits)
+**Components:** V, S, M (a drop of alcohol)
 
-**Duration:** 1 hour
+**Duration:** Instantaneous
 
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
+You gain 2d4 + 4 Temporary Hit Points.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** You gain 5 additional Temporary Hit Points for each spell slot level above 1.

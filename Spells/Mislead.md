@@ -1,8 +1,8 @@
 ### Mislead
 
-*5th-level illusion*
+*Level 5 Illusion* (Bard, Warlock, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -10,8 +10,4 @@
 
 **Duration:** Concentration, up to 1 hour
 
-You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.
-
-You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.
-
-You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
+You gain the Invisible condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell. As a Magic action, you can move the illusory double up to twice your Speed and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable. You can see through its eyes and hear through its ears as if you were located where it is.

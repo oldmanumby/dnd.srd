@@ -1,13 +1,13 @@
 ### See Invisibility
 
-*2nd-level divination*
+*Level 2 Divination* (Bard, Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
-**Components:** V, S, M (a pinch of talc and a small sprinkling of powdered silver)
+**Components:** V, S, M (a pinch of talc)
 
 **Duration:** 1 hour
 
-For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+For the duration, you see creatures and objects that have the Invisible condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.

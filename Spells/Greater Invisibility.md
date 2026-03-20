@@ -1,8 +1,8 @@
 ### Greater Invisibility
 
-*4th-level illusion*
+*Level 4 Illusion* (Bard, Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -10,4 +10,4 @@
 
 **Duration:** Concentration, up to 1 minute
 
-You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person.
+A creature you touch has the Invisible condition until the spell ends.

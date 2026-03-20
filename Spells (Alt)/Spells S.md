@@ -1,10 +1,8 @@
-# Spells (S)
+### Sacred Flame
 
-#### Sacred Flame
+*Evocation Cantrip* (Cleric)
 
-*Evocation cantrip*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -12,31 +10,29 @@
 
 **Duration:** Instantaneous
 
-Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 Radiant damage. The target gains no benefit from Half Cover or Three-Quarters Cover for this save.
 
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-#### Sanctuary
+### Sanctuary
 
-*1st-level abjuration*
+*Level 1 Abjuration* (Cleric)
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 30 feet
 
-**Components:** V, S, M (a small silver mirror)
+**Components:** V, S, M (a shard of glass from a mirror)
 
 **Duration:** 1 minute
 
-You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a fireball.
+You ward a creature within range. Until the spell ends, any creature who targets the warded creature with an attack roll or a damaging spell must succeed on a Wisdom saving throw or either choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from areas of effect. The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
 
-If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
+### Scorching Ray
 
-#### Scorching Ray
+*Level 2 Evocation* (Sorcerer, Wizard)
 
-*2nd-level evocation*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -44,82 +40,71 @@ If the warded creature makes an attack, casts a spell that affects an enemy, or 
 
 **Duration:** Instantaneous
 
-You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.
+You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 Fire damage.
 
-Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
+***Using a Higher-Level Spell Slot.*** You create one additional ray for each spell slot level above 2.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
+### Scrying
 
-#### Scrying
-
-*5th-level divination*
+*Level 5 Divination* (Bard, Cleric, Druid, Warlock, Wizard)
 
 **Casting Time:** 10 minutes
 
 **Range:** Self
 
-**Components:** V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)
+**Components:** V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font)
 
 **Duration:** Concentration, up to 10 minutes
 
-You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
+You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn’t know what it is making the save against, only that it feels uneasy. Your Knowledge of the Target Is … Save Modifier Secondhand (heard of the target) +5 Firsthand (met the target) +0 Extensive (know the target well) −5 You Have the Target’s … Save Modifier Picture or other likeness −2 Garment or other possession −4 Body part, lock of hair, or bit of nail −10 On a successful save, the target isn’t affected, and you can’t use this spell on it again for 24 hours. On a failed save, the spell creates an Invisible, intangible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. If something can see the sensor, it appears as a luminous orb about the size of your fist. Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn’t move.
 
-**Table- Scrying Save Modifier**
+### Searing Smite
 
-| Knowledge                                         | Save Modifier |
-|---------------------------------------------------|---------------|
-| Secondhand (you have heard of the target)         | +5            |
-| Firsthand (you have met the target)               | +0            |
-| Familiar (you know the target well)               | -5            |
-| Connection                                        | Save Modifier |
-| Likeness or picture                               | -2            |
-| Possession or garment                             | -4            |
-| Body part, lock of hair, bit of nail, or the like | -10           |
-|                                                   |               |
+*Level 1 Evocation* (Paladin)
 
-On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.
-
-On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist.
-
-Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.
-
-#### Secret Chest
-
-*4th-level conjuration*
-
-**Casting Time:** 1 action
-
-**Range:** Touch
-
-**Components:** V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)
-
-**Duration:** Instantaneous
-
-You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
-
-While the chest remains on the Ethereal Plane, you can use an action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an action and touching both the chest and the replica.
-
-After 60 days, there is a cumulative 5 percent chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
-
-#### See Invisibility
-
-*2nd-level divination*
-
-**Casting Time:** 1 action
+**Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an
 
 **Range:** Self
 
-**Components:** V, S, M (a pinch of talc and a small sprinkling of powdered silver)
+**Duration:** 1 minute
+
+As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a Constitution saving throw. On a failed save, the spell continues. On a successful save, the spell ends.
+
+***Using a Higher-Level Spell Slot.*** All the damage increases by 1d6 for each spell slot level above 1.
+
+### Secret Chest
+
+*Level 4 Conjuration* (Wizard)
+
+**Casting Time:** Action
+
+**Range:** Touch
+
+**Components:** V, S, M (a chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth 5,000+ GP, and a Tiny replica of the chest made from the same materials worth 50+ GP)
+
+**Duration:** Until dispelled
+
+You hide a chest and all its contents on the Ethereal Plane. You must touch the chest and the miniature replica that serve as Material components for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet). While the chest remains on the Ethereal Plane, you can take a Magic action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by taking a Magic action to touch the chest and the replica. After 60 days, there is a cumulative 5 percent chance at the end of each day that the spell ends. The spell also ends if you cast this spell again or if the Tiny replica chest is destroyed. If the spell ends and the larger chest is on the Ethereal Plane, the chest remains there for you or someone else to find.
+
+### See Invisibility
+
+*Level 2 Divination* (Bard, Sorcerer, Wizard)
+
+**Casting Time:** Action
+
+**Range:** Self
+
+**Components:** V, S, M (a pinch of talc)
 
 **Duration:** 1 hour
 
-For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+For the duration, you see creatures and objects that have the Invisible condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
 
-#### Seeming
+### Seeming
 
-*5th-level illusion*
+*Level 5 Illusion* (Bard, Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -127,77 +112,55 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 **Duration:** 8 hours
 
-This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.
+You give an illusory appearance to each creature of your choice that you can see within range. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell. You can give the same appearance or different ones to the targets. The spell can change the appearance of the targets’ bodies and equipment. You can make each creature seem 1 foot shorter or taller and appear heavier or lighter. A target’s new appearance must have the same basic arrangement of limbs as the target, but the extent of the illusion is otherwise up to you. The spell lasts for the duration. The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature’s outfit, objects pass through the hat. A creature that takes the Study action to examine a target can make an Intelligence (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-The spell disguises physical appearance as well as clothing, armor, weapons, and equipment. You can make each creature seem 1 foot shorter or taller and appear thin, fat, or in between. You can't change a target's body type, so you must choose a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The spell lasts for the duration, unless you use your action to dismiss it sooner.
+### Sending
 
-The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel the creature's head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
+*Level 3 Divination* (Bard, Cleric, Wizard)
 
-A creature can use its action to inspect a target and make an Intelligence (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
-
-#### Sending
-
-*3rd-level evocation*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Unlimited
 
-**Components:** V, S, M (a short piece of fine copper wire)
+**Components:** V, S, M (a copper wire)
 
-**Duration:** 1 round
+**Duration:** Instantaneous
 
-You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.
+You send a short message of 25 words or fewer to a creature you have met or a creature described to you by someone who has met it. The target hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables targets to understand the meaning of your message. You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn’t arrive. You know if the delivery fails. Upon receiving your message, a creature can block your ability to reach it again with this spell for 8 hours. If you try to send another message during that time, you learn that you are blocked, and the spell fails.
 
-You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive.
+### Sequester
 
-#### Sequester
+*Level 7 Transmutation* (Wizard)
 
-*7th-level transmutation*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)
+**Components:** V, S, M (gem dust worth 5,000+ GP, which the spell consumes)
 
 **Duration:** Until dispelled
 
-By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can't be targeted by divination spells or perceived through scrying sensors created by divination spells.
+With a touch, you magically sequester an object or a willing creature. For the duration, the target has the Invisible condition and can’t be targeted by Divination spells, detected by magic, or viewed remotely with magic. If the target is a creature, it enters a state of suspended animation; it has the Unconscious condition, doesn’t age, and doesn’t need food, water, or air. You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include “after 1,000 years” or “when the tarrasque awakens.” This spell also ends if the target takes any damage.
 
-If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn't grow older.
+### Shapechange
 
-You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include "after 1,000 years" or "when the tarrasque awakens." This spell also ends if the target takes any damage.
+*Level 9 Transmutation* (Druid, Wizard)
 
-#### Shapechange
-
-*9th-level transmutation*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
-**Components:** V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
+**Components:** V, S, M (a jade circlet worth 1,500+ GP)
 
 **Duration:** Concentration, up to 1 hour
 
-You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can't be a construct or an undead, and you must have seen the sort of creature at least once. You transform into an average example of that creature, one without any class levels or the Spellcasting trait.
+You shape-shift into another creature for the duration or until you take a Magic action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can’t be a Construct or an Undead. When you cast the spell, you gain a number of Temporary Hit Points equal to the Hit Points of the first form into which you shape-shift. These Temporary Hit Points vanish if any remain when the spell ends. Your game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; Intelligence, Wisdom, and Charisma scores; Hit Points; Hit Point Dice; proficiencies; and ability to communicate. If you have the Spellcasting feature, you retain it too. Upon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you’re in it.
 
-Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus listed in its statistics is higher than yours, use the creature's bonus in place of yours. You can't use any legendary actions or lair actions of the new form.
+### Shatter
 
-You assume the hit points and Hit Dice of the new form. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
+*Level 2 Evocation* (Bard, Sorcerer, Wizard)
 
-You retain the benefit of any features from your class, race, or other source and can use them, provided that your new form is physically capable of doing so. You can't use any special senses you have (for example, darkvision) unless your new form also has that sense. You can only speak if the creature can normally speak.
-
-When you transform, you choose whether your equipment falls to the ground, merges into the new form, or is worn by it. Worn equipment functions as normal. The GM determines whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change shape or size to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge into your new form. Equipment that merges has no effect in that state.
-
-During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
-
-#### Shatter
-
-*2nd-level evocation*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -205,17 +168,15 @@ During this spell's duration, you can use your action to assume a different form
 
 **Duration:** Instantaneous
 
-A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
+A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw, taking 3d8 Thunder damage on a failed save or half as much damage on a successful one. A Construct has Disadvantage on the save. A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
 
-A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+### Shield
 
-#### Shield
+*Level 1 Abjuration* (Sorcerer, Wizard)
 
-*1st-level abjuration*
-
-**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the *magic missile* spell
+**Casting Time:** Reaction, which you take when you are
 
 **Range:** Self
 
@@ -223,41 +184,57 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 **Duration:** 1 round
 
-An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from *magic missile*.
+An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
 
-#### Shield of Faith
+### Shield of Faith
 
-*1st-level abjuration*
+*Level 1 Abjuration* (Cleric, Paladin)
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 60 feet
 
-**Components:** V, S, M (a small parchment with a bit of holy text written on it)
+**Components:** V, S, M (a prayer scroll)
 
 **Duration:** Concentration, up to 10 minutes
 
-A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
+A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-#### Shillelagh
+### Shillelagh
 
-*Transmutation cantrip*
+*Transmutation Cantrip* (Druid)
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
-**Range:** Touch
+**Range:** Self
 
-**Components:** V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)
+**Components:** V, S, M (mistletoe)
 
 **Duration:** 1 minute
 
-The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon.
+A Club or Quarterstaff you are holding is imbued with nature’s power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon’s normal damage type (your choice). The spell ends early if you cast it again or if you let go of the weapon.
 
-#### Shocking Grasp
+***Cantrip Upgrade.*** The damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
 
-*Evocation cantrip*
+### Shining Smite
 
-**Casting Time:** 1 action
+*Level 2 Transmutation* (Paladin)
+
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or
+
+**Range:** Self
+
+**Duration:** Concentration, up to 1 minute
+
+The target hit by the strike takes an extra 2d6 Radiant damage from the attack. Until the spell ends, the target sheds Bright Light in a 5-foot radius, attack rolls against it have Advantage, and it can’t benefit from the Invisible condition.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
+
+### Shocking Grasp
+
+*Evocation Cantrip* (Sorcerer, Wizard)
+
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -265,15 +242,15 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 
 **Duration:** Instantaneous
 
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take reactions until the start of its next turn.
+Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can’t make Opportunity Attacks until the start of its next turn.
 
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-#### Silence
+### Silence
 
-*2nd-level illusion (ritual)*
+*Level 2 Illusion* (Bard, Cleric, Ranger)
 
-**Casting Time:** 1 action
+**Casting Time:** Action or Ritual
 
 **Range:** 120 feet
 
@@ -281,13 +258,13 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, no sound can be created within or pass through a 20-foot radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+For the duration, no sound can be created within or pass through a 20-foot-radius Sphere centered on a point you choose within range. Any creature or object entirely inside the Sphere has Immunity to Thunder damage, and creatures have the Deafened condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
-#### Silent Image
+### Silent Image
 
-*1st-level illusion*
+*Level 1 Illusion* (Bard, Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -295,75 +272,55 @@ For the duration, no sound can be created within or pass through a 20-foot radiu
 
 **Duration:** Concentration, up to 10 minutes
 
-You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
+You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot Cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects. As a Magic action, you can cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Physical interaction with the image reveals it to be an illusion, since things can pass through it. A creature that takes a Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
-You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
+### Simulacrum
 
-Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
-
-#### Simulacrum
-
-*7th-level illusion*
+*Level 7 Illusion* (Wizard)
 
 **Casting Time:** 12 hours
 
 **Range:** Touch
 
-**Components:** V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)
+**Components:** V, S, M (powdered ruby worth 1,500+ GP, which the spell consumes)
 
 **Duration:** Until dispelled
 
-You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but it has half the creature's hit point maximum and is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates, except that it is a construct.
+You create a simulacrum of one Beast or Humanoid that is within 10 feet of you for the entire casting of the spell. You finish the casting by touching both the creature and a pile of ice or snow that is the same size as that creature, and the pile turns into the simulacrum, which is a creature. It uses the game statistics of the original creature at the time of casting, except it is a Construct, its Hit Point maximum is half as much, and it can’t cast this spell. The simulacrum is Friendly to you and creatures you designate. It obeys your commands and acts on your turn in combat. The simulacrum can’t gain levels, and it can’t take Short or Long Rests. If the simulacrum takes damage, the only way to restore its Hit Points is to repair it as you take a Long Rest, during which you expend components worth 100 GP per Hit Point restored. The simulacrum must stay within 5 feet of you for the repair. The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts away. If you cast this spell again, any simulacrum you created with this spell is instantly destroyed.
 
-The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended spell slots.
+### Sleep
 
-If the simulacrum is damaged, you can repair it in an alchemical laboratory, using rare herbs and minerals worth 100 gp per hit point it regains. The simulacrum lasts until it drops to 0 hit points, at which point it reverts to snow and melts instantly.
+*Level 1 Enchantment* (Bard, Sorcerer, Wizard)
 
-If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.
+**Casting Time:** Action
 
-#### Sleep
+**Range:** 60 feet
 
-*1st-level enchantment*
-
-**Casting Time:** 1 action
-
-**Range:** 90 feet
-
-**Components:** V, S, M (a pinch of fine sand, rose petals, or a cricket)
-
-**Duration:** 1 minute
-
-This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).
-
-Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
-
-Undead and creatures immune to being charmed aren't affected by this spell.
-
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
-
-#### Sleet Storm
-
-*3rd-level conjuration*
-
-**Casting Time:** 1 action
-
-**Range:** 150 feet
-
-**Components:** V, S, M (a pinch of dust and a few drops of water)
+**Components:** V, S, M (a pinch of sand or rose petals)
 
 **Duration:** Concentration, up to 1 minute
 
-Until the spell ends, freezing rain and sleet fall in a 20-foot tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.
+Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell’s effect. Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.
 
-The ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell's area for the first time on a turn or starts its turn there, it must make a Dexterity saving throw. On a failed save, it falls prone.
+### Sleet Storm
 
-If a creature starts its turn in the spell's area and is concentrating on a spell, the creature must make a successful Constitution saving throw against your spell save DC or lose concentration.
+*Level 3 Conjuration* (Druid, Sorcerer, Wizard)
 
-#### Slow
+**Casting Time:** Action
 
-*3rd-level transmutation*
+**Range:** 150 feet
 
-**Casting Time:** 1 action
+**Components:** V, S, M (a miniature umbrella)
+
+**Duration:** Concentration, up to 1 minute
+
+Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius Cylinder centered on a point you choose within range. The area is Heavily Obscured, and exposed flames in the area are doused. Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder for the first time on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the Prone condition and lose Concentration.
+
+### Slow
+
+*Level 3 Transmutation* (Bard, Sorcerer, Wizard)
+
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -371,33 +328,43 @@ If a creature starts its turn in the spell's area and is concentrating on a spel
 
 **Duration:** Concentration, up to 1 minute
 
-You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
+You alter time around up to six creatures of your choice in a 40-foot Cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration. An affected target’s Speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can’t take Reactions. On its turns, it can take either an action or a Bonus Action, not both, and it can make only one attack if it takes the Attack action. If it casts a spell with a Somatic component, there is a 25 percent chance the spell fails as a result of the target making the spell’s gestures too slowly. An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 
-An affected target's speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
+### Sorcerous Burst
 
-If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted.
+*Evocation Cantrip* (Sorcerer)
 
-A creature affected by this spell makes another Wisdom saving throw at the end of each of its turns. On a successful save, the effect ends for it.
+**Casting Time:** Action
 
-#### Spare the Dying
+**Range:** 120 feet
 
-*Necromancy cantrip*
+**Duration:** Instantaneous
 
-**Casting Time:** 1 action
+You cast sorcerous energy at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 damage of a type you choose: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder. If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to the damage. When you cast this spell, the maximum number of these d8s you can add to the spell’s damage equals your spellcasting ability modifier.
 
-**Range:** Touch
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+
+### Spare the Dying
+
+*Necromancy Cantrip* (Cleric, Druid)
+
+**Casting Time:** Action
+
+**Range:** 15 feet
 
 **Components:** V, S
 
 **Duration:** Instantaneous
 
-You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+Choose a creature within range that has 0 Hit Points and isn’t dead. The creature becomes Stable.
 
-#### Speak with Animals
+***Cantrip Upgrade.*** The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
 
-*1st-level divination (ritual)*
+### Speak with Animals
 
-**Casting Time:** 1 action
+*Level 1 Divination* (Bard, Druid, Ranger, Warlock)
+
+**Casting Time:** Action or Ritual
 
 **Range:** Self
 
@@ -405,13 +372,13 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 **Duration:** 10 minutes
 
-You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the GM's discretion.
+For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action’s skill options with them. Most Beasts have little to say about topics that don’t pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
 
-#### Speak with Dead
+### Speak with Dead
 
-*3rd-level necromancy*
+*Level 3 Necromancy* (Bard, Cleric, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 10 feet
 
@@ -419,37 +386,27 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 **Duration:** 10 minutes
 
-You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be undead. The spell fails if the corpse was the target of this spell within the last 10 days.
+You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days. Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn’t return the creature’s soul to its body, only its animating spirit. Thus, the corpse can’t learn new information, doesn’t comprehend anything that has happened since it died, and can’t speculate about future events.
 
-Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
+### Speak with Plants
 
-#### Speak with Plants
+*Level 3 Transmutation* (Bard, Druid, Ranger)
 
-*3rd-level transmutation*
+**Casting Time:** Action
 
-**Casting Time:** 1 action
-
-**Range:** Self (30-foot radius)
+**Range:** Self
 
 **Components:** V, S
 
 **Duration:** 10 minutes
 
-You imbue plants within 30 feet of you with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
+You imbue plants in an immobile 30-foot Emanation with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell’s area within the past day, gaining information about creatures that have passed, weather, and other circumstances. You can also turn Difficult Terrain caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into Difficult Terrain that lasts for the duration. The spell doesn’t enable plants to uproot themselves and move about, but they can move their branches, tendrils, and stalks for you. If a Plant creature is in the area, you can communicate with it as if you shared a common language.
 
-You can also turn difficult terrain caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into difficult terrain that lasts for the duration, causing vines and branches to hinder pursuers, for example.
+### Spider Climb
 
-Plants might be able to perform other tasks on your behalf, at the GM's discretion. The spell doesn't enable plants to uproot themselves and move about, but they can freely move branches, tendrils, and stalks.
+*Level 2 Transmutation* (Sorcerer, Warlock, Wizard)
 
-If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.
-
-This spell can cause the plants created by the *entangle* spell to release a restrained creature.
-
-#### Spider Climb
-
-*2nd-level transmutation*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -457,222 +414,196 @@ This spell can cause the plants created by the *entangle* spell to release a res
 
 **Duration:** Concentration, up to 1 hour
 
-Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
+Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and along ceilings, while leaving its hands free. The target also gains a Climb Speed equal to its Speed.
 
-#### Spike Growth
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 2.
 
-*2nd-level transmutation*
+### Spike Growth
 
-**Casting Time:** 1 action
+*Level 2 Transmutation* (Druid, Ranger)
+
+**Casting Time:** Action
 
 **Range:** 150 feet
 
-**Components:** V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)
+**Components:** V, S, M (seven thorns)
 
 **Duration:** Concentration, up to 10 minutes
 
-The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.
+The ground in a 20-foot-radius Sphere centered on a point within range sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature moves into or within the area, it takes 2d4 Piercing damage for every 5 feet it travels. The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area when the spell is cast must take a Search action and succeed on a Wisdom (Perception or Survival) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
+### Spirit Guardians
 
-#### Spirit Guardians
+*Level 3 Conjuration* (Cleric)
 
-*3rd-level conjuration*
+**Casting Time:** Action
 
-**Casting Time:** 1 action
+**Range:** Self
 
-**Range:** Self (15-foot radius)
-
-**Components:** V, S, M (a holy symbol)
+**Components:** V, S, M (a prayer scroll)
 
 **Duration:** Concentration, up to 10 minutes
 
-You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.
+Protective spirits flit around you in a 15-foot Emanation for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish. When you cast this spell, you can designate creatures to be unaffected by it. Any other creature’s Speed is halved in the Emanation, and whenever the Emanation enters a creature’s space and whenever a creature enters the Emanation or ends its turn there, the creature must make a Wisdom saving throw. On a failed save, the creature takes 3d8 Radiant damage (if you are good or neutral) or 3d8 Necrotic damage (if you are evil). On a successful save, the creature takes half as much damage. A creature makes this save only once per turn.
 
-When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 3.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
+### Spiritual Weapon
 
-#### Spiritual Weapon
+*Level 2 Evocation* (Cleric)
 
-*2nd-level evocation*
-
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 60 feet
 
 **Components:** V, S
 
-**Duration:** 1 minute
-
-You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.
-
-As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.
-
-The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell's effect resemble that weapon.
-
-***At Higher Levels***. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
-
-#### Stinking Cloud
-
-*3rd-level conjuration*
-
-**Casting Time:** 1 action
-
-**Range:** 90 feet
-
-**Components:** V, S, M (a rotten egg or several skunk cabbage leaves)
-
 **Duration:** Concentration, up to 1 minute
 
-You create a 20-foot radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration.
+You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration. The force appears within range in a space of your choice, and you can immediately make one melee spell attack against one creature within 5 feet of the force. On a hit, the target takes Force damage equal to 1d8 plus your spellcasting ability modifier. As a Bonus Action on your later turns, you can move the force up to 20 feet and repeat the attack against a creature within 5 feet of it.
 
-Each creature that is completely within the cloud at the start of its turn must make a Constitution saving throw against poison. On a failed save, the creature spends its action that turn retching and reeling. Creatures that don't need to breathe or are immune to poison automatically succeed on this saving throw.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for every slot level above 2.
 
-A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds. A strong wind (at least 20 miles per hour) disperses it after 1 round.
+### Starry Wisp
 
-#### Stone Shape
+*Evocation Cantrip* (Bard, Druid)
 
-*4th-level transmutation*
+**Casting Time:** Action
 
-**Casting Time:** 1 action
+**Range:** 60 feet
 
-**Range:** Touch
-
-**Components:** V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)
+**Components:** V, S
 
 **Duration:** Instantaneous
 
-You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible.
+You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Radiant damage, and until the end of your next turn, it emits Dim Light in a 10-foot radius and can’t benefit from the Invisible condition.
 
-#### Stoneskin
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-*4th-level abjuration*
+### Stinking Cloud
 
-**Casting Time:** 1 action
+*Level 3 Conjuration* (Bard, Sorcerer, Wizard)
+
+**Casting Time:** Action
+
+**Range:** 90 feet
+
+**Components:** V, S, M (a rotten egg)
+
+**Duration:** Concentration, up to 1 minute
+
+You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by Gust of Wind) disperses it. Each creature that starts its turn in the Sphere must succeed on a Constitution saving throw or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can’t take an action or a Bonus Action.
+
+### Stone Shape
+
+*Level 4 Transmutation* (Cleric, Druid, Wizard)
+
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S, M (diamond dust worth 100 gp, which the spell consumes)
+**Components:** V, S, M (soft clay)
+
+**Duration:** Instantaneous
+
+You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape you like. For example, you could shape a large rock into a weapon, statue, or coffer, or you could make a small passage through a wall that is 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn’t possible.
+
+### Stoneskin
+
+*Level 4 Transmutation* (Druid, Ranger, Sorcerer, Wizard)
+
+**Casting Time:** Action
+
+**Range:** Touch
+
+**Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
 
 **Duration:** Concentration, up to 1 hour
 
-This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
+Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
 
-#### Storm of Vengeance
+### Storm of Vengeance
 
-*9th-level conjuration*
+*Level 9 Conjuration* (Druid)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
-**Range:** Sight
+**Range:** 1 mile
 
 **Components:** V, S
 
 **Duration:** Concentration, up to 1 minute
 
-A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 5 minutes.
+A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take 2d6 Thunder damage and have the Deafened condition for the duration. At the start of each of your later turns, the storm produces different effects, as detailed below. Turn 2. Acidic rain falls. Each creature and object under the cloud takes 4d6 Acid damage. Turn 3. You call six bolts of lightning from the cloud to strike six different creatures or objects beneath it. Each target makes a Dexterity saving throw, taking 10d6 Lightning damage on a failed save or half as much damage on a successful one. Turn 4. Hailstones rain down. Each creature under the cloud takes 2d6 Bludgeoning damage. Turns 5–10. Gusts and freezing rain assail the area under the cloud. Each creature there takes 1d6 Cold damage. Until the spell ends, the area is Difficult Terrain and Heavily Obscured, ranged attacks with weapons are impossible there, and strong wind blows through the area.
 
-Each round you maintain concentration on this spell, the storm produces different effects on your turn.
+### Suggestion
 
-***Round 2***. Acidic rain falls from the cloud. Each creature and object under the cloud takes 1d6 acid damage.
+*Level 2 Enchantment* (Bard, Sorcerer, Warlock, Wizard)
 
-***Round 3***. You call six bolts of lightning from the cloud to strike six creatures or objects of your choice beneath the cloud. A given creature or object can't be struck by more than one bolt. A struck creature must make a Dexterity saving throw. The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one.
-
-***Round 4***. Hailstones rain down from the cloud. Each creature under the cloud takes 2d6 bludgeoning damage.
-
-***Round 5-10***. Gusts and freezing rain assail the area under the cloud. The area becomes difficult terrain and is heavily obscured. Each creature there takes 1d6 cold damage. Ranged weapon attacks in the area are impossible. The wind and rain count as a severe distraction for the purposes of maintaining concentration on spells. Finally, gusts of strong wind (ranging from 20 to 50 miles per hour) automatically disperse fog, mists, and similar phenomena in the area, whether mundane or magical.
-
-#### Suggestion
-
-*2nd-level enchantment*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
-**Components:** V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
+**Components:** V, M (a drop of honey)
 
 **Duration:** Concentration, up to 8 hours
 
-You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.
+You suggest a course of activity—described in no more than 25 words—to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or its allies. For example, you could say, “Fetch the key to the cult’s treasure vault, and give the key to me.” Or you could say, “Stop fighting, leave this library peacefully, and don’t return.” The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. The Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
 
-The target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
+### Summon Dragon
 
-You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn't met before the spell expires, the activity isn't performed.
+*Level 5 Conjuration* (Wizard)
 
-If you or any of your companions damage the target, the spell ends.
+**Casting Time:** Action
 
-#### Sunbeam
+**Range:** 60 feet
 
-*6th-level evocation*
+**Components:** V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)
 
-**Casting Time:** 1 action
+**Duration:** Concentration, up to 1 hour
 
-**Range:** Self (60-foot line)
+You call forth a Dragon spirit. It manifests in an unoccupied space that you can see within range and uses the Draconic Spirit stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends. The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its movement to avoid danger.
+
+***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
+
+### Sunbeam
+
+*Level 6 Evocation* (Cleric, Druid, Sorcerer, Wizard)
+
+**Casting Time:** Action
+
+**Range:** Self
 
 **Components:** V, S, M (a magnifying glass)
 
 **Duration:** Concentration, up to 1 minute
 
-A beam of brilliant light flashes out from your hand in a 5-foot wide, 60-foot long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this saving throw.
+You launch a sunbeam in a 5-foot-wide, 60-foot-long Line. Each creature in the Line makes a Constitution saving throw. On a failed save, a creature takes 6d8 Radiant damage and has the Blinded condition until the start of your next turn. On a successful save, it takes half as much damage only. Until the spell ends, you can take a Magic action to create a new Line of radiance. For the duration, a mote of brilliant radiance shines above you. It sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. This light is sunlight.
 
-You can create a new line of radiance as your action on any turn until the spell ends.
+### Sunburst
 
-For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight.
+*Level 8 Evocation* (Cleric, Druid, Sorcerer, Wizard)
 
-#### Sunburst
-
-*8th-level evocation*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 150 feet
 
-**Components:** V, S, M (fire and a piece of sunstone)
+**Components:** V, S, M (a piece of sunstone)
 
 **Duration:** Instantaneous
 
-Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this saving throw.
+Brilliant sunlight flashes in a 60-foot-radius Sphere centered on a point you choose within range. Each creature in the Sphere makes a Constitution saving throw. On a failed save, a creature takes 12d6 Radiant damage and has the Blinded condition for 1 minute. On a successful save, it takes half as much damage only. A creature Blinded by this spell makes another Constitution saving throw at the end of each of its turns, ending the effect on itself on a success. This spell dispels Darkness in its area that was created by any spell.
 
-A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
+### Symbol
 
-This spell dispels any darkness in its area that was created by a spell.
-
-#### Symbol
-
-*7th-level abjuration*
+*Level 7 Abjuration* (Bard, Cleric, Druid, Wizard)
 
 **Casting Time:** 1 minute
 
 **Range:** Touch
 
-**Components:** V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)
+**Components:** V, S, M (powdered diamond worth 1,000+ GP, which the spell consumes)
 
 **Duration:** Until dispelled or triggered
 
-When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a treasure chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
-
-The glyph is nearly invisible, requiring an Intelligence (Investigation) check against your spell save DC to find it.
-
-You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or stepping on the glyph, removing another object covering it, approaching within a certain distance of it, or manipulating the object that holds it. For glyphs inscribed within an object, the most common triggers are opening the object, approaching within a certain distance of it, or seeing or reading the glyph.
-
-You can further refine the trigger so the spell is activated only under certain circumstances or according to a creature's physical characteristics (such as height or weight), or physical kind (for example, the ward could be set to affect hags or shapechangers). You can also specify creatures that don't trigger the glyph, such as those who say a certain password.
-
-When you inscribe the glyph, choose one of the options below for its effect. Once triggered, the glyph glows, filling a 60-foot radius sphere with dim light for 10 minutes, after which time the spell ends. Each creature in the sphere when the glyph activates is targeted by its effect, as is a creature that enters the sphere for the first time on a turn or ends its turn there.
-
-***Death***. Each target must make a Constitution saving throw, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful save.
-
-***Discord***. Each target must make a Constitution saving throw. On a failed save, a target bickers and argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has disadvantage on attack rolls and ability checks.
-
-***Fear***. Each target must make a Wisdom saving throw and becomes frightened for 1 minute on a failed save. While frightened, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
-
-***Hopelessness***. Each target must make a Charisma saving throw. On a failed save, the target is overwhelmed with despair for 1 minute. During this time, it can't attack or target any creature with harmful abilities, spells, or other magical effects.
-
-***Insanity***. Each target must make an Intelligence saving throw. On a failed save, the target is driven insane for 1 minute. An insane creature can't take actions, can't understand what other creatures say, can't read, and speaks only in gibberish. The GM controls its movement, which is erratic.
-
-***Pain***. Each target must make a Constitution saving throw and becomes incapacitated with excruciating pain for 1 minute on a failed save.
-
-***Sleep***. Each target must make a Wisdom saving throw and falls unconscious for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
-
-***Stunning***. Each target must make a Wisdom saving throw and becomes stunned for 1 minute on a failed save.
+You inscribe a harmful glyph either on a surface (such as a section of floor or wall) or within an object that can be closed (such as a book or chest). The glyph can cover an area no larger than 10 feet in diameter. If you choose an object, it must remain in place; if it is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered. The glyph is nearly imperceptible and requires a successful Wisdom (Perception) check against your spell save DC to notice. When you inscribe the glyph, you set its trigger and choose which effect the symbol bears: Death, Discord, Fear, Pain, Sleep, or Stunning. Each one is explained below. Set the Trigger. You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, common triggers include touching or stepping on the glyph, removing another object covering it, or approaching within a certain distance of it. For glyphs inscribed within an object, common triggers include opening that object or seeing the glyph. You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don’t trigger the glyph, such as those who say a certain password. Once triggered, the glyph glows, filling a 60-foot-radius Sphere with Dim Light for 10 minutes, after which time the spell ends. Each creature in the Sphere when the glyph activates is targeted by its effect, as is a creature that enters the Sphere for the first time on a turn or ends its turn there. A creature is targeted only once per turn. Death. Each target makes a Constitution saving throw, taking 10d10 Necrotic damage on a failed save or half as much damage on a successful save. Discord. Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has Disadvantage on attack rolls and ability checks. Fear. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute. While Frightened, the target must move at least 30 feet away from the glyph on each of its turns, if able. Pain. Each target must succeed on a Constitution saving throw or have the Incapacitated condition for 1 minute. Sleep. Each target must succeed on a Wisdom saving throw or have the Unconscious condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake. Stunning. Each target must succeed on a Wisdom saving throw or have the Stunned condition for 1 minute.

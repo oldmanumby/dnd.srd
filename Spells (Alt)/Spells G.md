@@ -1,46 +1,36 @@
-# Spells (G)
+### Gaseous Form
 
-#### Gaseous Form
+*Level 3 Transmutation* (Sorcerer, Warlock, Wizard)
 
-*3rd-level transmutation*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S, M (a bit of gauze and a wisp of smoke)
+**Components:** V, S, M (a bit of gauze)
 
 **Duration:** Concentration, up to 1 hour
 
-You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn't affected.
+A willing creature you touch shape-shifts, along with everything it’s wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself. While in this form, the target’s only method of movement is a Fly Speed of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has Resistance to Bludgeoning, Piercing, and Slashing damage; it has Immunity to the Prone condition; and it has Advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces. The target can’t talk or manipulate objects, and any objects it was carrying or holding can’t be dropped, used, or otherwise interacted with. Finally, the target can’t attack or cast spells.
 
-While in this form, the target's only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can't fall and remains hovering in the air even when stunned or otherwise incapacitated.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 3.
 
-While in the form of a misty cloud, the target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. The target can't attack or cast spells.
+### Gate
 
-#### Gate
+*Level 9 Conjuration* (Cleric, Sorcerer, Warlock, Wizard)
 
-*9th-level conjuration*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
-**Components:** V, S, M (a diamond worth at least 5,000 gp)
+**Components:** V, S, M (a diamond worth 5,000+ GP)
 
 **Duration:** Concentration, up to 1 minute
 
-You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration.
+You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration, and the portal’s destination is visible through it. The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is instantly transported to the other plane, appearing in the unoccupied space nearest to the portal. Deities and other planar rulers can prevent portals created by this spell from opening in their presence or anywhere within their domains. When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn’t work). If that creature is on a plane other than the one you are on, the portal opens next to the named creature and transports it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the GM deems appropriate. It might leave, attack you, or help you.
 
-The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is instantly transported to the other plane, appearing in the unoccupied space nearest to the portal.
+### Geas
 
-Deities and other planar rulers can prevent portals created by this spell from opening in their presence or anywhere within their domains.
-
-When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens in the named creature's immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the GM deems appropriate. It might leave, attack you, or help you.
-
-#### Geas
-
-*5th-level enchantment*
+*Level 5 Enchantment* (Bard, Cleric, Druid, Paladin, Wizard)
 
 **Casting Time:** 1 minute
 
@@ -50,55 +40,45 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 **Duration:** 30 days
 
-You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can't understand you is unaffected by the spell.
+You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target automatically succeeds if it can’t understand your command. While Charmed, the creature takes 5d10 Psychic damage if it acts in a manner directly counter to your command. It takes this damage no more than once each day. You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends. A Remove Curse, Greater Restoration, or Wish spell ends this spell.
 
-You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
+***Using a Higher-Level Spell Slot.*** If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.
 
-You can end the spell early by using an action to dismiss it. A *remove curse*, *greater restoration*, or *wish* spell also ends it.
+### Gentle Repose
 
-***At Higher Levels***. When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
+*Level 2 Necromancy* (Cleric, Paladin, Wizard)
 
-#### Gentle Repose
-
-*2nd-level necromancy (ritual)*
-
-**Casting Time:** 1 action
+**Casting Time:** Action or Ritual
 
 **Range:** Touch
 
-**Components:** V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)
+**Components:** V, S, M (2 Copper Pieces, which the spell consumes)
 
 **Duration:** 10 days
 
-You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.
+You touch a corpse or other remains. For the duration, the target is protected from decay and can’t become Undead. The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don’t count against the time limit of spells such as Raise Dead.
 
-The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as *raise dead*.
+### Giant Insect
 
-#### Giant Insect
+*Level 4 Conjuration* (Druid)
 
-*4th-level transmutation*
+**Casting Time:** Action
 
-**Casting Time:** 1 action
-
-**Range:** 30 feet
+**Range:** 60 feet
 
 **Components:** V, S
 
 **Duration:** Concentration, up to 10 minutes
 
-You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a giant centipede, a spider becomes a giant spider, a wasp becomes a giant wasp, and a scorpion becomes a giant scorpion.
+You summon a giant centipede, spider, or wasp (chosen when you cast the spell). It manifests in an unoccupied space you can see within range and uses the Giant Insect stat block. The form you choose determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends. The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its movement to avoid danger.
 
-Each creature obeys your verbal commands, and in combat, they act on your turn each round. The GM has the statistics for these creatures and resolves their actions and movement.
+***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an action to dismiss the effect on it.
+### Glibness
 
-The GM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp.
+*Level 8 Enchantment* (Bard, Warlock)
 
-#### Glibness
-
-*8th-level transmutation*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -108,74 +88,57 @@ The GM might allow you to choose different targets. For example, if you transfor
 
 Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
 
-#### Globe of Invulnerability
+### Globe of Invulnerability
 
-*6th-level abjuration*
+*Level 6 Abjuration* (Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
-**Range:** Self (10-foot radius)
+**Range:** Self
 
-**Components:** V, S, M (a glass or crystal bead that shatters when the spell ends)
+**Components:** V, S, M (a glass bead)
 
 **Duration:** Concentration, up to 1 minute
 
-An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you and remains for the duration.
+An immobile, shimmering barrier appears in a 10- foot Emanation around you and remains for the duration. Any spell of level 5 or lower cast from outside the barrier can’t affect anything within it. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from areas of effect created by such spells.
 
-Any spell of 5th level or lower cast from outside the barrier can't affect creatures or objects within it, even if the spell is cast using a higher level spell slot. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells.
+***Using a Higher-Level Spell Slot.*** The barrier blocks spells of 1 level higher for each spell slot level above 6.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.
+### Glyph of Warding
 
-#### Glyph of Warding
-
-*3rd-level abjuration*
+*Level 3 Abjuration* (Bard, Cleric, Wizard)
 
 **Casting Time:** 1 hour
 
 **Range:** Touch
 
-**Components:** V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)
+**Components:** V, S, M (powdered diamond worth 200+ GP, which the spell consumes)
 
 **Duration:** Until dispelled or triggered
 
-When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
+You inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor) or within an object that can be closed (such as a book or chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered. The glyph is nearly imperceptible and requires a successful Wisdom (Perception) check against your spell save DC to notice. When you inscribe the glyph, you set its trigger and choose whether it’s an explosive rune or a spell glyph, as explained below. Set the Trigger. You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, common triggers include touching or stepping on the glyph, removing another object covering it, or approaching within a certain distance of it. For glyphs inscribed within an object, common triggers include opening that object or seeing the glyph. Once a glyph is triggered, this spell ends. You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don’t trigger the glyph, such as those who say a certain password. Explosive Rune. When triggered, the glyph erupts with magical energy in a 20-foot-radius Sphere centered on the glyph. Each creature in the area makes a Dexterity saving throw. A creature takes 5d8 Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one. Spell Glyph. You can store a prepared spell of level 3 or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons Hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires Concentration, it lasts until the end of its full duration.
 
-The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found.
+***Using a Higher-Level Spell Slot.*** The damage of an explosive rune increases by 1d8 for each spell slot level above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the Glyph of Warding.
 
-You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph. Once a glyph is triggered, this spell ends.
+### Goodberry
 
-You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
+*Level 1 Conjuration* (Druid, Ranger)
 
-When you inscribe the glyph, choose *explosive runes* or a *spell glyph*.
+**Casting Time:** Action
 
-***Explosive Runes***. When triggered, the glyph erupts with magical energy in a 20-foot radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
-
-***Spell Glyph***. You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration.
-
-***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, the damage of an *explosive runes* glyph increases by 1d8 for each slot level above 3rd. If you create a *spell glyph*, you can store any spell of up to the same level as the slot you use for the *glyph of warding*.
-
-#### Goodberry
-
-*1st-level transmutation*
-
-**Casting Time:** 1 action
-
-
-**Range:** Touch
+**Range:** Self
 
 **Components:** V, S, M (a sprig of mistletoe)
 
-**Duration:** Instantaneous
+**Duration:** 24 hours
 
-Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. 
+Ten berries appear in your hand and are infused with magic for the duration. A creature can take a Bonus Action to eat one berry. Eating a berry restores 1 Hit Point, and the berry provides enough nourishment to sustain a creature for one day. Uneaten berries disappear when the spell ends.
 
-The berries lose their potency if they have not  been consumed within 24 hours of the casting of this spell. 
+### Grease
 
-#### Grease
+*Level 1 Conjuration* (Sorcerer, Wizard)
 
-*1st-level conjuration*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -183,15 +146,13 @@ The berries lose their potency if they have not  been consumed within 2
 
 **Duration:** 1 minute
 
-Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.
+Nonflammable grease covers the ground in a 10- foot square centered on a point within range and turns it into Difficult Terrain for the duration. When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
 
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone.
+### Greater Invisibility
 
-#### Greater Invisibility
+*Level 4 Illusion* (Bard, Sorcerer, Wizard)
 
-*4th-level illusion*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -199,32 +160,27 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 **Duration:** Concentration, up to 1 minute
 
-You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person.
+A creature you touch has the Invisible condition until the spell ends.
 
-#### Greater Restoration
+### Greater Restoration
 
-*5th-level abjuration*
+*Level 5 Abjuration* (Bard, Cleric, Druid, Paladin, Ranger)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S, M (diamond dust worth at least 100 gp, which the spell consumes)
+**Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
 
 **Duration:** Instantaneous
 
-You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:
+You touch a creature and magically remove one of the following effects from it: • 1 Exhaustion level • The Charmed or Petrified condition • A curse, including the target’s Attunement to a cursed magic item • Any reduction to one of the target’s ability scores • Any reduction to the target’s Hit Point maximum
 
-- One effect that charmed or petrified the target
-- One curse, including the target's attunement to a cursed magic item
-- Any reduction to one of the target's ability scores
-- One effect reducing the target's hit point maximum
+### Guardian of Faith
 
-#### Guardian of Faith
+*Level 4 Conjuration* (Cleric)
 
-*4th-level conjuration*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -232,66 +188,39 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 
 **Duration:** 8 hours
 
-A large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.
+A Large spectral guardian appears and hovers for the duration in an unoccupied space that you can see within range. The guardian occupies that space and is invulnerable, and it appears in a form appropriate for your deity or pantheon. Any enemy that moves to a space within 10 feet of the guardian for the first time on a turn or starts its turn there makes a Dexterity saving throw, taking 20 Radiant damage on a failed save or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
-Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has delat a total of 60 damage.
+### Guards and Wards
 
+*Level 6 Abjuration* (Bard, Wizard)
 
-#### Guards and Wards
-
-*6th-level abjuration*
-
-**Casting Time:** 10 minutes
+**Casting Time:** 1 hour
 
 **Range:** Touch
 
-**Components:** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)
+**Components:** V, S, M (a silver rod worth 10+ GP)
 
 **Duration:** 24 hours
 
-You create a ward that protects up to 2,500 square feet of floor space (an area 50 feet square, or one hundred 5-foot squares or twenty-five 10-foot squares). The warded area can be up to 20 feet tall, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them, as long as you can walk into each contiguous area while you are casting the spell.
+You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous. When you cast this spell, you can specify individuals that are unaffected by the spell’s effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects. The spell creates the effects below within the warded area. Dispel Magic has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled. Corridors. Fog fills all the warded corridors, making them Heavily Obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you believes it is going in the opposite direction from the one it chooses. Doors. All doors in the warded area are magically locked, as if sealed by the Arcane Lock spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall. Stairs. Webs fill all stairs in the warded area from top to bottom, as in the Web spell. These strands regrow in 10 minutes if they are destroyed while Guards and Wards lasts. Other Spell Effect. Place one of the following magical effects within the warded area: • Dancing Lights in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts • Magic Mouth in two locations • Stinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts) • Gust of Wind in one corridor or room (the wind blows continuously while the spell lasts) • Suggestion in one 5-foot square; any creature that enters that square receives the suggestion mentally
 
-When you cast this spell, you can specify individuals that are unaffected by any or all of the effects that you choose. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects.
+### Guidance
 
-*Guards and wards* creates the following effects within the warded area.
+*Divination Cantrip* (Cleric, Druid)
 
-***Corridors***. Fog fills all the warded corridors, making them heavily obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you will believe it is going in the opposite direction from the one it chooses.
-
-***Doors***. All doors in the warded area are magically locked, as if sealed by an *arcane lock* spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the *minor illusion* spell) to make them appear as plain sections of wall.
-
-***Stairs***. Webs fill all stairs in the warded area from top to bottom, as the *web* spell. These strands regrow in 10 minutes if they are burned or torn away while *guards and wards* lasts.
-
-***Other Spell Effect***. You can place your choice of one of the following magical effects within the warded area of the stronghold.
-
-- Place dancing lights in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.
-- Place magic mouth in two locations.
-- Place stinking cloud in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while guards and wards lasts.
-- Place a constant gust of wind in one corridor or room.
-- Place a suggestion in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
-
-The whole warded area radiates magic. A *dispel magic* cast on a specific effect, if successful, removes only that effect.
-
-You can create a permanently guarded and warded structure by casting this spell there every day for one year.
-
-#### Guidance
-
-*Divination cantrip*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S
-
 **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
 
-#### Guiding Bolt
+### Guiding Bolt
 
-*1st-level evocation*
+*Level 1 Evocation* (Cleric)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -299,26 +228,20 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 **Duration:** 1 round
 
-A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
+You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 4d6 Radiant damage, and the next attack roll made against it before the end of your next turn has Advantage.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
-#### Gust of Wind
+### Gust of Wind
 
-*2nd-level evocation*
+*Level 2 Evocation* (Druid, Ranger, Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
-**Range:** Self (60-foot line)
+**Range:** Self
 
 **Components:** V, S, M (a legume seed)
 
 **Duration:** Concentration, up to 1 minute
 
-A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's duration. Each creature that starts its turn in the line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the line.
-
-Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to you.
-
-The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
-
-As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
+A Line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the duration. Each creature in the Line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the Line. A creature that ends its turn in the Line must make the same save. Any creature in the Line must spend 2 feet of movement for every 1 foot it moves when moving closer to you. The gust disperses gas or vapor, and it extinguishes candles and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them. As a Bonus Action on your later turns, you can change the direction in which the Line blasts from you.

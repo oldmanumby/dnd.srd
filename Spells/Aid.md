@@ -1,15 +1,15 @@
 ### Aid
 
-*2nd-level abjuration*
+*Level 2 Abjuration* (Bard, Cleric, Druid, Paladin, Ranger)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
-**Components:** V, S, M (a tiny strip of white cloth)
+**Components:** V, S, M (a strip of white cloth)
 
 **Duration:** 8 hours
 
-Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration.
+Choose up to three creatures within range. Each target’s Hit Point maximum and current Hit Points increase by 5 for the duration.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
+***Using a Higher-Level Spell Slot.*** Each target’s Hit Points increase by 5 for each spell slot level above 2.

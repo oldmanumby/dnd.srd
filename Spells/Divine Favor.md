@@ -1,13 +1,13 @@
 ### Divine Favor
 
-*1st-level evocation*
+*Level 1 Transmutation* (Paladin)
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** Self
 
 **Components:** V, S
 
-**Duration:** Concentration, up to 1 minute
+**Duration:** 1 minute
 
-Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.
+Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit.

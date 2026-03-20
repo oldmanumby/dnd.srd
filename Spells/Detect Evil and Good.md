@@ -1,8 +1,8 @@
 ### Detect Evil and Good
 
-*1st-level divination*
+*Level 1 Divination* (Cleric, Paladin)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -10,6 +10,4 @@
 
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.
-
-The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the Hallow spell is active there and, if so, where. The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.

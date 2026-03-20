@@ -1,8 +1,8 @@
 ### Purify Food and Drink
 
-*1st-level transmutation (ritual)*
+*Level 1 Transmutation* (Cleric, Druid, Paladin)
 
-**Casting Time:** 1 action
+**Casting Time:** Action or Ritual
 
 **Range:** 10 feet
 
@@ -10,4 +10,4 @@
 
 **Duration:** Instantaneous
 
-All nonmagical food and drink within a 5-foot radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
+You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphere centered on a point within range.

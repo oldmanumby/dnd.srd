@@ -1,8 +1,8 @@
 ### Fog Cloud
 
-*1st-level conjuration*
+*Level 1 Conjuration* (Druid, Ranger, Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -10,6 +10,6 @@
 
 **Duration:** Concentration, up to 1 hour
 
-You create a 20-foot radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+You create a 20-foot-radius Sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by Gust of Wind) disperses it.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The fog’s radius increases by 20 feet for each spell slot level above 1.

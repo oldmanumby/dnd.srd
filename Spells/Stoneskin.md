@@ -1,13 +1,13 @@
 ### Stoneskin
 
-*4th-level abjuration*
+*Level 4 Transmutation* (Druid, Ranger, Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S, M (diamond dust worth 100 gp, which the spell consumes)
+**Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
 
 **Duration:** Concentration, up to 1 hour
 
-This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
+Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.

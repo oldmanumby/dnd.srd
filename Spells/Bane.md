@@ -1,8 +1,8 @@
 ### Bane
 
-*1st-level enchantment*
+*Level 1 Enchantment* (Bard, Cleric, Warlock)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -10,6 +10,6 @@
 
 **Duration:** Concentration, up to 1 minute
 
-Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+Up to three creatures of your choice that you can see within range must each make a Charisma saving throw. Whenever a target that fails this save makes an attack roll or a saving throw before the spell ends, the target must subtract 1d4 from the attack roll or save.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.

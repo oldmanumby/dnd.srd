@@ -1,8 +1,8 @@
 ### Glibness
 
-*8th-level transmutation*
+*Level 8 Enchantment* (Bard, Warlock)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 

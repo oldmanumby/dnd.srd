@@ -1,8 +1,8 @@
 ### Mage Armor
 
-*1st-level abjuration*
+*Level 1 Abjuration* (Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -10,4 +10,4 @@
 
 **Duration:** 8 hours
 
-You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+You touch a willing creature who isn’t wearing armor. Until the spell ends, the target’s base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.

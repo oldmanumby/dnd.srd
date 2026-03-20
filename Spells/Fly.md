@@ -1,15 +1,15 @@
 ### Fly
 
-*3rd-level transmutation*
+*Level 3 Transmutation* (Sorcerer, Warlock, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S, M (a wing feather from any bird)
+**Components:** V, S, M (a feather)
 
 **Duration:** Concentration, up to 10 minutes
 
-You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.
+You touch a willing creature. For the duration, the target gains a Fly Speed of 60 feet and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 3.

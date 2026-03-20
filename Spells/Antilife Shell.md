@@ -1,17 +1,13 @@
 ### Antilife Shell
 
-*5th-level abjuration*
+*Level 5 Abjuration* (Druid)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
-**Range:** Self (10-foot radius)
+**Range:** Self
 
 **Components:** V, S
 
 **Duration:** Concentration, up to 1 hour
 
-A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.
-
-The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.
-
-If you move so that an affected creature is forced to pass through the barrier, the spell ends.
+An aura extends from you in a 10-foot Emanation for the duration. The aura prevents creatures other than Constructs and Undead from passing or reaching through it. An affected creature can cast spells Wisdom saving throw to end the effect, as described below. Ending the Effect. If the Frightened or Charmed creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.

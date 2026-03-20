@@ -1,8 +1,8 @@
 ### Longstrider
 
-*1st-level transmutation*
+*Level 1 Transmutation* (Bard, Druid, Ranger, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -10,6 +10,6 @@
 
 **Duration:** 1 hour
 
-You touch a creature. The target's speed increases by 10 feet until the spell ends.
+You touch a creature. The target’s Speed increases by 10 feet until the spell ends.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.

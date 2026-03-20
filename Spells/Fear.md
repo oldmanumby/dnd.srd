@@ -1,15 +1,13 @@
 ### Fear
 
-*3rd-level illusion*
+*Level 3 Illusion* (Bard, Sorcerer, Warlock, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
-**Range:** Self (30-foot cone)
+**Range:** Self
 
-**Components:** V, S, M (a white feather or the heart of a hen)
+**Components:** V, S, M (a white feather)
 
 **Duration:** Concentration, up to 1 minute
 
-You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration.
-
-While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.
+Each creature in a 30-foot Cone must succeed on a Wisdom saving throw or drop whatever it is holding and have the Frightened condition for the duration. A Frightened creature takes the Dash action and moves away from you by the safest route on each of its turns unless there is nowhere to move. If the creature ends its turn in a space where it doesn’t have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature.

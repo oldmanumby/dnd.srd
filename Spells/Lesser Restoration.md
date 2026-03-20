@@ -1,8 +1,8 @@
 ### Lesser Restoration
 
-*2nd-level abjuration*
+*Level 2 Abjuration* (Bard, Cleric, Druid, Paladin, Ranger)
 
-**Casting Time:** 1 action
+**Casting Time:** Bonus Action
 
 **Range:** Touch
 
@@ -10,4 +10,4 @@
 
 **Duration:** Instantaneous
 
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.

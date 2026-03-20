@@ -1,13 +1,15 @@
 ### Spare the Dying
 
-*Necromancy cantrip*
+*Necromancy Cantrip* (Cleric, Druid)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
-**Range:** Touch
+**Range:** 15 feet
 
 **Components:** V, S
 
 **Duration:** Instantaneous
 
-You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+Choose a creature within range that has 0 Hit Points and isn’t dead. The creature becomes Stable.
+
+***Cantrip Upgrade.*** The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).

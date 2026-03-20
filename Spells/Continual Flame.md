@@ -1,13 +1,13 @@
 ### Continual Flame
 
-*2nd-level evocation*
+*Level 2 Evocation* (Cleric, Druid, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S, M (ruby dust worth 50 gp, which the spell consumes)
+**Components:** V, S, M (ruby dust worth 50+ GP, which the spell consumes)
 
 **Duration:** Until dispelled
 
-A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A *continual flame* can be covered or hidden but not smothered or quenched.
+A flame springs from an object that you touch. The effect casts Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. It looks like a regular flame, but it creates no heat and consumes no fuel. The flame can be covered or hidden but not smothered or quenched.

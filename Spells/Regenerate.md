@@ -1,15 +1,13 @@
 ### Regenerate
 
-*7th-level transmutation*
+*Level 7 Transmutation* (Bard, Cleric, Druid)
 
 **Casting Time:** 1 minute
 
 **Range:** Touch
 
-**Components:** V, S, M (a prayer wheel and holy water)
+**Components:** V, S, M (a prayer wheel)
 
 **Duration:** 1 hour
 
-You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute).
-
-The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
+A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target regains 1 Hit Point at the start of each of its turns, and any severed body parts regrow after 2 minutes.

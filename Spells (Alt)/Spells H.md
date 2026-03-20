@@ -1,64 +1,36 @@
-# Spells (H)
+### Hallow
 
-#### Hallow
-
-*5th-level evocation*
+*Level 5 Abjuration* (Cleric)
 
 **Casting Time:** 24 hours
 
 **Range:** Touch
 
-**Components:** V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)
+**Components:** V, S, M (incense worth 1,000+ GP, which the spell consumes)
 
 **Duration:** Until dispelled
 
-You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a *hallow* spell. The affected area is subject to the following effects.
+You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects. Hallowed Ward. Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can’t willingly enter the area, and any creature that is possessed by or that has the Charmed or Frightened condition from such creatures isn’t possessed, Charmed, or Frightened by them while in the area. Extra Effect. You bind an extra effect to the area from the list below: Courage. Creatures of any types you choose can’t gain the Frightened condition while in the area. Darkness. Darkness fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can’t illuminate the area. Daylight. Bright light fills the area. Magical Darkness created by spells of a level lower than this spell can’t extinguish the light. Peaceful Rest. Dead bodies interred in the area can’t be turned into Undead. Extradimensional Interference. Creatures of any types you choose can’t enter or exit the area using teleportation or interplanar travel. Fear. Creatures of any types you choose have the Frightened condition while in the area. Resistance. Creatures of any types you choose have Resistance to one damage type of your choice while in the area. Silence. No sound can emanate from within the area, and no sound can reach into it. Tongues. Creatures of any types you choose can communicate with any other creature in the area even if they don’t share a common language. Vulnerability. Creatures of any types you choose have Vulnerability to one damage type of your choice while in the area.
 
-First, celestials, elementals, fey, fiends, and undead can't enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature charmed, frightened, or possessed by such a creature is no longer charmed, frightened, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.
+### Hallucinatory Terrain
 
-Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the GM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the spell's area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.
-
-***Courage***. Affected creatures can't be frightened while in the area.
-
-***Darkness***. Darkness fills the area. Normal light, as well as magical light created by spells of a lower level than the slot you used to cast this spell, can't illuminate the area.
-
-***Daylight***. Bright light fills the area. Magical darkness created by spells of a lower level than the slot you used to cast this spell can't extinguish the light.
-
-***Energy Protection***. Affected creatures in the area have resistance to one damage type of your choice, except for bludgeoning, piercing, or slashing.
-
-***Energy Vulnerability***. Affected creatures in the area have vulnerability to one damage type of your choice, except for bludgeoning, piercing, or slashing.
-
-***Everlasting Rest***. Dead bodies interred in the area can't be turned into undead.
-
-***Extradimensional Interference***. Affected creatures can't move or travel using teleportation or by extradimensional or interplanar means.
-
-***Fear***. Affected creatures are frightened while in the area.
-
-***Silence***. No sound can emanate from within the area, and no sound can reach into it.
-
-***Tongues***. Affected creatures can communicate with any other creature in the area, even if they don't share a common language.
-
-#### Hallucinatory Terrain
-
-*4th-level illusion*
+*Level 4 Illusion* (Bard, Druid, Warlock, Wizard)
 
 **Casting Time:** 10 minutes
 
 **Range:** 300 feet
 
-**Components:** V, S, M (a stone, a twig, and a bit of green plant)
+**Components:** V, S, M (a mushroom)
 
 **Duration:** 24 hours
 
-You make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren't changed in appearance.
+You make natural terrain in a 150-foot Cube in range look, sound, and smell like another sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed. The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to notice the illusion. If the difference isn’t obvious by touch, a creature examining the illusion can take the Study action to make an Intelligence (Investigation) check against your spell save DC to disbelieve it. If a creature discerns that the terrain is illusory, the creature sees a vague image superimposed on the real terrain.
 
-The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn't obvious by touch, a creature carefully examining the illusion can attempt an Intelligence (Investigation) check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.
+### Harm
 
-#### Harm
+*Level 6 Necromancy* (Cleric)
 
-*6th-level necromancy*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -66,13 +38,13 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 **Duration:** Instantaneous
 
-You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes.
+You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6 Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can’t reduce a target’s Hit Point maximum below 1.
 
-#### Haste
+### Haste
 
-*3rd-level transmutation*
+*Level 3 Transmutation* (Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -80,15 +52,13 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 **Duration:** Concentration, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+Choose a willing creature that you can see within range. Until the spell ends, the target’s Speed is doubled, it gains a +2 bonus to Armor Class, it has Advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action. When the spell ends, the target is Incapacitated and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 
-When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
+### Heal
 
-#### Heal
+*Level 6 Abjuration* (Cleric, Druid)
 
-*6th-level evocation*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -96,15 +66,15 @@ When the spell ends, the target can't move or take actions until after its next 
 
 **Duration:** Instantaneous
 
-Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.
+Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 Hit Points. This spell also ends the Blinded, Deafened, and Poisoned conditions on the target.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
+***Using a Higher-Level Spell Slot.*** The healing increases by 10 for each spell slot level above 6.
 
-#### Healing Word
+### Healing Word
 
-*1st-level evocation*
+*Level 1 Abjuration* (Bard, Cleric, Druid)
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 60 feet
 
@@ -112,15 +82,15 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 **Duration:** Instantaneous
 
-A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The healing increases by 2d4 for each spell slot level above 1.
 
-#### Heat Metal
+### Heat Metal
 
-*2nd-level transmutation*
+*Level 2 Transmutation* (Bard, Druid)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -128,17 +98,15 @@ A creature of your choice that you can see within range regains hit points equal
 
 **Duration:** Concentration, up to 1 minute
 
-Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
+Choose a manufactured metal object, such as a metal weapon or a suit of Heavy or Medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 Fire damage when you cast the spell. Until the spell ends, you can take a Bonus Action on each of your later turns to deal this damage again if the object is within range. If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn’t drop the object, it has Disadvantage on attack rolls and ability checks until the start of your next turn.
 
-If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+### Hellish Rebuke
 
-#### Hellish Rebuke
+*Level 1 Evocation* (Warlock)
 
-*1st-­level evocation*
-
-**Casting Time:** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
+**Casting Time:** Reaction, which you take in response to
 
 **Range:** 60 feet
 
@@ -146,31 +114,29 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 **Duration:** Instantaneous
 
-You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
+The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
 
-***At Higher Levels***. When you cast this spell using a  spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st. 
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 1.
 
-#### Heroes' Feast
+### Heroes’ Feast
 
-*6th-level conjuration*
+*Level 6 Conjuration* (Bard, Cleric, Druid)
 
 **Casting Time:** 10 minutes
 
-**Range:** 30 feet
+**Range:** Self
 
-**Components:** V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)
+**Components:** V, S, M (a gem-encrusted bowl worth 1,000+ GP, which the spell consumes)
 
 **Duration:** Instantaneous
 
-You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
+You conjure a feast that appears on a surface in an unoccupied 10-foot Cube next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don’t set in until this hour is over. Up to twelve creatures can partake of the feast. A creature that partakes gains several benefits, which last for 24 hours. The creature has Resistance to Poison damage, and it has Immunity to the Frightened and Poisoned conditions. Its Hit Point maximum also increases by 2d10, and it gains the same number of Hit Points.
 
-A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.
+### Heroism
 
-#### Heroism
+*Level 1 Enchantment* (Bard, Paladin)
 
-*1st-level enchantment*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -178,77 +144,93 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 
 **Duration:** Concentration, up to 1 minute
 
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
-#### Hideous Laughter
+### Hex
 
-*1st-level enchantment*
+*Level 1 Enchantment* (Warlock)
 
-**Casting Time:** 1 action
-
-**Range:** 30 feet
-
-**Components:** V, S, M (tiny tarts and a feather that is waved in the air)
-
-**Duration:** Concentration, up to 1 minute
-
-A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.
-
-At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends.
-
-#### Hold Monster
-
-*5th-level enchantment*
-
-**Casting Time:** 1 action
+**Casting Time:** Bonus Action
 
 **Range:** 90 feet
 
-**Components:** V, S, M (a small, straight piece of iron)
+**Components:** V, S, M (the petrified eye of a newt)
+
+**Duration:** Concentration, up to 1 hour
+
+You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has Disadvantage on ability checks made with the chosen ability. If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action on a later turn to curse a new creature.
+
+***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 2 (up to 4 hours), 3–4 (up to 8 hours), or 5+ (24 hours).
+
+### Hideous Laughter
+
+*Level 1 Enchantment* (Bard, Warlock, Wizard)
+
+**Casting Time:** Action
+
+**Range:** 30 feet
+
+**Components:** V, S, M (a tart and a feather)
 
 **Duration:** Concentration, up to 1 minute
 
-Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it’s capable of laughter, and it can’t end the Prone condition on itself. At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
-#### Hold Person
+### Hold Monster
 
-*2nd-level enchantment*
+*Level 5 Enchantment* (Bard, Sorcerer, Warlock, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
+
+**Range:** 90 feet
+
+**Components:** V, S, M (a straight piece of iron)
+
+**Duration:** Concentration, up to 1 minute
+
+Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
+
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 5.
+
+### Hold Person
+
+*Level 2 Enchantment* (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)
+
+**Casting Time:** Action
 
 **Range:** 60 feet
 
-**Components:** V, S, M (a small, straight piece of iron)
+**Components:** V, S, M (a straight piece of iron)
 
 **Duration:** Concentration, up to 1 minute
 
-Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
+***Using a Higher-Level Spell Slot.*** You can target one additional Humanoid for each spell slot level above 2.
 
-#### Holy Aura
+### Holy Aura
 
-*8th-level abjuration*
+*Level 8 Abjuration* (Cleric)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
-**Components:** V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)
+**Components:** V, S, M (a reliquary worth 1,000+ GP)
 
 **Duration:** Concentration, up to 1 minute
 
-Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends.
+For the duration, you emit an aura in a 30-foot Emanation. While in the aura, creatures of your choice have Advantage on all saving throws, and other creatures have Disadvantage on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the Blinded condition until the end of its next turn.
 
-#### Hunter's Mark
+### Hunter’s Mark
 
-*1st-­level divination*
+*Level 1 Divination* (Ranger)
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 90 feet
 
@@ -256,22 +238,20 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 **Duration:** Concentration, up to 1 hour
 
-You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
+You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it. If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.
 
-***At Higher Levels***. When you cast this spell using a  spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
+***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 3–4 (up to 8 hours) or 5+ (up to 24 hours).
 
-#### Hypnotic Pattern
+### Hypnotic Pattern
 
-*3rd-level illusion*
+*Level 3 Illusion* (Bard, Sorcerer, Warlock, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
-**Components:** S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)
+**Components:** S, M (a pinch of confetti)
 
 **Duration:** Concentration, up to 1 minute
 
-You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0.
-
-The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
+You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the Charmed condition for the duration. While Charmed, the creature has the Incapacitated condition and a Speed of 0. The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.

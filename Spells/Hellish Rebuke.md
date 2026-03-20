@@ -1,8 +1,8 @@
 ### Hellish Rebuke
 
-*1st-level evocation*
+*Level 1 Evocation* (Warlock)
 
-**Casting Time:** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
+**Casting Time:** Reaction, which you take in response to
 
 **Range:** 60 feet
 
@@ -10,6 +10,6 @@
 
 **Duration:** Instantaneous
 
-You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
+The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 1.

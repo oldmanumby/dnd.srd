@@ -1,8 +1,8 @@
 ### Protection from Poison
 
-*2nd-level abjuration*
+*Level 2 Abjuration* (Cleric, Druid, Paladin, Ranger)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -10,6 +10,4 @@
 
 **Duration:** 1 hour
 
-You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
-
-For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.
+You touch a creature and end the Poisoned condition on it. For the duration, the target has Advantage on saving throws to avoid or end the Poisoned condition, and it has Resistance to Poison damage.

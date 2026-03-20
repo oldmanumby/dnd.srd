@@ -1,19 +1,13 @@
 ### Sleep
 
-*1st-level enchantment*
+*Level 1 Enchantment* (Bard, Sorcerer, Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
-**Range:** 90 feet
+**Range:** 60 feet
 
-**Components:** V, S, M (a pinch of fine sand, rose petals, or a cricket)
+**Components:** V, S, M (a pinch of sand or rose petals)
 
-**Duration:** 1 minute
+**Duration:** Concentration, up to 1 minute
 
-This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).
-
-Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
-
-Undead and creatures immune to being charmed aren't affected by this spell.
-
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
+Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell’s effect. Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.

@@ -1,30 +1,22 @@
-# Spells (R)
+### Raise Dead
 
-#### Raise Dead
-
-*5th-level necromancy*
+*Level 5 Necromancy* (Bard, Cleric, Paladin)
 
 **Casting Time:** 1 hour
 
 **Range:** Touch
 
-**Components:** V, S, M (a diamond worth at least 500 gp, which the spell consumes)
+**Components:** V, S, M (a diamond worth 500+ GP, which the spell consumes)
 
 **Duration:** Instantaneous
 
-You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point.
+With a touch, you revive a dead creature if it has been dead no longer than 10 days and it wasn’t Undead when it died. The creature returns to life with 1 Hit Point. This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds, but it doesn’t restore missing body parts. If the creature is lacking body parts or organs integral for its survival— its head, for instance—the spell automatically fails. Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0.
 
-This spell also neutralizes any poisons and cures nonmagical diseases that affected the creature at the time it died. This spell doesn't, however, remove magical diseases, curses, or similar effects; if these aren't first removed prior to casting the spell, they take effect when the creature returns to life. The spell can't return an undead creature to life.
+### Ray of Enfeeblement
 
-This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival-its head, for instance-the spell automatically fails.
+*Level 2 Necromancy* (Warlock, Wizard)
 
-Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
-
-#### Ray of Enfeeblement
-
-*2nd-level necromancy*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -32,15 +24,13 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to all att
 
 **Duration:** Concentration, up to 1 minute
 
-A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.
+A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has Disadvantage on the next attack roll it makes until the start of your next turn. On a failed save, the target has Disadvantage on Strength-based D20 Tests for the duration. During that time, it also subtracts 1d8 from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
 
-At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
+### Ray of Frost
 
-#### Ray of Frost
+*Evocation Cantrip* (Sorcerer, Wizard)
 
-*Evocation cantrip*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -48,71 +38,59 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 
 **Duration:** Instantaneous
 
-A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 Cold damage, and its Speed is reduced by 10 feet until the start of your next turn.
 
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
-#### Regenerate
+### Ray of Sickness
 
-*7th-level transmutation*
+*Level 1 Necromancy* (Sorcerer, Wizard)
+
+**Casting Time:** Action
+
+**Range:** 60 feet
+
+**Components:** V, S
+
+**Duration:** Instantaneous
+
+You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 Poison damage and has the Poisoned condition until the end of your next turn.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1.
+
+### Regenerate
+
+*Level 7 Transmutation* (Bard, Cleric, Druid)
 
 **Casting Time:** 1 minute
 
 **Range:** Touch
 
-**Components:** V, S, M (a prayer wheel and holy water)
+**Components:** V, S, M (a prayer wheel)
 
 **Duration:** 1 hour
 
-You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute).
+A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target regains 1 Hit Point at the start of each of its turns, and any severed body parts regrow after 2 minutes.
 
-The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
+### Reincarnate
 
-#### Reincarnate
-
-*5th-level transmutation*
+*Level 5 Necromancy* (Druid)
 
 **Casting Time:** 1 hour
 
 **Range:** Touch
 
-**Components:** V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)
+**Components:** V, S, M (rare oils worth 1,000+ GP, which the spell consumes)
 
 **Duration:** Instantaneous
 
-You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body.
+You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body’s species, or the GM chooses another playable species. 1d10 Species 1d10 Species 1 Roll again. 6 Goliath 2 Dragonborn 7 Halfling 3 Dwarf 8 Human 4 Elf 9 Orc 5 Gnome 10 Tiefling The reincarnated creature makes any choices that a species’ description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
-If the target's soul isn't free or willing to do so, the spell fails.
+### Remove Curse
 
-The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.
+*Level 3 Abjuration* (Cleric, Paladin, Warlock, Wizard)
 
-**Table- Reincarnate Race**
-
-| d100  | Race                |
-|-------|---------------------|
-| 01-04 | Dragonborn          |
-| 05-13 | Dwarf, hill         |
-| 14-21 | Dwarf, mountain     |
-| 22-25 | Elf, dark           |
-| 26-34 | Elf, high           |
-| 35-42 | Elf, wood           |
-| 43-46 | Gnome, forest       |
-| 47-52 | Gnome, rock         |
-| 53-56 | Half-elf            |
-| 57-60 | Half-orc            |
-| 61-68 | Halfling, lightfoot |
-| 69-76 | Halfling, stout     |
-| 77-96 | Human               |
-| 97-00 | Tiefling            |
-|       |                     |
-
-The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
-
-#### Remove Curse
-
-*3rd-level abjuration*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -120,69 +98,53 @@ The reincarnated creature recalls its former life and experiences. It retains th
 
 **Duration:** Instantaneous
 
-At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded.
+At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner’s Attunement to the object so it can be removed or discarded.
 
-#### Resilient Sphere
+### Resilient Sphere
 
-*4th-level evocation*
+*Level 4 Abjuration* (Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
-**Components:** V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)
+**Components:** V, S, M (a glass sphere)
 
 **Duration:** Concentration, up to 1 minute
 
-A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the duration.
+A shimmering sphere encloses a Large or smaller creature or object within range. An unwilling creature must succeed on a Dexterity saving throw or be enclosed for the duration. Nothing—not physical objects, energy, or other spell effects—can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can’t be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it. The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can take an action to push against the sphere’s walls and thus roll the sphere at up to half the creature’s Speed. Similarly, the globe can be picked up and moved by other creatures. A Disintegrate spell targeting the globe destroys it without harming anything inside.
 
-Nothing-not physical objects, energy, or other spell effects-can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
+### Resistance
 
-The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.
+*Abjuration Cantrip* (Cleric, Druid)
 
-A *disintegrate* spell targeting the globe destroys it without harming anything inside it.
-
-#### Resistance
-
-*Abjuration cantrip*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S, M (a miniature cloak)
-
 **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.
+You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, Fire, Lightning, Necrotic, Piercing, Poison, Radiant, Slashing, or Thunder. When the creature takes damage of the chosen type before the spell ends, the creature reduces the total damage taken by 1d4. A creature can benefit from this spell only once per turn.
 
-#### Resurrection
+### Resurrection
 
-*7th-level necromancy*
+*Level 7 Necromancy* (Bard, Cleric)
 
 **Casting Time:** 1 hour
 
 **Range:** Touch
 
-**Components:** V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)
+**Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes)
 
 **Duration:** Instantaneous
 
-You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't undead. If its soul is free and willing, the target returns to life with all its hit points.
+With a touch, you revive a dead creature that has been dead for no more than a century, didn’t die of old age, and wasn’t Undead when it died. The creature returns to life with all its Hit Points. This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds and restores any missing body parts. Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0. Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a Long Rest, you can’t cast spells again, and you have Disadvantage on D20 Tests.
 
-This spell neutralizes any poisons and cures normal diseases afflicting the creature when it died. It doesn't, however, remove magical diseases, curses, and the like; if such effects aren't removed prior to casting the spell, they afflict the target on its return to life.
+### Reverse Gravity
 
-This spell closes all mortal wounds and restores any missing body parts.
+*Level 7 Transmutation* (Druid, Sorcerer, Wizard)
 
-Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
-
-Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
-
-#### Reverse Gravity
-
-*7th-level transmutation*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 100 feet
 
@@ -190,42 +152,32 @@ Casting this spell to restore life to a creature that has been dead for one year
 
 **Duration:** Concentration, up to 1 minute
 
-This spell reverses gravity in a 50-foot radius, 100-foot high cylinder centered on a point within range. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.
+This spell reverses gravity in a 50-foot-radius, 100- foot high Cylinder centered on a point within range. All creatures and objects in that area that aren’t anchored to the ground fall upward and reach the top of the Cylinder. A creature can make a Dexterity saving throw to grab a fixed object it can reach, thus avoiding the fall upward. If a ceiling or an anchored object is encountered in this upward fall, creatures and objects strike it just as they would during a downward fall. If an affected creature or object reaches the Cylinder’s top without striking anything, it hovers there for the duration. When the spell ends, affected objects and creatures fall downward.
 
-If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration.
+### Revivify
 
-At the end of the duration, affected objects and creatures fall back down.
+*Level 3 Necromancy* (Cleric, Druid, Paladin, Ranger)
 
-#### Revivify
-
-*3rd-level necromancy*
-
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S, M (diamonds worth 300 gp, which the spell consumes)
+**Components:** V, S, M (a diamond worth 300+ GP, which the spell consumes)
 
 **Duration:** Instantaneous
 
-You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
+You touch a creature that has died within the last minute. That creature revives with 1 Hit Point. This spell can’t revive a creature that has died of old age, nor does it restore any missing body parts.
 
-#### Rope Trick
+### Rope Trick
 
-*2nd-level transmutation*
+*Level 2 Transmutation* (Wizard)
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
-**Components:** V, S, M (powdered corn extract and a twisted loop of parchment)
+**Components:** V, S, M (a segment of rope)
 
 **Duration:** 1 hour
 
-You touch a length of rope that is up to 60 feet long. One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground. At the upper end of the rope, an invisible entrance opens to an extradimensional space that lasts until the spell ends.
-
-The extradimensional space can be reached by climbing to the top of the rope. The space can hold as many as eight Medium or smaller creatures. The rope can be pulled into the space, making the rope disappear from view outside the space.
-
-Attacks and spells can't cross through the entrance into or out of the extradimensional space, but those inside can see out of it as if through a 3-foot-by-5-foot window centered on the rope.
-
-Anything inside the extradimensional space drops out when the spell ends.
+You touch a rope. One end of it hovers upward until the rope hangs perpendicular to the ground or the rope reaches a ceiling. At the rope’s upper end, an Invisible 3-foot-by-5-foot portal opens to an extradimensional space that lasts until the spell ends. That space can be reached by climbing the rope, which can be pulled into or dropped out of it. The space can hold up to eight Medium or smaller creatures. Attacks, spells, and other effects can’t pass into or out of the space, but creatures inside it can see through the portal. Anything inside the space drops out when the spell ends.
