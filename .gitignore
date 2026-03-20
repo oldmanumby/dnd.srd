@@ -5,5 +5,6 @@
 *.code-workspace
 .DS_Store
 .cache
-.claude.venv
+.claude
+.venv
 __pycache__
