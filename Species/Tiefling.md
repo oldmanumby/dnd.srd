@@ -1,23 +1,27 @@
 # Tiefling
 
-### Tiefling Traits
+**Creature Type:** Humanoid
 
-Tieflings share certain racial traits as a result of their infernal descent.
+**Size:** Medium (about 4--7 feet tall) or Small (about 3--4 feet tall), chosen when you select this species
 
-***Ability Score Increase***. Your Intelligence score increases by 1, and your Charisma score increases by 2.
+**Speed:** 30 feet
 
-***Age***. Tieflings mature at the same rate as humans but live a few years longer.
+As a Tiefling, you have the following special traits.
 
-***Alignment***. Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.
+***Darkvision.*** You have Darkvision with a range of 60 feet.
 
-***Size***. Tieflings are about the same size and build as humans. Your size is Medium.
+***Fiendish Legacy.*** You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table. You gain the level 1 benefit of the chosen legacy.
 
-***Speed***. Your base walking speed is 30 feet.
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
 
-***Darkvision***. Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
 
-***Hellish Resistance***. You have resistance to fire damage.
+### Fiendish Legacies
 
-***Infernal Legacy***. You know the *thaumaturgy* cantrip. When you reach 3rd level, you can cast the *hellish rebuke* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *darkness* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+| Legacy | Level 1 | Level 3 | Level 5 |
+|--------|---------|---------|---------|
+| Abyssal | You have Resistance to Poison damage. You also know the Poison Spray cantrip. | Ray of Sickness | Hold Person |
+| Chthonic | You have Resistance to Necrotic damage. You also know the Chill Touch cantrip. | False Life | Ray of Enfeeblement |
+| Infernal | You have Resistance to Fire damage. You also know the Fire Bolt cantrip. | Hellish Rebuke | Darkness |
 
-***Languages***. You can speak, read, and write Common and Infernal.
+***Otherworldly Presence.*** You know the Thaumaturgy cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy trait.

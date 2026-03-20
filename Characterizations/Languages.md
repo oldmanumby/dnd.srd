@@ -1,35 +1,34 @@
 # Languages
 
-Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
+Your character knows at least three languages: Common plus two languages you roll or choose from the Standard Languages table. Knowledge of a language means your character can communicate in it, read it, and write it. Your class and other features might also give you languages.
 
-Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
+The Standard Languages table lists languages that are widespread in the setting. Every player character knows Common. The other standard languages originated with the first members of the most prominent species in the setting and have since spread widely.
 
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
+## Standard Languages
 
-**Table- Standard Languages**
+| 1d12 | Language |
+|------|----------|
+| --   | Common |
+| 1    | Common Sign Language |
+| 2    | Draconic |
+| 3--4 | Dwarvish |
+| 5--6 | Elvish |
+| 7    | Giant |
+| 8    | Gnomish |
+| 9    | Goblin |
+| 10--11 | Halfling |
+| 12   | Orc |
 
-| Language | Typical Speakers | Script   |
-|----------|------------------|----------|
-| Common   | Humans           | Common   |
-| Dwarvish | Dwarves          | Dwarvish |
-| Elvish   | Elves            | Elvish   |
-| Giant    | Ogres, giants    | Dwarvish |
-| Gnomish  | Gnomes           | Dwarvish |
-| Goblin   | Goblinoids       | Dwarvish |
-| Halfling | Halflings        | Common   |
-| Orc      | Orcs             | Dwarvish |
-|          |                  |          |
+## Rare Languages
 
-**Table- Exotic Languages**
+The Rare Languages table lists languages that are either secret or derived from other planes of existence and thus less widespread in the worlds of the Material Plane. Some features let a character learn a rare language.
 
-| Language    | Typical Speakers    | Script    |
-|-------------|---------------------|-----------|
-| Abyssal     | Demons              | Infernal  |
-| Celestial   | Celestials          | Celestial |
-| Draconic    | Dragons, dragonborn | Draconic  |
-| Deep Speech | Aboleths, cloakers  | -         |
-| Infernal    | Devils              | Infernal  |
-| Primordial  | Elementals          | Dwarvish  |
-| Sylvan      | Fey creatures       | Elvish    |
-| Undercommon | Underworld traders  | Elvish    |
-|             |                     |           |
+| Language | Language |
+|----------|----------|
+| Abyssal | Primordial* |
+| Celestial | Sylvan |
+| Deep Speech | Thieves' Cant |
+| Druidic | Undercommon |
+| Infernal | |
+
+*Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.

@@ -1,43 +1,31 @@
 # Dragonborn
 
-### Dragonborn Traits
+**Creature Type:** Humanoid
 
-Your draconic heritage manifests in a variety of traits you share with other dragonborn.
+**Size:** Medium (about 5--7 feet tall)
 
-***Ability Score Increase***. Your Strength score increases by 2, and your Charisma score increases by 1.
+**Speed:** 30 feet
 
-***Age***. Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
+As a Dragonborn, you have these special traits.
 
-***Alignment***. Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.
+***Draconic Ancestry.*** Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and Damage Resistance traits as well as your appearance.
 
-***Size***. Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
+### Draconic Ancestors
 
-***Speed***. Your base walking speed is 30 feet.
+| Dragon | Damage Type | Dragon | Damage Type |
+|--------|-------------|--------|-------------|
+| Black  | Acid        | Gold   | Fire        |
+| Blue   | Lightning   | Green  | Poison      |
+| Brass  | Fire        | Red    | Fire        |
+| Bronze | Lightning   | Silver | Cold        |
+| Copper | Acid        | White  | Cold        |
 
-**Table- Draconic Ancestry**
+***Breath Weapon.*** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot Cone or a 30-foot Line that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, a creature takes 1d10 damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by 1d10 when you reach character levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
-| Dragon | Damage Type | Breath Weapon                |
-|--------|-------------|------------------------------|
-| Black  | Acid        | 5 by 30 ft. line (Dex. save) |
-| Blue   | Lightning   | 5 by 30 ft. line (Dex. save) |
-| Brass  | Fire        | 5 by 30 ft. line (Dex. save) |
-| Bronze | Lightning   | 5 by 30 ft. line (Dex. save) |
-| Copper | Acid        | 5 by 30 ft. line (Dex. save) |
-| Gold   | Fire        | 15 ft. cone (Dex. save)      |
-| Green  | Poison      | 15 ft. cone (Con. save)      |
-| Red    | Fire        | 15 ft. cone (Dex. save)      |
-| Silver | Cold        | 15 ft. cone (Con. save)      |
-| White  | Cold        | 15 ft. cone (Con. save)      |
-|        |             |                              |
+You can use this Breath Weapon a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
-***Draconic Ancestry***. You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
+***Damage Resistance.*** You have Resistance to the damage type determined by your Draconic Ancestry trait.
 
-***Breath Weapon***. You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
+***Darkvision.*** You have Darkvision with a range of 60 feet.
 
-When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
-
-After you use your breath weapon, you can't use it again until you complete a short or long rest.
-
-***Damage Resistance***. You have resistance to the damage type associated with your draconic ancestry.
-
-***Languages***. You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
+***Draconic Flight.*** When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest.

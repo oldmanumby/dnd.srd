@@ -1,33 +1,17 @@
 # Halfling
 
-### Halfling Traits
+**Creature Type:** Humanoid
 
-Your halfling character has a number of traits in common with all other halflings.
+**Size:** Small (about 2--3 feet tall)
 
-***Ability Score Increase***. Your Dexterity score increases by 2.
+**Speed:** 30 feet
 
-***Age***. A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+As a Halfling, you have these special traits.
 
-***Alignment***. Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.
+***Brave.*** You have Advantage on saving throws you make to avoid or end the Frightened condition.
 
-***Size***. Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+***Halfling Nimbleness.*** You can move through the space of any creature that is a size larger than you, but you can't stop in the same space.
 
-***Speed***. Your base walking speed is 25 feet.
+***Luck.*** When you roll a 1 on the d20 of a D20 Test, you can reroll the die, and you must use the new roll.
 
-***Lucky***. When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
-
-***Brave***. You have advantage on saving throws against being frightened.
-
-***Halfling Nimbleness***. You can move through the space of any creature that is of a size larger than yours.
-
-***Languages***. You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
-
-## Lightfoot
-
-As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others.
-
-Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.
-
-***Ability Score Increase***. Your Charisma score increases by 1.
-
-***Naturally Stealthy***. You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+***Naturally Stealthy.*** You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.

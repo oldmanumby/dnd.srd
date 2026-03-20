@@ -1,17 +1,15 @@
 # Human
 
-### Human Traits
+**Creature Type:** Humanoid
 
-It's hard to make generalizations about humans, but your human character has these traits.
+**Size:** Medium (about 4--7 feet tall) or Small (about 2--4 feet tall), chosen when you select this species
 
-***Ability Score Increase***. Your ability scores each increase by 1.
+**Speed:** 30 feet
 
-***Age***. Humans reach adulthood in their late teens and live less than a century.
+As a Human, you have these special traits.
 
-***Alignment***. Humans tend toward no particular alignment. The best and the worst are found among them.
+***Resourceful.*** You gain Heroic Inspiration whenever you finish a Long Rest.
 
-***Size***. Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+***Skillful.*** You gain proficiency in one skill of your choice.
 
-***Speed***. Your base walking speed is 30 feet.
-
-***Languages***. You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+***Versatile.*** You gain an Origin feat of your choice (see "Feats"). Skilled is recommended.
