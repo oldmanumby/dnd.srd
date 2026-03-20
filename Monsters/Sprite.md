@@ -1,31 +1,33 @@
 ## Sprite
 
-*Tiny fey, neutral good*
+*Tiny Fey, Neutral Good*
 
-**Armor Class** 15 (leather armor)
+**AC 15 Initiative +4 (14)**
 
-**Hit Points** 2 (1d4)
+**HP 10 (4d4)**
 
-**Speed** 10 ft., fly 40 ft.
+**Speed 10 ft., Fly 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 3 (-4)   | 18 (+4)  | 10 (+0)  | 14 (+2)  | 13 (+1)  | 11 (+0)  |
 
-**Skills** Perception +3, Stealth +8
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 3 | −4 | −4 | **Dex** 18 | +4 | +4 | **Con** 10 | +0 | +0 |
+| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
 
-**Senses** passive Perception 13
+**Skills Perception +3, Stealth +8**
 
-**Languages** Common, Elvish, Sylvan
+**Senses Passive Perception 13**
 
-**Challenge** 1/4 (50 XP)
+**Languages Common, Elvish, Sylvan**
 
-###### Actions
+**CR 1/4 (XP 50; PB +2)**
 
-***Longsword***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
+### Actions
 
-***Shortbow***. *Ranged Weapon Attack:* +6 to hit, range 40/160 ft., one target. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
+Needle Sword. Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage.
 
-***Heart Sight***. The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.
+Enchanting Bow. Ranged Attack Roll: +6, range 40/160 ft. Hit: 1 Piercing damage, and the target has the Charmed condition until the start of the sprite’s next turn.
 
-***Invisibility***. The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
+Heart Sight. Charisma Saving Throw: DC 10, one creature within 5 feet the sprite can see (Celestials, Fiends, and Undead automatically fail the save). Failure: The sprite knows the target’s emotions and alignment.
+
+Invisibility. The sprite casts Invisibility on itself, requiring no spell components and using Charisma as the spellcasting ability. Spy

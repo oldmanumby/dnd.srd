@@ -1,33 +1,37 @@
 ## Hell Hound
 
-*Medium fiend, lawful evil*
+*Medium Fiend, Lawful Evil*
 
-**Armor Class** 15 (natural armor)
+**AC 15 Initiative +1 (11)**
 
-**Hit Points** 45 (7d8+14)
+**HP 58 (9d8 + 18)**
 
-**Speed** 50 ft.
+**Speed 50 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 17 (+3)  | 12 (+1)  | 14 (+2)  | 6 (-2)   | 13 (+1)  | 6 (-2)   |
 
-**Skills** Perception +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 17 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 14 | +2 | +2 |
+| **Int** 6 | −2 | −2 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
 
-**Damage Immunities** fire
+**Skills Perception +5**
 
-**Senses** darkvision 60 ft., passive Perception 15
+**Immunities Fire**
 
-**Languages** understands Infernal but can't speak it
+**Senses Darkvision 60 ft.; Passive Perception 15**
 
-**Challenge** 3 (700 XP)
+**Languages Understands Infernal but can’t speak**
 
-***Keen Hearing and Smell***. The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+**CR 3 (XP 700; PB +2)**
 
-***Pack Tactics***. The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
+### Traits
 
-###### Actions
+Pack Tactics. The hound has Advantage on an attack roll against a creature if at least one of the hound’s allies is within 5 feet of the creature and the ally doesn’t have the Incapacitated condition.
 
-***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) piercing damage plus 7 (2d6) fire damage.
+### Actions
 
-***Fire Breath (Recharge 5-6)***. The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
+Multiattack. The hound makes two Bite attacks.
+
+Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3)
+
+Piercing damage plus 3 (1d6) Fire damage. Fire Breath (Recharge 5–6). Dexterity Saving Throw: DC 12, each creature in a 15-foot Cone. Failure: 17 (5d6) Fire damage. Success: Half damage. Hezrou

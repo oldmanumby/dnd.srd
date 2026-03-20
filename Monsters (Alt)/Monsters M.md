@@ -1,497 +1,519 @@
-# Monsters (M)
+## Mage
+
+*Medium or Small Humanoid (Wizard), Neutral*
+
+**AC 15 Initiative +2 (12)**
+
+**HP 81 (18d8)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 9 | −1 | −1 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
+| **Int** 17 | +3 | +6 | **Wis** 12 | +1 | +4 | **Cha** 11 | +0 | +0 |
+
+**Skills Arcana +6, History +6, Perception +4**
+
+**Gear Wand**
+
+**Senses Passive Perception 14**
+
+**Languages Common plus three other languages**
+
+**CR 6 (XP 2,300; PB +3)**
+
+### Actions
+
+Multiattack. The mage makes three Arcane
+
+Burst attacks.
+
+Arcane Burst. Melee or Ranged Attack Roll: +6, reach 5 ft. or range 120 ft. Hit: 16 (3d8 + 3) Force damage.
+
+Spellcasting. The mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14): At Will: Detect Magic, Light, Mage Armor (included in AC), Mage Hand, Prestidigitation 2/Day Each: Fireball (level 4 version), Invisibility 1/Day Each: Cone of Cold, Fly
+
+### Bonus Actions
+
+Misty Step (3/Day). The mage casts Misty Step, using the same spellcasting ability as Spellcasting.
+
+### Reactions
+
+Protective Magic (3/Day). The mage casts Counterspell or Shield in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
+
+## Magma Mephit
+
+*Small Elemental, Neutral Evil*
+
+**AC 11 Initiative +1 (11)**
+
+**HP 18 (4d6 + 4)**
+
+**Speed 30 ft., Fly 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 8 | −1 | −1 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
+| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 10 | +0 | +0 |
+
+**Skills Stealth +3**
+
+Vulnerabilities Cold Immunities Fire, Poison; Exhaustion, Poisoned
+
+**Senses Darkvision 60 ft.; Passive Perception 10**
+
+**Languages Primordial (Ignan, Terran)**
+
+**CR 1/2 (XP 100; PB +2)**
+
+### Traits
+
+Death Burst. The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each creature in a 5-foot
+
+Emanation originating from the mephit. Failure: 7 (2d6)
+
+Fire damage. Success: Half damage.
+
+### Actions
+
+Claw. Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1)
+
+Slashing damage plus 3 (1d6) Fire damage.
+
+Fire Breath (Recharge 6). Dexterity Saving Throw: DC 11, each creature in a 15-foot Cone. Failure: 7 (2d6) Fire damage. Success: Half damage.
 
 ## Magmin
 
-*Small elemental, chaotic neutral*
+*Small Elemental, Chaotic Neutral*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +2 (12)**
 
-**Hit Points** 9 (2d6+2)
+**HP 13 (3d6 + 3)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 7 (-2)   | 15 (+2)  | 12 (+1)  | 8 (-1)   | 11 (+0)  | 10 (+0)  |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 7 | −2 | −2 | **Dex** 15 | +2 | +2 | **Con** 12 | +1 | +1 |
+| **Int** 8 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
 
-**Damage Immunities** fire
+**Immunities Fire**
 
-**Senses** darkvision 60 ft., passive Perception 10
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Languages** Ignan
+**Languages Primordial (Ignan)**
 
-**Challenge** 1/2 (100 XP)
+**CR 1/2 (XP 100; PB +2)**
 
-***Death Burst***. When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.
+### Traits
 
-***Ignited Illumination***. As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+Death Burst. The magmin explodes when it dies. Dexterity Saving Throw: DC 11, each creature in a 10-foot
 
-###### Actions
+Emanation originating from the magmin. Failure: 7 (2d6)
 
-***Touch***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
+Fire damage. Success: Half damage.
+
+### Actions
+
+Touch. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Fire damage. If the target is a creature or a flammable object that isn’t being worn or carried, it starts burning.
+
+### Bonus Actions
+
+Ignited Illumination. The magmin sets itself ablaze or extinguishes its flames. While ablaze, the magmin sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet. Manticore
 
 ## Manticore
 
-*Large monstrosity, lawful evil*
+*Large Monstrosity, Lawful Evil*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +3 (13)**
 
-**Hit Points** 68 (8d10+24)
+**HP 68 (8d10 + 24)**
 
-**Speed** 30 ft., fly 50 ft.
+**Speed 30 ft., Fly 50 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 17 (+3)  | 16 (+3)  | 17 (+3)  | 7 (-2)   | 12 (+1)  | 8 (-1)   |
 
-**Senses** darkvision 60 ft., passive Perception 11
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 17 | +3 | +3 | **Dex** 16 | +3 | +3 | **Con** 17 | +3 | +3 |
+| **Int** 7 | −2 | −2 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
 
-**Languages** Common
+**Senses Darkvision 60 ft.; Passive Perception 11**
 
-**Challenge** 3 (700 XP)
+**Languages Common**
 
-***Tail Spike Regrowth***. The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
+**CR 3 (XP 700; PB +2)**
 
-###### Actions
+### Actions
 
-***Multiattack***. The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
+Multiattack. The manticore makes three attacks, using
 
-***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) piercing damage.
+Rend or Tail Spike in any combination.
 
-***Claw***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) slashing damage.
+Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3)
 
-***Tail Spike***. *Ranged Weapon Attack:* +5 to hit, range 100/200 ft., one target. *Hit:* 7 (1d8+3) piercing damage.
+Slashing damage.
+
+Tail Spike. Ranged Attack Roll: +5, range 100/200 ft. Hit: 7 (1d8 + 3) Piercing damage. Marilith
+
+## Marilith
+
+*Large Fiend (Demon), Chaotic Evil*
+
+**AC 16 Initiative +10 (20)**
+
+**HP 220 (21d10 + 105)**
+
+**Speed 40 ft., Climb 40 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +9 | **Dex** 20 | +5 | +5 | **Con** 20 | +5 | +10 |
+| **Int** 18 | +4 | +4 | **Wis** 16 | +3 | +8 | **Cha** 20 | +5 | +10 |
+
+**Skills Perception +8**
+
+**Resistances Cold, Fire, Lightning**
+
+**Immunities Poison; Poisoned**
+
+**Senses Truesight 120 ft.; Passive Perception 18**
+
+**Languages Abyssal; telepathy 120 ft.**
+
+**CR 16 (XP 15,000; PB +5)**
+
+### Traits
+
+Demonic Restoration. If the marilith dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+
+Magic Resistance. The marilith has Advantage on saving throws against spells and other magical effects.
+
+Reactive. The marilith can take one Reaction on every turn of combat.
+
+### Actions
+
+Multiattack. The marilith makes six Pact Blade attacks and uses Constrict.
+
+Pact Blade. Melee Attack Roll: +10, reach 5 ft. Hit: 10 (1d10 + 5) Slashing damage plus 7 (2d6) Necrotic damage.
+
+Constrict. Strength Saving Throw: DC 17, one Medium or smaller creature the marilith can see within 5 feet. Failure: 15 (2d10 + 4) Bludgeoning damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.
+
+### Bonus Actions
+
+Teleport (Recharge 5–6). The marilith teleports up to 120 feet to an unoccupied space it can see.
+
+### Reactions
+
+Parry. Trigger: The marilith is hit by a melee attack roll while holding a weapon. Response: The marilith adds 5 to its AC against that attack, possibly causing it to miss. Medusa
 
 ## Medusa
 
-*Medium monstrosity, lawful evil*
+*Medium Monstrosity, Lawful Evil*
 
-**Armor Class** 15 (natural armor)
+**AC 15 Initiative +6 (16)**
 
-**Hit Points** 127 (17d8+51)
+**HP 127 (17d8 + 51)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 10 (+0)  | 15 (+2)  | 16 (+3)  | 12 (+1)  | 13 (+1)  | 15 (+2)  |
 
-**Skills** Deception +5, Insight +4, Perception +4, Stealth +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 10 | +0 | +0 | **Dex** 17 | +3 | +3 | **Con** 16 | +3 | +3 |
+| **Int** 12 | +1 | +1 | **Wis** 13 | +1 | +4 | **Cha** 15 | +2 | +2 |
 
-**Senses** darkvision 60 ft., passive Perception 14
+**Skills Deception +5, Perception +4, Stealth +6**
 
-**Languages** Common
+**Senses Darkvision 150 ft.; Passive Perception 14**
 
-**Challenge** 6 (2,300 XP)
+**Languages Common plus one other language**
 
-***Petrifying Gaze***. When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the *greater restoration* spell or other magic.
+**CR 6 (XP 2,300; PB +3)**
 
-Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.
+### Actions
 
-If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
+Multiattack. The medusa makes two Claw attacks and one Snake Hair attack, or it makes three Poison
 
-###### Actions
+Ray attacks.
 
-***Multiattack***. The medusa makes either three melee attacks-one with its snake hair and two with its shortsword-or two ranged attacks with its longbow.
+Claw. Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.
 
-***Snake Hair***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) piercing damage plus 14 (4d6) poison damage.
+Snake Hair. Melee Attack Roll: +6, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage plus 14 (4d6) Poison damage.
 
-***Shortsword***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+Poison Ray. Ranged Attack Roll: +5, range 150 ft. Hit: 11 (2d8 + 2) Poison damage.
 
-***Longbow***. *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage plus 7 (2d6) poison damage.
+### Bonus Actions
 
-## Mephits
+Petrifying Gaze (Recharge 5–6). Constitution Saving Throw: DC 13, each creature in a 30-foot Cone. If the medusa sees its reflection in the Cone, the medusa must make this save. First Failure: The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. Second Failure: The target has the
 
-### Dust Mephit
+Petrified condition instead of the Restrained condition. Mephits
 
-*Small elemental, neutral evil*
+## Merfolk Skirmisher
 
-**Armor Class** 12
+*Medium Elemental, Neutral*
 
-**Hit Points** 17 (5d6)
+**AC 11 Initiative +1 (11)**
 
-**Speed** 30 ft., fly 30 ft.
+**HP 11 (2d8 + 2)**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 5 (-3)   | 14 (+2)  | 10 (+0)  | 9 (-1)   | 11 (+0)  | 10 (+0)  |
+**Speed 10 ft., Swim 40 ft.**
 
-**Skills** Perception +2, Stealth +4
 
-**Damage Vulnerabilities** Fire
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 10 | +0 | +0 | **Dex** 13 | +1 | +1 | **Con** 12 | +1 | +1 |
+| **Int** 11 | +0 | +0 | **Wis** 14 | +2 | +2 | **Cha** 12 | +1 | +1 |
 
-**Damage Immunities** Poison
+**Senses Passive Perception 12**
 
-**Condition Immunities** Poisoned
+**Languages Common, Primordial (Aquan)**
 
-**Senses** Darkvision 60 ft., passive Perception 12
+**CR 1/8 (XP 25; PB +2)**
 
-**Languages** Auran, Terran
+### Traits
 
-**Challenge** 1/2 (100 XP)
+Amphibious. The merfolk can breathe air and water.
 
-***Death Burst***. When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
+### Actions
 
-***Innate Spellcasting (1/Day)***. The mephit can innately cast *sleep*, requiring no material components. Its innate spellcasting ability is Charisma.
-
-###### Actions
-
-***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) slashing damage.
-
-***Blinding Breath (Recharge 6)***. The mephit exhales a 15- foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-### Ice Mephit
-
-*Small elemental, neutral evil*
-
-**Armor Class** 11
-
-**Hit Points** 21 (6d6)
-
-**Speed** 30 ft., fly 30 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 7 (-2)   | 13 (+1)  | 10 (+0)  | 9 (-1)   | 11 (+0)  | 12 (+1)  |
-
-**Skills** Perception +2, Stealth +3
-
-**Damage Vulnerabilities** bludgeoning, fire
-
-**Damage Immunities** cold, poison
-
-**Condition Immunities** poisoned
-
-**Senses** darkvision 60 ft., passive Perception 12
-
-**Languages** Aquan, Auran
-
-**Challenge** 1/2 (100 XP)
-
-***Death Burst***. When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
-
-***False Appearance***. While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.
-
-***Innate Spellcasting (1/Day)***. The mephit can innately cast *fog cloud*, requiring no material components. Its innate spellcasting ability is Charisma.
-
-###### Actions
-
-***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) slashing damage plus 2 (1d4) cold damage.
-
-***Frost Breath (Recharge 6)***. The mephit exhales a 15- foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
-
-### Magma Mephit
-
-*Small elemental, neutral evil*
-
-**Armor Class** 11
-
-**Hit Points** 22 (5d6+5)
-
-**Speed** 30 ft., fly 30 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 8 (-1)   | 12 (+1)  | 12 (+1)  | 7 (-2)   | 10 (+0)  | 10 (+0)  |
-
-**Skills** Stealth +3
-
-**Damage Vulnerabilities** cold
-
-**Damage Immunities** fire, poison
-
-**Condition Immunities** poisoned
-
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** Ignan, Terran
-
-**Challenge** 1/2 (100 XP)
-
-***Death Burst***. When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
-
-***False Appearance***. While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.
-
-***Innate Spellcasting (1/Day)***. The mephit can innately cast *heat metal* (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
-
-###### Actions
-
-***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) slashing damage plus 2 (1d4) fire damage.
-
-***Fire Breath (Recharge 6)***. The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
-
-### Steam Mephit
-
-*Small elemental, neutral evil*
-
-**Armor Class** 10
-
-**Hit Points** 21 (6d6)
-
-**Speed** 30 ft., fly 30 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 5 (-3)   | 11 (+0)  | 10 (+0)  | 11 (+0)  | 10 (+0)  | 12 (+1)  |
-
-**Damage Immunities** fire, poison
-
-**Condition Immunities** poisoned
-
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** Aquan, Ignan
-
-**Challenge** 1/4 (50 XP)
-
-***Death Burst***. When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.
-
-***Innate Spellcasting (1/Day)***. The mephit can innately cast *blur*, requiring no material components. Its innate spellcasting ability is Charisma.
-
-###### Actions
-
-***Claws.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) slashing damage plus 2 (1d4) fire damage.
-
-***Steam Breath (Recharge 6)***. The mephit exhales a 15- foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
-
-## Merfolk
-
-*Medium humanoid (merfolk), neutral*
-
-**Armor Class** 11
-
-**Hit Points** 11 (2d8+2)
-
-**Speed** 10 ft., swim 40 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 10 (+0)  | 13 (+1)  | 12 (+1)  | 11 (+0)  | 11 (+0)  | 12 (+1)  |
-
-**Skills** Perception +2
-
-**Senses** passive Perception 12
-
-**Languages** Aquan, Common
-
-**Challenge** 1/8 (25 XP)
-
-***Amphibious***. The merfolk can breathe air and water.
-
-###### Actions
-
-***Spear***. *Melee or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+Ocean Spear. Melee or Ranged Attack Roll: +2, reach 5 ft. or range 20/60 ft. Hit: 3 (1d6) Piercing damage plus 2 (1d4) Cold damage. If the target is a creature, its Speed decreases by 10 feet until the end of its next turn. Hit or Miss: The spear magically returns to the merfolk’s hand immediately after a ranged attack. Merrow
 
 ## Merrow
 
-*Large monstrosity, chaotic evil*
+*Large Monstrosity, Chaotic Evil*
 
-**Armor Class** 13 (natural armor)
+**AC 13 Initiative +2 (12)**
 
-**Hit Points** 45 (6d10+12)
+**HP 45 (6d10 + 12)**
 
-**Speed** 10 ft., swim 40 ft.
+**Speed 10 ft., Swim 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 10 (+0)  | 15 (+2)  | 8 (-1)   | 10 (+0)  | 9 (-1)   |
 
-**Senses** darkvision 60 ft., passive Perception 10
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 15 | +2 | +2 |
+| **Int** 8 | −1 | −1 | **Wis** 10 | +0 | +0 | **Cha** 9 | −1 | −1 |
 
-**Languages** Abyssal, Aquan
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Challenge** 2 (450 XP)
+**Languages Abyssal, Primordial (Aquan)**
 
-***Amphibious***. The merrow can breathe air and water.
+**CR 2 (XP 450; PB +2)**
 
-###### Actions
+### Traits
 
-***Multiattack***. The merrow makes two attacks: one with its bite and one with its claws or harpoon.
+Amphibious. The merrow can breathe air and water.
 
-***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8+4) piercing damage.
+### Actions
 
-***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4+4) slashing damage.
+Multiattack. The merrow makes two attacks, using Bite, Claw, or Harpoon in any combination.
 
-***Harpoon***. *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 11 (2d6+3) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
+Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage, and the target has the Poisoned condition until the end of the merrow’s next turn.
+
+Claw. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4)
+
+Slashing damage.
+
+Harpoon. Melee or Ranged Attack Roll: +6, reach 5 ft. or range 20/60 ft. Hit: 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, the merrow pulls the target up to 15 feet straight toward itself. Mimic
 
 ## Mimic
 
-*Medium monstrosity (shapechanger), neutral*
+*Medium Monstrosity, Neutral*
 
-**Armor Class** 12 (natural armor)
+**AC 12 Initiative +3 (13)**
 
-**Hit Points** 58 (9d8+18)
+**HP 58 (9d8 + 18)**
 
-**Speed** 15 ft.
+**Speed 20 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 17 (+3)  | 12 (+1)  | 15 (+2)  | 5 (-3)   | 13 (+1)  | 8 (-1)   |
 
-**Skills** Stealth +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 17 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 15 | +2 | +2 |
+| **Int** 5 | −3 | −3 | **Wis** 13 | +1 | +1 | **Cha** 8 | −1 | −1 |
 
-**Damage Immunities** acid
+**Skills Stealth +5**
 
-**Condition Immunities** prone
+**Immunities Acid; Prone**
 
-**Senses** darkvision 60 ft., passive Perception 11
+**Senses Darkvision 60 ft.; Passive Perception 11**
 
-**Languages** -
+**Languages None**
 
-**Challenge** 2 (450 XP)
+**CR 2 (XP 450; PB +2)**
 
-***Shapechanger***. The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+### Traits
 
-***Adhesive (Object Form Only)***. The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.
+Adhesive (Object Form Only). The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic has the Grappled condition (escape
 
-***False Appearance (Object Form Only)***. While the mimic remains motionless, it is indistinguishable from an ordinary object.
+DC 13). Ability checks made to escape this grapple have Disadvantage.
 
-***Grappler***. The mimic has advantage on attack rolls against any creature grappled by it.
+### Actions
 
-###### Actions
+Bite. Melee Attack Roll: +5 (with Advantage if the target is Grappled by the mimic), reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage—or 12 (2d8 + 3) Piercing damage if the target is Grappled by the mimic—plus 4 (1d8)
 
-***Pseudopod***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.
+Acid damage.
 
-***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) piercing damage plus 4 (1d8) acid damage.
+Pseudopod. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage plus 4 (1d8) Acid damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 13). Ability checks made to escape this grapple have Disadvantage.
 
-## Minotaur
+### Bonus Actions
 
-*Large monstrosity, chaotic evil*
+Shape-Shift. The mimic shape-shifts to resemble a Medium or Small object while retaining its game statistics, or it returns to its true blob form. Any equipment it is wearing or carrying isn’t transformed. Minotaur of Baphomet
 
-**Armor Class** 14 (natural armor)
+## Minotaur Skeleton
 
-**Hit Points** 76 (9d10+27)
+*Large Undead, Lawful Evil*
 
-**Speed** 40 ft.
+**AC 12 Initiative +0 (10)**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 11 (+0)  | 16 (+3)  | 6 (-2)   | 16 (+3)  | 9 (-1)   |
+**HP 45 (6d10 + 12)**
 
-**Skills** Perception +7
+**Speed 40 ft.**
 
-**Senses** darkvision 60 ft., passive Perception 17
 
-**Languages** Abyssal
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 15 | +2 | +2 |
+| **Int** 6 | −2 | −2 | **Wis** 8 | −1 | −1 | **Cha** 5 | −3 | −3 |
 
-**Challenge** 3 (700 XP)
+Vulnerabilities Bludgeoning Immunities Poison; Exhaustion, Poisoned
 
-***Charge***. If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
+**Senses Darkvision 60 ft.; Passive Perception 9**
 
-***Labyrinthine Recall***. The minotaur can perfectly recall any path it has traveled.
+**Languages Understands Abyssal but can’t speak**
 
-***Reckless***. At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
+**CR 2 (XP 450; PB +2)**
 
-###### Actions
+### Actions
 
-***Greataxe***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (2d12+4) slashing damage.
+Gore. Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
 
-***Gore***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) piercing damage.
+Slam. Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning damage. Solar
 
-## Mummies
+## Minotaur of Baphomet
 
-### Mummy
+*Large Monstrosity, Chaotic Evil*
 
-*Medium undead, lawful evil*
+**AC 14 Initiative +0 (10)**
 
-**Armor Class** 11 (natural armor)
+**HP 85 (10d10 + 30)**
 
-**Hit Points** 58 (9d8+18)
+**Speed 40 ft.**
 
-**Speed** 20 ft.
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 16 (+3)  | 8 (-1)   | 15 (+2)  | 6 (-2)   | 10 (+0)  | 12 (+1)  |
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 16 | +3 | +3 |
+| **Int** 6 | −2 | −2 | **Wis** 16 | +3 | +3 | **Cha** 9 | −1 | −1 |
 
-**Saving Throws** Wis +2
+**Skills Perception +7, Survival +7**
 
-**Damage Vulnerabilities** fire
+**Senses Darkvision 60 ft.; Passive Perception 17**
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Languages Abyssal**
 
-**Damage Immunities** necrotic, poison
+**CR 3 (XP 700; PB +2)**
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+### Actions
 
-**Senses** darkvision 60 ft., passive Perception 10
+Abyssal Glaive. Melee Attack Roll: +6, reach 10 ft. Hit: 10 (1d12 + 4) Slashing damage plus 10 (3d6) Necrotic damage. Gore (Recharge 5–6). Melee Attack Roll: +6, reach 5 ft. Hit: 18 (4d6 + 4) Piercing damage. If the target is a Large or smaller creature and the minotaur moved 10+ feet straight toward it immediately before the hit, the target takes an extra 10 (3d6) Piercing damage and has the Prone condition. Mummies
 
-**Languages** the languages it knew in life
+## Mummy
 
-**Challenge** 3 (700 XP)
+*Medium or Small Undead, Lawful Evil*
 
-###### Actions
+**AC 11 Initiative −1 (9)**
 
-***Multiattack***. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
+**HP 58 (9d8 + 18)**
 
-***Rotting Fist***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *remove curse* spell or other magic.
+**Speed 20 ft.**
 
-***Dreadful Glare***. The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
-### Mummy Lord
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 8 | −1 | −1 | **Con** 15 | +2 | +2 |
+| **Int** 6 | −2 | −2 | **Wis** 12 | +1 | +3 | **Cha** 12 | +1 | +1 |
 
-*Medium undead, lawful evil*
+Vulnerabilities Fire Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 
-**Armor Class** 17 (natural armor)
+**Senses Darkvision 60 ft.; Passive Perception 11**
 
-**Hit Points** 97 (13d8+39)
+**Languages Common plus two other languages**
 
-**Speed** 20 ft.
+**CR 3 (XP 700; PB +2)**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 10 (+0)  | 17 (+3)  | 11 (+0)  | 18 (+4)  | 16 (+3)  |
+### Actions
 
-**Saving Throws** Con +8, Int +5, Wis +9, Cha +8
+Multiattack. The mummy makes two Rotting Fist attacks and uses Dreadful Glare.
 
-**Skills** History +5, Religion +5
+Rotting Fist. Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can’t regain Hit Points, its Hit Point maximum doesn’t return to normal when finishing a Long Rest, and its Hit Point maximum decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 Hit Points by this attack.
 
-**Damage Vulnerabilities** fire
+Dreadful Glare. Wisdom Saving Throw: DC 11, one creature the mummy can see within 60 feet. Failure: The target has the Frightened condition until the end of the mummy’s next turn. Success: The target is immune to this mummy’s Dreadful Glare for 24 hours.
 
-**Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+## Mummy Lord
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+*Medium or Small Undead (Cleric), Lawful Evil*
 
-**Senses** darkvision 60 ft., passive Perception 14
+**AC 17 Initiative +10 (20)**
 
-**Languages** the languages it knew in life
+**HP 187 (25d8 + 75)**
 
-**Challenge** 15 (13,000 XP)
+**Speed 30 ft.**
 
-***Magic Resistance***. The mummy lord has advantage on saving throws against spells and other magical effects.
 
-***Rejuvenation***. A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord's heart.
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 17 | +3 | +3 |
+| **Int** 11 | +0 | +5 | **Wis** 19 | +4 | +9 | **Cha** 16 | +3 | +3 |
 
-***Spellcasting***. The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
+**Skills History +5, Perception +9, Religion +5**
 
-Cantrips (at will): *sacred flame*, *thaumaturgy*
-1st level (4 slots): *command*, *guiding bolt*, *shield of faith*
-2nd level (3 slots): *hold person*, *silence*, *spiritual weapon*
-3rd level (3 slots): *animate dead*, *dispel magic*
-4th level (3 slots): *divination*, *guardian of faith*
-5th level (2 slots): *contagion*, *insect plague*
-6th level (1 slot): *harm*
+Vulnerabilities Fire Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 
-###### Actions
+**Senses Truesight 60 ft.; Passive Perception 19**
 
-***Multiattack***. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
+**Languages Common plus three other languages**
 
-***Rotting Fist***. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14 (3d6+4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *remove curse* spell or other magic.
+**CR 15 (XP 13,000, or 15,000 in lair; PB +5)**
 
-***Dreadful Glare***. The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
+### Traits
 
-###### Legendary Actions
+Legendary Resistance (3/Day, or 4/Day in Lair). If the mummy fails a saving throw, it can choose to succeed instead.
 
-The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.
+Magic Resistance. The mummy has Advantage on saving throws against spells and other magical effects.
 
-**Attack**. The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
+Undead Restoration. If destroyed, the mummy gains a new body in 24 hours if its heart is intact, reviving with all its Hit Points. The new body appears in an unoccupied space within the mummy’s lair. The heart is a Tiny object that has AC 17, HP 10, and Immunity to all damage except Fire.
 
-**Blinding Dust**. Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn.
+### Actions
 
-**Blasphemous Word (Costs 2 Actions)**. The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord's next turn.
+Multiattack. The mummy makes one Rotting Fist or Channel Negative Energy attack, and it uses
 
-**Channel Negative Energy (Costs 2 Actions)**. The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.
+Dreadful Glare.
 
-**Whirlwind of Sand (Costs 2 Actions)**. The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
+Rotting Fist. Melee Attack Roll: +9, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can’t regain Hit Points, it gains no benefit from finishing a Long Rest, and its Hit Point maximum decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0
+
+Hit Points by this attack.
+
+Channel Negative Energy. Ranged Attack Roll: +9, range 60 ft. Hit: 25 (6d6 + 4) Necrotic damage.
+
+Dreadful Glare. Wisdom Saving Throw: DC 17, one creature the mummy can see within 60 feet. Failure: 25 (6d6 + 4) Psychic damage, and the target has the Paralyzed condition until the end of the mummy’s next turn.
+
+Spellcasting. The mummy casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks): At Will: Dispel Magic, Thaumaturgy 1/Day Each: Animate Dead, Harm, Insect Plague (level 7 version)
+
+### Reactions
+
+Whirlwind of Sand. Trigger: The mummy is hit by an attack roll. Response: The mummy adds 2 to its AC against the attack, possibly causing the attack to miss, and the mummy teleports up to 60 feet to an unoccupied space it can see. Each creature of its choice that it can see within 5 feet of its destination space has the Blinded condition until the end of the mummy’s next turn.
+
+### Legendary Actions
+
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the mummy can expend a use to take one of the following actions. The mummy regains all expended uses at the start of each of its turns.
+
+Dread Command. The mummy casts Command (level 2 version), using the same spellcasting ability as Spellcasting. The mummy can’t take this action again until the start of its next turn.
+
+Glare. The mummy uses Dreadful Glare. The mummy can’t take this action again until the start of its next turn.
+
+Necrotic Strike. The mummy makes one Rotting Fist or Channel Negative Energy attack. Nalfeshnee

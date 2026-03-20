@@ -1,41 +1,43 @@
 ## Shadow
 
-*Medium undead, chaotic evil*
+*Medium Undead, Chaotic Evil*
 
-**Armor Class** 12
+**AC 12 Initiative +2 (12)**
 
-**Hit Points** 16 (3d8+3)
+**HP 27 (5d8 + 5)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 6 (-2)   | 14 (+2)  | 13 (+1)  | 6 (-2)   | 10 (+0)  | 8 (-1)   |
 
-**Skills** Stealth +4 (+6 in dim light or darkness)
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 6 | −2 | −2 | **Dex** 14 | +2 | +2 | **Con** 13 | +1 | +1 |
+| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 8 | −1 | −1 |
 
-**Damage Vulnerabilities** radiant
+**Skills Stealth +6**
 
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+Vulnerabilities Radiant Resistances Acid, Cold, Fire, Lightning, Thunder Immunities Necrotic, Poison; Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
 
-**Damage Immunities** necrotic, poison
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+**Languages None**
 
-**Senses** darkvision 60 ft., passive Perception 10
+**CR 1/2 (XP 100; PB +2)**
 
-**Languages** -
+### Traits
 
-**Challenge** 1/2 (100 XP)
+Amorphous. The shadow can move through a space as narrow as 1 inch without expending extra movement to do so.
 
-***Amorphous***. The shadow can move through a space as narrow as 1 inch wide without squeezing.
+Sunlight Weakness. While in sunlight, the shadow has
 
-***Shadow Stealth***. While in dim light or darkness, the shadow can take the Hide action as a bonus action.
+Disadvantage on D20 Tests.
 
-***Sunlight Weakness***. While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
+### Actions
 
-###### Actions
+Draining Swipe. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Necrotic damage, and the target’s Strength score decreases by 1d4. The target dies if this reduces that score to 0. If a Humanoid is slain by this attack, a
 
-***Strength Drain***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6+2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
+Shadow rises from the corpse 1d4 hours later.
 
-If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
+### Bonus Actions
+
+Shadow Stealth. While in Dim Light or Darkness, the shadow takes the Hide action. Shambling Mound

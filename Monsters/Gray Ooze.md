@@ -1,37 +1,39 @@
-### Gray Ooze
+## Gray Ooze
 
-*Medium ooze, unaligned*
+*Medium Ooze, Unaligned*
 
-**Armor Class** 8
+**AC 9 Initiative −2 (13)**
 
-**Hit Points** 22 (3d8+9)
+**HP 22 (3d8 + 9)**
 
-**Speed** 10 ft., climb 10 ft.
+**Speed 10 ft., Climb 10 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 12 (+1)  | 6 (-2)   | 16 (+3)  | 1 (-5)   | 6 (-2)   | 2 (-4)   |
 
-**Skills** Stealth +2
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 12 | +1 | +1 | **Dex** 6 | −2 | −2 | **Con** 16 | +3 | +3 |
+| **Int** 1 | −5 | −5 | **Wis** 6 | −2 | −2 | **Cha** 2 | −4 | −4 |
 
-**Damage Resistances** acid, cold, fire
+**Skills Stealth +2**
 
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
+**Resistances Acid, Cold, Fire**
 
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
+**Immunities Blinded, Charmed, Deafened, Exhaustion,**
 
-**Languages** -
+Frightened, Grappled, Prone, Restrained
 
-**Challenge** 1/2 (100 XP)
+**Senses Blindsight 60 ft.; Passive Perception 8**
 
-***Amorphous***. The ooze can move through a space as narrow as 1 inch wide without squeezing.
+**Languages None**
 
-***Corrode Metal***. Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
+**CR 1/2 (XP 100; PB +2)**
 
-The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
+### Traits
 
-***False Appearance***. While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
+Amorphous. The ooze can move through a space as narrow as 1 inch without expending extra movement to do so.
 
-###### Actions
+Corrosive Form. Nonmagical ammunition is destroyed immediately after hitting the ooze and dealing any damage. Any nonmagical weapon takes a cumulative −1 penalty to attack rolls immediately after dealing damage to the ooze and coming into contact with it. The weapon is destroyed if the penalty reaches −5. The penalty can be removed by casting the Mending spell on the weapon. The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
 
-***Pseudopod***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+### Actions
+
+Pseudopod. Melee Attack Roll: +3, reach 5 ft. Hit: 10 (2d8 + 1) Acid damage. Nonmagical armor worn by the target takes a −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. The penalty can be removed by casting the Mending spell on the armor. Green Dragons

@@ -1,33 +1,37 @@
 ## Pseudodragon
 
-*Tiny dragon, neutral good*
+*Tiny Dragon, Neutral Good*
 
-**Armor Class** 13 (natural armor)
+**AC 14 Initiative +2 (12)**
 
-**Hit Points** 7 (2d4+2)
+**HP 10 (3d4 + 3)**
 
-**Speed** 15 ft., fly 60 ft.
+**Speed 15 ft., Fly 60 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 6 (-2)   | 15 (+2)  | 13 (+1)  | 10 (+0)  | 12 (+1)  | 10 (+0)  |
 
-**Skills** Perception +3, Stealth +4
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 6 | −2 | −2 | **Dex** 15 | +2 | +2 | **Con** 13 | +1 | +1 |
+| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 10 | +0 | +0 |
 
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
+**Skills Perception +5, Stealth +4**
 
-**Languages** understands Common and Draconic but can't speak
+**Senses Blindsight 10 ft., Darkvision 60 ft.;**
 
-**Challenge** 1/4 (50 XP)
+Passive Perception 15 Languages Understands Common and Draconic but can’t speak
 
-***Keen Senses***. The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
+**CR 1/4 (XP 50; PB +2)**
 
-***Magic Resistance***. The pseudodragon has advantage on saving throws against spells and other magical effects.
+### Traits
 
-***Limited Telepathy***. The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
+Magic Resistance. The pseudodragon has Advantage on saving throws against spells and other magical effects.
 
-###### Actions
+### Actions
 
-***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) piercing damage.
+Multiattack. The pseudodragon makes two Bite attacks.
 
-***Sting***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
+Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2)
+
+Piercing damage.
+
+Sting. Constitution Saving Throw: DC 12, one creature the pseudodragon can see within 5 feet. Failure: 5 (2d4) Poison damage, and the target has the Poisoned condition for 1 hour. Failure by 5 or More: While Poisoned, the target also has the Unconscious condition, which ends early if the target takes damage or a creature within 5 feet of it takes an action to wake it. Purple Worm

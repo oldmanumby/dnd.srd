@@ -1,31 +1,31 @@
-### Skeleton
+## Skeleton
 
-*Medium undead, lawful evil*
+*Medium Undead, Lawful Evil*
 
-**Armor Class** 13 (armor scraps)
+**AC 14 Initiative +3 (13)**
 
-**Hit Points** 13 (2d8+4)
+**HP 13 (2d8 + 4)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 10 (+0)  | 14 (+2)  | 15 (+2)  | 6 (-2)   | 8 (-1)   | 5 (-3)   |
 
-**Damage Vulnerabilities** bludgeoning
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 10 | +0 | +0 | **Dex** 16 | +3 | +3 | **Con** 15 | +2 | +2 |
+| **Int** 6 | −2 | −2 | **Wis** 8 | −1 | −1 | **Cha** 5 | −3 | −3 |
 
-**Damage Immunities** poison
+Vulnerabilities Bludgeoning Immunities Poison; Exhaustion, Poisoned Gear Shortbow, Shortsword
 
-**Condition Immunities** exhaustion, poisoned
+**Senses Darkvision 60 ft.; Passive Perception 9**
 
-**Senses** darkvision 60 ft., passive Perception 9
+**Languages Understands Common plus one other language**
 
-**Languages** understands all languages it knew in life but can't speak
+but can’t speak
 
-**Challenge** 1/4 (50 XP)
+**CR 1/4 (XP 50; PB +2)**
 
-###### Actions
+### Actions
 
-***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+Shortsword. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage.
 
-***Shortbow***. *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+Shortbow. Ranged Attack Roll: +5, range 80/320 ft. Hit: 6 (1d6 + 3) Piercing damage.

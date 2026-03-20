@@ -1,45 +1,45 @@
-### Guardian Naga
+## Guardian Naga
 
-*Large monstrosity, lawful good*
+*Large Celestial, Lawful Good*
 
-**Armor Class** 18 (natural armor)
+**AC 18 Initiative +4 (14)**
 
-**Hit Points** 127 (15d10+45)
+**HP 136 (16d10 + 48)**
 
-**Speed** 40 ft.
+**Speed 40 ft., Climb 40 ft., Swim 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 19 (+4)  | 18 (+4)  | 16 (+3)  | 16 (+3)  | 19 (+4)  | 18 (+4)  |
 
-**Saving Throws** Dex +6, Con +5, Wis +5, Cha +6
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 19 | +4 | +4 | **Dex** 18 | +4 | +8 | **Con** 16 | +3 | +7 |
+| **Int** 16 | +3 | +7 | **Wis** 19 | +4 | +8 | **Cha** 18 | +4 | +8 |
 
-**Saving Throws** Dex +8, Con +7, Int +7, Wis +8, Cha +8
+**Skills Arcana +11, History +11, Religion +11**
 
-**Damage Immunities** poison
+**Immunities Poison; Charmed, Paralyzed, Poisoned,**
 
-**Condition Immunities** charmed, poisoned
+Restrained
 
-**Senses** darkvision 60 ft., passive Perception 14
+**Senses Darkvision 60 ft.; Passive Perception 14**
 
-**Languages** Celestial, Common
+**Languages Celestial, Common**
 
-**Challenge** 10 (5,900 XP)
+**CR 10 (XP 5,900; PB +4)**
 
-***Rejuvenation***. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *wish* spell can prevent this trait from functioning.
+### Traits
 
-***Spellcasting***. The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
+Celestial Restoration. If the naga dies, it returns to life in 1d6 days and regains all its Hit Points unless Dispel
 
-Cantrips (at will): *mending*, *sacred flame*, *thaumaturgy*
-1st level (4 slots): *command*, *cure wounds*, *shield of faith*
-2nd level (3 slots): *calm emotions*, *hold person*
-3rd level (3 slots): *bestow curse*, *clairvoyance*
-4th level (3 slots): *banishment*, *freedom of movement*
-5th level (2 slots): *flame strike*, *geas*
-6th level (1 slot): *true seeing*
+Evil and Good is cast on its remains.
 
-###### Actions
+### Actions
 
-***Bite***. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one creature. *Hit:* 8 (1d8+4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+Multiattack. The naga makes two Bite attacks. It can replace any attack with a use of Poisonous Spittle.
 
-***Spit Poison***. *Ranged Weapon Attack:* +8 to hit, range 15/30 ft., one creature. *Hit:* The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+Bite. Melee Attack Roll: +8, reach 10 ft. Hit: 17 (2d12 + 4) Piercing damage plus 22 (4d10) Poison damage.
+
+Poisonous Spittle. Constitution Saving Throw: DC 16, one creature the naga can see within 60 feet. Failure: 31 (7d8) Poison damage, and the target has the Blinded condition until the start of the naga’s next turn. Success:
+
+Half damage only.
+
+Spellcasting. The naga casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save DC 16): At Will: Thaumaturgy 1/Day Each: Clairvoyance, Cure Wounds (level 6 version), Flame Strike (level 6 version), Geas, True Seeing Guards

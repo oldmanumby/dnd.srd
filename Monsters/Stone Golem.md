@@ -1,37 +1,45 @@
-### Stone Golem
+## Stone Golem
 
-*Large construct, unaligned*
+*Large Construct, Unaligned*
 
-**Armor Class** 17 (natural armor)
+**AC 18 Initiative +3 (13)**
 
-**Hit Points** 178 (17d10+85)
+**HP 220 (21d10 + 105)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 22 (+6)  | 9 (-1)   | 20 (+5)  | 3 (-4)   | 11 (+0)  | 1 (-5)   |
 
-**Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 22 | +6 | +6 | **Dex** 9 | −1 | −1 | **Con** 20 | +5 | +5 |
+| **Int** 3 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 1 | −5 | −5 |
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+**Immunities Poison, Psychic; Charmed, Exhaustion,**
 
-**Senses** darkvision 120 ft., passive Perception 10
+Frightened, Paralyzed, Petrified, Poisoned
 
-**Languages** understands the languages of its creator but can't speak
+**Senses Darkvision 120 ft.; Passive Perception 10**
 
-**Challenge** 10 (5,900 XP)
+**Languages Understands Common plus two other**
 
-***Immutable Form***. The golem is immune to any spell or effect that would alter its form.
+languages but can’t speak
 
-***Magic Resistance***. The golem has advantage on saving throws against spells and other magical effects.
+**CR 10 (XP 5,900; PB +4)**
 
-***Magic Weapons***. The golem's weapon attacks are magical.
+### Traits
 
-###### Actions
+Immutable Form. The golem can’t shape-shift.
 
-***Multiattack***. The golem makes two slam attacks.
+Magic Resistance. The golem has Advantage on saving throws against spells and other magical effects.
 
-***Slam***. *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19 (3d8+6) bludgeoning damage.
+### Actions
 
-***Slow (Recharge 5-6)***. The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Multiattack. The golem makes two attacks, using Slam or Force Bolt in any combination.
+
+Slam. Melee Attack Roll: +10, reach 5 ft. Hit: 15 (2d8 + 6) Bludgeoning damage plus 9 (2d8) Force damage.
+
+Force Bolt. Ranged Attack Roll: +9, range 120 ft. Hit: 22 (4d10) Force damage.
+
+### Bonus Actions
+
+Slow (Recharge 5–6). The golem casts the Slow spell, requiring no spell components and using Constitution as the spellcasting ability (spell save DC 17). Storm Giant

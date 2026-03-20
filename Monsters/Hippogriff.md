@@ -1,31 +1,35 @@
 ## Hippogriff
 
-*Large monstrosity, unaligned*
+*Large Monstrosity, Unaligned*
 
-**Armor Class** 11
+**AC 11 Initiative +1 (11)**
 
-**Hit Points** 19 (3d10+3)
+**HP 26 (4d10 + 4)**
 
-**Speed** 40 ft., fly 60 ft.
+**Speed 40 ft., Fly 60 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 17 (+3)  | 13 (+1)  | 13 (+1)  | 2 (-4)   | 12 (+1)  | 8 (-1)   |
 
-**Skills** Perception +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 17 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 13 | +1 | +1 |
+| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
 
-**Senses** passive Perception 15
+**Skills Perception +5**
 
-**Languages** -
+**Senses Passive Perception 15**
 
-**Challenge** 1 (200 XP)
+**Languages None**
 
-***Keen Sight***. The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
+**CR 1 (XP 200; PB +2)**
 
-###### Actions
+### Traits
 
-***Multiattack***. The hippogriff makes two attacks: one with its beak and one with its claws.
+Flyby. The hippogriff doesn’t provoke an Opportunity Attack when it flies out of an enemy’s reach.
 
-***Beak***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage.
+### Actions
 
-***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) slashing damage.
+Multiattack. The hippogriff makes two Rend attacks.
+
+Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3)
+
+Slashing damage. Hobgoblins

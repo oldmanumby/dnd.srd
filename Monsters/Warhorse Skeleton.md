@@ -1,29 +1,27 @@
-### Warhorse Skeleton
+## Warhorse Skeleton
 
-*Large undead, lawful evil*
+*Large Undead, Lawful Evil*
 
-**Armor Class** 13 (barding scraps)
+**AC 13 Initiative +1 (11)**
 
-**Hit Points** 22 (3d10+6)
+**HP 22 (3d10 + 6)**
 
-**Speed** 60 ft.
+**Speed 60 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 12 (+1)  | 15 (+2)  | 2 (-4)   | 8 (-1)   | 5 (-3)   |
 
-**Damage Vulnerabilities** bludgeoning
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 12 | +1 | +1 | **Con** 15 | +2 | +2 |
+| **Int** 2 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 5 | −3 | −3 |
 
-**Damage Immunities** poison
+Vulnerabilities Bludgeoning Immunities Poison; Exhaustion, Poisoned
 
-**Condition Immunities** exhaustion, poisoned
+**Senses Darkvision 60 ft.; Passive Perception 9**
 
-**Senses** darkvision 60 ft., passive Perception 9
+**Languages None**
 
-**Languages** -
+**CR 1/2 (XP 100; PB +2)**
 
-**Challenge** 1/2 (100 XP)
+### Actions
 
-###### Actions
-
-***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
+Hooves. Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.

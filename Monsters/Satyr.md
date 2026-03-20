@@ -1,31 +1,35 @@
 ## Satyr
 
-*Medium fey, chaotic neutral*
+*Medium Fey, Chaotic Neutral*
 
-**Armor Class** 14 (leather armor)
+**AC 13 Initiative +3 (13)**
 
-**Hit Points** 31 (7d8)
+**HP 31 (7d8)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 12 (+1)  | 16 (+3)  | 11 (+0)  | 12 (+1)  | 10 (+0)  | 14 (+2)  |
 
-**Skills** Perception +2, Performance +6, Stealth +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 12 | +1 | +1 | **Dex** 16 | +3 | +3 | **Con** 11 | +0 | +0 |
+| **Int** 12 | +1 | +1 | **Wis** 10 | +0 | +0 | **Cha** 14 | +2 | +2 |
 
-**Sense**s passive Perception 12
+**Skills Perception +2, Performance +6, Stealth +5**
 
-**Languages** Common, Elvish, Sylvan
+**Senses Passive Perception 12**
 
-**Challenge** 1/2 (100 XP)
+**Languages Common, Elvish, Sylvan**
 
-***Magic Resistance***. The satyr has advantage on saving throws against spells and other magical effects.
+**CR 1/2 (XP 100; PB +2)**
 
-###### Actions
+### Traits
 
-***Ram***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4+1) bludgeoning damage.
+Magic Resistance. The satyr has Advantage on saving throws against spells and other magical effects.
 
-***Shortsword***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) piercing damage.
+### Actions
 
-***Shortbow***. *Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:* 6 (1d6+3) piercing damage.
+Hooves. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, the satyr pushes the target up to 10 feet straight away from itself.
+
+Mockery. Wisdom Saving Throw: DC 12, one creature the satyr can see within 90 feet. Failure: 5 (1d6 + 2)
+
+Psychic damage. Scout

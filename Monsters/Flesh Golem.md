@@ -1,43 +1,47 @@
-### Flesh Golem
+## Flesh Golem
 
-*Medium construct, neutral*
+*Medium Construct, Neutral*
 
-**Armor Class** 9
+**AC 9 Initiative −1 (9)**
 
-**Hit Points** 93 (11d8+44)
+**HP 127 (15d8 + 60)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 19 (+4)  | 9 (-1)   | 18 (+4)  | 6 (-2)   | 10 (+0)  | 5 (-3)   |
 
-**Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 19 | +4 | +4 | **Dex** 9 | −1 | −1 | **Con** 18 | +4 | +4 |
+| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+**Immunities Lightning, Poison; Charmed, Exhaustion,**
 
-**Senses** darkvision 60 ft., passive Perception 10
+Frightened, Paralyzed, Petrified, Poisoned
 
-**Languages** understands the languages of its creator but can't speak
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Challenge** 5 (1,800 XP)
+**Languages Understands Common plus one other language**
 
-***Berserk***. Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
+but can’t speak
 
-The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.
+**CR 5 (XP 1,800; PB +3)**
 
-***Aversion of Fire***. If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
+### Traits
 
-***Immutable Form***. The golem is immune to any spell or effect that would alter its form.
+Aversion to Fire. If the golem takes Fire damage, it has Disadvantage on attack rolls and ability checks until the end of its next turn.
 
-***Lightning Absorption***. Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.
+Berserk. Whenever the golem starts its turn Bloodied, roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object. Once the golem goes berserk, it remains so until it is destroyed or it is no longer Bloodied. The golem’s creator, if within 60 feet of the berserk golem, can try to calm it by taking an action to make a DC 15 Charisma (Persuasion) check; the golem must be able to hear its creator. If this check succeeds, the golem ceases being berserk until the start of its next turn, at which point it resumes rolling for the Berserk trait again if it is still Bloodied.
 
-***Magic Resistance***. The golem has advantage on saving throws against spells and other magical effects.
+Immutable Form. The golem can’t shape-shift.
 
-***Magic Weapons***. The golem's weapon attacks are magical.
+Lightning Absorption. Whenever the golem is subjected to Lightning damage, it regains a number of Hit
 
-###### Actions
+Points equal to the Lightning damage dealt.
 
-***Multiattack***. The golem makes two slam attacks.
+Magic Resistance. The golem has Advantage on saving throws against spells and other magical effects.
 
-***Slam***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.
+### Actions
+
+Multiattack. The golem makes two Slam attacks.
+
+Slam. Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage plus 4 (1d8) Lightning damage. Frost Giant

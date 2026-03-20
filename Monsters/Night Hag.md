@@ -1,43 +1,49 @@
-### Night Hag
+## Night Hag
 
-*Medium fiend, neutral evil*
+*Medium Fiend, Neutral Evil*
 
-**Armor Class** 17 (natural armor)
+**AC 17 Initiative +5 (15)**
 
-**Hit Points** 112 (15d8+45)
+**HP 112 (15d8 + 45)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 15 (+2)  | 16 (+3)  | 16 (+3)  | 14 (+2)  | 16 (+3)  |
 
-**Skills** Deception +7, Insight +6, Perception +6, Stealth +6
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
+| **Int** 16 | +3 | +3 | **Wis** 14 | +2 | +2 | **Cha** 16 | +3 | +3 |
 
-**Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+**Skills Deception +6, Insight +5, Perception +5, Stealth +5**
 
-**Condition Immunities** charmed
+**Resistances Cold, Fire**
 
-**Senses** darkvision 120 ft., passive Perception 16
+**Immunities Charmed**
 
-**Languages** Abyssal, Common, Infernal, Primordial
+**Senses Darkvision 120 ft.; Passive Perception 15**
 
-**Challenge** 5 (1,800 XP)
+**Languages Abyssal, Common, Infernal, Primordial**
 
-***Innate Spellcasting***. The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material Components
+**CR 5 (XP 1,800; PB +3)**
 
-At will: *detect magic*, *magic missile*
+### Traits
 
-2/day each: *plane shift* (self only), *ray of enfeeblement*, *sleep*
+Coven Magic. While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell’s normal casting time, and using Intelligence as the spellcasting ability (spell save DC 14): Augury, Find Familiar, Identify, Locate Object, Scrying, or Unseen Servant. The hag must finish a Long Rest before using this trait to cast that spell again.
 
-***Magic Resistance***. The hag has advantage on saving throws against spells and other magical effects.
+Magic Resistance. The hag has Advantage on saving throws against spells and other magical effects.
 
-###### Actions
+Soul Bag. The hag has a soul bag. While holding or carrying the bag, the hag can use its Nightmare Haunting action. The bag has AC 15, HP 20, and Resistance to all damage. The bag turns to dust if reduced to 0 Hit Points. If the bag is destroyed, any souls the bag is holding are released. The hag can create a new bag after 7 days.
 
-***Claws (Hag Form Only)***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
+### Actions
 
-***Change Shape***. The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
+Multiattack. The hag makes two Claw attacks.
 
-***Etherealness***. The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a *heartstone* in her possession.
+Claw. Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage. Nightmare Haunting (1/Day; Requires Soul Bag). While on the Ethereal Plane, the hag casts Dream, using the same spellcasting ability as Spellcasting. Only the hag can serve as the spell’s messenger, and the target must be a creature the hag can see on the Material
 
-***Nightmare Haunting (1/Day)***. While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A *protection from evil and good* spell cast on the target prevents this contact, as does a *magic circle*. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's *soul bag*. The reduction to the target's hit point maximum lasts until removed by the *greater restoration* spell or similar magic.
+Plane. The spell fails and is wasted if the target is under the effect of the Protection from Evil and Good spell or within a Magic Circle spell. If the target takes damage from the Dream spell, the target’s Hit Point maximum decreases by an amount equal to that damage. If the spell kills the target, its soul is trapped in the hag’s soul bag, and the target can’t be raised from the dead until its soul is released.
+
+Spellcasting. The hag casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14): At Will: Detect Magic, Etherealness, Magic Missile (level 4 version) 2/Day Each: Phantasmal Killer, Plane Shift (self only)
+
+### Bonus Actions
+
+Shape-Shift. The hag shape-shifts into a Small or Medium Humanoid, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. Nightmare

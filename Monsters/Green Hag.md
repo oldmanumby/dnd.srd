@@ -1,39 +1,43 @@
-### Green Hag
+## Green Hag
 
-*Medium fey, neutral evil*
+*Medium Fey, Neutral Evil*
 
-**Armor Class** 17 (natural armor)
+**AC 17 Initiative +1 (11)**
 
-**Hit Points** 82 (11d8+33)
+**HP 82 (11d8 + 33)**
 
-**Speed** 30 ft.
+**Speed 30 ft., Swim 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 12 (+1)  | 16 (+3)  | 13 (+1)  | 14 (+2)  | 14 (+2)  |
 
-**Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 12 | +1 | +1 | **Con** 16 | +3 | +3 |
+| **Int** 13 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 14 | +2 | +2 |
 
-**Senses** darkvision 60 ft., passive Perception 14
+**Skills Arcana +5, Deception +4, Perception +4, Stealth +3**
 
-**Languages** Common, Draconic, Sylvan
+**Senses Darkvision 60 ft.; Passive Perception 14**
 
-**Challenge** 3 (700 XP)
+**Languages Common, Elvish, Sylvan**
 
-***Amphibious***. The hag can breathe air and water.
+**CR 3 (XP 700; PB +2)**
 
-***Innate Spellcasting***. The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material Components
+### Traits
 
-At will: *dancing lights*, *minor illusion*, *vicious mockery*
+Amphibious. The hag can breathe air and water.
 
-***Mimicry***. The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
+Coven Magic. While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell’s normal casting time, and using Intelligence as the spellcasting ability (spell save DC 11): Augury, Find Familiar, Identify, Locate Object, Scrying, or Unseen Servant. The hag must finish a Long Rest before using this trait to cast that spell again.
 
-###### Actions
+Mimicry. The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations only with a successful DC 14
 
-***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
+Wisdom (Insight) check.
 
-***Illusory Appearance***. The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
+### Actions
 
-The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.
+Multiattack. The hag makes two Claw attacks.
 
-***Invisible Passage***. The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
+Claw. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4)
+
+Slashing damage plus 3 (1d6) Poison damage.
+
+Spellcasting. The hag casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks): At Will: Dancing Lights, Disguise Self (24-hour duration), Invisibility (self only, and the hag leaves no tracks while Invisible), Minor Illusion, Ray of Sickness (level 3 version) Grick

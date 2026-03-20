@@ -1,39 +1,41 @@
-### Magma Mephit
+## Magma Mephit
 
-*Small elemental, neutral evil*
+*Small Elemental, Neutral Evil*
 
-**Armor Class** 11
+**AC 11 Initiative +1 (11)**
 
-**Hit Points** 22 (5d6+5)
+**HP 18 (4d6 + 4)**
 
-**Speed** 30 ft., fly 30 ft.
+**Speed 30 ft., Fly 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 8 (-1)   | 12 (+1)  | 12 (+1)  | 7 (-2)   | 10 (+0)  | 10 (+0)  |
 
-**Skills** Stealth +3
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 8 | −1 | −1 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
+| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 10 | +0 | +0 |
 
-**Damage Vulnerabilities** cold
+**Skills Stealth +3**
 
-**Damage Immunities** fire, poison
+Vulnerabilities Cold Immunities Fire, Poison; Exhaustion, Poisoned
 
-**Condition Immunities** poisoned
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Senses** darkvision 60 ft., passive Perception 10
+**Languages Primordial (Ignan, Terran)**
 
-**Languages** Ignan, Terran
+**CR 1/2 (XP 100; PB +2)**
 
-**Challenge** 1/2 (100 XP)
+### Traits
 
-***Death Burst***. When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
+Death Burst. The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each creature in a 5-foot
 
-***False Appearance***. While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.
+Emanation originating from the mephit. Failure: 7 (2d6)
 
-***Innate Spellcasting (1/Day)***. The mephit can innately cast *heat metal* (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
+Fire damage. Success: Half damage.
 
-###### Actions
+### Actions
 
-***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) slashing damage plus 2 (1d4) fire damage.
+Claw. Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1)
 
-***Fire Breath (Recharge 6)***. The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
+Slashing damage plus 3 (1d6) Fire damage.
+
+Fire Breath (Recharge 6). Dexterity Saving Throw: DC 11, each creature in a 15-foot Cone. Failure: 7 (2d6) Fire damage. Success: Half damage.

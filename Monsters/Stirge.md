@@ -1,25 +1,25 @@
 ## Stirge
 
-*Tiny beast, unaligned*
+*Tiny Monstrosity, Unaligned*
 
-**Armor Class** 14 (natural armor)
+**AC 13 Initiative +3 (13)**
 
-**Hit Points** 2 (1d4)
+**HP 5 (2d4)**
 
-**Speed** 10 ft., fly 40 ft.
+**Speed 10 ft., Fly 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 4 (-3)   | 16 (+3)  | 11 (+0)  | 2 (-4)   | 8 (-1)   | 6 (-2)   |
 
-**Senses** darkvision 60 ft., passive Perception 9
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 4 | −3 | −3 | **Dex** 16 | +3 | +3 | **Con** 11 | +0 | +0 |
+| **Int** 2 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 6 | −2 | −2 |
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 9**
 
-**Challenge** 1/8 (25 XP)
+**Languages None**
 
-###### Actions
+**CR 1/8 (XP 25; PB +2)**
 
-***Blood Drain***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5 (1d4+3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4+3) hit points due to blood loss.
+### Actions
 
-The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
+Proboscis. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage, and the stirge attaches to the target. While attached, the stirge can’t make Proboscis attacks, and the target takes 5 (2d4) Necrotic damage at the start of each of the stirge’s turns. The stirge can detach itself by spending 5 feet of its movement. The target or a creature within 5 feet of it can detach the stirge as an action. Stone Giant

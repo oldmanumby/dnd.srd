@@ -1,37 +1,39 @@
 ## Behir
 
-*Huge monstrosity, neutral evil*
+*Huge Monstrosity, Neutral Evil*
 
-**Armor Class** 17 (natural armor)
+**AC 17 Initiative +3 (13)**
 
-**Hit Points** 168 (16d12+64)
+**HP 168 (16d12 + 64)**
 
-**Speed** 50 ft., climb 40 ft.
+**Speed 50 ft., Climb 50 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 23 (+6)  | 16 (+3)  | 18 (+4)  | 7 (-2)   | 14 (+2)  | 12 (+1)  |
 
-**Skills** Perception +6, Stealth +7
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 23 | +6 | +6 | **Dex** 16 | +3 | +3 | **Con** 18 | +4 | +4 |
+| **Int** 7 | −2 | −2 | **Wis** 14 | +2 | +2 | **Cha** 12 | +1 | +1 |
 
-**Damage Immunities** lightning
+**Skills Perception +6, Stealth +7**
 
-**Senses** darkvision 90 ft., passive Perception 16
+**Immunities Lightning**
 
-**Languages** Draconic
+**Senses Darkvision 90 ft.; Passive Perception 16**
 
-**Challenge** 11 (7,200 XP)
+**Languages Draconic**
 
-###### Actions
+**CR 11 (XP 7,200; PB +4)**
 
-***Multiattack***. The behir makes two attacks: one with its bite and one to constrict.
+### Actions
 
-***Bite***. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 22 (3d10+6) piercing damage.
+Multiattack. The behir makes one Bite attack and uses
 
-***Constrict***. *Melee Weapon Attack:* +10 to hit, reach 5 ft., one Large or smaller creature. *Hit:* 17 (2d10+6) bludgeoning damage plus 17 (2d10+6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.
+Constrict.
 
-***Lightning Breath (Recharge 5-6)***. The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+Bite. Melee Attack Roll: +10, reach 10 ft. Hit: 19 (2d12 + 6) Piercing damage plus 11 (2d10) Lightning damage.
 
-***Swallow***. The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.
+Constrict. Strength Saving Throw: DC 18, one Large or smaller creature the behir can see within 5 feet. Failure: 28 (5d8 + 6) Bludgeoning damage. The target has the Grappled condition (escape DC 16), and it has the Restrained condition until the grapple ends. Lightning Breath (Recharge 5–6). Dexterity Saving Throw: DC 16, each creature in a 90-foot-long, 5-footwide Line. Failure: 66 (12d10) Lightning damage. Success: Half damage.
 
-If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
+### Bonus Actions
+
+Swallow. Dexterity Saving Throw: DC 18, one Large or smaller creature Grappled by the behir (the behir can have only one creature swallowed at a time). Failure: The behir swallows the target, which is no longer Grappled. While swallowed, a creature has the Blinded and Restrained conditions, has Total Cover against attacks and other effects outside the behir, and takes 21 (6d6) Acid damage at the start of each of the behir’s turns. If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls in a space within 10 feet of the behir and has the Prone condition. If the behir dies, a swallowed creature is no longer Restrained and can escape from the corpse by using 15 feet of movement, exiting Prone. Berserker

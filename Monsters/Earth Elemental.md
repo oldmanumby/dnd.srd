@@ -1,37 +1,39 @@
-### Earth Elemental
+## Earth Elemental
 
-*Large elemental, neutral*
+*Large Elemental, Neutral*
 
-**Armor Class** 17 (natural armor)
+**AC 17 Initiative −1 (9)**
 
-**Hit Points** 126 (12d10+60)
+**HP 147 (14d10 + 70)**
 
-**Speed** 30 ft., burrow 30 ft.
+**Speed 30 ft., Burrow 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 20 (+5)  | 8 (-1)   | 20 (+5)  | 5 (-3)   | 10 (+0)  | 5 (-3)   |
 
-**Damage Vulnerabilities** thunder
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 20 | +5 | +5 | **Dex** 8 | −1 | −1 | **Con** 20 | +5 | +5 |
+| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+Vulnerabilities Thunder Immunities Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
 
-**Damage Immunities** poison
+**Senses Darkvision 60 ft., Tremorsense 60 ft.;**
 
-**Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
+Passive Perception 10 Languages Primordial (Terran)
 
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+**CR 5 (XP 1,800; PB +3)**
 
-**Languages** Terran
+### Traits
 
-**Challenge** 5 (1,800 XP)
+Earth Glide. The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn’t disturb the material it moves through.
 
-***Earth Glide***. The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
+Siege Monster. The elemental deals double damage to objects and structures.
 
-***Siege Monster***. The elemental deals double damage to objects and structures.
+### Actions
 
-###### Actions
+Multiattack. The elemental makes two attacks, using
 
-***Multiattack***. The elemental makes two slam attacks.
+Slam or Rock Launch in any combination.
 
-***Slam***. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 14 (2d8+5) bludgeoning damage.
+Slam. Melee Attack Roll: +8, reach 10 ft. Hit: 14 (2d8 + 5) Bludgeoning damage.
+
+Rock Launch. Ranged Attack Roll: +8, range 60 ft. Hit: 8 (1d6 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition. Efreeti

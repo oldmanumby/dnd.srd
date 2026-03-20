@@ -1,40 +1,39 @@
-### Spirit Naga
+## Spirit Naga
 
-*Large monstrosity, chaotic evil*
+*Large Fiend, Chaotic Evil*
 
-**Armor Class** 15 (natural armor)
+**AC 17 Initiative +3 (13)**
 
-**Hit Points** 75 (10d10+20)
+**HP 135 (18d10 + 36)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 17 (+3)  | 14 (+2)  | 16 (+3)  | 15 (+2)  | 16 (+3)  |
 
-**Damage Immunities** poison
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 17 | +3 | +6 | **Con** 14 | +2 | +5 |
+| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +5 | **Cha** 16 | +3 | +6 |
 
-**Condition Immunities** charmed, poisoned
+**Immunities Poison; Charmed, Poisoned**
 
-**Senses** darkvision 60 ft., passive Perception 12
+**Senses Darkvision 60 ft.; Passive Perception 12**
 
-**Languages** Abyssal, Common
+**Languages Abyssal, Common**
 
-**Challenge** 8 (3,900 XP)
+**CR 8 (XP 3,900; PB +3)**
 
-***Rejuvenation***. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *wish* spell can prevent this trait from functioning.
+### Traits
 
-***Spellcasting***. The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
+Fiendish Restoration. If it dies, the naga returns to life in 1d6 days and regains all its Hit Points. Only a Wish spell can prevent this trait from functioning.
 
-Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
-1st level (4 slots): *charm person*, *detect magic*, *sleep*
-2nd level (3 slots): *detect thoughts*, *hold person*
-3rd level (3 slots): *lightning bolt*, *water breathing*
-4th level (3 slots): *blight*, *dimension door*
-5th level (2 slots): *dominate person*
+### Actions
 
-###### Actions
+Multiattack. The naga makes three attacks, using Bite or Necrotic Ray in any combination.
 
-***Bite***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 7 (1d6+4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
+Bite. Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4)
 
-[Nightmare](new/Nightmare.md)
+Piercing damage plus 14 (4d6) Poison damage.
+
+Necrotic Ray. Ranged Attack Roll: +6, range 60 ft. Hit: 21 (6d6) Necrotic damage.
+
+Spellcasting. The naga casts one of the following spells, requiring no Somatic or Material components and using Intelligence as the spellcasting ability (spell save DC 14): At Will: Detect Magic, Mage Hand, Minor Illusion, Water Breathing 2/Day Each: Detect Thoughts, Dimension Door, Hold Person (level 3 version), Lightning Bolt (level 4 version) Sprite

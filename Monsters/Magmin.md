@@ -1,31 +1,39 @@
 ## Magmin
 
-*Small elemental, chaotic neutral*
+*Small Elemental, Chaotic Neutral*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +2 (12)**
 
-**Hit Points** 9 (2d6+2)
+**HP 13 (3d6 + 3)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 7 (-2)   | 15 (+2)  | 12 (+1)  | 8 (-1)   | 11 (+0)  | 10 (+0)  |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 7 | −2 | −2 | **Dex** 15 | +2 | +2 | **Con** 12 | +1 | +1 |
+| **Int** 8 | −1 | −1 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
 
-**Damage Immunities** fire
+**Immunities Fire**
 
-**Senses** darkvision 60 ft., passive Perception 10
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Languages** Ignan
+**Languages Primordial (Ignan)**
 
-**Challenge** 1/2 (100 XP)
+**CR 1/2 (XP 100; PB +2)**
 
-***Death Burst***. When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.
+### Traits
 
-***Ignited Illumination***. As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+Death Burst. The magmin explodes when it dies. Dexterity Saving Throw: DC 11, each creature in a 10-foot
 
-###### Actions
+Emanation originating from the magmin. Failure: 7 (2d6)
 
-***Touch***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
+Fire damage. Success: Half damage.
+
+### Actions
+
+Touch. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Fire damage. If the target is a creature or a flammable object that isn’t being worn or carried, it starts burning.
+
+### Bonus Actions
+
+Ignited Illumination. The magmin sets itself ablaze or extinguishes its flames. While ablaze, the magmin sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet. Manticore

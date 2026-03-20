@@ -1,39 +1,39 @@
 ## Lamia
 
-*Large monstrosity, chaotic evil*
+*Large Fiend, Chaotic Evil*
 
-**Armor Class** 13 (natural armor)
+**AC 13 Initiative +1 (11)**
 
-**Hit Points** 97 (13d10+26)
+**HP 97 (13d10 + 26)**
 
-**Speed** 30 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 16 (+3)  | 13 (+1)  | 15 (+2)  | 14 (+2)  | 15 (+2)  | 16 (+3)  |
 
-**Skills** Deception +7, Insight +4, Stealth +3
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 15 | +2 | +2 |
+| **Int** 14 | +2 | +2 | **Wis** 15 | +2 | +2 | **Cha** 16 | +3 | +3 |
 
-**Senses** darkvision 60 ft., passive Perception 12
+**Skills Deception +7, Insight +4, Stealth +5**
 
-**Languages** Abyssal, Common
+**Senses Darkvision 60 ft.; Passive Perception 12**
 
-**Challenge** 4 (1,100 XP)
+**Languages Abyssal, Common**
 
-***Innate Spellcasting***. The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
+**CR 4 (XP 1,100; PB +2)**
 
-At will: *disguise self* (any humanoid form), *major image*
+### Actions
 
-3/day each: *charm person*, *mirror image*, *scrying*, *suggestion*
+Multiattack. The lamia makes two Claw attacks. It can replace one attack with a use of Corrupting Touch.
 
-1/day: *geas*
+Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3)
 
-###### Actions
+Slashing damage plus 7 (2d6) Psychic damage.
 
-***Multiattack***. The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
+Corrupting Touch. Wisdom Saving Throw: DC 13, one creature the lamia can see within 5 feet. Failure: 13 (3d8) Psychic damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions.
 
-***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 14 (2d10+3) slashing damage.
+Spellcasting. The lamia casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13): At Will: Disguise Self (can appear as a Large or Medium biped), Minor Illusion 1/Day Each: Geas, Major Image, Scrying
 
-***Dagger***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) piercing damage.
+### Bonus Actions
 
-***Intoxicating Touch***. *Melee Spell Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+Leap. The lamia jumps up to 30 feet by spending 10 feet of movement. Lemure

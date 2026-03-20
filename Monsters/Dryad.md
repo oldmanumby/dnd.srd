@@ -1,45 +1,45 @@
 ## Dryad
 
-*Medium fey, neutral*
+*Medium Fey, Neutral*
 
-**Armor Class** 11 (16 with *barkskin*)
+**AC 16 Initiative +1 (11)**
 
-**Hit Points** 22 (5d8)
+**HP 22 (5d8)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 10 (+0)  | 12 (+1)  | 11 (+0)  | 14 (+2)  | 15 (+2)  | 18 (+4)  |
 
-**Skills** Perception +4, Stealth +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 10 | +0 | +0 | **Dex** 12 | +1 | +1 | **Con** 11 | +0 | +0 |
+| **Int** 14 | +2 | +2 | **Wis** 15 | +2 | +2 | **Cha** 18 | +4 | +4 |
 
-**Senses** darkvision 60 ft., passive Perception 14
+**Skills Perception +4, Stealth +5**
 
-**Languages** Elvish, Sylvan
+**Senses Darkvision 60 ft.; Passive Perception 14**
 
-**Challenge** 1 (200 XP)
+**Languages Elvish, Sylvan**
 
-***Innate Spellcasting***. The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material Components
+**CR 1 (XP 200; PB +2)**
 
-At will: *druidcraft*
+### Traits
 
-3/day each: *entangle*, *goodberry*
+Magic Resistance. The dryad has Advantage on saving throws against spells and other magical effects.
 
-1/day each: *barkskin*, *pass without trace*, *shillelagh*
+Speak with Beasts and Plants. The dryad can communicate with Beasts and Plants as if they shared a language.
 
-***Magic Resistance***. The dryad has advantage on saving throws against spells and other magical effects.
+### Actions
 
-***Speak with Beasts and Plants***. The dryad can communicate with beasts and plants as if they shared a language.
+Multiattack. The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting to cast
 
-***Tree Stride***. Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
+Charm Monster.
 
-###### Actions
+Vine Lash. Melee Attack Roll: +6, reach 10 ft. Hit: 8 (1d8 + 4) Slashing damage.
 
-***Club***. *Melee Weapon Attack:* +2 to hit (+6 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8+4) bludgeoning damage with *shillelagh*.
+Thorn Burst. Ranged Attack Roll: +6, range 60 ft. Hit: 7 (1d6 + 4) Piercing damage.
 
-***Fey Charm***. The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
+Spellcasting. The dryad casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14): At Will: Animal Friendship, Charm Monster (lasts 24 hours; ends early if the dryad casts the spell again), Druidcraft 1/Day Each: Entangle, Pass without Trace
 
-Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.
+### Bonus Actions
 
-The dryad can have no more than one humanoid and up to three beasts charmed at a time.
+Tree Stride. If within 5 feet of a Large or bigger tree, the dryad teleports to an unoccupied space within 5 feet of a second Large or bigger tree that is within 60 feet of the previous tree. Earth Elemental

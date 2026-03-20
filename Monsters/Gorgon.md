@@ -1,33 +1,33 @@
 ## Gorgon
 
-*Large monstrosity, unaligned*
+*Large Construct, Unaligned*
 
-**Armor Class** 19 (natural armor)
+**AC 19 Initiative +0 (10)**
 
-**Hit Points** 114 (12d10+48)
+**HP 114 (12d10 + 48)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 20 (+5)  | 11 (+0)  | 18 (+4)  | 2 (-4)   | 12 (+1)  | 7 (-2)   |
 
-**Skills** Perception +4
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 20 | +5 | +5 | **Dex** 11 | +0 | +0 | **Con** 18 | +4 | +4 |
+| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
 
-**Condition Immunities** petrified
+**Skills Perception +7**
 
-**Senses** darkvision 60 ft., passive Perception 14
+**Immunities Exhaustion, Petrified**
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 17**
 
-**Challenge** 5 (1,800 XP)
+**Languages None**
 
-***Trampling Charge***. If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.
+**CR 5 (XP 1,800; PB +3)**
 
-###### Actions
+### Actions
 
-***Gore***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 18 (2d12+5) piercing damage.
+Gore. Melee Attack Roll: +8, reach 5 ft. Hit: 18 (2d12 + 5) Piercing damage. If the target is a Large or smaller creature and the gorgon moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition. Petrifying Breath (Recharge 5–6). Constitution Saving Throw: DC 15, each creature in a 30-foot Cone. First Failure: The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. Second Failure: The target has the Petrified condition instead of the Restrained condition.
 
-***Hooves***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16 (2d10+5) bludgeoning damage.
+### Bonus Actions
 
-***Petrifying Breath (Recharge 5-6)***. The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the *greater restoration* spell or other magic.
+Trample. Dexterity Saving Throw: DC 16, one creature within 5 feet that has the Prone condition. Failure: 16 (2d10 + 5) Bludgeoning damage. Success: Half damage. Gray Ooze

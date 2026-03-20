@@ -1,45 +1,47 @@
 ## Drider
 
-*Large monstrosity, chaotic evil*
+*Large Monstrosity, Chaotic Evil*
 
-**Armor Class** 19 (natural armor)
+**AC 19 Initiative +4 (14)**
 
-**Hit Points** 123 (13d10+52)
+**HP 123 (13d10 + 52)**
 
-**Speed** 30 ft., climb 30 ft.
+**Speed 30 ft., Climb 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 16 (+3)  | 16 (+3)  | 18 (+4)  | 13 (+1)  | 14 (+2)  | 12 (+1)  |
 
-**Skills** Perception +5, Stealth +9
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 19 | +4 | +4 | **Con** 18 | +4 | +4 |
+| **Int** 13 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 12 | +1 | +1 |
 
-**Senses** darkvision 120 ft., passive Perception 15
+**Skills Perception +6, Stealth +10**
 
-**Languages** Elvish, Undercommon
+**Senses Darkvision 120 ft.; Passive Perception 16**
 
-**Challenge** 6 (2,300 XP)
+**Languages Elvish, Undercommon**
 
-***Fey Ancestry***. The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.
+**CR 6 (XP 2,300; PB +3)**
 
-***Innate Spellcasting***. The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material Components
+### Traits
 
-At will: *dancing lights*
+Spider Climb. The drider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-1/day each: *darkness*, *faerie fire*
+Sunlight Sensitivity. While in sunlight, the drider has
 
-***Spider Climb***. The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Disadvantage on ability checks and attack rolls.
 
-***Sunlight Sensitivity***. While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+Web Walker. The drider ignores movement restrictions caused by webs, and the drider knows the location of any other creature in contact with the same web.
 
-***Web Walker***. The drider ignores movement restrictions caused by webbing.
+### Actions
 
-###### Actions
+Multiattack. The drider makes three attacks, using
 
-***Multiattack***. The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
+Foreleg or Poison Burst in any combination.
 
-***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) piercing damage plus 9 (2d8) poison damage.
+Foreleg. Melee Attack Roll: +7, reach 10 ft. Hit: 13 (2d8 + 4) Piercing damage.
 
-***Longsword***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) slashing damage, or 8 (1d10+3) slashing damage if used with two hands.
+Poison Burst. Ranged Attack Roll: +6, range 120 ft. Hit: 13 (3d6 + 3) Poison damage.
 
-***Longbow***. *Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8+3) piercing damage plus 4 (1d8) poison damage.
+### Bonus Actions
+
+Magic of the Spider Queen (Recharge 5–6). The drider casts Darkness, Faerie Fire, or Web, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 14). Druid

@@ -1,35 +1,35 @@
 ## Darkmantle
 
-*Small monstrosity, unaligned*
+*Small Aberration, Unaligned*
 
-**Armor Class** 11
+**AC 11 Initiative +3 (13)**
 
-**Hit Points** 22 (5d6+5)
+**HP 22 (5d6 + 5)**
 
-**Speed** 10 ft., fly 30 ft.
+**Speed 10 ft., Fly 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 16 (+3)  | 12 (+1)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
 
-**Skills** Stealth +3
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 13 | +1 | +1 |
+| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
 
-**Senses** blindsight 60 ft., passive Perception 10
+**Skills Stealth +3**
 
-**Languages** -
+**Senses Blindsight 60 ft.; Passive Perception 10**
 
-**Challenge** 1/2 (100 XP)
+**Languages None**
 
-***Echolocation***. The darkmantle can't use its blindsight while deafened.
+**CR 1/2 (XP 100; PB +2)**
 
-***False Appearance***. While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.
+### Actions
 
-###### Actions
+Crush. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage, and the darkmantle attaches to the target. If the target is a Medium or smaller creature and the darkmantle had Advantage on the attack roll, it covers the target, which has the Blinded condition and is suffocating while the darkmantle is attached in this way. While attached to a target, the darkmantle can attack only the target but has Advantage on its attack rolls. Its
 
-***Crush***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 6 (1d6+3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.
+**Speed becomes 0, it can’t benefit from any bonus to its**
 
-While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target.
+Speed, and it moves with the target. A creature can take an action to try to detach the darkmantle from itself, doing so with a successful DC 13 Strength (Athletics) check. On its turn, the darkmantle can detach itself by using 5 feet of movement.
 
-A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.
+Darkness Aura (1/Day). Magical Darkness fills a 15-foot
 
-***Darkness Aura (1/Day)***. A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
+Emanation originating from the darkmantle. This effect lasts while the darkmantle maintains Concentration on it, up to 10 minutes. Darkvision can’t penetrate this area, and no light can illuminate it. Death Dog

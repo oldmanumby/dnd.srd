@@ -1,41 +1,43 @@
-### Horned Devil
+## Horned Devil
 
-*Large fiend (devil), lawful evil*
+*Large Fiend (Devil), Lawful Evil*
 
-**Armor Class** 18 (natural armor)
+**AC 18 Initiative +7 (17)**
 
-**Hit Points** 148 (17d10+55)
+**HP 199 (19d10 + 95)**
 
-**Speed** 20 ft., fly 60 ft.
+**Speed 30 ft., Fly 60 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 22 (+6)  | 17 (+3)  | 21 (+5)  | 12 (+1)  | 16 (+3)  | 17 (+3)  |
 
-**Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 22 | +6 | +10 | **Dex** 17 | +3 | +7 | **Con** 21 | +5 | +5 |
+| **Int** 12 | +1 | +1 | **Wis** 16 | +3 | +7 | **Cha** 18 | +4 | +8 |
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+**Resistances Cold**
 
-**Damage Immunities** fire, poison
+**Immunities Fire, Poison; Poisoned**
 
-**Condition Immunities** poisoned
+**Senses Darkvision 150 ft. (unimpeded by magical**
 
-**Senses** darkvision 120 ft., passive Perception 13
+Darkness); Passive Perception 13 Languages Infernal; telepathy 120 ft.
 
-**Languages** Infernal, telepathy 120 ft.
+**CR 11 (XP 7,200; PB +4)**
 
-**Challenge** 11 (7,200 XP)
+### Traits
 
-***Devil's Sight***. Magical darkness doesn't impede the devil's darkvision.
+Diabolical Restoration. If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit
 
-***Magic Resistance***. The devil has advantage on saving throws against spells and other magical effects.
+Points somewhere in the Nine Hells.
 
-###### Actions
+Magic Resistance. The devil has Advantage on saving throws against spells and other magical effects.
 
-***Multiattack***. The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
+### Actions
 
-***Fork***. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 15 (2d8+6) piercing damage.
+Multiattack. The devil makes three attacks, using Searing Fork or Hurl Flame in any combination. It can replace one attack with a use of Infernal Tail.
 
-***Tail***. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 10 (1d8+6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+Searing Fork. Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Piercing damage plus 9 (2d8) Fire damage.
 
-***Hurl Flame***. *Ranged Spell Attack:* +7 to hit, range 150 ft., one target. *Hit:* 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+Hurl Flame. Ranged Attack Roll: +8, range 150 ft. Hit: 26 (5d8 + 4) Fire damage. If the target is a flammable object that isn’t being worn or carried, it starts burning.
+
+Infernal Tail. Dexterity Saving Throw: DC 17, one creature the devil can see within 10 feet. Failure: 10 (1d8 + 6) Necrotic damage, and the target receives an infernal wound if it doesn’t have one. While wounded, the target loses 10 (3d6) Hit Points at the start of each of its turns. The wound closes after 1 minute, after a spell restores Hit Points to the target, or after the target or a creature within 5 feet of it takes an action to stanch the wound, doing so by succeeding on a DC 17 Wisdom (Medicine) check. Hydra

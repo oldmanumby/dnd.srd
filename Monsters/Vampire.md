@@ -1,75 +1,69 @@
-### Vampire
+## Vampire
 
-*Medium undead (shapechanger), lawful evil*
+*Medium or Small Undead, Lawful Evil*
 
-**Armor Class** 16 (natural armor)
+**AC 16 Initiative +14 (24)**
 
-**Hit Points** 144 (17d8+68)
+**HP 195 (23d8 + 92)**
 
-**Speed** 30 ft.
+**Speed 40 ft., Climb 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 18 (+4)  | 18 (+4)  | 17 (+3)  | 15 (+2)  | 18 (+4)  |
 
-**Saving Throws** Dex +9, Wis +7, Cha +9
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 18 | +4 | +9 | **Con** 18 | +4 | +9 |
+| **Int** 17 | +3 | +3 | **Wis** 15 | +2 | +7 | **Cha** 18 | +4 | +9 |
 
-**Skills** Perception +7, Stealth +9
+**Skills Perception +7, Stealth +9**
 
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+**Resistances Necrotic**
 
-**Senses** darkvision 120 ft., passive Perception 17
+**Senses Darkvision 120 ft.; Passive Perception 17**
 
-**Languages** the languages it knew in life
+**Languages Common plus two other languages**
 
-**Challenge** 13 (10,000 XP)
+**CR 13 (XP 10,000, or 11,500 in lair; PB +5)**
 
-***Shapechanger***. If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.
+### Traits
 
-While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
+Legendary Resistance (3/Day, or 4/Day in Lair). If the vampire fails a saving throw, it can choose to succeed instead.
 
-While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.
+Misty Escape. If the vampire drops to 0 Hit Points outside its resting place, the vampire uses Shape-Shift to become mist (no action required). If it can’t use ShapeShift, it is destroyed. While it has 0 Hit Points in mist form, it can’t return to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it returns to its vampire form and has the Paralyzed condition until it regains any Hit Points, and it regains 1 Hit Point after spending 1 hour there.
 
-***Legendary Resistance (3/Day)***. If the vampire fails a saving throw, it can choose to succeed instead.
+Spider Climb. The vampire can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-***Misty Escape***. When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.
+Vampire Weakness. The vampire has these weaknesses:
 
-While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.
+Forbiddance. The vampire can’t enter a residence without an invitation from an occupant.
 
-***Regeneration***. The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
+Running Water. The vampire takes 20 Acid damage if it ends its turn in running water.
 
-***Spider Climb***. The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Stake to the Heart. If a weapon that deals Piercing damage is driven into the vampire’s heart while the vampire has the Incapacitated condition in its resting place, the vampire has the Paralyzed condition until the weapon is removed.
 
-***Vampire Weaknesses***. The vampire has the following flaws:
+Sunlight. The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
 
-*Forbiddance*. The vampire can't enter a residence without an invitation from one of the occupants.
+### Actions
 
-*Harmed by Running Water*. The vampire takes 20 acid damage if it ends its turn in running water.
+Multiattack (Vampire Form Only). The vampire makes two Grave Strike attacks and uses Bite.
 
-*Stake to the Heart*. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.
+Grave Strike (Vampire Form Only). Melee Attack Roll: +9, reach 5 ft. Hit: 8 (1d8 + 4) Bludgeoning damage plus 7 (2d6) Necrotic damage. If the target is a Large or smaller creature, it has the Grappled condition (escape
 
-*Sunlight Hypersensitivity*. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+DC 14) from one of two hands.
 
-###### Actions
+Bite (Bat or Vampire Form Only). Constitution Saving Throw: DC 17, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. Failure: 6 (1d4 + 4) Piercing damage plus 13 (3d8) Necrotic damage. The target’s Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount. A Humanoid reduced to 0 Hit Points by this damage and then buried rises the following sunset as a Vampire Spawn under the vampire’s control.
 
-***Multiattack (Vampire Form Only)***. The vampire makes two attacks, only one of which can be a bite attack.
+### Bonus Actions
 
-***Unarmed Strike (Vampire Form Only)***. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 8 (1d8+4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).
+Charm (Recharge 5–6). The vampire casts Charm Person, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 17), and the duration is 24 hours. The Charmed target is a willing recipient of the vampire’s Bite, the damage of which doesn’t end the spell. When the spell ends, the target is unaware it was Charmed by the vampire. Shape-Shift. If the vampire isn’t in sunlight or running water, it shape-shifts into a Tiny bat (Speed 5 ft., Fly
 
-***Bite (Bat or Vampire Form Only)***. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. *Hit:* 7 (1d6+4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
+**Speed 30 ft.) or a Medium cloud of mist (Speed 5 ft.,**
 
-***Charm***. The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.
+Fly Speed 20 ft. [hover]), or it returns to its vampire form. Anything it is wearing transforms with it. While in bat form, the vampire can’t speak. Its game statistics, other than its size and Speed, are unchanged. While in mist form, the vampire can’t take any actions, speak, or manipulate objects. It is weightless and can enter an enemy’s space and stop there. If air can pass through a space, the mist can do so, but it can’t pass through liquid. It has Resistance to all damage, except the damage it takes from sunlight.
 
-Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
+### Legendary Actions
 
-***Children of the Night (1/Day)***. The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the vampire can expend a use to take one of the following actions. The vampire regains all expended uses at the start of each of its turns.
 
-###### Legendary Actions
+Beguile. The vampire casts Command, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 17). The vampire can’t take this action again until the start of its next turn.
 
-The vampire can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The vampire regains spent legendary actions at the start of its turn.
-
-**Move**. The vampire moves up to its speed without provoking opportunity attacks.
-
-**Unarmed Strike**. The vampire makes one unarmed strike.
-
-**Bite (Costs 2 Actions)**. The vampire makes one bite attack.
+Deathless Strike. The vampire moves up to half its Speed, and it makes one Grave Strike attack. Vrock

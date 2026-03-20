@@ -1,29 +1,33 @@
-### Ghoul
+## Ghoul
 
-*Medium undead, chaotic evil*
+*Medium Undead, Chaotic Evil*
 
-**Armor Class** 12
+**AC 12 Initiative +2 (12)**
 
-**Hit Points** 22 (5d8)
+**HP 22 (5d8)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 13 (+1)  | 15 (+2)  | 10 (+0)  | 7 (-2)   | 10 (+0)  | 6 (-2)   |
 
-**Damage Immunities** poison
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 13 | +1 | +1 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
+| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
 
-**Condition Immunities** charmed, exhaustion, poisoned
+**Immunities Poison; Charmed, Exhaustion, Poisoned**
 
-**Senses** darkvision 60 ft., passive Perception 10
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Languages** Common
+**Languages Common**
 
-**Challenge** 1 (200 XP)
+**CR 1 (XP 200; PB +2)**
 
-###### Actions
+### Actions
 
-***Bite***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6+2) piercing damage.
+Multiattack. The ghoul makes two Bite attacks.
 
-***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4+2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2)
+
+Piercing damage plus 3 (1d6) Necrotic damage.
+
+Claw. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage. If the target is a creature that isn’t an Undead or elf, it is subjected to the following effect. Constitution Saving Throw: DC 10. Failure: The target has the Paralyzed condition until the end of its next turn. Gibbering Mouther

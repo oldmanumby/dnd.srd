@@ -1,37 +1,37 @@
 ## Dragon Turtle
 
-*Gargantuan dragon, neutral*
+*Gargantuan Dragon, Neutral*
 
-**Armor Class** 20 (natural armor)
+**AC 20 Initiative +6 (16)**
 
-**Hit Points** 341 (22d20+110)
+**HP 356 (23d20 + 115)**
 
-**Speed** 20 ft., swim 40 ft.
+**Speed 20 ft., Swim 50 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 25 (+7)  | 10 (+0)  | 20 (+5)  | 10 (+0)  | 12 (+1)  | 12 (+1)  |
 
-**Saving Throws** Dex +6, Con +11, Wis +7
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 25 | +7 | +7 | **Dex** 10 | +0 | +0 | **Con** 20 | +5 | +11 |
+| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +7 | **Cha** 12 | +1 | +1 |
 
-**Damage Resistances** fire
+**Resistances Fire**
 
-**Senses** darkvision 120 ft., passive Perception 11
+**Senses Darkvision 120 ft.; Passive Perception 11**
 
-**Languages** Aquan, Draconic
+**Languages Draconic, Primordial (Aquan)**
 
-**Challenge** 17 (18,000 XP)
+**CR 17 (XP 18,000; PB +6)**
 
-***Amphibious***. The dragon turtle can breathe air and water.
+### Traits
 
-###### Actions
+Amphibious. The dragon can breathe air and water.
 
-***Multiattack***. The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
+### Actions
 
-***Bite***. *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26 (3d12+7) piercing damage.
+Multiattack. The dragon makes three Bite attacks. It can replace one attack with a Tail attack.
 
-***Claw***. *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 16 (2d8+7) slashing damage.
+Bite. Melee Attack Roll: +13, reach 15 ft. Hit: 23 (3d10 + 7) Piercing damage plus 7 (2d6) Fire damage. Being underwater doesn’t grant Resistance to this
 
-***Tail***. *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26 (3d12+7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.
+Fire damage.
 
-***Steam Breath (Recharge 5-6)***. The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
+Tail. Melee Attack Roll: +13, reach 15 ft. Hit: 18 (2d10 + 7) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition. Steam Breath (Recharge 5–6). Constitution Saving Throw: DC 19, each creature in a 60-foot Cone. Failure: 56 (16d6) Fire damage. Success: Half damage. Failure or Success: Being underwater doesn’t grant Resistance to this Fire damage. Dretch

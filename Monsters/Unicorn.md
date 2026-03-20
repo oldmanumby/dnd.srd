@@ -1,57 +1,51 @@
 ## Unicorn
 
-*Large celestial, lawful good*
+*Large Celestial, Lawful Good*
 
-**Armor Class** 12
+**AC 12 Initiative +8 (18)**
 
-**Hit Points** 67 (9d10+18)
+**HP 97 (13d10 + 26)**
 
-**Speed** 50 ft.
+**Speed 50 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 14 (+2)  | 15 (+2)  | 11 (+0)  | 17 (+3)  | 16 (+3)  |
 
-**Damage Immunities** poison
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 15 | +2 | +2 |
+| **Int** 11 | +0 | +0 | **Wis** 17 | +3 | +3 | **Cha** 16 | +3 | +3 |
 
-**Condition Immunities** charmed, paralyzed, poisoned
+**Immunities Poison; Charmed, Paralyzed, Poisoned**
 
-**Senses** darkvision 60 ft., passive Perception 13
+**Senses Darkvision 60 ft.; Passive Perception 13**
 
-**Languages** Celestial, Elvish, Sylvan, telepathy 60 ft.
+**Languages Celestial, Elvish, Sylvan; telepathy 120 ft.**
 
-**Challenge** 5 (1,800 XP)
+**CR 5 (XP 1,800; PB +3)**
 
-***Charge***. If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+### Traits
 
-***Innate Spellcasting***. The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no Components
+Legendary Resistance (3/Day). If the unicorn fails a saving throw, it can choose to succeed instead.
 
-At will: *detect evil and good*, *druidcraft*, *pass without trace*
+Magic Resistance. The unicorn has Advantage on saving throws against spells and other magical effects.
 
-1/day each: *calm emotions*, *dispel evil and good*, *entangle*
+### Actions
 
-***Magic Resistance***. The unicorn has advantage on saving throws against spells and other magical effects.
+Multiattack. The unicorn makes one Hooves attack and one Radiant Horn attack.
 
-***Magic Weapons***. The unicorn's weapon attacks are magical.
+Hooves. Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning damage.
 
-###### Actions
+Radiant Horn. Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d10 + 4) Radiant damage.
 
-***Multiattack***. The unicorn makes two attacks: one with its hooves and one with its horn.
+Spellcasting. The unicorn casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 14): At Will: Detect Evil and Good, Druidcraft 1/Day Each: Calm Emotions, Dispel Evil and Good, Entangle, Pass without Trace, Word of Recall
 
-***Hooves***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
+### Bonus Actions
 
-***Horn***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8+4) piercing damage.
+Unicorn’s Blessing (3/Day). The unicorn touches another creature with its horn and casts Cure Wounds or Lesser Restoration on that creature, using the same spellcasting ability as Spellcasting.
 
-***Healing Touch (3/Day)***. The unicorn touches another creature with its horn. The target magically regains 11 (2d8+2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
+### Legendary Actions
 
-***Teleport (1/Day)***. The unicorn magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
+Legendary Action Uses: 3. Immediately after another creature’s turn, the unicorn can expend a use to take one of the following actions. The unicorn regains all expended uses at the start of each of its turns.
 
-###### Legendary Actions
+Charging Horn. The unicorn moves up to half its Speed without provoking Opportunity Attacks, and it makes one Radiant Horn attack.
 
-The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.
-
-**Hooves**. The unicorn makes one attack with its hooves.
-
-**Shimmering Shield (Costs 2 Actions)**. The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.
-
-**Heal Self (Costs 3 Actions)**. The unicorn magically regains 11 (2d8+2) hit points.
+Shimmering Shield. The unicorn targets itself or one creature it can see within 60 feet of itself. The target gains 10 (3d6) Temporary Hit Points, and its AC increases by 2 until the end of the unicorn’s next turn. The unicorn can’t take this action again until the start of its next turn. Vampires

@@ -1,65 +1,63 @@
-### Mummy Lord
+## Mummy Lord
 
-*Medium undead, lawful evil*
+*Medium or Small Undead (Cleric), Lawful Evil*
 
-**Armor Class** 17 (natural armor)
+**AC 17 Initiative +10 (20)**
 
-**Hit Points** 97 (13d8+39)
+**HP 187 (25d8 + 75)**
 
-**Speed** 20 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 10 (+0)  | 17 (+3)  | 11 (+0)  | 18 (+4)  | 16 (+3)  |
 
-**Saving Throws** Con +8, Int +5, Wis +9, Cha +8
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 17 | +3 | +3 |
+| **Int** 11 | +0 | +5 | **Wis** 19 | +4 | +9 | **Cha** 16 | +3 | +3 |
 
-**Skills** History +5, Religion +5
+**Skills History +5, Perception +9, Religion +5**
 
-**Damage Vulnerabilities** fire
+Vulnerabilities Fire Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 
-**Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+**Senses Truesight 60 ft.; Passive Perception 19**
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+**Languages Common plus three other languages**
 
-**Senses** darkvision 60 ft., passive Perception 14
+**CR 15 (XP 13,000, or 15,000 in lair; PB +5)**
 
-**Languages** the languages it knew in life
+### Traits
 
-**Challenge** 15 (13,000 XP)
+Legendary Resistance (3/Day, or 4/Day in Lair). If the mummy fails a saving throw, it can choose to succeed instead.
 
-***Magic Resistance***. The mummy lord has advantage on saving throws against spells and other magical effects.
+Magic Resistance. The mummy has Advantage on saving throws against spells and other magical effects.
 
-***Rejuvenation***. A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord's heart.
+Undead Restoration. If destroyed, the mummy gains a new body in 24 hours if its heart is intact, reviving with all its Hit Points. The new body appears in an unoccupied space within the mummy’s lair. The heart is a Tiny object that has AC 17, HP 10, and Immunity to all damage except Fire.
 
-***Spellcasting***. The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
+### Actions
 
-Cantrips (at will): *sacred flame*, *thaumaturgy*
-1st level (4 slots): *command*, *guiding bolt*, *shield of faith*
-2nd level (3 slots): *hold person*, *silence*, *spiritual weapon*
-3rd level (3 slots): *animate dead*, *dispel magic*
-4th level (3 slots): *divination*, *guardian of faith*
-5th level (2 slots): *contagion*, *insect plague*
-6th level (1 slot): *harm*
+Multiattack. The mummy makes one Rotting Fist or Channel Negative Energy attack, and it uses
 
-###### Actions
+Dreadful Glare.
 
-***Multiattack***. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
+Rotting Fist. Melee Attack Roll: +9, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can’t regain Hit Points, it gains no benefit from finishing a Long Rest, and its Hit Point maximum decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0
 
-***Rotting Fist***. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14 (3d6+4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *remove curse* spell or other magic.
+Hit Points by this attack.
 
-***Dreadful Glare***. The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
+Channel Negative Energy. Ranged Attack Roll: +9, range 60 ft. Hit: 25 (6d6 + 4) Necrotic damage.
 
-###### Legendary Actions
+Dreadful Glare. Wisdom Saving Throw: DC 17, one creature the mummy can see within 60 feet. Failure: 25 (6d6 + 4) Psychic damage, and the target has the Paralyzed condition until the end of the mummy’s next turn.
 
-The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.
+Spellcasting. The mummy casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks): At Will: Dispel Magic, Thaumaturgy 1/Day Each: Animate Dead, Harm, Insect Plague (level 7 version)
 
-**Attack**. The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
+### Reactions
 
-**Blinding Dust**. Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn.
+Whirlwind of Sand. Trigger: The mummy is hit by an attack roll. Response: The mummy adds 2 to its AC against the attack, possibly causing the attack to miss, and the mummy teleports up to 60 feet to an unoccupied space it can see. Each creature of its choice that it can see within 5 feet of its destination space has the Blinded condition until the end of the mummy’s next turn.
 
-**Blasphemous Word (Costs 2 Actions)**. The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord's next turn.
+### Legendary Actions
 
-**Channel Negative Energy (Costs 2 Actions)**. The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the mummy can expend a use to take one of the following actions. The mummy regains all expended uses at the start of each of its turns.
 
-**Whirlwind of Sand (Costs 2 Actions)**. The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
+Dread Command. The mummy casts Command (level 2 version), using the same spellcasting ability as Spellcasting. The mummy can’t take this action again until the start of its next turn.
+
+Glare. The mummy uses Dreadful Glare. The mummy can’t take this action again until the start of its next turn.
+
+Necrotic Strike. The mummy makes one Rotting Fist or Channel Negative Energy attack. Nalfeshnee

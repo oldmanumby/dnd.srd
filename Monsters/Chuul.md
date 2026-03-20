@@ -1,37 +1,41 @@
 ## Chuul
 
-*Large aberration, chaotic evil*
+*Large Aberration, Chaotic Evil*
 
-**Armor Class** 16 (natural armor)
+**AC 16 Initiative +0 (10)**
 
-**Hit Points** 93 (11d10+33)
+**HP 76 (9d10 + 27)**
 
-**Speed** 30 ft., swim 30 ft.
+**Speed 30 ft., Swim 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 19 (+4)  | 10 (+0)  | 16 (+3)  | 5 (-3)   | 11 (+0)  | 5 (-3)   |
 
-**Skills** Perception +4
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 16 | +3 | +3 |
+| **Int** 5 | −3 | −3 | **Wis** 11 | +0 | +0 | **Cha** 5 | −3 | −3 |
 
-**Damage Immunities** poison
+**Skills Perception +4**
 
-**Condition Immunities** poisoned
+**Immunities Poison; Poisoned**
 
-**Senses** darkvision 60 ft., passive Perception 14
+**Senses Darkvision 60 ft.; Passive Perception 14**
 
-**Languages** understands Deep Speech but can't speak
+**Languages Understands Deep Speech but can’t speak**
 
-**Challenge** 4 (1,100 XP)
+**CR 4 (XP 1,100; PB +2)**
 
-***Amphibious***. The chuul can breathe air and water.
+### Traits
 
-***Sense Magic***. The chuul senses magic within 120 feet of it at will. This trait otherwise works like the *detect magic* spell but isn't itself magical.
+Amphibious. The chuul can breathe air and water.
 
-###### Actions
+Sense Magic. The chuul senses magic within 120 feet of itself. This trait otherwise works like the Detect Magic spell but isn’t itself magical.
 
-***Multiattack***. The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.
+### Actions
 
-***Pincer***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have two other creatures grappled.
+Multiattack. The chuul makes two Pincer attacks and uses Paralyzing Tentacles.
 
-***Tentacles***. One creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Pincer. Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape
+
+DC 14) from one of two pincers.
+
+Paralyzing Tentacles. Constitution Saving Throw: DC 13, one creature Grappled by the chuul. Failure: The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. While Poisoned, the target has the Paralyzed condition. Clay Golem

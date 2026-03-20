@@ -1,37 +1,43 @@
 ## Doppelganger
 
-*Medium monstrosity (shapechanger), neutral*
+*Medium Monstrosity, Neutral*
 
-**Armor Class** 14
+**AC 14 Initiative +4 (14)**
 
-**Hit Points** 52 (8d8+16)
+**HP 52 (8d8 + 16)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 11 (+0)  | 18 (+4)  | 14 (+2)  | 11 (+0)  | 12 (+1)  | 14 (+2)  |
 
-**Skills** Deception +6, Insight +3
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 11 | +0 | +0 | **Dex** 18 | +4 | +4 | **Con** 14 | +2 | +2 |
+| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 14 | +2 | +2 |
 
-**Condition Immunities** charmed
+**Skills Deception +6, Insight +3**
 
-**Senses** darkvision 60 ft., passive Perception 11
+**Immunities Charmed**
 
-**Languages** Common
+**Senses Darkvision 60 ft.; Passive Perception 11**
 
-**Challenge** 3 (700 XP)
+**Languages Common plus three other languages**
 
-***Shapechanger***. The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+**CR 3 (XP 700; PB +2)**
 
-***Ambusher***. The doppelganger has advantage on attack rolls against any creature it has surprised.
+### Actions
 
-***Surprise Attack***. If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
+Multiattack. The doppelganger makes two Slam attacks and uses Unsettling Visage if available.
 
-###### Actions
+Slam. Melee Attack Roll: +6 (with Advantage during the first round of each combat), reach 5 ft. Hit: 11 (2d6 + 4)
 
-***Multiattack***. The doppelganger makes two melee attacks.
+Bludgeoning damage.
 
-***Slam***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6+4) bludgeoning damage.
+Read Thoughts. The doppelganger casts Detect Thoughts, requiring no spell components and using
 
-***Read Thoughts***. The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
+Charisma as the spellcasting ability (spell save DC 12).
+
+Unsettling Visage (Recharge 6). Wisdom Saving Throw: DC 12, each creature in a 15-foot Emanation originating from the doppelganger that can see the doppelganger. Failure: The target has the Frightened condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+
+### Bonus Actions
+
+Shape-Shift. The doppelganger shape-shifts into a Medium or Small Humanoid, or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. Dragon Turtle

@@ -1,33 +1,45 @@
-### Steam Mephit
+## Steam Mephit
 
-*Small elemental, neutral evil*
+*Small Elemental, Neutral Evil*
 
-**Armor Class** 10
+**AC 10 Initiative +0 (10)**
 
-**Hit Points** 21 (6d6)
+**HP 17 (5d6)**
 
-**Speed** 30 ft., fly 30 ft.
+**Speed 30 ft., Fly 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 5 (-3)   | 11 (+0)  | 10 (+0)  | 11 (+0)  | 10 (+0)  | 12 (+1)  |
 
-**Damage Immunities** fire, poison
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 5 | −3 | −3 | **Dex** 11 | +0 | +0 | **Con** 10 | +0 | +0 |
+| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 12 | +1 | +1 |
 
-**Condition Immunities** poisoned
+**Skills Stealth +2**
 
-**Senses** darkvision 60 ft., passive Perception 10
+**Immunities Fire, Poison; Exhaustion, Poisoned**
 
-**Languages** Aquan, Ignan
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Challenge** 1/4 (50 XP)
+**Languages Primordial (Aquan, Ignan)**
 
-***Death Burst***. When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.
+**CR 1/4 (XP 50; PB +2)**
 
-***Innate Spellcasting (1/Day)***. The mephit can innately cast *blur*, requiring no material components. Its innate spellcasting ability is Charisma.
+### Traits
 
-###### Actions
+Blurred Form. Attack rolls against the mephit are made with Disadvantage unless the mephit has the Incapacitated condition.
 
-***Claws.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) slashing damage plus 2 (1d4) fire damage.
+Death Burst. The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each creature in a 5-foot
 
-***Steam Breath (Recharge 6)***. The mephit exhales a 15- foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
+Emanation originating from the mephit. Failure: 5 (2d4)
+
+Fire damage. Success: Half damage.
+
+### Actions
+
+Claw. Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4)
+
+Slashing damage plus 2 (1d4) Fire damage.
+
+Steam Breath (Recharge 6). Constitution Saving Throw: DC 10, each creature in a 15-foot Cone. Failure: 5 (2d4) Fire damage, and the target’s Speed decreases by 10 feet until the end of the mephit’s next turn. Success:
+
+Half damage only. Failure or Success: Being underwater doesn’t grant Resistance to this Fire damage. Merfolk

@@ -1,267 +1,217 @@
-# Monsters (E)
+## Earth Elemental
 
-## Elementals
+*Large Elemental, Neutral*
 
-### Air Elemental
+**AC 17 Initiative −1 (9)**
 
-*Large elemental, neutral*
+**HP 147 (14d10 + 70)**
 
-**Armor Class** 15
+**Speed 30 ft., Burrow 30 ft.**
 
-**Hit Points** 90 (12d10+24)
 
-**Speed** 0 ft., fly 90 ft. (hover)
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 20 | +5 | +5 | **Dex** 8 | −1 | −1 | **Con** 20 | +5 | +5 |
+| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 14 (+2)  | 20 (+5)  | 14 (+2)  | 6 (-2)   | 10 (+0)  | 6 (-2)   |
+Vulnerabilities Thunder Immunities Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
 
-**Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+**Senses Darkvision 60 ft., Tremorsense 60 ft.;**
 
-**Damage Immunities** poison
+Passive Perception 10 Languages Primordial (Terran)
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+**CR 5 (XP 1,800; PB +3)**
 
-**Senses** darkvision 60 ft., passive Perception 10
+### Traits
 
-**Languages** Auran
+Earth Glide. The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn’t disturb the material it moves through.
 
-**Challenge** 5 (1,800 XP)
+Siege Monster. The elemental deals double damage to objects and structures.
 
-***Air Form***. The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+### Actions
 
-###### Actions
+Multiattack. The elemental makes two attacks, using
 
-***Multiattack***. The elemental makes two slam attacks.
+Slam or Rock Launch in any combination.
 
-***Slam***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (2d8+5) bludgeoning damage.
+Slam. Melee Attack Roll: +8, reach 10 ft. Hit: 14 (2d8 + 5) Bludgeoning damage.
 
-***Whirlwind (Recharge 4-6)***. Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8+2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
+Rock Launch. Ranged Attack Roll: +8, range 60 ft. Hit: 8 (1d6 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition. Efreeti
 
-If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
+## Efreeti
 
-### Earth Elemental
+*Large Elemental (Genie), Neutral*
 
-*Large elemental, neutral*
+**AC 17 Initiative +1 (11)**
 
-**Armor Class** 17 (natural armor)
+**HP 212 (17d10 + 119)**
 
-**Hit Points** 126 (12d10+60)
+**Speed 40 ft., Fly 60 ft. (hover)**
 
-**Speed** 30 ft., burrow 30 ft.
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 20 (+5)  | 8 (-1)   | 20 (+5)  | 5 (-3)   | 10 (+0)  | 5 (-3)   |
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 22 | +6 | +6 | **Dex** 12 | +1 | +1 | **Con** 24 | +7 | +7 |
+| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +6 | **Cha** 19 | +4 | +8 |
 
-**Damage Vulnerabilities** thunder
+**Immunities Fire**
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Senses Darkvision 120 ft.; Passive Perception 12**
 
-**Damage Immunities** poison
+**Languages Primordial (Ignan)**
 
-**Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
+**CR 11 (XP 7,200; PB +4)**
 
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+### Traits
 
-**Languages** Terran
+Elemental Restoration. If the efreeti dies outside the Elemental Plane of Fire, its body dissolves into ash, and it gains a new body in 1d4 days, reviving with all its Hit
 
-**Challenge** 5 (1,800 XP)
+Points somewhere on the Plane of Fire.
 
-***Earth Glide***. The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
+Magic Resistance. The efreeti has Advantage on saving throws against spells and other magical effects.
 
-***Siege Monster***. The elemental deals double damage to objects and structures.
+Wishes. The efreeti has a 30 percent chance of knowing the Wish spell. If the efreeti knows it, the efreeti can cast it only on behalf of a non-genie creature who communicates a wish in a way the efreeti can understand. If the efreeti casts the spell for the creature, the efreeti suffers none of the spell’s stress. Once the efreeti has cast it three times, the efreeti can’t do so again for 365 days.
 
-###### Actions
+### Actions
 
-***Multiattack***. The elemental makes two slam attacks.
+Multiattack. The efreeti makes three attacks, using
 
-***Slam***. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 14 (2d8+5) bludgeoning damage.
+Heated Blade or Hurl Flame in any combination.
 
-### Fire Elemental
+Heated Blade. Melee Attack Roll: +10, reach 5 ft. Hit: 13 (2d6 + 6) Slashing damage plus 13 (2d12)
 
-*Large elemental, neutral*
+Fire damage.
 
-**Armor Class** 13
+Hurl Flame. Ranged Attack Roll: +8, range 120 ft. Hit: 24 (7d6) Fire damage.
 
-**Hit Points** 102 (12d10+36)
+Spellcasting. The efreeti casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 16): At Will: Detect Magic, Elementalism 1/Day Each: Gaseous Form, Invisibility, Major Image, Plane Shift, Tongues, Wall of Fire (level 7 version) Erinyes
 
-**Speed** 50 ft.
+## Erinyes
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 10 (+0)  | 17 (+3)  | 16 (+3)  | 6 (-2)   | 10 (+0)  | 7 (-2)   |
+*Medium Fiend (Devil), Lawful Evil*
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**AC 18 Initiative +7 (17)**
 
-**Damage Immunities** fire, poison
+**HP 178 (21d8 + 84)**
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+**Speed 30 ft., Fly 60 ft.**
 
-**Senses** darkvision 60 ft., passive Perception 10
 
-**Languages** Ignan
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 16 | +3 | +7 | **Con** 18 | +4 | +8 |
+| **Int** 14 | +2 | +2 | **Wis** 14 | +2 | +2 | **Cha** 18 | +4 | +8 |
 
-**Challenge** 5 (1,800 XP)
+**Skills Perception +6, Persuasion +8**
 
-***Fire Form***. The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
+**Resistances Cold**
 
-***Illumination***. The elemental sheds bright light in a 30- foot radius and dim light in an additional 30 feet.
+**Immunities Fire, Poison; Poisoned**
 
-***Water Susceptibility***. For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
+**Senses Truesight 120 ft.; Passive Perception 16**
 
-###### Actions
+**Languages Infernal; telepathy 120 ft.**
 
-***Multiattack***. The elemental makes two touch attacks.
+**CR 12 (XP 8,400; PB +4)**
 
-***Touch***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+### Traits
 
-### Water Elemental
+Diabolical Restoration. If the erinyes dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit
 
-*Large elemental, neutral*
+Points somewhere in the Nine Hells.
 
-**Armor Class** 14 (natural armor)
+Magic Resistance. The erinyes has Advantage on saving throws against spells and other magical effects.
 
-**Hit Points** 114 (12d10+48)
+Magic Rope. The erinyes has a magic rope. While bearing it, the erinyes can use the Entangling Rope action. The rope has AC 20, HP 90, and Immunity to Poison and Psychic damage. The rope turns to dust if reduced to 0 Hit Points, if it is 5+ feet away from the erinyes for 1 hour or more, or if the erinyes dies. If the rope is damaged or destroyed, the erinyes can fully restore it when finishing a Short or Long Rest.
 
-**Speed** 30 ft., swim 90 ft.
+### Actions
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 14 (+2)  | 18 (+4)  | 5 (-3)   | 10 (+0)  | 8 (-1)   |
+Multiattack. The erinyes makes three Withering Sword attacks and can use Entangling Rope.
 
-**Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
+Withering Sword. Melee Attack Roll: +8, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage plus 11 (2d10) Necrotic damage.
 
-**Damage Immunities** poison
+Entangling Rope (Requires Magic Rope). Strength Saving Throw: DC 16, one creature the erinyes can see within 120 feet. Failure: 14 (4d6) Force damage, and the target has the Restrained condition until the rope is destroyed, the erinyes uses a Bonus Action to release the target, or the erinyes uses Entangling Rope again.
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+### Reactions
 
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** Aquan
-
-**Challenge** 5 (1,800 XP)
-
-***Water Form***. The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
-
-***Freeze***. If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
-
-###### Actions
-
-***Multiattack***. The elemental makes two slam attacks.
-
-***Slam***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.
-
-***Whelm (Recharge 4-6)***. Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8+4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
-
-The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8+4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
-
-## Elf, Drow
-
-*Medium humanoid (elf), neutral evil*
-
-**Armor Class** 15 (chain shirt)
-
-**Hit Points** 13 (3d8)
-
-**Speed** 30 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 10 (+0)  | 14 (+2)  | 10 (+0)  | 11 (+0)  | 11 (+0)  | 12 (+1)  |
-
-**Skills** Perception +2, Stealth +4
-
-**Senses** darkvision 120 ft., passive Perception 12
-
-**Languages** Elvish, Undercommon
-
-**Challenge** 1/4 (50 XP)
-
-***Fey Ancestry***. The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
-
-***Innate Spellcasting***. The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material Components
-
-At will: *dancing lights*
-
-1/day each: *darkness*, *faerie fire*
-
-***Sunlight Sensitivity***. While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
-
-###### Actions
-
-***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
-
-***Hand Crossbow***. *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6+2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+Parry. Trigger: The erinyes is hit by a melee attack roll while holding a weapon. Response: The erinyes adds 4 to its AC against that attack, possibly causing it to miss. Ettercap
 
 ## Ettercap
 
-*Medium monstrosity, neutral evil*
+*Medium Monstrosity, Neutral Evil*
 
-**Armor Class** 13 (natural armor)
+**AC 13 Initiative +2 (12)**
 
-**Hit Points** 44 (8d8+8)
+**HP 44 (8d8 + 8)**
 
-**Speed** 30 ft., climb 30 ft.
+**Speed 30 ft., Climb 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 14 (+2)  | 15 (+2)  | 13 (+1)  | 7 (-2)   | 12 (+1)  | 8 (-1)   |
 
-**Skills** Perception +3, Stealth +4, Survival +3
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 14 | +2 | +2 | **Dex** 15 | +2 | +2 | **Con** 13 | +1 | +1 |
+| **Int** 7 | −2 | −2 | **Wis** 12 | +1 | +1 | **Cha** 8 | −1 | −1 |
 
-**Senses** darkvision 60 ft., passive Perception 13
+**Skills Perception +3, Stealth +4, Survival +3**
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 13**
 
-**Challenge** 2 (450 XP)
+**Languages None**
 
-***Spider Climb***. The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+**CR 2 (XP 450; PB +2)**
 
-***Web Sense***. While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.
+### Traits
 
-***Web Walker***. The ettercap ignores movement restrictions caused by webbing.
+Spider Climb. The ettercap can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-###### Actions
+Web Walker. The ettercap ignores movement restrictions caused by webs, and the ettercap knows the location of any other creature in contact with the same web.
 
-***Multiattack***. The ettercap makes two attacks: one with its bite and one with its claws.
+### Actions
 
-***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8+2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Multiattack. The ettercap makes one Bite attack and one Claw attack.
 
-***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4+2) slashing damage.
+Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage plus 2 (1d4) Poison damage, and the target has the Poisoned condition until the start of the ettercap’s next turn.
 
-***Web (Recharge 5-6)***. *Ranged Weapon Attack:* +4 to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+Claw. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2)
+
+Slashing damage. Web Strand (Recharge 5–6). Dexterity Saving Throw: DC 12, one Large or smaller creature the ettercap can see within 30 feet. Failure: The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Bludgeoning, Poison, and Psychic damage).
+
+### Bonus Actions
+
+Reel. The ettercap pulls one creature within 30 feet of itself that is Restrained by its Web Strand up to 25 feet straight toward itself. Ettin
 
 ## Ettin
 
-*Large giant, chaotic evil*
+*Large Giant, Chaotic Evil*
 
-**Armor Class** 12 (natural armor)
+**AC 12 Initiative −1 (9)**
 
-**Hit Points** 85 (10d10+30)
+**HP 85 (10d10 + 30)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 21 (+5)  | 8 (-1)   | 17 (+3)  | 6 (-2)   | 10 (+0)  | 8 (-1)   |
 
-**Skills** Perception +4
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 21 | +5 | +5 | **Dex** 8 | −1 | −1 | **Con** 17 | +3 | +3 |
+| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 8 | −1 | −1 |
 
-**Senses** darkvision 60 ft., passive Perception 14
+**Skills Perception +4**
 
-**Languages** Giant, Orc
+**Immunities Blinded, Charmed, Deafened, Frightened,**
 
-**Challenge** 4 (1,100 XP)
+Stunned, Unconscious Gear Battleaxe, Morningstar
 
-***Two Heads***. The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+**Senses Darkvision 60 ft.; Passive Perception 14**
 
-***Wakeful***. When one of the ettin's heads is asleep, its other head is awake.
+**Languages Giant**
 
-###### Actions
+**CR 4 (XP 1,100; PB +2)**
 
-***Multiattack***. The ettin makes two attacks: one with its battleaxe and one with its morningstar.
+### Actions
 
-***Battleaxe***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8+5) slashing damage.
+Multiattack. The ettin makes one Battleaxe attack and one Morningstar attack.
 
-***Morningstar***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8+5) piercing damage.
+Battleaxe. Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
+
+Morningstar. Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage, and the target has Disadvantage on the next attack roll it makes before the end of its next turn. Fire Elemental

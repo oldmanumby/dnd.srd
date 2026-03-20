@@ -1,33 +1,33 @@
 ## Harpy
 
-*Medium monstrosity, chaotic evil*
+*Medium Monstrosity, Chaotic Evil*
 
-**Armor Class** 11
+**AC 11 Initiative +1 (11)**
 
-**Hit Points** 38 (7d8+7)
+**HP 38 (7d8 + 7)**
 
-**Speed** 20 ft., fly 40 ft.
+**Speed 20 ft., Fly 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 12 (+1)  | 13 (+1)  | 12 (+1)  | 7 (-2)   | 10 (+0)  | 13 (+1)  |
 
-**Senses** passive Perception 10
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 12 | +1 | +1 | **Dex** 13 | +1 | +1 | **Con** 12 | +1 | +1 |
+| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 13 | +1 | +1 |
 
-**Languages** Common
+**Senses Passive Perception 10**
 
-**Challenge** 1 (200 XP)
+**Languages Common**
 
-###### Actions
+**CR 1 (XP 200; PB +2)**
 
-***Multiattack***. The harpy makes two attacks: one with its claws and one with its club.
+### Actions
 
-***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4+1) slashing damage.
+Claw. Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1)
 
-***Club***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4+1) bludgeoning damage.
+Slashing damage.
 
-***Luring Song***. The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.
+Luring Song. The harpy sings a magical melody, which lasts until the harpy’s Concentration ends on it. Wisdom Saving Throw: DC 11, each Humanoid and Giant in a 300-foot Emanation originating from the harpy when the song starts. Failure: The target has the Charmed condition until the song ends and repeats the save at the end of each of its turns. While Charmed, the target has the Incapacitated condition and ignores the Luring
 
-While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route, trying to get within 5 feet. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, the target can repeat the saving throw. A charmed target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it.
+Song of other harpies. If the target is more than 5 feet from the harpy, the target moves on its turn toward the harpy by the most direct route, trying to get within 5 feet of the harpy. It doesn’t avoid Opportunity Attacks; however, before moving into damaging terrain (such as lava or a pit) and whenever it takes damage from a source other than the harpy, the target repeats the save. Success: The target is immune to this harpy’s Luring
 
-A target that successfully saves is immune to this harpy's song for the next 24 hours.
+Song for 24 hours. Hell Hound

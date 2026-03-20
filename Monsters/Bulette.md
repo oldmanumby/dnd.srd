@@ -1,29 +1,35 @@
 ## Bulette
 
-*Large monstrosity, unaligned*
+*Large Monstrosity, Unaligned*
 
-**Armor Class** 17 (natural armor)
+**AC 17 Initiative +0 (10)**
 
-**Hit Points** 94 (9d10+45)
+**HP 94 (9d10 + 45)**
 
-**Speed** 40 ft., burrow 40 ft.
+**Speed 40 ft., Burrow 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 19 (+4)  | 11 (+0)  | 21 (+5)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
 
-**Skills** Perception +6
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 19 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 21 | +5 | +5 |
+| **Int** 2 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
 
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
+**Skills Perception +6**
 
-**Languages** -
+**Senses Darkvision 60 ft., Tremorsense 120 ft.;**
 
-**Challenge** 5 (1,800 XP)
+Passive Perception 16 Languages None
 
-***Standing Leap***. The bulette's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
+**CR 5 (XP 1,800; PB +3)**
 
-###### Actions
+### Actions
 
-***Bite***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 30 (4d12+4) piercing damage.
+Multiattack. The bulette makes two Bite attacks.
 
-***Deadly Leap***. If the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 14 (3d6+4) bludgeoning damage plus 14 (3d6+4) slashing damage. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 5 feet out of the bulette's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the bulette's space.
+Bite. Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage.
+
+Deadly Leap. The bulette spends 5 feet of movement to jump to a space within 15 feet that contains one or more Large or smaller creatures. Dexterity Saving Throw: DC 15, each creature in the bulette’s destination space. Failure: 19 (3d12) Bludgeoning damage, and the target has the Prone condition. Success: Half damage, and the target is pushed 5 feet straight away from the bulette.
+
+### Bonus Actions
+
+Leap. The bulette jumps up to 30 feet by spending 10 feet of movement. Centaur

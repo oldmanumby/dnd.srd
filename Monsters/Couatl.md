@@ -1,47 +1,43 @@
 ## Couatl
 
-*Medium celestial, lawful good*
+*Medium Celestial, Lawful Good*
 
-**Armor Class** 19 (natural armor)
+**AC 19 Initiative +5 (15)**
 
-**Hit Points** 97 (13d8+39)
+**HP 60 (8d8 + 24)**
 
-**Speed** 30 ft., fly 90 ft.
+**Speed 30 ft., Fly 90 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 16 (+3)  | 20 (+5)  | 17 (+3)  | 18 (+4)  | 20 (+5)  | 18 (+4)  |
 
-**Saving Throws** Con +5, Wis +7, Cha +6
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 20 | +5 | +5 | **Con** 17 | +3 | +5 |
+| **Int** 18 | +4 | +4 | **Wis** 20 | +5 | +7 | **Cha** 18 | +4 | +4 |
 
-**Damage Resistances** radiant
+**Resistances Bludgeoning, Piercing, Slashing**
 
-**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+**Immunities Psychic, Radiant**
 
-**Senses** truesight 120 ft., passive Perception 15
+**Senses Truesight 120 ft.; Passive Perception 15**
 
-**Languages** all, telepathy 120 ft.
+**Languages All; telepathy 120 ft.**
 
-**Challenge** 4 (1,100 XP)
+**CR 4 (XP 1,100; PB +2)**
 
-***Innate Spellcasting***. The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal Components
+### Traits
 
-At will: *detect evil and good*, *detect magic*, *detect thoughts*
+Shielded Mind. The couatl’s thoughts can’t be read by any means, and other creatures can communicate with it telepathically only if it allows them.
 
-3/day each: *bless*, *create food and water*, *cure wounds*, *lesser restoration*, *protection from poison*, *sanctuary*, *shield*
+### Actions
 
-1/day each: *dream*, *greater restoration*, *scrying*
+Bite. Melee Attack Roll: +7, reach 5 ft. Hit: 11 (1d12 + 5) Piercing damage, and the target has the Poisoned condition until the end of the couatl’s next turn.
 
-***Magic Weapons***. The couatl's weapon attacks are magical.
+Constrict. Strength Saving Throw: DC 15, one Medium or smaller creature the couatl can see within 5 feet. Failure: 8 (1d6 + 5) Bludgeoning damage. The target has the Grappled condition (escape DC 13), and it has the
 
-***Shielded Mind***. The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
+Restrained condition until the grapple ends.
 
-###### Actions
+Spellcasting. The couatl casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 15): At Will: Detect Evil and Good, Detect Magic, Detect Thoughts, Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell) 1/Day Each: Create Food and Water, Dream, Greater Restoration, Scrying, Sleep
 
-***Bite***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 8 (1d6+5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
+### Bonus Actions
 
-***Constrict***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 10 (2d6+3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.
-
-***Change Shape***. The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).
-
-In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
+Divine Aid (2/Day). The couatl casts Bless, Lesser Restoration, or Sanctuary, requiring no spell components and using the same spellcasting ability as Spellcasting. Crawling Claw

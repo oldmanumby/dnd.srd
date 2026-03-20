@@ -1,41 +1,47 @@
-### Clay Golem
+## Clay Golem
 
-*Large construct, unaligned*
+*Large Construct, Unaligned*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +3 (13)**
 
-**Hit Points** 133 (14d10+56)
+**HP 123 (13d10 + 52)**
 
-**Speed** 20 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 20 (+5)  | 9 (-1)   | 18 (+4)  | 3 (-4)   | 8 (-1)   | 1 (-5)   |
 
-**Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 20 | +5 | +5 | **Dex** 9 | −1 | −1 | **Con** 18 | +4 | +4 |
+| **Int** 3 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 1 | −5 | −5 |
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+**Resistances Bludgeoning, Piercing, Slashing**
 
-**Senses** darkvision 60 ft., passive Perception 9
+**Immunities Acid, Poison, Psychic; Charmed, Exhaustion,**
 
-**Languages** understands the languages of its creator but can't speak
+Frightened, Paralyzed, Petrified, Poisoned
 
-**Challenge** 9 (5,000 XP)
+**Senses Darkvision 60 ft.; Passive Perception 9**
 
-***Acid Absorption***. Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.
+**Languages Common plus one other language**
 
-***Berserk***. Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
+**CR 9 (XP 5,000; PB +4)**
 
-***Immutable Form***. The golem is immune to any spell or effect that would alter its form.
+### Traits
 
-***Magic Resistance***. The golem has advantage on saving throws against spells and other magical effects.
+Acid Absorption. Whenever the golem is subjected to Acid damage, it takes no damage and instead regains a number of Hit Points equal to the Acid damage dealt.
 
-***Magic Weapons***. The golem's weapon attacks are magical.
+Berserk. Whenever the golem starts its turn Bloodied, roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object. Once the golem goes berserk, it continues to be berserk until it is destroyed or it is no longer Bloodied.
 
-###### Actions
+Immutable Form. The golem can’t shape-shift.
 
-***Multiattack***. The golem makes two slam attacks.
+Magic Resistance. The golem has Advantage on saving throws against spells and other magical effects.
 
-***Slam***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16 (2d10+5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the *greater restoration* spell or other magic.
+### Actions
 
-***Haste (Recharge 5-6)***. Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
+Multiattack. The golem makes two Slam attacks, or it makes three Slam attacks if it used Hasten this turn.
+
+Slam. Melee Attack Roll: +9, reach 5 ft. Hit: 10 (1d10 + 5) Bludgeoning damage plus 6 (1d12) Acid damage, and the target’s Hit Point maximum decreases by an amount equal to the Acid damage taken.
+
+### Bonus Actions
+
+Hasten (Recharge 5–6). The golem takes the Dash and Disengage actions. Cloaker

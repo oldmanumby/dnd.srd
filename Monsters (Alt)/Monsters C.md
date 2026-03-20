@@ -1,223 +1,513 @@
-# Monsters (C)
+## Centaur Trooper
 
-## Centaur
+*Large Fey, Neutral Good*
 
-*Large monstrosity, neutral good*
+**AC 16 Initiative +2 (12)**
 
-**Armor Class** 12
+**HP 45 (6d10 + 12)**
 
-**Hit Points** 45 (6d10+12)
+**Speed 50 ft.**
 
-**Speed** 50 ft.
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 14 (+2)  | 14 (+2)  | 9 (-1)   | 13 (+1)  | 11 (+0)  |
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 14 | +2 | +2 |
+| **Int** 9 | −1 | −1 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
 
-**Skills** Athletics +6, Perception +3, Survival +3
+**Skills Athletics +6, Perception +3**
 
-**Senses** passive Perception 13
+**Gear Breastplate, Longbow, Pike**
 
-**Languages** Elvish, Sylvan
+**Senses Passive Perception 13**
 
-**Challenge** 2 (450 XP)
+**Languages Elvish, Sylvan**
 
-***Charge***. If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
+**CR 2 (XP 450; PB +2)**
 
-###### Actions
+### Actions
 
-***Multiattack***. The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
+Multiattack. The centaur makes two attacks, using Pike or Longbow in any combination.
 
-***Pike***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+Pike. Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Piercing damage.
 
-***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
+Longbow. Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing damage.
 
-***Longbow***. *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
+### Bonus Actions
+
+Trampling Charge (Recharge 5–6). The centaur moves up to its Speed without provoking Opportunity Attacks and can move through the spaces of Medium or smaller creatures. Each creature whose space the centaur enters is targeted once by the following effect. Strength Saving Throw: DC 14. Failure: 7 (1d6 + 4) Bludgeoning damage, and the target has the Prone condition. Chain Devil
+
+## Chain Devil
+
+*Medium Fiend (Devil), Lawful Evil*
+
+**AC 15 Initiative +5 (15)**
+
+**HP 85 (10d8 + 40)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 18 | +4 | +7 |
+| **Int** 11 | +0 | +0 | **Wis** 12 | +1 | +4 | **Cha** 14 | +2 | +2 |
+
+**Resistances Bludgeoning, Cold, Piercing, Slashing**
+
+**Immunities Fire, Poison; Poisoned**
+
+**Senses Darkvision 120 ft. (unimpeded by magical**
+
+Darkness); Passive Perception 11 Languages Infernal; telepathy 120 ft.
+
+**CR 8 (XP 3,900; PB +3)**
+
+### Traits
+
+Diabolical Restoration. If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit
+
+Points somewhere in the Nine Hells.
+
+Magic Resistance. The devil has Advantage on saving throws against spells and other magical effects.
+
+### Actions
+
+Multiattack. The devil makes two Chain attacks and uses Conjure Infernal Chain.
+
+Chain. Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two chains, and it has the Restrained condition until the grapple ends.
+
+Conjure Infernal Chain. The devil conjures a fiery chain to bind a creature. Dexterity Saving Throw: DC 15, one creature the devil can see within 60 feet. Failure: 9 (2d4 + 4) Fire damage, and the target has the Restrained condition until the end of the devil’s next turn, at which point the chain disappears. If the target is Large or smaller, the devil moves the target up to 30 feet straight toward itself. Success: The chain disappears.
+
+### Reactions
+
+Unnerving Gaze. Trigger: A creature the devil can see starts its turn within 30 feet of the devil and can see the devil. Response—Wisdom Saving Throw: DC 15, the triggering creature. Failure: The target has the
+
+Frightened condition until the end of its turn. Success: The target is immune to this devil’s Unnerving Gaze for 24 hours. Chimera
 
 ## Chimera
 
-*Large monstrosity, chaotic evil*
+*Large Monstrosity, Chaotic Evil*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +0 (10)**
 
-**Hit Points** 114 (12d10+48)
+**HP 114 (12d10 + 48)**
 
-**Speed** 30 ft., fly 60 ft.
+**Speed 30 ft., Fly 60 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 19 (+4)  | 11 (+0)  | 19 (+4)  | 3 (-4)   | 14 (+2)  | 10 (+0)  |
 
-**Skills** Perception +8
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 19 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 19 | +4 | +4 |
+| **Int** 3 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 10 | +0 | +0 |
 
-**Senses** darkvision 60 ft., passive Perception 18
+**Skills Perception +8**
 
-**Languages** understands Draconic but can't speak
+**Senses Darkvision 60 ft.; Passive Perception 18**
 
-**Challenge** 6 (2,300 XP)
+**Languages Understands Draconic but can’t speak**
 
-###### Actions
+**CR 6 (XP 2,300; PB +3)**
 
-***Multiattack***. The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
+### Actions
 
-***Bite***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) piercing damage.
+Multiattack. The chimera makes one Ram attack, one Bite attack, and one Claw attack. It can replace the
 
-***Horns***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d12+4) bludgeoning damage.
+Claw attack with a use of Fire Breath if available.
 
-***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+Bite. Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage, or 18 (4d6 + 4) Piercing damage if the chimera had Advantage on the attack roll.
 
-***Fire Breath (Recharge 5-6)***. The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
+Claw. Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4)
+
+Slashing damage.
+
+Ram. Melee Attack Roll: +7, reach 5 ft. Hit: 10 (1d12 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition. Fire Breath (Recharge 5–6). Dexterity Saving Throw: DC 15, each creature in a 15-foot Cone. Failure: 31 (7d8) Fire damage. Success: Half damage. Chuul
 
 ## Chuul
 
-*Large aberration, chaotic evil*
+*Large Aberration, Chaotic Evil*
 
-**Armor Class** 16 (natural armor)
+**AC 16 Initiative +0 (10)**
 
-**Hit Points** 93 (11d10+33)
+**HP 76 (9d10 + 27)**
 
-**Speed** 30 ft., swim 30 ft.
+**Speed 30 ft., Swim 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 19 (+4)  | 10 (+0)  | 16 (+3)  | 5 (-3)   | 11 (+0)  | 5 (-3)   |
 
-**Skills** Perception +4
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +0 | **Con** 16 | +3 | +3 |
+| **Int** 5 | −3 | −3 | **Wis** 11 | +0 | +0 | **Cha** 5 | −3 | −3 |
 
-**Damage Immunities** poison
+**Skills Perception +4**
 
-**Condition Immunities** poisoned
+**Immunities Poison; Poisoned**
 
-**Senses** darkvision 60 ft., passive Perception 14
+**Senses Darkvision 60 ft.; Passive Perception 14**
 
-**Languages** understands Deep Speech but can't speak
+**Languages Understands Deep Speech but can’t speak**
 
-**Challenge** 4 (1,100 XP)
+**CR 4 (XP 1,100; PB +2)**
 
-***Amphibious***. The chuul can breathe air and water.
+### Traits
 
-***Sense Magic***. The chuul senses magic within 120 feet of it at will. This trait otherwise works like the *detect magic* spell but isn't itself magical.
+Amphibious. The chuul can breathe air and water.
 
-###### Actions
+Sense Magic. The chuul senses magic within 120 feet of itself. This trait otherwise works like the Detect Magic spell but isn’t itself magical.
 
-***Multiattack***. The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.
+### Actions
 
-***Pincer***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have two other creatures grappled.
+Multiattack. The chuul makes two Pincer attacks and uses Paralyzing Tentacles.
 
-***Tentacles***. One creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Pincer. Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape
+
+DC 14) from one of two pincers.
+
+Paralyzing Tentacles. Constitution Saving Throw: DC 13, one creature Grappled by the chuul. Failure: The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. While Poisoned, the target has the Paralyzed condition. Clay Golem
+
+## Clay Golem
+
+*Large Construct, Unaligned*
+
+**AC 14 Initiative +3 (13)**
+
+**HP 123 (13d10 + 52)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 20 | +5 | +5 | **Dex** 9 | −1 | −1 | **Con** 18 | +4 | +4 |
+| **Int** 3 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 1 | −5 | −5 |
+
+**Resistances Bludgeoning, Piercing, Slashing**
+
+**Immunities Acid, Poison, Psychic; Charmed, Exhaustion,**
+
+Frightened, Paralyzed, Petrified, Poisoned
+
+**Senses Darkvision 60 ft.; Passive Perception 9**
+
+**Languages Common plus one other language**
+
+**CR 9 (XP 5,000; PB +4)**
+
+### Traits
+
+Acid Absorption. Whenever the golem is subjected to Acid damage, it takes no damage and instead regains a number of Hit Points equal to the Acid damage dealt.
+
+Berserk. Whenever the golem starts its turn Bloodied, roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object. Once the golem goes berserk, it continues to be berserk until it is destroyed or it is no longer Bloodied.
+
+Immutable Form. The golem can’t shape-shift.
+
+Magic Resistance. The golem has Advantage on saving throws against spells and other magical effects.
+
+### Actions
+
+Multiattack. The golem makes two Slam attacks, or it makes three Slam attacks if it used Hasten this turn.
+
+Slam. Melee Attack Roll: +9, reach 5 ft. Hit: 10 (1d10 + 5) Bludgeoning damage plus 6 (1d12) Acid damage, and the target’s Hit Point maximum decreases by an amount equal to the Acid damage taken.
+
+### Bonus Actions
+
+Hasten (Recharge 5–6). The golem takes the Dash and Disengage actions. Cloaker
 
 ## Cloaker
 
-*Large aberration, chaotic neutral*
+*Large Aberration, Chaotic Neutral*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +5 (15)**
 
-**Hit Points** 78 (12d10+12)
+**HP 91 (14d10 + 14)**
 
-**Speed** 10 ft., fly 40 ft.
+**Speed 10 ft., Fly 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 17 (+3)  | 15 (+2)  | 12 (+1)  | 13 (+1)  | 12 (+1)  | 14 (+2)  |
 
-**Skills** Stealth +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 17 | +3 | +3 | **Dex** 15 | +2 | +2 | **Con** 12 | +1 | +1 |
+| **Int** 13 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 7 | −2 | −2 |
 
-**Senses** darkvision 60 ft., passive Perception 11
+**Skills Stealth +5**
 
-**Languages** Deep Speech, Undercommon
+**Immunities Frightened**
 
-**Challenge** 8 (3,900 XP)
+**Senses Darkvision 120 ft.; Passive Perception 12**
 
-***Damage Transfer***. While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down), and that creature takes the other half.
+**Languages Deep Speech, Undercommon**
 
-***False Appearance***. While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.
+**CR 8 (XP 3,900; PB +3)**
 
-***Light Sensitivity***. While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
+### Traits
 
-###### Actions
+Light Sensitivity. While in Bright Light, the cloaker has
 
-***Multiattack***. The cloaker makes two attacks: one with its bite and one with its tail.
+Disadvantage on attack rolls.
 
-***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6+3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check.
+### Actions
 
-***Tail***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 7 (1d8+3) slashing damage.
+Multiattack. The cloaker makes one Attach attack and two Tail attacks.
 
-***Moan***. Each creature within 60 feet of the cloaker that can hear its moan and that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become frightened until the end of the cloaker's next turn. If a creature's saving throw is successful, the creature is immune to the cloaker's moan for the next 24 hours
+Attach. Melee Attack Roll: +6, reach 5 ft. Hit: 13 (3d6 + 3) Piercing damage. If the target is a Large or smaller creature, the cloaker attaches to it. While the cloaker is attached, the target has the Blinded condition, and the cloaker can’t make Attach attacks against other targets. In addition, the cloaker halves the damage it takes (round down), and the target takes the same amount of damage. The cloaker can detach itself by spending 5 feet of movement. The target or a creature within 5 feet of it can take an action to try to detach the cloaker, doing so by succeeding on a DC 14 Strength (Athletics) check.
 
-***Phantasms (Recharges after a Short or Long Rest)***. The cloaker magically creates three illusory duplicates of itself if it isn't in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.
+Tail. Melee Attack Roll: +6, reach 10 ft. Hit: 8 (1d10 + 3) Slashing damage.
 
-Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this magical effect if it can't see or if it relies on senses other than sight.
+### Bonus Actions
 
-A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
+Moan. Wisdom Saving Throw: DC 13, each creature in a 60-foot Emanation originating from the cloaker. Failure: The target has the Frightened condition until the end of the cloaker’s next turn. Success: The target is immune to this cloaker’s Moan for the next 24 hours.
+
+Phantasms (Recharge after a Short or Long Rest). The cloaker casts the Mirror Image spell, requiring no spell components and using Wisdom as the spellcasting ability. The spell ends early if the cloaker starts or ends its turn in Bright Light. Cloud Giant
+
+## Cloud Giant
+
+*Huge Giant, Neutral*
+
+**AC 14 Initiative +4 (14)**
+
+**HP 200 (16d12 + 96)**
+
+**Speed 40 ft., Fly 20 ft. (hover)**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 27 | +8 | +8 | **Dex** 10 | +0 | +0 | **Con** 22 | +6 | +10 |
+| **Int** 12 | +1 | +1 | **Wis** 16 | +3 | +7 | **Cha** 16 | +3 | +3 |
+
+**Skills Insight +7, Perception +11**
+
+**Senses Passive Perception 21**
+
+**Languages Common, Giant**
+
+**CR 9 (XP 5,000; PB +4)**
+
+### Actions
+
+Multiattack. The giant makes two attacks, using Thunderous Mace or Thundercloud in any combination. It can replace one attack with a use of Spellcasting to cast
+
+Fog Cloud.
+
+Thunderous Mace. Melee Attack Roll: +12, reach 10 ft. Hit: 21 (3d8 + 8) Bludgeoning damage plus 7 (2d6)
+
+Thunder damage.
+
+Thundercloud. Ranged Attack Roll: +12, range 240 ft. Hit: 18 (3d6 + 8) Thunder damage, and the target has the Incapacitated condition until the end of its next turn.
+
+Spellcasting. The giant casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15): At Will: Detect Magic, Fog Cloud, Light 1/Day Each: Control Weather, Gaseous Form, Telekinesis
+
+### Bonus Actions
+
+Misty Step. The giant casts the Misty Step spell, using the same spellcasting ability as Spellcasting. Cockatrice
 
 ## Cockatrice
 
-*Small monstrosity, unaligned*
+*Small Monstrosity, Unaligned*
 
-**Armor Class** 11
+**AC 11 Initiative +1 (11)**
 
-**Hit Points** 27 (6d6+6)
+**HP 22 (5d6 + 5)**
 
-**Speed** 20 ft., fly 40 ft.
+**Speed 20 ft., Fly 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 6 (-2)   | 12 (+1)  | 12 (+1)  | 2 (-4)   | 13 (+1)  | 5 (-3)   |
 
-**Senses** darkvision 60 ft., passive Perception 11
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 6 | −2 | −2 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
+| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 5 | −3 | −3 |
 
-**Languages** -
+**Immunities Petrified**
 
-**Challenge** 1/2 (100 XP)
+**Senses Darkvision 60 ft.; Passive Perception 11**
 
-###### Actions
+**Languages None**
 
-***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+**CR 1/2 (XP 100; PB +2)**
+
+### Actions
+
+Petrifying Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Piercing damage. If the target is a creature, it is subjected to the following effect. Constitution Saving Throw: DC 11. First Failure: The target has the
+
+Restrained condition. The target repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. Second Failure: The target has the Petrified condition, instead of the Restrained condition, for 24 hours. Commoner
+
+## Commoner
+
+*Medium or Small Humanoid, Neutral*
+
+**AC 10 Initiative +0 (10)**
+
+**HP 4 (1d8)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 10 | +0 | +0 | **Dex** 10 | +0 | +0 | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 10 | +0 | +0 |
+
+**Gear Club**
+
+**Senses Passive Perception 10**
+
+**Languages Common**
+
+**CR 0 (XP 10; PB +2)**
+
+### Traits
+
+Training. The commoner has proficiency in one skill of the GM’s choice and has Advantage whenever it makes an ability check using that skill.
+
+### Actions
+
+Club. Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4)
+
+Bludgeoning damage. Copper Dragons
+
+## Copper Dragon Wyrmling
+
+*Medium Dragon (Metallic), Chaotic Good*
+
+**AC 16 Initiative +3 (13)**
+
+**HP 22 (4d8 + 4)**
+
+**Speed 30 ft., Climb 30 ft., Fly 60 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +3 | **Con** 13 | +1 | +1 |
+| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +2 | **Cha** 13 | +1 | +1 |
+
+**Skills Perception +4, Stealth +3**
+
+**Immunities Acid**
+
+**Senses Blindsight 10 ft., Darkvision 60 ft.;**
+
+Passive Perception 14 Languages Draconic
+
+**CR 1 (XP 200; PB +2)**
+
+### Actions
+
+Rend. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage. Acid Breath (Recharge 5–6). Dexterity Saving Throw: DC 11, each creature in a 20-foot-long, 5-footwide Line. Failure: 18 (4d8) Acid damage. Success:
+
+Half damage.
+
+Slowing Breath. Constitution Saving Throw: DC 11, each creature in a 15-foot Cone. Failure: The target can’t take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both.
+
+This effect lasts until the end of its next turn.
 
 ## Couatl
 
-*Medium celestial, lawful good*
+*Medium Celestial, Lawful Good*
 
-**Armor Class** 19 (natural armor)
+**AC 19 Initiative +5 (15)**
 
-**Hit Points** 97 (13d8+39)
+**HP 60 (8d8 + 24)**
 
-**Speed** 30 ft., fly 90 ft.
+**Speed 30 ft., Fly 90 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 16 (+3)  | 20 (+5)  | 17 (+3)  | 18 (+4)  | 20 (+5)  | 18 (+4)  |
 
-**Saving Throws** Con +5, Wis +7, Cha +6
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 20 | +5 | +5 | **Con** 17 | +3 | +5 |
+| **Int** 18 | +4 | +4 | **Wis** 20 | +5 | +7 | **Cha** 18 | +4 | +4 |
 
-**Damage Resistances** radiant
+**Resistances Bludgeoning, Piercing, Slashing**
 
-**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+**Immunities Psychic, Radiant**
 
-**Senses** truesight 120 ft., passive Perception 15
+**Senses Truesight 120 ft.; Passive Perception 15**
 
-**Languages** all, telepathy 120 ft.
+**Languages All; telepathy 120 ft.**
 
-**Challenge** 4 (1,100 XP)
+**CR 4 (XP 1,100; PB +2)**
 
-***Innate Spellcasting***. The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal Components
+### Traits
 
-At will: *detect evil and good*, *detect magic*, *detect thoughts*
+Shielded Mind. The couatl’s thoughts can’t be read by any means, and other creatures can communicate with it telepathically only if it allows them.
 
-3/day each: *bless*, *create food and water*, *cure wounds*, *lesser restoration*, *protection from poison*, *sanctuary*, *shield*
+### Actions
 
-1/day each: *dream*, *greater restoration*, *scrying*
+Bite. Melee Attack Roll: +7, reach 5 ft. Hit: 11 (1d12 + 5) Piercing damage, and the target has the Poisoned condition until the end of the couatl’s next turn.
 
-***Magic Weapons***. The couatl's weapon attacks are magical.
+Constrict. Strength Saving Throw: DC 15, one Medium or smaller creature the couatl can see within 5 feet. Failure: 8 (1d6 + 5) Bludgeoning damage. The target has the Grappled condition (escape DC 13), and it has the
 
-***Shielded Mind***. The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
+Restrained condition until the grapple ends.
 
-###### Actions
+Spellcasting. The couatl casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 15): At Will: Detect Evil and Good, Detect Magic, Detect Thoughts, Shapechange (Beast or Humanoid form only, no Temporary Hit Points gained from the spell, and no Concentration or Temporary Hit Points required to maintain the spell) 1/Day Each: Create Food and Water, Dream, Greater Restoration, Scrying, Sleep
 
-***Bite***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 8 (1d6+5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
+### Bonus Actions
 
-***Constrict***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 10 (2d6+3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.
+Divine Aid (2/Day). The couatl casts Bless, Lesser Restoration, or Sanctuary, requiring no spell components and using the same spellcasting ability as Spellcasting. Crawling Claw
 
-***Change Shape***. The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).
+## Cultist
 
-In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
+*Medium or Small Humanoid, Neutral*
+
+**AC 12 Initiative +1 (11)**
+
+**HP 9 (2d8)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 11 | +0 | +0 | **Dex** 12 | +1 | +1 | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +2 | **Cha** 10 | +0 | +0 |
+
+**Skills Deception +2, Religion +2**
+
+**Gear Leather Armor, Sickle**
+
+**Senses Passive Perception 10**
+
+**Languages Common**
+
+**CR 1/8 (XP 25; PB +2)**
+
+### Actions
+
+Ritual Sickle. Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage plus 1 Necrotic damage.
+
+## Cultist Fanatic
+
+*Medium or Small Humanoid, Neutral*
+
+**AC 13 Initiative +2 (12)**
+
+**HP 44 (8d8 + 8)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 11 | +0 | +0 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0 | +0 | **Wis** 14 | +2 | +4 | **Cha** 13 | +1 | +1 |
+
+**Skills Deception +3, Persuasion +3, Religion +2**
+
+**Gear Holy Symbol, Leather Armor**
+
+**Senses Passive Perception 12**
+
+**Languages Common**
+
+**CR 2 (XP 450; PB +2)**
+
+### Actions
+
+Pact Blade. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage plus 7 (2d6) Necrotic damage.
+
+Spellcasting. The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks): At Will: Light, Thaumaturgy 2/Day: Command 1/Day: Hold Person
+
+### Bonus Actions
+
+Spiritual Weapon (2/Day). The cultist casts the Spiritual Weapon spell, using the same spellcasting ability as
+
+Spellcasting. Darkmantle

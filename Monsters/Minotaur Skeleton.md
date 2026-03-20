@@ -1,33 +1,29 @@
-### Minotaur Skeleton
+## Minotaur Skeleton
 
-*Large undead, lawful evil*
+*Large Undead, Lawful Evil*
 
-**Armor Class** 12 (natural armor)
+**AC 12 Initiative +0 (10)**
 
-**Hit Points** 67 (9d10+18)
+**HP 45 (6d10 + 12)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 11 (+0)  | 15 (+2)  | 6 (-2)   | 8 (-1)   | 5 (-3)   |
 
-**Damage Vulnerabilities** bludgeoning
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 11 | +0 | +0 | **Con** 15 | +2 | +2 |
+| **Int** 6 | −2 | −2 | **Wis** 8 | −1 | −1 | **Cha** 5 | −3 | −3 |
 
-**Damage Immunities** poison
+Vulnerabilities Bludgeoning Immunities Poison; Exhaustion, Poisoned
 
-**Condition Immunities** exhaustion, poisoned
+**Senses Darkvision 60 ft.; Passive Perception 9**
 
-**Senses** darkvision 60 ft., passive Perception 9
+**Languages Understands Abyssal but can’t speak**
 
-**Languages** understands Abyssal but can't speak
+**CR 2 (XP 450; PB +2)**
 
-**Challenge** 2 (450 XP)
+### Actions
 
-***Charge***. If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
+Gore. Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
 
-###### Actions
-
-***Greataxe***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (2d12+4) slashing damage.
-
-***Gore***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) piercing damage.
+Slam. Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning damage. Solar

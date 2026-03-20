@@ -1,33 +1,35 @@
 ## Roc
 
-*Gargantuan monstrosity, unaligned*
+*Gargantuan Monstrosity, Unaligned*
 
-**Armor Class** 15 (natural armor)
+**AC 15 Initiative +8 (18)**
 
-**Hit Points** 248 (16d20+80)
+**HP 248 (16d20 + 80)**
 
-**Speed** 20 ft., fly 120 ft.
+**Speed 20 ft., Fly 120 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 28 (+9)  | 10 (+0)  | 20 (+5)  | 3 (-4)   | 10 (+0)  | 9 (-1)   |
 
-**Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 28 | +9 | +9 | **Dex** 10 | +0 | +4 | **Con** 20 | +5 | +5 |
+| **Int** 3 | −4 | −4 | **Wis** 10 | +0 | +4 | **Cha** 9 | −1 | −1 |
 
-**Skills** Perception +4
+**Skills Perception +8**
 
-**Senses** passive Perception 14
+**Senses Passive Perception 18**
 
-**Languages** -
+**Languages None**
 
-**Challenge** 11 (7,200 XP)
+**CR 11 (XP 7,200; PB +4)**
 
-***Keen Sight***. The roc has advantage on Wisdom (Perception) checks that rely on sight.
+### Actions
 
-###### Actions
+Multiattack. The roc makes two Beak attacks. It can replace one attack with a Talons attack.
 
-***Multiattack***. The roc makes two attacks: one with its beak and one with its talons.
+Beak. Melee Attack Roll: +13, reach 10 ft. Hit: 28 (3d12 + 9) Piercing damage.
 
-***Beak***. *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 27 (4d8+9) piercing damage.
+Talons. Melee Attack Roll: +13, reach 5 ft. Hit: 23 (4d6 + 9) Slashing damage. If the target is a Huge or smaller creature, it has the Grappled condition (escape DC 19) from both talons, and it has the Restrained condition until the grapple ends.
 
-***Talons***. *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 23 (4d6+9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+### Bonus Actions
+
+Swoop (Recharge 5–6). If the roc has a creature Grappled, the roc flies up to half its Fly Speed without provoking Opportunity Attacks and drops that creature. Roper

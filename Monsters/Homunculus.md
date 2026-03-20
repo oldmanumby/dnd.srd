@@ -1,29 +1,33 @@
 ## Homunculus
 
-*Tiny construct, neutral*
+*Tiny Construct, Neutral*
 
-**Armor Class** 13 (natural armor)
+**AC 13 Initiative +2 (12)**
 
-**Hit Points** 5 (2d4)
+**HP 4 (1d4 + 2)**
 
-**Speed** 20 ft., fly 40 ft.
+**Speed 20 ft., Fly 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 4 (-3)   | 15 (+2)  | 11 (+0)  | 10 (+0)  | 10 (+0)  | 7 (-2)   |
 
-**Damage Immunities** poison
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 4 | −3 | −3 | **Dex** 15 | +2 | +2 | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +2 | **Cha** 7 | −2 | +0 |
 
-**Condition Immunities** charmed, poisoned
+**Immunities Poison; Charmed, Poisoned**
 
-**Senses** darkvision 60 ft., passive Perception 10
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Languages** understands the languages of its creator but can't speak
+**Languages Understands Common plus one other language**
 
-**Challenge** 0 (10 XP)
+but can’t speak
 
-***Telepathic Bond***. While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
+**CR 0 (XP 10; PB +2)**
 
-###### Actions
+### Traits
 
-***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
+Telepathic Bond. While the homunculus is on the same plane of existence as its master, the two of them can communicate telepathically with each other.
+
+### Actions
+
+Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage, and the target is subjected to the following effect. Constitution Saving Throw: DC 12. Failure: The target has the Poisoned condition until the end of the homunculus’s next turn. Failure by 5 or More: The target has the Poisoned condition for 1 minute. While Poisoned, the target has the Unconscious condition, which ends early if the target takes any damage. Horned Devil

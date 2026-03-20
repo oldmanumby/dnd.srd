@@ -1,586 +1,1087 @@
-# Monsters (S)
+## Sahuagin Warrior
 
-## Sahuagin
+*Medium Fiend, Lawful Evil*
 
-*Medium humanoid (sahuagin), lawful evil*
+**AC 12 Initiative +0 (10)**
 
-**Armor Class** 12 (natural armor)
+**HP 22 (4d8 + 4)**
 
-**Hit Points** 22 (4d8+4)
+**Speed 30 ft., Swim 40 ft.**
 
-**Speed** 30 ft., swim 40 ft.
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 13 (+1)  | 11 (+0)  | 12 (+1)  | 12 (+1)  | 13 (+1)  | 9 (-1)   |
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 13 | +1 | +1 | **Dex** 11 | +0 | +0 | **Con** 12 | +1 | +1 |
+| **Int** 12 | +1 | +1 | **Wis** 13 | +1 | +1 | **Cha** 9 | −1 | −1 |
 
-**Skills** Perception +5
+**Skills Perception +5**
 
-**Senses** darkvision 120 ft., passive Perception 15
+**Resistances Acid, Cold**
 
-**Languages** Sahuagin
+**Senses Darkvision 120 ft.; Passive Perception 15**
 
-**Challenge** 1/2 (100 XP)
+**Languages Sahuagin**
 
-***Blood Frenzy***. The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+**CR 1/2 (XP 100; PB +2)**
 
-***Limited Amphibiousness***. The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
+### Traits
 
-***Shark Telepathy***. The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
+Blood Frenzy. The sahuagin has Advantage on attack rolls against any creature that doesn’t have all its
 
-###### Actions
+Hit Points.
 
-***Multiattack***. The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
+Limited Amphibiousness. The sahuagin can breathe air and water, but it must be submerged at least once every 4 hours to avoid suffocating outside water.
 
-***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4+1) piercing damage.
+Shark Telepathy. The sahuagin can magically control sharks within 120 feet of itself, using a special telepathy.
 
-***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4+1) slashing damage.
+### Actions
 
-***Spear***. *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6+1) piercing damage, or 5 (1d8+1) piercing damage if used with two hands to make a melee attack.
+Multiattack. The sahuagin makes two Claw attacks.
+
+Claw. Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1)
+
+Slashing damage.
+
+### Bonus Actions
+
+Aquatic Charge. The sahuagin swims up to its Swim
+
+**Speed straight toward an enemy it can see.**
+
+Salamander
 
 ## Salamander
 
-*Large elemental, neutral evil*
+*Large Elemental, Neutral Evil*
 
-**Armor Class** 15 (natural armor)
+**AC 15 Initiative +2 (12)**
 
-**Hit Points** 90 (12d10+24)
+**HP 90 (12d10 + 24)**
 
-**Speed** 30 ft.
+**Speed 30 ft., Climb 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 14 (+2)  | 15 (+2)  | 11 (+0)  | 10 (+0)  | 12 (+1)  |
 
-**Damage Vulnerabilities** cold
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 15 | +2 | +2 |
+| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 12 | +1 | +1 |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+Vulnerabilities Cold Immunities Fire
 
-**Damage Immunities** fire
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Sense**s darkvision 60 ft., passive Perception 10
+**Languages Primordial (Ignan)**
 
-**Languages** Ignan
+**CR 5 (XP 1,800; PB +3)**
 
-**Challenge** 5 (1,800 XP)
+### Traits
 
-***Heated Body***. A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.
+Fire Aura. At the end of each of the salamander’s turns, each creature of the salamander’s choice in a 5-foot Emanation originating from the salamander takes 7 (2d6) Fire damage.
 
-***Heated Weapons***. Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
+### Actions
 
-###### Actions
+Multiattack. The salamander makes two Flame
 
-***Multiattack***. The salamander makes two attacks: one with its spear and one with its tail.
+Spear attacks. It can replace one attack with a use of
 
-***Spear***. *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 11 (2d6+4) piercing damage, or 13 (2d8+4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+Constrict.
 
-***Tail***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+Flame Spear. Melee or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit: 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. Hit or Miss: The spear magically returns to the salamander’s hand immediately after a ranged attack.
+
+Constrict. Strength Saving Throw: DC 15, one Large or smaller creature the salamander can see within 10 feet. Failure: 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6)
+
+Fire damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends. Satyr
 
 ## Satyr
 
-*Medium fey, chaotic neutral*
+*Medium Fey, Chaotic Neutral*
 
-**Armor Class** 14 (leather armor)
+**AC 13 Initiative +3 (13)**
 
-**Hit Points** 31 (7d8)
+**HP 31 (7d8)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 12 (+1)  | 16 (+3)  | 11 (+0)  | 12 (+1)  | 10 (+0)  | 14 (+2)  |
 
-**Skills** Perception +2, Performance +6, Stealth +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 12 | +1 | +1 | **Dex** 16 | +3 | +3 | **Con** 11 | +0 | +0 |
+| **Int** 12 | +1 | +1 | **Wis** 10 | +0 | +0 | **Cha** 14 | +2 | +2 |
 
-**Sense**s passive Perception 12
+**Skills Perception +2, Performance +6, Stealth +5**
 
-**Languages** Common, Elvish, Sylvan
+**Senses Passive Perception 12**
 
-**Challenge** 1/2 (100 XP)
+**Languages Common, Elvish, Sylvan**
 
-***Magic Resistance***. The satyr has advantage on saving throws against spells and other magical effects.
+**CR 1/2 (XP 100; PB +2)**
 
-###### Actions
+### Traits
 
-***Ram***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4+1) bludgeoning damage.
+Magic Resistance. The satyr has Advantage on saving throws against spells and other magical effects.
 
-***Shortsword***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) piercing damage.
+### Actions
 
-***Shortbow***. *Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:* 6 (1d6+3) piercing damage.
+Hooves. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, the satyr pushes the target up to 10 feet straight away from itself.
+
+Mockery. Wisdom Saving Throw: DC 12, one creature the satyr can see within 90 feet. Failure: 5 (1d6 + 2)
+
+Psychic damage. Scout
+
+## Scout
+
+*Medium or Small Humanoid, Neutral*
+
+**AC 13 Initiative +2 (12)**
+
+**HP 16 (3d8 + 3)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 11 | +0 | +0 | **Dex** 14 | +2 | +2 | **Con** 12 | +1 | +1 |
+| **Int** 11 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
+
+**Skills Nature +4, Perception +5, Stealth +6, Survival +5**
+
+**Gear Leather Armor, Longbow, Shortsword**
+
+**Senses Passive Perception 15**
+
+**Languages Common plus one other language**
+
+**CR 1/2 (XP 100; PB +2)**
+
+### Actions
+
+Multiattack. The scout makes two attacks, using Shortsword and Longbow in any combination.
+
+Shortsword. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage.
+
+Longbow. Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing damage. Sea Hag
+
+## Sea Hag
+
+*Medium Fey, Chaotic Evil*
+
+**AC 14 Initiative +1 (11)**
+
+**HP 52 (7d8 + 21)**
+
+**Speed 30 ft., Swim 40 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 16 | +3 | +3 |
+| **Int** 12 | +1 | +1 | **Wis** 12 | +1 | +1 | **Cha** 13 | +1 | +1 |
+
+**Senses Darkvision 60 ft.; Passive Perception 11**
+
+**Languages Common, Giant, Primordial (Aquan)**
+
+**CR 2 (XP 450; PB +2)**
+
+### Traits
+
+Amphibious. The hag can breathe air and water.
+
+Coven Magic. While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell’s normal casting time, and using Intelligence as the spellcasting ability (spell save DC 11): Augury, Find Familiar, Identify, Locate Object, Scrying, or Unseen Servant. The hag must finish a Long Rest before using this trait to cast that spell again.
+
+Vile Appearance. Wisdom Saving Throw: DC 11, any Beast or Humanoid that starts its turn within 30 feet of the hag and can see the hag’s true form. Failure: The target has the Frightened condition until the start of its next turn. Success: The target is immune to this hag’s
+
+Vile Appearance for 24 hours.
+
+### Actions
+
+Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage. Death Glare (Recharge 5–6). Wisdom Saving Throw: DC 11, one Frightened creature the hag can see within 30 feet. Failure: If the target has 20 Hit Points or fewer, it drops to 0 Hit Points. Otherwise, the target takes 13 (3d8) Psychic damage.
+
+Illusory Appearance. The hag casts Disguise Self, using Constitution as the spellcasting ability (spell save DC 13). The spell’s duration is 24 hours. Shadow
 
 ## Shadow
 
-*Medium undead, chaotic evil*
+*Medium Undead, Chaotic Evil*
 
-**Armor Class** 12
+**AC 12 Initiative +2 (12)**
 
-**Hit Points** 16 (3d8+3)
+**HP 27 (5d8 + 5)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 6 (-2)   | 14 (+2)  | 13 (+1)  | 6 (-2)   | 10 (+0)  | 8 (-1)   |
 
-**Skills** Stealth +4 (+6 in dim light or darkness)
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 6 | −2 | −2 | **Dex** 14 | +2 | +2 | **Con** 13 | +1 | +1 |
+| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 8 | −1 | −1 |
 
-**Damage Vulnerabilities** radiant
+**Skills Stealth +6**
 
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+Vulnerabilities Radiant Resistances Acid, Cold, Fire, Lightning, Thunder Immunities Necrotic, Poison; Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
 
-**Damage Immunities** necrotic, poison
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+**Languages None**
 
-**Senses** darkvision 60 ft., passive Perception 10
+**CR 1/2 (XP 100; PB +2)**
 
-**Languages** -
+### Traits
 
-**Challenge** 1/2 (100 XP)
+Amorphous. The shadow can move through a space as narrow as 1 inch without expending extra movement to do so.
 
-***Amorphous***. The shadow can move through a space as narrow as 1 inch wide without squeezing.
+Sunlight Weakness. While in sunlight, the shadow has
 
-***Shadow Stealth***. While in dim light or darkness, the shadow can take the Hide action as a bonus action.
+Disadvantage on D20 Tests.
 
-***Sunlight Weakness***. While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
+### Actions
 
-###### Actions
+Draining Swipe. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Necrotic damage, and the target’s Strength score decreases by 1d4. The target dies if this reduces that score to 0. If a Humanoid is slain by this attack, a
 
-***Strength Drain***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6+2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
+Shadow rises from the corpse 1d4 hours later.
 
-If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
+### Bonus Actions
+
+Shadow Stealth. While in Dim Light or Darkness, the shadow takes the Hide action. Shambling Mound
 
 ## Shambling Mound
 
-*Large plant, unaligned*
+*Large Plant, Unaligned*
 
-**Armor Class** 15 (natural armor)
+**AC 15 Initiative −1 (9)**
 
-**Hit Points** 136 (16d10+48)
+**HP 110 (13d10 + 39)**
 
-**Speed** 20 ft., swim 20 ft.
+**Speed 30 ft., Swim 20 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 8 (-1)   | 16 (+3)  | 5 (-3)   | 10 (+0)  | 5 (-3)   |
 
-**Skills** Stealth +2
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 16 | +3 | +3 |
+| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
 
-**Damage Resistances** cold, fire
+**Skills Stealth +3**
 
-**Damage Immunities** lightning
+**Resistances Cold, Fire**
 
-**Condition Immunities** blinded, deafened, exhaustion
+**Immunities Lightning; Deafened, Exhaustion**
 
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
+**Senses Blindsight 60 ft.; Passive Perception 10**
 
-**Languages** -
+**Languages None**
 
-**Challenge** 5 (1,800 XP)
+**CR 5 (XP 1,800; PB +3)**
 
-***Lightning Absorption***. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
+### Traits
 
-###### Actions
+Lightning Absorption. Whenever the shambling mound is subjected to Lightning damage, it regains a number of
 
-***Multiattack***. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
+Hit Points equal to the Lightning damage dealt.
 
-***Slam***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.
+### Actions
 
-***Engulf***. The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8+4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+Multiattack. The shambling mound makes three
+
+Charged Tendril attacks. It can replace one attack with a use of Engulf.
+
+Charged Tendril. Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4)
+
+Lightning damage. If the target is a Medium or smaller creature, the shambling mound pulls the target 5 feet straight toward itself.
+
+Engulf. Strength Saving Throw: DC 15, one Medium or smaller creature within 5 feet. Failure: The target is pulled into the shambling mound’s space and has the
+
+Grappled condition (escape DC 14). Until the grapple ends, the target has the Blinded and Restrained conditions, and it takes 10 (3d6) Lightning damage at the start of each of its turns. When the shambling mound moves, the Grappled target moves with it, costing it no extra movement. The shambling mound can have only one creature Grappled by this action at a time. Shield Guardian
 
 ## Shield Guardian
 
-*Large construct, unaligned*
+*Large Construct, Unaligned*
 
-**Armor Class** 17 (natural armor)
+**AC 17 Initiative −1 (9)**
 
-**Hit Points** 142 (15d10+60)
+**HP 142 (15d10 + 60)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 8 (-1)   | 18 (+4)  | 7 (-2)   | 10 (+0)  | 3 (-4)   |
 
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 18 | +4 | +4 |
+| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 3 | −4 | −4 |
 
-**Damage Immunities** poison
+**Immunities Poison; Charmed, Exhaustion, Frightened,**
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+Paralyzed, Petrified, Poisoned
 
-**Languages** understands commands given in any language but can't speak
+**Senses Blindsight 10 ft., Darkvision 60 ft.;**
 
-**Challenge** 7 (2,900 XP)
+Passive Perception 10 Languages Understands commands given in any language but can’t speak
 
-***Bound***. The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
+**CR 7 (XP 2,900; PB +3)**
 
-***Regeneration***. The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit point.
+### Traits
 
-***Spell Storing***. A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.
+Bound. The guardian is magically bound to an amulet. While the guardian and its amulet are on the same plane of existence, the amulet’s wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet’s wearer, half of any damage the wearer takes (round up) is transferred to the guardian.
 
-###### Actions
+Regeneration. The guardian regains 10 Hit Points at the start of each of its turns if it has at least 1 Hit Point.
 
-***Multiattack***. The guardian makes two fist attacks.
+Spell Storing. A spellcaster who wears the guardian’s amulet can cause the guardian to store one spell of level 4 or lower. To do so, the wearer must cast the spell on the guardian while within 5 feet of it. The spell has no effect but is stored within the guardian. Any previously stored spell is lost when a new spell is stored. The guardian can cast the spell stored with any parameters set by the original caster, requiring no spell components and using the caster’s spellcasting ability.
 
-***Fist***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
+The stored spell is then lost.
 
-###### Reactions
+### Actions
 
-***Shield***. When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
+Multiattack. The guardian makes two Fist attacks.
 
-## Skeletons
+Fist. Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Force damage.
 
-### Skeleton
+### Reactions
 
-*Medium undead, lawful evil*
+Protection. Trigger: An attack roll hits the wearer of the guardian’s amulet while the wearer is within 5 feet of the guardian. Response: The wearer gains a +5 bonus to AC, including against the triggering attack and possibly causing it to miss, until the start of the guardian’s next turn. Silver Dragons
 
-**Armor Class** 13 (armor scraps)
+## Shrieker Fungus
 
-**Hit Points** 13 (2d8+4)
+*Medium Plant, Unaligned*
 
-**Speed** 30 ft.
+**AC 5 Initiative −5 (5)**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 10 (+0)  | 14 (+2)  | 15 (+2)  | 6 (-2)   | 8 (-1)   | 5 (-3)   |
+**HP 13 (3d8)**
 
-**Damage Vulnerabilities** bludgeoning
+**Speed 5 ft.**
 
-**Damage Immunities** poison
 
-**Condition Immunities** exhaustion, poisoned
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 1 | −5 | −5 | **Dex** 1 | −5 | −5 | **Con** 10 | +0 | +0 |
+| **Int** 1 | −5 | −5 | **Wis** 3 | −4 | −4 | **Cha** 1 | −5 | −5 |
 
-**Senses** darkvision 60 ft., passive Perception 9
+**Immunities Blinded, Charmed, Deafened, Frightened**
 
-**Languages** understands all languages it knew in life but can't speak
+**Senses Blindsight 30 ft.; Passive Perception 6**
 
-**Challenge** 1/4 (50 XP)
+**Languages None**
 
-###### Actions
+**CR 0 (XP 0; PB +2)**
 
-***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+### Reactions
 
-***Shortbow***. *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+Shriek. Trigger: A creature or a source of Bright Light moves within 30 feet of the shrieker. Response: The shrieker emits a shriek audible within 300 feet of itself for 1 minute or until the shrieker dies.
 
-### Minotaur Skeleton
+## Silver Dragon Wyrmling
 
-*Large undead, lawful evil*
+*Medium Dragon (Metallic), Lawful Good*
 
-**Armor Class** 12 (natural armor)
+**AC 17 Initiative +2 (12)**
 
-**Hit Points** 67 (9d10+18)
+**HP 45 (6d8 + 18)**
 
-**Speed** 40 ft.
+**Speed 30 ft., Fly 60 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 11 (+0)  | 15 (+2)  | 6 (-2)   | 8 (-1)   | 5 (-3)   |
 
-**Damage Vulnerabilities** bludgeoning
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +2 | **Con** 17 | +3 | +3 |
+| **Int** 12 | +1 | +1 | **Wis** 11 | +0 | +2 | **Cha** 15 | +2 | +2 |
 
-**Damage Immunities** poison
+**Skills Perception +4, Stealth +2**
 
-**Condition Immunities** exhaustion, poisoned
+**Immunities Cold**
 
-**Senses** darkvision 60 ft., passive Perception 9
+**Senses Blindsight 10 ft., Darkvision 60 ft.;**
 
-**Languages** understands Abyssal but can't speak
+Passive Perception 14 Languages Draconic
 
-**Challenge** 2 (450 XP)
+**CR 2 (450 XP; PB +2)**
 
-***Charge***. If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
+### Actions
 
-###### Actions
+Multiattack. The dragon makes two Rend attacks.
 
-***Greataxe***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (2d12+4) slashing damage.
+Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Piercing damage. Cold Breath (Recharge 5–6). Constitution Saving Throw: DC 13, each creature in a 15-foot Cone. Failure: 18 (4d8) Cold damage. Success: Half damage.
 
-***Gore***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) piercing damage.
+Paralyzing Breath. Constitution Saving Throw: DC 13, each creature in a 15-foot Cone. First Failure: The target has the Incapacitated condition until the end of its next turn, when it repeats the save. Second Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
-### Warhorse Skeleton
+## Skeleton
 
-*Large undead, lawful evil*
+*Medium Undead, Lawful Evil*
 
-**Armor Class** 13 (barding scraps)
+**AC 14 Initiative +3 (13)**
 
-**Hit Points** 22 (3d10+6)
+**HP 13 (2d8 + 4)**
 
-**Speed** 60 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 12 (+1)  | 15 (+2)  | 2 (-4)   | 8 (-1)   | 5 (-3)   |
 
-**Damage Vulnerabilities** bludgeoning
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 10 | +0 | +0 | **Dex** 16 | +3 | +3 | **Con** 15 | +2 | +2 |
+| **Int** 6 | −2 | −2 | **Wis** 8 | −1 | −1 | **Cha** 5 | −3 | −3 |
 
-**Damage Immunities** poison
+Vulnerabilities Bludgeoning Immunities Poison; Exhaustion, Poisoned Gear Shortbow, Shortsword
 
-**Condition Immunities** exhaustion, poisoned
+**Senses Darkvision 60 ft.; Passive Perception 9**
 
-**Senses** darkvision 60 ft., passive Perception 9
+**Languages Understands Common plus one other language**
 
-**Languages** -
+but can’t speak
 
-**Challenge** 1/2 (100 XP)
+**CR 1/4 (XP 50; PB +2)**
 
-###### Actions
+### Actions
 
-***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
+Shortsword. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage.
+
+Shortbow. Ranged Attack Roll: +5, range 80/320 ft. Hit: 6 (1d6 + 3) Piercing damage.
+
+## Solar
+
+*Large Celestial (Angel), Lawful Good*
+
+**AC 21 Initiative +20 (30)**
+
+**HP 297 (22d10 + 176)**
+
+**Speed 50 ft., Fly 150 ft. (hover)**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 26 | +8 | +8 | **Dex** 22 | +6 | +6 | **Con** 26 | +8 | +8 |
+| **Int** 25 | +7 | +7 | **Wis** 25 | +7 | +7 | **Cha** 30 | +10 | +10 |
+
+**Skills Perception +14**
+
+**Immunities Poison, Radiant; Charmed, Exhaustion,**
+
+Frightened, Poisoned
+
+**Senses Truesight 120 ft.; Passive Perception 24**
+
+**Languages All; telepathy 120 ft.**
+
+**CR 21 (XP 33,000; PB +7)**
+
+### Traits
+
+Divine Awareness. The solar knows if it hears a lie.
+
+Exalted Restoration. If the solar dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its Hit Points somewhere in
+
+Mount Celestia.
+
+Legendary Resistance (4/Day). If the solar fails a saving throw, it can choose to succeed instead.
+
+Magic Resistance. The solar has Advantage on saving throws against spells and other magical effects.
+
+### Actions
+
+Multiattack. The solar makes two Flying Sword attacks.
+
+It can replace one attack with a use of Slaying Bow.
+
+Flying Sword. Melee or Ranged Attack Roll: +15, reach 10 ft. or range 120 ft. Hit: 22 (4d6 + 8) Slashing damage plus 36 (8d8) Radiant damage. Hit or Miss: The sword magically returns to the solar’s hand or hovers within 5 feet of the solar immediately after a ranged attack.
+
+Slaying Bow. Dexterity Saving Throw: DC 21, one creature the solar can see within 600 feet. Failure: If the creature has 100 Hit Points or fewer, it dies. It otherwise takes 24 (4d8 + 6) Piercing damage plus 36 (8d8)
+
+Radiant damage.
+
+Spellcasting. The solar casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 25): At Will: Detect Evil and Good 1/Day Each: Commune, Control Weather, Dispel Evil and Good, Resurrection
+
+### Bonus Actions
+
+Divine Aid (3/Day). The solar casts Cure Wounds (level 2 version), Lesser Restoration, or Remove Curse, using the same spellcasting ability as Spellcasting.
+
+### Legendary Actions
+
+Legendary Action Uses: 3. Immediately after another creature’s turn, the solar can expend a use to take one of the following actions. The solar regains all expended uses at the start of each of its turns.
+
+Blinding Gaze. Constitution Saving Throw: DC 25, one creature the solar can see within 120 feet. Failure: The target has the Blinded condition for 1 minute. Failure or Success: The solar can’t take this action again until the start of its next turn.
+
+Radiant Teleport. The solar teleports up to 60 feet to an unoccupied space it can see. Dexterity Saving Throw: DC 25, each creature in a 10-foot Emanation originating from the solar at its destination space. Failure: 11 (2d10) Radiant damage. Success: Half damage. Specter
 
 ## Specter
 
-*Medium undead, chaotic evil*
+*Medium Undead, Chaotic Evil*
 
-**Armor Class** 12
+**AC 12 Initiative +2 (12)**
 
-**Hit Points** 22 (5d8)
+**HP 22 (5d8)**
 
-**Speed** 0 ft., fly 50 ft. (hover)
+**Speed 30 ft., Fly 50 ft. (hover)**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 1 (-5)   | 14 (+2)  | 11 (+0)  | 10 (+0)  | 10 (+0)  | 11 (+0)  |
 
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 1 | −5 | −5 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
+| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 11 | +0 | +0 |
 
-**Damage Immunities** necrotic, poison
+**Resistances Acid, Bludgeoning, Cold, Fire, Lightning,**
 
-**Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+Piercing, Slashing, Thunder Immunities Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
 
-**Senses** darkvision 60 ft., passive Perception 10
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Languages** understands all languages it knew in life but can't speak
+**Languages Understands Common plus one other language**
 
-**Challenge** 1 (200 XP)
+but can’t speak
 
-***Incorporeal Movement***. The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+**CR 1 (XP 200; PB +2)**
 
-***Sunlight Sensitivity***. While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+### Traits
 
-###### Actions
+Incorporeal Movement. The specter can move through other creatures and objects as if they were Difficult
 
-***Life Drain***. *Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
 
-## Sphinxes
+Sunlight Sensitivity. While in sunlight, the specter has
 
-### Androsphinx
+Disadvantage on ability checks and attack rolls.
 
-*Large monstrosity, lawful neutral*
+### Actions
 
-**Armor Class** 17 (natural armor)
+Life Drain. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d6) Necrotic damage. If the target is a creature, its Hit Point maximum decreases by an amount equal to the damage taken. Sphinxes
 
-**Hit Points** 199 (19d10+95)
+## Sphinx of Lore
 
-**Speed** 40 ft., fly 60 ft.
+*Large Celestial, Lawful Neutral*
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 22 (+6)  | 10 (+0)  | 20 (+5)  | 16 (+3)  | 18 (+4)  | 23 (+6)  |
+**AC 17 Initiative +10 (20)**
 
-**Saving Throws** Dex +6, Con +11, Int +9, Wis +10
+**HP 170 (20d10 + 60)**
 
-**Skills** Arcana +9, Perception +10, Religion +15
+**Speed 40 ft., Fly 60 ft.**
 
-**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Condition Immunities** charmed, frightened
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
+| **Int** 18 | +4 | +4 | **Wis** 18 | +4 | +4 | **Cha** 18 | +4 | +4 |
 
-**Senses** truesight 120 ft., passive Perception 20
+**Skills Arcana +12, History +12, Perception +8,**
 
-**Languages** Common, Sphinx
+Religion +12 Resistances Necrotic, Radiant Immunities Psychic; Charmed, Frightened
 
-**Challenge** 17 (18,000 XP)
+**Senses Truesight 120 ft.; Passive Perception 18**
 
-***Inscrutable***. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
+**Languages Celestial, Common**
 
-***Magic Weapons***. The sphinx's weapon attacks are magical.
+**CR 11 (XP 7,200, or 8,400 in lair; PB +4)**
 
-***Spellcasting***. The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
+### Traits
 
-Cantrips (at will): *sacred flame*, *spare the dying*, *thaumaturgy*
-1st level (4 slots): *command*, *detect evil and good*, *detect magic*
-2nd level (3 slots): *lesser restoration*, *zone of truth*
-3rd level (3 slots): *dispel magic*, *tongues*
-4th level (3 slots): *banishment*, *freedom of movement*
-5th level (2 slots): *flame strike*, *greater restoration*
-6th level (1 slot): *heroes' feast*
+Inscrutable. No magic can observe the sphinx remotely or detect its thoughts without its permission. Wisdom (Insight) checks made to ascertain its intentions or sincerity are made with Disadvantage. Legendary Resistance (3/Day, or 4/Day in Lair). If the sphinx fails a saving throw, it can choose to succeed instead.
 
-###### Actions
+### Actions
 
-***Multiattack***. The sphinx makes two claw attacks.
+Multiattack. The sphinx makes three Claw attacks.
 
-***Claw***. *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 17 (2d10+6) slashing damage.
+Claw. Melee Attack Roll: +8, reach 5 ft. Hit: 14 (3d6 + 4) Slashing damage. Mind-Rending Roar (Recharge 5–6). Wisdom Saving Throw: DC 16, each enemy in a 300-foot Emanation originating from the sphinx. Failure: 35 (10d6) Psychic damage, and the target has the Incapacitated condition until the start of the sphinx’s next turn.
 
-***Roar (3/Day)***. The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
+Spellcasting. The sphinx casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16): At Will: Detect Magic, Identify, Mage Hand, Minor Illusion, Prestidigitation 1/Day Each: Dispel Magic, Legend Lore, Locate Object, Plane Shift, Remove Curse, Tongues
 
-**First Roar**. Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+### Legendary Actions
 
-**Second Roar**. Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the sphinx can expend a use to take one of the following actions. The sphinx regains all expended uses at the start of each of its turns.
 
-**Third Roar**. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
+Arcane Prowl. The sphinx can teleport up to 30 feet to an unoccupied space it can see, and it makes one
 
-###### Legendary Actions
+Claw attack.
 
-The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
+Weight of Years. Constitution Saving Throw: DC 16, one creature the sphinx can see within 120 feet. Failure:
 
-**Claw Attack**. The sphinx makes one claw attack.
+The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. Failure or Success: The sphinx can’t take this action again until the start of its next turn.
 
-**Teleport (Costs 2 Actions)**. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+## Sphinx of Valor
 
-**Cast a Spell (Costs 3 Actions)**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+*Large Celestial, Lawful Neutral*
 
-### Gynosphinx
+**AC 17 Initiative +12 (22)**
 
-*Large monstrosity, lawful neutral*
+**HP 199 (19d10 + 95)**
 
-**Armor Class** 17 (natural armor)
+**Speed 40 ft., Fly 60 ft.**
 
-**Hit Points** 136 (16d10+48)
 
-**Speed** 40 ft., fly 60 ft.
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 22 | +6 | +6 | **Dex** 10 | +0 | +6 | **Con** 20 | +5 | +11 |
+| **Int** 16 | +3 | +9 | **Wis** 23 | +6 | +12 | **Cha** 18 | +4 | +4 |
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 15 (+2)  | 16 (+3)  | 18 (+4)  | 18 (+4)  | 18 (+4)  |
+**Skills Arcana +9, Perception +12, Religion +15**
 
-**Skills** Arcana +12, History +12, Perception +8, Religion +8
+**Resistances Necrotic, Radiant**
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Immunities Psychic; Charmed, Frightened**
 
-**Damage Immunities** psychic
+**Senses Truesight 120 ft.; Passive Perception 22**
 
-**Condition Immunities** charmed, frightened
+**Languages Celestial, Common**
 
-**Senses** truesight 120 ft., passive Perception 18
+**CR 17 (XP 18,000, or 20,000 in lair; PB +6)**
 
-**Languages** Common, Sphinx
+### Traits
 
-**Challenge** 11 (7,200 XP)
+Inscrutable. No magic can observe the sphinx remotely or detect its thoughts without its permission. Wisdom (Insight) checks made to ascertain its intentions or sincerity are made with Disadvantage. Legendary Resistance (3/Day, or 4/Day in Lair). If the sphinx fails a saving throw, it can choose to succeed instead.
 
-***Inscrutable***. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
+### Actions
 
-***Magic Weapons***. The sphinx's weapon attacks are magical.
+Multiattack. The sphinx makes two Claw attacks and uses Roar.
 
-***Spellcasting***. The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
+Claw. Melee Attack Roll: +12, reach 5 ft. Hit: 20 (4d6 + 6) Slashing damage.
 
-Cantrips (at will): *mage hand*, *minor illusion*, *prestidigitation*
-1st level (4 slots): *detect magic*, *identify*, *shield*
-2nd level (3 slots): *darkness*, *locate object*, *suggestion*
-3rd level (3 slots): *dispel magic*, *remove curse*, *tongues*
-4th level (3 slots): *banishment*, *greater invisibility*
-5th level (1 slot): *legend lore*
+Roar (3/Day). The sphinx emits a magical roar. Whenever it roars, the roar has a different effect, as detailed below (the sequence resets when it takes a Long Rest):
 
-###### Actions
+First Roar. Wisdom Saving Throw: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. Failure: The target has the Frightened condition for 1 minute.
 
-***Multiattack***. The sphinx makes two claw attacks.
+Second Roar. Wisdom Saving Throw: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. Failure: The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
-***Claw***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
+Third Roar. Constitution Saving Throw: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. Failure: 44 (8d10) Thunder damage, and the target has the Prone condition. Success: Half damage only.
 
-###### Legendary Actions
+Spellcasting. The sphinx casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 20): At Will: Detect Evil and Good, Thaumaturgy 1/Day Each: Detect Magic, Dispel Magic, Greater Restoration, Heroes’ Feast, Zone of Truth
 
-The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
+### Legendary Actions
 
-**Claw Attack**. The sphinx makes one claw attack.
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the sphinx can expend a use to take one of the following actions. The sphinx regains all expended uses at the start of each of its turns.
 
-**Teleport (Costs 2 Actions)**. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+Arcane Prowl. The sphinx can teleport up to 30 feet to an unoccupied space it can see, and it makes one
 
-**Cast a Spell (Costs 3 Actions)**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+Claw attack.
+
+Weight of Years. Constitution Saving Throw: DC 16, one creature the sphinx can see within 120 feet. Failure:
+
+The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. Failure or Success: The sphinx can’t take this action again until the start of its next turn. Spirit Naga
+
+## Sphinx of Wonder
+
+*Tiny Celestial, Lawful Good*
+
+**AC 13 Initiative +3 (13)**
+
+**HP 24 (7d4 + 7)**
+
+**Speed 20 ft., Fly 40 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 6 | −2 | −2 | **Dex** 17 | +3 | +3 | **Con** 13 | +1 | +1 |
+| **Int** 15 | +2 | +2 | **Wis** 12 | +1 | +1 | **Cha** 11 | +0 | +0 |
+
+**Skills Arcana +4, Religion +4, Stealth +5**
+
+**Resistances Necrotic, Psychic, Radiant**
+
+**Senses Darkvision 60 ft.; Passive Perception 11**
+
+**Languages Celestial, Common**
+
+**CR 1 (XP 200; PB +2)**
+
+### Traits
+
+Magic Resistance. The sphinx has Advantage on saving throws against spells and other magical effects.
+
+### Actions
+
+Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3)
+
+Slashing damage plus 7 (2d6) Radiant damage.
+
+### Reactions
+
+Burst of Ingenuity (2/Day). Trigger: The sphinx or another creature within 30 feet makes an ability check or a saving throw. Response: The sphinx adds 2 to the roll.
+
+## Spirit Naga
+
+*Large Fiend, Chaotic Evil*
+
+**AC 17 Initiative +3 (13)**
+
+**HP 135 (18d10 + 36)**
+
+**Speed 40 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 17 | +3 | +6 | **Con** 14 | +2 | +5 |
+| **Int** 16 | +3 | +3 | **Wis** 15 | +2 | +5 | **Cha** 16 | +3 | +6 |
+
+**Immunities Poison; Charmed, Poisoned**
+
+**Senses Darkvision 60 ft.; Passive Perception 12**
+
+**Languages Abyssal, Common**
+
+**CR 8 (XP 3,900; PB +3)**
+
+### Traits
+
+Fiendish Restoration. If it dies, the naga returns to life in 1d6 days and regains all its Hit Points. Only a Wish spell can prevent this trait from functioning.
+
+### Actions
+
+Multiattack. The naga makes three attacks, using Bite or Necrotic Ray in any combination.
+
+Bite. Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4)
+
+Piercing damage plus 14 (4d6) Poison damage.
+
+Necrotic Ray. Ranged Attack Roll: +6, range 60 ft. Hit: 21 (6d6) Necrotic damage.
+
+Spellcasting. The naga casts one of the following spells, requiring no Somatic or Material components and using Intelligence as the spellcasting ability (spell save DC 14): At Will: Detect Magic, Mage Hand, Minor Illusion, Water Breathing 2/Day Each: Detect Thoughts, Dimension Door, Hold Person (level 3 version), Lightning Bolt (level 4 version) Sprite
 
 ## Sprite
 
-*Tiny fey, neutral good*
+*Tiny Fey, Neutral Good*
 
-**Armor Class** 15 (leather armor)
+**AC 15 Initiative +4 (14)**
 
-**Hit Points** 2 (1d4)
+**HP 10 (4d4)**
 
-**Speed** 10 ft., fly 40 ft.
+**Speed 10 ft., Fly 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 3 (-4)   | 18 (+4)  | 10 (+0)  | 14 (+2)  | 13 (+1)  | 11 (+0)  |
 
-**Skills** Perception +3, Stealth +8
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 3 | −4 | −4 | **Dex** 18 | +4 | +4 | **Con** 10 | +0 | +0 |
+| **Int** 14 | +2 | +2 | **Wis** 13 | +1 | +1 | **Cha** 11 | +0 | +0 |
 
-**Senses** passive Perception 13
+**Skills Perception +3, Stealth +8**
 
-**Languages** Common, Elvish, Sylvan
+**Senses Passive Perception 13**
 
-**Challenge** 1/4 (50 XP)
+**Languages Common, Elvish, Sylvan**
 
-###### Actions
+**CR 1/4 (XP 50; PB +2)**
 
-***Longsword***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
+### Actions
 
-***Shortbow***. *Ranged Weapon Attack:* +6 to hit, range 40/160 ft., one target. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
+Needle Sword. Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage.
 
-***Heart Sight***. The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.
+Enchanting Bow. Ranged Attack Roll: +6, range 40/160 ft. Hit: 1 Piercing damage, and the target has the Charmed condition until the start of the sprite’s next turn.
 
-***Invisibility***. The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
+Heart Sight. Charisma Saving Throw: DC 10, one creature within 5 feet the sprite can see (Celestials, Fiends, and Undead automatically fail the save). Failure: The sprite knows the target’s emotions and alignment.
+
+Invisibility. The sprite casts Invisibility on itself, requiring no spell components and using Charisma as the spellcasting ability. Spy
+
+## Spy
+
+*Medium or Small Humanoid, Neutral*
+
+**AC 12 Initiative +4 (14)**
+
+**HP 27 (6d8)**
+
+**Speed 30 ft., Climb 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 10 | +0 | +0 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
+| **Int** 12 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 16 | +3 | +3 |
+
+**Skills Deception +5, Insight +4, Investigation +5,**
+
+Perception +6, Sleight of Hand +4, Stealth +6 Gear Hand Crossbow, Shortsword, Thieves’ Tools Senses Passive Perception 16 Languages Common plus one other language
+
+**CR 1 (XP 200; PB +2)**
+
+### Actions
+
+Shortsword. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage plus 7 (2d6) Poison damage.
+
+Hand Crossbow. Ranged Attack Roll: +4, range 30/120 ft. Hit: 5 (1d6 + 2) Piercing damage plus 7 (2d6) Poison damage.
+
+### Bonus Actions
+
+Cunning Action. The spy takes the Dash, Disengage, or Hide action. Stirge
+
+## Steam Mephit
+
+*Small Elemental, Neutral Evil*
+
+**AC 10 Initiative +0 (10)**
+
+**HP 17 (5d6)**
+
+**Speed 30 ft., Fly 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 5 | −3 | −3 | **Dex** 11 | +0 | +0 | **Con** 10 | +0 | +0 |
+| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 12 | +1 | +1 |
+
+**Skills Stealth +2**
+
+**Immunities Fire, Poison; Exhaustion, Poisoned**
+
+**Senses Darkvision 60 ft.; Passive Perception 10**
+
+**Languages Primordial (Aquan, Ignan)**
+
+**CR 1/4 (XP 50; PB +2)**
+
+### Traits
+
+Blurred Form. Attack rolls against the mephit are made with Disadvantage unless the mephit has the Incapacitated condition.
+
+Death Burst. The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each creature in a 5-foot
+
+Emanation originating from the mephit. Failure: 5 (2d4)
+
+Fire damage. Success: Half damage.
+
+### Actions
+
+Claw. Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4)
+
+Slashing damage plus 2 (1d4) Fire damage.
+
+Steam Breath (Recharge 6). Constitution Saving Throw: DC 10, each creature in a 15-foot Cone. Failure: 5 (2d4) Fire damage, and the target’s Speed decreases by 10 feet until the end of the mephit’s next turn. Success:
+
+Half damage only. Failure or Success: Being underwater doesn’t grant Resistance to this Fire damage. Merfolk
 
 ## Stirge
 
-*Tiny beast, unaligned*
+*Tiny Monstrosity, Unaligned*
 
-**Armor Class** 14 (natural armor)
+**AC 13 Initiative +3 (13)**
 
-**Hit Points** 2 (1d4)
+**HP 5 (2d4)**
 
-**Speed** 10 ft., fly 40 ft.
+**Speed 10 ft., Fly 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 4 (-3)   | 16 (+3)  | 11 (+0)  | 2 (-4)   | 8 (-1)   | 6 (-2)   |
 
-**Senses** darkvision 60 ft., passive Perception 9
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 4 | −3 | −3 | **Dex** 16 | +3 | +3 | **Con** 11 | +0 | +0 |
+| **Int** 2 | −4 | −4 | **Wis** 8 | −1 | −1 | **Cha** 6 | −2 | −2 |
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 9**
 
-**Challenge** 1/8 (25 XP)
+**Languages None**
 
-###### Actions
+**CR 1/8 (XP 25; PB +2)**
 
-***Blood Drain***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5 (1d4+3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4+3) hit points due to blood loss.
+### Actions
 
-The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
+Proboscis. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage, and the stirge attaches to the target. While attached, the stirge can’t make Proboscis attacks, and the target takes 5 (2d4) Necrotic damage at the start of each of the stirge’s turns. The stirge can detach itself by spending 5 feet of its movement. The target or a creature within 5 feet of it can detach the stirge as an action. Stone Giant
 
-## Succubus/Incubus
+## Stone Giant
 
-*Medium fiend (shapechanger), neutral evil*
+*Huge Giant, Neutral*
 
-**Armor Class** 15 (natural armor)
+**AC 17 Initiative +5 (15)**
 
-**Hit Points** 66 (12d8+12)
+**HP 126 (11d12 + 55)**
 
-**Speed** 30 ft., fly 60 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 8 (-1)   | 17 (+3)  | 13 (+1)  | 15 (+2)  | 12 (+1)  | 20 (+5)  |
 
-**Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 23 | +6 | +6 | **Dex** 15 | +2 | +5 | **Con** 20 | +5 | +8 |
+| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +4 | **Cha** 9 | −1 | −1 |
 
-**Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+**Skills Athletics +12, Perception +4, Stealth +5**
 
-**Senses** darkvision 60 ft., passive Perception 15
+**Senses Darkvision 60 ft.; Passive Perception 14**
 
-**Languages** Abyssal, Common, Infernal, telepathy 60 ft.
+**Languages Giant**
 
-**Challenge** 4 (1,100 XP)
+**CR 7 (XP 2,900; PB +3)**
 
-***Telepathic Bond***. The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.
+### Actions
 
-***Shapechanger***. The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+Multiattack. The giant makes two attacks, using Stone
 
-###### Actions
+Club or Boulder in any combination.
 
-***Claw (Fiend Form Only)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) slashing damage.
+Stone Club. Melee Attack Roll: +9, reach 15 ft. Hit: 22 (3d10 + 6) Bludgeoning damage.
 
-***Charm***. One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.
+Boulder. Ranged Attack Roll: +9, range 60/240 ft. Hit: 15 (2d8 + 6) Bludgeoning damage. If the target is a
 
-The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
+*Large or smaller creature, it has the Prone condition.*
 
-***Draining Kiss***. The fiend kisses a creature charmed by it or a willing creature. The target must make a DC 15
+### Reactions
 
-Constitution saving throw against this magic, taking 32 (5d10+5) psychic damage on a failed save, or half as much damage on a successful one. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+Deflect Missile (Recharge 5–6). Trigger: The giant is hit by a ranged attack roll and takes Bludgeoning, Piercing, or Slashing damage from it. Response: The giant reduces the damage it takes from the attack by 11 (1d10 + 6), and if that damage is reduced to 0, the giant can redirect some of the attack’s force. Dexterity Saving Throw: DC 17, one creature the giant can see within 60 feet. Failure: 11 (1d10 + 6) Force damage. Stone Golem
 
-***Etherealness***. The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
+## Stone Golem
+
+*Large Construct, Unaligned*
+
+**AC 18 Initiative +3 (13)**
+
+**HP 220 (21d10 + 105)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 22 | +6 | +6 | **Dex** 9 | −1 | −1 | **Con** 20 | +5 | +5 |
+| **Int** 3 | −4 | −4 | **Wis** 11 | +0 | +0 | **Cha** 1 | −5 | −5 |
+
+**Immunities Poison, Psychic; Charmed, Exhaustion,**
+
+Frightened, Paralyzed, Petrified, Poisoned
+
+**Senses Darkvision 120 ft.; Passive Perception 10**
+
+**Languages Understands Common plus two other**
+
+languages but can’t speak
+
+**CR 10 (XP 5,900; PB +4)**
+
+### Traits
+
+Immutable Form. The golem can’t shape-shift.
+
+Magic Resistance. The golem has Advantage on saving throws against spells and other magical effects.
+
+### Actions
+
+Multiattack. The golem makes two attacks, using Slam or Force Bolt in any combination.
+
+Slam. Melee Attack Roll: +10, reach 5 ft. Hit: 15 (2d8 + 6) Bludgeoning damage plus 9 (2d8) Force damage.
+
+Force Bolt. Ranged Attack Roll: +9, range 120 ft. Hit: 22 (4d10) Force damage.
+
+### Bonus Actions
+
+Slow (Recharge 5–6). The golem casts the Slow spell, requiring no spell components and using Constitution as the spellcasting ability (spell save DC 17). Storm Giant
+
+## Storm Giant
+
+*Huge Giant, Chaotic Good*
+
+**AC 16 Initiative +7 (17)**
+
+**HP 230 (20d12 + 100)**
+
+**Speed 50 ft., Fly 25 ft. (hover), Swim 50 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 29 | +9 | +14 | **Dex** 14 | +2 | +2 | **Con** 20 | +5 | +10 |
+| **Int** 16 | +3 | +3 | **Wis** 20 | +5 | +10 | **Cha** 18 | +4 | +9 |
+
+**Skills Arcana +8, Athletics +14, History +8, Perception +10**
+
+**Resistances Cold**
+
+**Immunities Lightning, Thunder**
+
+**Senses Darkvision 120 ft., Truesight 30 ft.;**
+
+Passive Perception 20 Languages Common, Giant
+
+**CR 13 (XP 10,000; PB +5)**
+
+### Traits
+
+Amphibious. The giant can breathe air and water.
+
+### Actions
+
+Multiattack. The giant makes two attacks, using Storm
+
+Sword or Thunderbolt in any combination.
+
+Storm Sword. Melee Attack Roll: +14, reach 10 ft. Hit: 23 (4d6 + 9) Slashing damage plus 13 (3d8) Lightning damage.
+
+Thunderbolt. Ranged Attack Roll: +14, range 500 ft. Hit: 22 (2d12 + 9) Lightning damage, and the target has the Blinded and Deafened conditions until the start of the giant’s next turn. Lightning Storm (Recharge 5–6). Dexterity Saving Throw: DC 18, each creature in a 10-foot-radius, 40-foot-high Cylinder originating from a point the giant can see within 500 feet. Failure: 55 (10d10) Lightning damage. Success: Half damage.
+
+Spellcasting. The giant casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 18): At Will: Detect Magic, Light 1/Day: Control Weather Succubus
+
+## Succubus
+
+*Medium Fiend, Neutral Evil*
+
+**AC 15 Initiative +3 (13)**
+
+**HP 71 (13d8 + 13)**
+
+**Speed 30 ft., Fly 60 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 8 | −1 | −1 | **Dex** 17 | +3 | +3 | **Con** 13 | +1 | +1 |
+| **Int** 15 | +2 | +2 | **Wis** 12 | +1 | +1 | **Cha** 20 | +5 | +5 |
+
+**Skills Deception +9, Insight +5, Perception +5, Persuasion**
+
++9, Stealth +7 Resistances Cold, Fire, Poison, Psychic
+
+**Senses Darkvision 60 ft.; Passive Perception 15**
+
+**Languages Abyssal, Common, Infernal; telepathy 60 ft.**
+
+**CR 4 (XP 1,100; PB +2)**
+
+### Traits
+
+Incubus Form. When the succubus finishes a Long Rest, it can shape-shift into an Incubus, using that stat block instead of this one.
+
+### Actions
+
+Multiattack. The succubus makes one Fiendish Touch attack and uses Charm or Draining Kiss.
+
+Fiendish Touch. Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Psychic damage.
+
+Charm. The succubus casts Dominate Person (level 8 version), requiring no spell components and using Charisma as the spellcasting ability (spell save DC 15).
+
+Draining Kiss. Constitution Saving Throw: DC 15, one creature Charmed by the succubus within 5 feet. Failure: 13 (3d8) Psychic damage. Success: Half damage. Failure or Success: The target’s Hit Point maximum decreases by an amount equal to the damage taken.
+
+### Bonus Actions
+
+Shape-Shift. The succubus shape-shifts into a Medium or Small Humanoid, or it returns to its true form. Its game statistics are the same in each form, except its Fly
+
+**Speed is available only in its true form. Any equipment**
+
+it is wearing or carrying isn’t transformed. Tarrasque
+
+## Swarm of Crawling Claws
+
+*Medium Swarm of Tiny Undead, Neutral Evil*
+
+**AC 12 Initiative +2 (12)**
+
+**HP 49 (11d8)**
+
+**Speed 30 ft., Climb 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 14 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
+| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 4 | −3 | −3 |
+
+**Resistances Bludgeoning, Piercing, Slashing**
+
+**Immunities Necrotic, Poison; Charmed, Exhaustion,**
+
+Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
+
+**Senses Blindsight 30 ft.; Passive Perception 10**
+
+**Languages Understands Common but can’t speak**
+
+**CR 3 (XP 700; PB +2)**
+
+### Traits
+
+Swarm. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can’t regain Hit Points or gain Temporary
+
+Hit Points.
+
+### Actions
+
+Swarm of Grasping Hands. Melee Attack Roll: +4, reach 5 ft. Hit: 20 (4d8 + 2) Necrotic damage, or 11 (2d8 + 2) Necrotic damage if the swarm is Bloodied. If the target is a Medium or smaller creature, it has the
+
+Prone condition. Cultists

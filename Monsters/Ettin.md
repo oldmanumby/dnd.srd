@@ -1,33 +1,35 @@
 ## Ettin
 
-*Large giant, chaotic evil*
+*Large Giant, Chaotic Evil*
 
-**Armor Class** 12 (natural armor)
+**AC 12 Initiative −1 (9)**
 
-**Hit Points** 85 (10d10+30)
+**HP 85 (10d10 + 30)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 21 (+5)  | 8 (-1)   | 17 (+3)  | 6 (-2)   | 10 (+0)  | 8 (-1)   |
 
-**Skills** Perception +4
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 21 | +5 | +5 | **Dex** 8 | −1 | −1 | **Con** 17 | +3 | +3 |
+| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 8 | −1 | −1 |
 
-**Senses** darkvision 60 ft., passive Perception 14
+**Skills Perception +4**
 
-**Languages** Giant, Orc
+**Immunities Blinded, Charmed, Deafened, Frightened,**
 
-**Challenge** 4 (1,100 XP)
+Stunned, Unconscious Gear Battleaxe, Morningstar
 
-***Two Heads***. The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+**Senses Darkvision 60 ft.; Passive Perception 14**
 
-***Wakeful***. When one of the ettin's heads is asleep, its other head is awake.
+**Languages Giant**
 
-###### Actions
+**CR 4 (XP 1,100; PB +2)**
 
-***Multiattack***. The ettin makes two attacks: one with its battleaxe and one with its morningstar.
+### Actions
 
-***Battleaxe***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8+5) slashing damage.
+Multiattack. The ettin makes one Battleaxe attack and one Morningstar attack.
 
-***Morningstar***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8+5) piercing damage.
+Battleaxe. Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
+
+Morningstar. Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage, and the target has Disadvantage on the next attack roll it makes before the end of its next turn. Fire Elemental

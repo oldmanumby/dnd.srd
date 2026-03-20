@@ -1,31 +1,35 @@
 ## Remorhaz
 
-*Huge monstrosity, unaligned*
+*Huge Monstrosity, Unaligned*
 
-**Armor Class** 17 (natural armor)
+**AC 17 Initiative +5 (15)**
 
-**Hit Points** 195 (17d12+85)
+**HP 195 (17d12 + 85)**
 
-**Speed** 30 ft., burrow 20 ft.
+**Speed 40 ft., Burrow 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 24 (+7)  | 13 (+1)  | 21 (+5)  | 4 (-3)   | 10 (+0)  | 5 (-3)   |
 
-**Damage Immunities** cold, fire
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 24 | +7 | +7 | **Dex** 13 | +1 | +1 | **Con** 21 | +5 | +5 |
+| **Int** 4 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
 
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+**Immunities Cold, Fire**
 
-**Languages** -
+**Senses Darkvision 60 ft., Tremorsense 60 ft.;**
 
-**Challenge** 11 (7,200 XP)
+Passive Perception 10 Languages None
 
-***Heated Body***. A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
+**CR 11 (XP 7,200; PB +4)**
 
-###### Actions
+### Traits
 
-***Bite***. *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 40 (6d10+7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.
+Heat Aura. At the end of each of the remorhaz’s turns, each creature in a 5-foot Emanation originating from the remorhaz takes 16 (3d10) Fire damage.
 
-***Swallow***. The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns.
+### Actions
 
-If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
+Bite. Melee Attack Roll: +11, reach 10 ft. Hit: 18 (2d10 + 7) Piercing damage plus 14 (4d6) Fire damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17), and it has the Restrained condition until the grapple ends.
+
+### Bonus Actions
+
+Swallow. Strength Saving Throw: DC 19, one Large or smaller creature Grappled by the remorhaz (it can have up to two creatures swallowed at a time). Failure: The target is swallowed by the remorhaz, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, it has Total Cover against attacks and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage plus 10 (3d6) Fire damage at the start of each of the remorhaz’s turns. If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the remorhaz and has the Prone condition. If the remorhaz dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse by using 15 feet of movement, exiting Prone. Roc

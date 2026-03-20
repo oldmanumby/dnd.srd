@@ -1,25 +1,29 @@
 ## Ogre
 
-*Large giant, chaotic evil*
+*Large Giant, Chaotic Evil*
 
-**Armor Class** 11 (hide armor)
+**AC 11 Initiative −1 (9)**
 
-**Hit Points** 59 (7d10+21)
+**HP 68 (8d10 + 24)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 19 (+4)  | 8 (-1)   | 16 (+3)  | 5 (-3)   | 7 (-2)   | 7 (-2)   |
 
-**Senses** darkvision 60 ft., passive Perception 8
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 19 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 16 | +3 | +3 |
+| **Int** 5 | −3 | −3 | **Wis** 7 | −2 | −2 | **Cha** 7 | −2 | −2 |
 
-**Languages** Common, Giant
+**Gear Greatclub, Javelins (3)**
 
-**Challenge** 2 (450 XP)
+**Senses Darkvision 60 ft.; Passive Perception 8**
 
-###### Actions
+**Languages Common, Giant**
 
-***Greatclub***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.
+**CR 2 (XP 450; PB +2)**
 
-***Javelin***. *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 11 (2d6+4) piercing damage.
+### Actions
+
+Greatclub. Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage.
+
+Javelin. Melee or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit: 11 (2d6 + 4) Piercing damage. Oni

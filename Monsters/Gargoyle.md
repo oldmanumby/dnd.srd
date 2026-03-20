@@ -1,35 +1,37 @@
 ## Gargoyle
 
-*Medium elemental, chaotic evil*
+*Medium Elemental, Chaotic Evil*
 
-**Armor Class** 15 (natural armor)
+**AC 15 Initiative +2 (12)**
 
-**Hit Points** 52 (7d8+21)
+**HP 67 (9d8 + 27)**
 
-**Speed** 30 ft., fly 60 ft.
+**Speed 30 ft., Fly 60 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 15 (+2)  | 11 (+0)  | 16 (+3)  | 6 (-2)   | 11 (+0)  | 7 (-2)   |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 15 | +2 | +2 | **Dex** 11 | +0 | +0 | **Con** 16 | +3 | +3 |
+| **Int** 6 | −2 | −2 | **Wis** 11 | +0 | +0 | **Cha** 7 | −2 | −2 |
 
-**Damage Immunities** poison
+**Skills Stealth +4**
 
-**Condition Immunities** exhaustion, petrified, poisoned
+**Immunities Poison; Exhaustion, Petrified, Poisoned**
 
-**Senses** darkvision 60 ft., passive Perception 10
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Languages** Terran
+**Languages Primordial (Terran)**
 
-**Challenge** 2 (450 XP)
+**CR 2 (XP 450; PB +2)**
 
-***False Appearance***. While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
+### Traits
 
-###### Actions
+Flyby. The gargoyle doesn’t provoke an Opportunity Attack when it flies out of an enemy’s reach.
 
-***Multiattack***. The gargoyle makes two attacks: one with its bite and one with its claws.
+### Actions
 
-***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+Multiattack. The gargoyle makes two Claw attacks.
 
-***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) slashing damage.
+Claw. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2)
+
+Slashing damage. Gelatinous Cube

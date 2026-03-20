@@ -1,31 +1,31 @@
 ## Griffon
 
-*Large monstrosity, unaligned*
+*Large Monstrosity, Unaligned*
 
-**Armor Class** 12
+**AC 12 Initiative +2 (12)**
 
-**Hit Points** 59 (7d10+21)
+**HP 59 (7d10 + 21)**
 
-**Speed** 30 ft., fly 80 ft.
+**Speed 30 ft., Fly 80 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 15 (+2)  | 16 (+3)  | 2 (-4)   | 13 (+1)  | 8 (-1)   |
 
-**Skills** Perception +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
+| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 8 | −1 | −1 |
 
-**Senses** darkvision 60 ft., passive Perception 15
+**Skills Perception +5**
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 15**
 
-**Challenge** 2 (450 XP)
+**Languages None**
 
-***Keen Sight***. The griffon has advantage on Wisdom (Perception) checks that rely on sight.
+**CR 2 (XP 450; PB +2)**
 
-###### Actions
+### Actions
 
-***Multiattack***. The griffon makes two attacks: one with its beak and one with its claws.
+Multiattack. The griffon makes two Rend attacks.
 
-***Beak***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8+4) piercing damage.
+Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4)
 
-***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 14) from both of the griffon’s front claws. Grimlock

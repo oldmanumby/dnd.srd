@@ -1,31 +1,35 @@
-### Zombie
+## Zombie
 
-*Medium undead, neutral evil*
+*Medium Undead, Neutral Evil*
 
-**Armor Class** 8
+**AC 8 Initiative −2 (8)**
 
-**Hit Points** 22 (3d8+9)
+**HP 15 (2d8 + 6)**
 
-**Speed** 20 ft.
+**Speed 20 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 13 (+1)  | 6 (-2)   | 16 (+3)  | 3 (-4)   | 6 (-2)   | 5 (-3)   |
 
-**Saving Throws** Wis +0
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 13 | +1 | +1 | **Dex** 6 | −2 | −2 | **Con** 16 | +3 | +3 |
+| **Int** 3 | −4 | −4 | **Wis** 6 | −2 | +0 | **Cha** 5 | −3 | −3 |
 
-**Damage Immunities** poison
+**Immunities Poison; Exhaustion, Poisoned**
 
-**Condition Immunities** poisoned
+**Senses Darkvision 60 ft.; Passive Perception 8**
 
-**Senses** darkvision 60 ft., passive Perception 8
+**Languages Understands Common plus one other language**
 
-**Languages** understands the languages it knew in life but can't speak
+but can’t speak
 
-**Challenge** 1/4 (50 XP)
+**CR 1/4 (XP 50; PB +2)**
 
-***Undead Fortitude***. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+### Traits
 
-###### Actions
+Undead Fortitude. If damage reduces the zombie to 0 Hit Points, it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a Critical Hit. On a successful save, the zombie drops to 1 Hit Point instead.
 
-***Slam***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) bludgeoning damage.
+### Actions
+
+Slam. Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1)
+
+Bludgeoning damage.

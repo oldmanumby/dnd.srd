@@ -1,43 +1,45 @@
 ## Cloaker
 
-*Large aberration, chaotic neutral*
+*Large Aberration, Chaotic Neutral*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +5 (15)**
 
-**Hit Points** 78 (12d10+12)
+**HP 91 (14d10 + 14)**
 
-**Speed** 10 ft., fly 40 ft.
+**Speed 10 ft., Fly 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 17 (+3)  | 15 (+2)  | 12 (+1)  | 13 (+1)  | 12 (+1)  | 14 (+2)  |
 
-**Skills** Stealth +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 17 | +3 | +3 | **Dex** 15 | +2 | +2 | **Con** 12 | +1 | +1 |
+| **Int** 13 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 7 | −2 | −2 |
 
-**Senses** darkvision 60 ft., passive Perception 11
+**Skills Stealth +5**
 
-**Languages** Deep Speech, Undercommon
+**Immunities Frightened**
 
-**Challenge** 8 (3,900 XP)
+**Senses Darkvision 120 ft.; Passive Perception 12**
 
-***Damage Transfer***. While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down), and that creature takes the other half.
+**Languages Deep Speech, Undercommon**
 
-***False Appearance***. While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.
+**CR 8 (XP 3,900; PB +3)**
 
-***Light Sensitivity***. While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
+### Traits
 
-###### Actions
+Light Sensitivity. While in Bright Light, the cloaker has
 
-***Multiattack***. The cloaker makes two attacks: one with its bite and one with its tail.
+Disadvantage on attack rolls.
 
-***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6+3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check.
+### Actions
 
-***Tail***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 7 (1d8+3) slashing damage.
+Multiattack. The cloaker makes one Attach attack and two Tail attacks.
 
-***Moan***. Each creature within 60 feet of the cloaker that can hear its moan and that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become frightened until the end of the cloaker's next turn. If a creature's saving throw is successful, the creature is immune to the cloaker's moan for the next 24 hours
+Attach. Melee Attack Roll: +6, reach 5 ft. Hit: 13 (3d6 + 3) Piercing damage. If the target is a Large or smaller creature, the cloaker attaches to it. While the cloaker is attached, the target has the Blinded condition, and the cloaker can’t make Attach attacks against other targets. In addition, the cloaker halves the damage it takes (round down), and the target takes the same amount of damage. The cloaker can detach itself by spending 5 feet of movement. The target or a creature within 5 feet of it can take an action to try to detach the cloaker, doing so by succeeding on a DC 14 Strength (Athletics) check.
 
-***Phantasms (Recharges after a Short or Long Rest)***. The cloaker magically creates three illusory duplicates of itself if it isn't in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.
+Tail. Melee Attack Roll: +6, reach 10 ft. Hit: 8 (1d10 + 3) Slashing damage.
 
-Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this magical effect if it can't see or if it relies on senses other than sight.
+### Bonus Actions
 
-A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
+Moan. Wisdom Saving Throw: DC 13, each creature in a 60-foot Emanation originating from the cloaker. Failure: The target has the Frightened condition until the end of the cloaker’s next turn. Success: The target is immune to this cloaker’s Moan for the next 24 hours.
+
+Phantasms (Recharge after a Short or Long Rest). The cloaker casts the Mirror Image spell, requiring no spell components and using Wisdom as the spellcasting ability. The spell ends early if the cloaker starts or ends its turn in Bright Light. Cloud Giant

@@ -1,338 +1,133 @@
-# Monsters (L)
-
 ## Lamia
 
-*Large monstrosity, chaotic evil*
+*Large Fiend, Chaotic Evil*
 
-**Armor Class** 13 (natural armor)
+**AC 13 Initiative +1 (11)**
 
-**Hit Points** 97 (13d10+26)
+**HP 97 (13d10 + 26)**
 
-**Speed** 30 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 16 (+3)  | 13 (+1)  | 15 (+2)  | 14 (+2)  | 15 (+2)  | 16 (+3)  |
 
-**Skills** Deception +7, Insight +4, Stealth +3
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 13 | +1 | +1 | **Con** 15 | +2 | +2 |
+| **Int** 14 | +2 | +2 | **Wis** 15 | +2 | +2 | **Cha** 16 | +3 | +3 |
 
-**Senses** darkvision 60 ft., passive Perception 12
+**Skills Deception +7, Insight +4, Stealth +5**
 
-**Languages** Abyssal, Common
+**Senses Darkvision 60 ft.; Passive Perception 12**
 
-**Challenge** 4 (1,100 XP)
+**Languages Abyssal, Common**
 
-***Innate Spellcasting***. The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
+**CR 4 (XP 1,100; PB +2)**
 
-At will: *disguise self* (any humanoid form), *major image*
+### Actions
 
-3/day each: *charm person*, *mirror image*, *scrying*, *suggestion*
+Multiattack. The lamia makes two Claw attacks. It can replace one attack with a use of Corrupting Touch.
 
-1/day: *geas*
+Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3)
 
-###### Actions
+Slashing damage plus 7 (2d6) Psychic damage.
 
-***Multiattack***. The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
+Corrupting Touch. Wisdom Saving Throw: DC 13, one creature the lamia can see within 5 feet. Failure: 13 (3d8) Psychic damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions.
 
-***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 14 (2d10+3) slashing damage.
+Spellcasting. The lamia casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13): At Will: Disguise Self (can appear as a Large or Medium biped), Minor Illusion 1/Day Each: Geas, Major Image, Scrying
 
-***Dagger***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) piercing damage.
+### Bonus Actions
 
-***Intoxicating Touch***. *Melee Spell Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+Leap. The lamia jumps up to 30 feet by spending 10 feet of movement. Lemure
+
+## Lemure
+
+*Medium Fiend (Devil), Lawful Evil*
+
+**AC 9 Initiative −3 (7)**
+
+**HP 9 (2d8)**
+
+**Speed 20 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 10 | +0 | +0 | **Dex** 5 | −3 | −3 | **Con** 11 | +0 | +0 |
+| **Int** 1 | −5 | −5 | **Wis** 11 | +0 | +0 | **Cha** 3 | −4 | −4 |
+
+**Resistances Cold**
+
+**Immunities Fire, Poison; Charmed, Frightened, Poisoned**
+
+**Senses Darkvision 120 ft. (unimpeded by magical**
+
+Darkness); Passive Perception 10 Languages Understands Infernal but can’t speak
+
+**CR 0 (XP 10; PB +2)**
+
+### Traits
+
+Hellish Restoration. If the lemure dies in the Nine Hells, it revives with all its Hit Points in 1d10 days unless it is killed by a creature under the effects of a Bless spell or its remains are sprinkled with Holy Water.
+
+### Actions
+
+Vile Slime. Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Poison damage. Lich
 
 ## Lich
 
-*Medium undead, any evil alignment*
+*Medium Undead (Wizard), Neutral Evil*
 
-**Armor Class** 17 (natural armor)
+**AC 20 Initiative +17 (27)**
 
-**Hit Points** 135 (18d8+54)
+**HP 315 (42d8 + 126)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 11 (+0)  | 16 (+3)  | 16 (+3)  | 20 (+5)  | 14 (+2)  | 16 (+3)  |
 
-**Saving Throws** Con +10, Int +12, Wis +9
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 11 | +0 | +0 | **Dex** 16 | +3 | +10 | **Con** 16 | +3 | +10 |
+| **Int** 21 | +5 | +12 | **Wis** 14 | +2 | +9 | **Cha** 16 | +3 | +3 |
 
-**Skills** Arcana +19, History +12, Insight +9, Perception +9
+**Skills Arcana +19, History +12, Insight +9, Perception +9**
 
-**Damage Resistances** cold, lightning, necrotic
+**Resistances Cold, Lightning**
 
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
+**Immunities Necrotic, Poison; Charmed, Exhaustion,**
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+Frightened, Paralyzed, Poisoned Gear Component Pouch
 
-**Senses** truesight 120 ft., passive Perception 19
+**Senses Truesight 120 ft.; Passive Perception 19**
 
-**Languages** Common plus up to five other languages
+**Languages All**
 
-**Challenge** 21 (33,000 XP)
+**CR 21 (XP 33,000, or 41,000 in lair; PB +7)**
 
-***Legendary Resistance (3/Day)***. If the lich fails a saving throw, it can choose to succeed instead.
+### Traits
 
-***Rejuvenation***. If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
+Legendary Resistance (4/Day, or 5/Day in Lair). If the lich fails a saving throw, it can choose to succeed instead.
 
-***Spellcasting***. The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
+Spirit Jar. If destroyed, the lich reforms in 1d10 days if it has a spirit jar, reviving with all its Hit Points. The new body appears in an unoccupied space within the lich’s lair.
 
-Cantrips (at will): *mage hand*, *prestidigitation*, *ray of frost*
-1st level (4 slots): *detect magic*, *magic missile*, *shield*, *thunderwave*
-2nd level (3 slots): *acid arrow*, *detect thoughts*, *invisibility*, *mirror image*
-3rd level (3 slots): *animate dead*, *counterspell*, *dispel magic*, *fireball*
-4th level (3 slots): *blight*, *dimension door*
-5th level (3 slots): *cloudkill*, *scrying*
-6th level (1 slot): *disintegrate*, *globe of invulnerability*
-7th level (1 slot): *finger of death*, *plane shift*
-8th level (1 slot): *dominate monster*, *power word stun*
-9th level (1 slot): *power word kill*
+### Actions
 
-***Turn Resistance***. The lich has advantage on saving throws against any effect that turns undead.
+Multiattack. The lich makes three attacks, using Eldritch Burst or Paralyzing Touch in any combination.
 
-###### Actions
+Eldritch Burst. Melee or Ranged Attack Roll: +12, reach 5 ft. or range 120 ft. Hit: 31 (4d12 + 5) Force damage.
 
-***Paralyzing Touch***. *Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Paralyzing Touch. Melee Attack Roll: +12, reach 5 ft. Hit: 15 (3d6 + 5) Cold damage, and the target has the Paralyzed condition until the start of the lich’s next turn.
 
-###### Legendary Actions
+Spellcasting. The lich casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20): At Will: Detect Magic, Detect Thoughts, Dispel Magic, Fireball (level 5 version), Invisibility, Lightning Bolt (level 5 version), Mage Hand, Prestidigitation 2/Day Each: Animate Dead, Dimension Door, Plane Shift 1/Day Each: Chain Lightning, Finger of Death, Power Word Kill, Scrying
 
-The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.
+### Reactions
 
-**Cantrip**. The lich casts a cantrip.
+Protective Magic. The lich casts Counterspell or Shield in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
 
-**Paralyzing Touch (Costs 2 Actions)**. The lich uses its Paralyzing Touch.
+### Legendary Actions
 
-**Frightening Gaze (Costs 2 Actions)**. The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lich's gaze for the next 24 hours.
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the lich can expend a use to take one of the following actions. The lich regains all expended uses at the start of each of its turns.
 
-**Disrupt Life (Costs 3 Actions)**. Each non-undead creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+Deathly Teleport. The lich teleports up to 60 feet to an unoccupied space it can see, and each creature within 10 feet of the space it left takes 11 (2d10) Necrotic damage.
 
-## Lizardfolk
+Disrupt Life. Constitution Saving Throw: DC 20, each creature that isn’t an Undead in a 20-foot Emanation originating from the lich. Failure: 31 (9d6) Necrotic damage. Success: Half damage. Failure or Success: The lich can’t take this action again until the start of its next turn.
 
-*Medium humanoid (lizardfolk), neutral*
-
-**Armor Class** 15 (natural armor, shield)
-
-**Hit Points** 22 (4d8+4)
-
-**Speed** 30 ft., swim 30 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 15 (+2)  | 10 (+0)  | 13 (+1)  | 7 (-2)   | 12 (+1)  | 7 (-2)   |
-
-**Skills** Perception +3, Stealth +4, Survival +5
-
-**Senses** passive Perception 13
-
-**Languages** Draconic
-
-**Challenge** 1/2 (100 XP)
-
-***Hold Breath***. The lizardfolk can hold its breath for 15 minutes.
-
-###### Actions
-
-***Multiattack***. The lizardfolk makes two melee attacks, each one with a different weapon.
-
-***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
-
-***Heavy Club***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) bludgeoning damage.
-
-***Javelin***. *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
-
-***Spiked Shield***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
-
-## Lycanthropes
-
-### Werebear
-
-*Medium humanoid (human, shapechanger), neutral good*
-
-**Armor Class** 10 in humanoid form, 11 (natural armor) in bear and hybrid form
-
-**Hit Points** 135 (18d8+54)
-
-**Speed** 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 19 (+4)  | 10 (+0)  | 17 (+3)  | 11 (+0)  | 12 (+1)  | 12 (+1)  |
-
-**Skills** Perception +7
-
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-
-**Senses** passive Perception 17
-
-**Languages** Common (can't speak in bear form)
-
-**Challenge** 5 (1,800 XP)
-
-***Shapechanger***. The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-***Keen Smell***. The werebear has advantage on Wisdom (Perception) checks that rely on smell.
-
-###### Actions
-
-***Multiattack***. In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
-
-***Bite (Bear or Hybrid Form Only)***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15 (2d10+4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.
-
-***Claw (Bear or Hybrid Form Only)***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
-
-***Greataxe (Humanoid or Hybrid Form Only)***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d12+4) slashing damage.
-
-### Wereboar
-
-*Medium humanoid (human, shapechanger), neutral evil*
-
-**Armor Class** 10 in humanoid form, 11 (natural armor) in boar or hybrid form
-
-**Hit Points** 78 (12d8+24)
-
-**Speed** 30 ft. (40 ft. in boar form)
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 17 (+3)  | 10 (+0)  | 15 (+2)  | 10 (+0)  | 11 (+0)  | 8 (-1)   |
-
-**Skills** Perception +2
-
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-
-**Senses** passive Perception 12
-
-**Languages** Common (can't speak in boar form)
-
-**Challenge** 4 (1,100 XP)
-
-***Shapechanger***. The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-***Charge (Boar or Hybrid Form Only)***. If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
-
-***Relentless (Recharges after a Short or Long Rest)***. If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
-
-###### Actions
-
-***Multiattack (Humanoid or Hybrid Form Only)***. The wereboar makes two attacks, only one of which can be with its tusks.
-
-***Maul (Humanoid or Hybrid Form Only)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) bludgeoning damage.
-
-***Tusks (Boar or Hybrid Form Only)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
-
-### Wererat
-
-*Medium humanoid (human, shapechanger), lawful evil*
-
-**Armor Class** 12
-
-**Hit Points** 33 (6d8+6)
-
-**Speed** 30 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 10 (+0)  | 15 (+2)  | 12 (+1)  | 11 (+0)  | 10 (+0)  | 8 (-1)   |
-
-**Skills** Perception +2, Stealth +4
-
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-
-**Senses** darkvision 60 ft. (rat form only), passive Perception 12
-
-**Languages** Common (can't speak in rat form)
-
-**Challenge** 2 (450 XP)
-
-***Shapechanger***. The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-***Keen Smell***. The wererat has advantage on Wisdom (Perception) checks that rely on smell.
-
-###### Actions
-
-***Multiattack (Humanoid or Hybrid Form Only)***. The wererat makes two attacks, only one of which can be a bite.
-
-***Bite (Rat or Hybrid Form Only)***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
-
-***Shortsword (Humanoid or Hybrid Form Only)***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
-
-***Hand Crossbow (Humanoid or Hybrid Form Only)***. *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
-
-### Weretiger
-
-*Medium humanoid (human, shapechanger), neutral*
-
-**Armor Class** 12
-
-**Hit Points** 120 (16d8+48)
-
-**Speed** 30 ft. (40 ft. in tiger form)
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 17 (+3)  | 15 (+2)  | 16 (+3)  | 10 (+0)  | 13 (+1)  | 11 (+0)  |
-
-**Skills** Perception +5, Stealth +4
-
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-
-**Senses** darkvision 60 ft., passive Perception 15
-
-**Languages** Common (can't speak in tiger form)
-
-**Challenge** 4 (1,100 XP)
-
-***Shapechanger***. The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-***Keen Hearing and Smell***. The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.
-
-***Pounce (Tiger or Hybrid Form Only)***. If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
-
-###### Actions
-
-***Multiattack (Humanoid or Hybrid Form Only)***. In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
-
-***Bite (Tiger or Hybrid Form Only)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
-
-***Claw (Tiger or Hybrid Form Only)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) slashing damage.
-
-***Scimitar (Humanoid or Hybrid Form Only)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) slashing damage.
-
-***Longbow (Humanoid or Hybrid Form Only)***. *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
-
-### Werewolf
-
-*Medium humanoid (human, shapechanger), chaotic evil*
-
-**Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
-
-**Hit Points** 58 (9d8+18)
-
-**Speed** 30 ft. (40 ft. in wolf form)
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 15 (+2)  | 13 (+1)  | 14 (+2)  | 10 (+0)  | 11 (+0)  | 10 (+0)  |
-
-**Skills** Perception +4, Stealth +3
-
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-
-**Senses** passive Perception 14
-
-**Languages** Common (can't speak in wolf form)
-
-**Challenge** 3 (700 XP)
-
-***Shapechanger***. The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-***Keen Hearing and Smell***. The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
-
-###### Actions
-
-***Multiattack (Humanoid or Hybrid Form Only)***. The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
-
-***Bite (Wolf or Hybrid Form Only)***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
-
-***Claws (Hybrid Form Only)***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4+2) slashing damage.
-
-***Spear (Humanoid Form Only)***. *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 5 (1d6+2) piercing damage, or 6 (1d8+2) piercing damage if used with two hands to make a melee attack.
+Frightening Gaze. The lich casts Fear, using the same spellcasting ability as Spellcasting. The lich can’t take this action again until the start of its next turn. Mages

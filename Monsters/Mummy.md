@@ -1,37 +1,31 @@
-### Mummy
+## Mummy
 
-*Medium undead, lawful evil*
+*Medium or Small Undead, Lawful Evil*
 
-**Armor Class** 11 (natural armor)
+**AC 11 Initiative −1 (9)**
 
-**Hit Points** 58 (9d8+18)
+**HP 58 (9d8 + 18)**
 
-**Speed** 20 ft.
+**Speed 20 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 16 (+3)  | 8 (-1)   | 15 (+2)  | 6 (-2)   | 10 (+0)  | 12 (+1)  |
 
-**Saving Throws** Wis +2
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 8 | −1 | −1 | **Con** 15 | +2 | +2 |
+| **Int** 6 | −2 | −2 | **Wis** 12 | +1 | +3 | **Cha** 12 | +1 | +1 |
 
-**Damage Vulnerabilities** fire
+Vulnerabilities Fire Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Senses Darkvision 60 ft.; Passive Perception 11**
 
-**Damage Immunities** necrotic, poison
+**Languages Common plus two other languages**
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+**CR 3 (XP 700; PB +2)**
 
-**Senses** darkvision 60 ft., passive Perception 10
+### Actions
 
-**Languages** the languages it knew in life
+Multiattack. The mummy makes two Rotting Fist attacks and uses Dreadful Glare.
 
-**Challenge** 3 (700 XP)
+Rotting Fist. Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can’t regain Hit Points, its Hit Point maximum doesn’t return to normal when finishing a Long Rest, and its Hit Point maximum decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 Hit Points by this attack.
 
-###### Actions
-
-***Multiattack***. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
-
-***Rotting Fist***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *remove curse* spell or other magic.
-
-***Dreadful Glare***. The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
+Dreadful Glare. Wisdom Saving Throw: DC 11, one creature the mummy can see within 60 feet. Failure: The target has the Frightened condition until the end of the mummy’s next turn. Success: The target is immune to this mummy’s Dreadful Glare for 24 hours.

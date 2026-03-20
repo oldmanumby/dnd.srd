@@ -1,135 +1,239 @@
-# Monsters (T)
-
 ## Tarrasque
 
-*Gargantuan monstrosity (titan), unaligned*
+*Gargantuan Monstrosity (Titan), Unaligned*
 
-**Armor Class** 25 (natural armor)
+**AC 25 Initiative +18 (28)**
 
-**Hit Points** 676 (33d20+330)
+**HP 697 (34d20 + 340)**
 
-**Speed** 40 ft.
+**Speed 60 ft., Burrow 40 ft., Climb 60 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 30 (+10) | 11 (+0)  | 30 (+10) | 3 (-4)   | 11 (+0)  | 11 (+0)  |
 
-**Saving Throws** Int +5, Wis +9, Cha +9
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 30 | +10 | +10 | **Dex** 11 | +0 | +9 | **Con** 30 | +10 | +10 |
+| **Int** 3 | −4 | +5 | **Wis** 11 | +0 | +9 | **Cha** 11 | +0 | +9 |
 
-**Damage Immunities** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+**Skills Perception +9**
 
-**Condition Immunities** charmed, frightened, paralyzed, poisoned
+**Resistances Bludgeoning, Piercing, Slashing**
 
-**Senses** blindsight 120 ft., passive Perception 10
+**Immunities Fire, Poison; Charmed, Deafened, Frightened,**
 
-**Languages** -
+Paralyzed, Poisoned
 
-**Challenge** 30 (155,000 XP)
+**Senses Blindsight 120 ft.; Passive Perception 19**
 
-***Legendary Resistance (3/Day)***. If the tarrasque fails a saving throw, it can choose to succeed instead.
+**Languages None**
 
-***Magic Resistance***. The tarrasque has advantage on saving throws against spells and other magical effects.
+**CR 30 (XP 155,000; PB +9)**
 
-***Reflective Carapace***. Any time the tarrasque is targeted by a *magic missile* spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
+### Traits
 
-***Siege Monster***. The tarrasque deals double damage to objects and structures.
+Legendary Resistance (6/Day). If the tarrasque fails a saving throw, it can choose to succeed instead.
 
-###### Actions
+Magic Resistance. The tarrasque has Advantage on saving throws against spells and other magical effects.
 
-***Multiattack***. The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.
+Reflective Carapace. If the tarrasque is targeted by a Magic Missile spell or a spell that requires a ranged attack roll, roll 1d6. On a 1–5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected and reflects the spell, turning the caster into the target.
 
-***Bite***. *Melee Weapon Attack:* +19 to hit, reach 10 ft., one target. *Hit:* 36 (4d12+10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
+Siege Monster. The tarrasque deals double damage to objects and structures.
 
-***Claw***. *Melee Weapon Attack:* +19 to hit, reach 15 ft., one target. *Hit:* 28 (4d8+10) slashing damage.
+### Actions
 
-***Horns***. *Melee Weapon Attack:* +19 to hit, reach 10 ft., one target. *Hit:* 32 (4d10+10) piercing damage.
+Multiattack. The tarrasque makes one Bite attack and three other attacks, using Claw or Tail in any combination.
 
-***Tail***. *Melee Weapon Attack:* +19 to hit, reach 20 ft., one target. *Hit:* 24 (4d6+10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
+Bite. Melee Attack Roll: +19, reach 15 ft. Hit: 36 (4d12 + 10) Piercing damage, and the target has the Grappled condition (escape DC 20). Until the grapple ends, the target has the Restrained condition and can’t teleport.
 
-***Frightful Presence***. Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours.
+Claw. Melee Attack Roll: +19, reach 15 ft. Hit: 28 (4d8 + 10) Slashing damage.
 
-***Swallow***. The tarrasque makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) acid damage at the start of each of the tarrasque's turns.
+Tail. Melee Attack Roll: +19, reach 30 ft. Hit: 23 (3d8 + 10) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition. Thunderous Bellow (Recharge 5–6). Constitution Saving Throw: DC 27, each creature and each object that isn’t being worn or carried in a 150-foot Cone. Failure: 78 (12d12) Thunder damage, and the target has the Deafened and Frightened conditions until the end of its next turn. Success: Half damage only.
 
-If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
+### Bonus Actions
 
-###### Legendary Actions
+Swallow. Strength Saving Throw: DC 27, one Large or smaller creature Grappled by the tarrasque (it can have up to six creatures swallowed at a time). Failure: The target is swallowed, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions and can’t teleport, it has Total Cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) Acid damage at the start of each of the tarrasque’s turns. If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 10 feet of the tarrasque and has the Prone condition. If the tarrasque dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 20 feet of movement, exiting Prone.
 
-The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
+### Legendary Actions
 
-**Attack**. The tarrasque makes one claw attack or tail attack.
+Legendary Action Uses: 3. Immediately after another creature’s turn, the tarrasque can expend a use to take one of the following actions. The tarrasque regains all expended uses at the start of each of its turns.
 
-**Move**. The tarrasque moves up to half its speed.
+Onslaught. The tarrasque moves up to half its Speed, and it makes one Claw or Tail attack. World-Shaking Movement. The tarrasque moves up to its Speed. At the end of this movement, the tarrasque creates an instantaneous shock wave in a 60-foot Emanation originating from itself. Creatures in that area lose Concentration and, if Medium or smaller, have the
 
-**Chomp (Costs 2 Actions)**. The tarrasque makes one bite attack or uses its Swallow.
+Prone condition. The tarrasque can’t take this action again until the start of its next turn. Toughs
+
+## Tough
+
+*Medium or Small Humanoid, Neutral*
+
+**AC 12 Initiative +1 (11)**
+
+**HP 32 (5d8 + 10)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +1 | **Con** 14 | +2 | +2 |
+| **Int** 10 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 11 | +0 | +0 |
+
+**Gear Heavy Crossbow, Leather Armor, Mace**
+
+**Senses Passive Perception 10**
+
+**Languages Common**
+
+**CR 1/2 (XP 100; PB +2)**
+
+### Traits
+
+Pack Tactics. The tough has Advantage on an attack roll against a creature if at least one of the tough’s allies is within 5 feet of the creature and the ally doesn’t have the Incapacitated condition.
+
+### Actions
+
+Mace. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage.
+
+Heavy Crossbow. Ranged Attack Roll: +3, range 100/400 ft. Hit: 6 (1d10 + 1) Piercing damage.
+
+## Tough Boss
+
+*Medium or Small Humanoid, Neutral*
+
+**AC 16 Initiative +2 (12)**
+
+**HP 82 (11d8 + 33)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 17 | +3 | +5 | **Dex** 14 | +2 | +2 | **Con** 16 | +3 | +5 |
+| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +0 | **Cha** 11 | +0 | +2 |
+
+**Gear Chain Mail, Heavy Crossbow, Warhammer**
+
+**Senses Passive Perception 10**
+
+**Languages Common plus one other language**
+
+**CR 4 (XP 1,100; PB +2)**
+
+### Traits
+
+Pack Tactics. The tough has Advantage on an attack roll against a creature if at least one of the tough’s allies is within 5 feet of the creature and the ally doesn’t have the Incapacitated condition.
+
+### Actions
+
+Multiattack. The tough makes two attacks, using Warhammer or Heavy Crossbow in any combination.
+
+Warhammer. Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Bludgeoning damage. If the target is a Large or smaller creature, the tough pushes the target up to 10 feet straight away from itself.
+
+Heavy Crossbow. Ranged Attack Roll: +4, range 100/400 ft. Hit: 13 (2d10 + 2) Piercing damage. Treant
 
 ## Treant
 
-*Huge plant, chaotic good*
+*Huge Plant, Chaotic Good*
 
-**Armor Class** 16 (natural armor)
+**AC 16 Initiative +3 (13)**
 
-**Hit Points** 138 (12d12+60)
+**HP 138 (12d12 + 60)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 23 (+6)  | 8 (-1)   | 21 (+5)  | 12 (+1)  | 16 (+3)  | 12 (+1)  |
 
-**Damage Resistances** bludgeoning, piercing
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 23 | +6 | +6 | **Dex** 8 | −1 | −1 | **Con** 21 | +5 | +5 |
+| **Int** 12 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 12 | +1 | +1 |
 
-**Damage Vulnerabilities** fire
+Vulnerabilities Fire Resistances Bludgeoning, Piercing Senses Passive Perception 13 Languages Common, Druidic, Elvish, Sylvan
 
-**Senses** passive Perception 13
+**CR 9 (XP 5,000; PB +4)**
 
-**Languages** Common, Druidic, Elvish, Sylvan
+### Traits
 
-**Challenge** 9 (5,000 XP)
+Siege Monster. The treant deals double damage to objects and structures.
 
-***False Appearance***. While the treant remains motionless, it is indistinguishable from a normal tree.
+### Actions
 
-***Siege Monster***. The treant deals double damage to objects and structures.
+Multiattack. The treant makes two Slam attacks.
 
-###### Actions
+Slam. Melee Attack Roll: +10, reach 5 ft. Hit: 16 (3d6 + 6) Bludgeoning damage.
 
-***Multiattack***. The treant makes two slam attacks.
+Hail of Bark. Ranged Attack Roll: +10, range 180 ft. Hit: 28 (4d10 + 6) Piercing damage.
 
-***Slam***. *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16 (3d6+6) bludgeoning damage.
+Animate Trees (1/Day). The treant magically animates up to two trees it can see within 60 feet of itself. Each tree uses the Treant stat block, except it has Intelligence and Charisma scores of 1, it can’t speak, and it lacks this action. The tree takes its turn immediately after the treant on the same Initiative count, and it obeys the treant. A tree remains animate for 1 day or until it dies, the treant dies, or it is more than 120 feet from the treant.
 
-***Rock***. *Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage.
-
-***Animate Trees (1/Day)***. The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
+The tree then takes root if possible. Troll
 
 ## Troll
 
-*Large giant, chaotic evil*
+*Large Giant, Chaotic Evil*
 
-**Armor Class** 15 (natural armor)
+**AC 15 Initiative +1 (11)**
 
-**Hit Points** 84 (8d10+40)
+**HP 94 (9d10 + 45)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 13 (+1)  | 20 (+5)  | 7 (-2)   | 9 (-1)   | 7 (-2)   |
 
-**Skills** Perception +2
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 13 | +1 | +1 | **Con** 20 | +5 | +5 |
+| **Int** 7 | −2 | −2 | **Wis** 9 | −1 | −1 | **Cha** 7 | −2 | −2 |
 
-**Senses** darkvision 60 ft., passive Perception 12
+**Skills Perception +5**
 
-**Languages** Giant
+**Senses Darkvision 60 ft.; Passive Perception 15**
 
-**Challenge** 5 (1,800 XP)
+**Languages Giant**
 
-***Keen Smell***. The troll has advantage on Wisdom (Perception) checks that rely on smell.
+**CR 5 (XP 1,800; PB +3)**
 
-***Regeneration***. The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+### Traits
 
-###### Actions
+Loathsome Limbs (4/Day). If the troll ends any turn Bloodied and took 15+ Slashing damage during that turn, one of the troll’s limbs is severed, falls into the troll’s space, and becomes a Troll Limb. The limb acts immediately after the troll’s turn. The troll has 1 Exhaustion level for each missing limb, and it grows replacement limbs the next time it regains Hit Points.
 
-***Multiattack***. The troll makes three attacks: one with its bite and two with its claws.
+Regeneration. The troll regains 15 Hit Points at the start of each of its turns. If the troll takes Acid or Fire damage, this trait doesn’t function on the troll’s next turn. The troll dies only if it starts its turn with 0 Hit Points and doesn’t regenerate.
 
-***Bite***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6+4) piercing damage.
+### Actions
 
-***Claw***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+Multiattack. The troll makes three Rend attacks.
+
+Rend. Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage.
+
+### Bonus Actions
+
+Charge. The troll moves up to half its Speed straight toward an enemy it can see.
+
+## Troll Limb
+
+*Small Giant, Chaotic Evil*
+
+**AC 13 Initiative +1 (11)**
+
+**HP 14 (4d6)**
+
+**Speed 20 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 12 | +1 | +1 | **Con** 10 | +0 | +0 |
+| **Int** 1 | −5 | −5 | **Wis** 9 | −1 | −1 | **Cha** 1 | −5 | −5 |
+
+**Senses Darkvision 60 ft.; Passive Perception 9**
+
+**Languages None**
+
+**CR 1/2 (XP 100; PB +2)**
+
+### Traits
+
+Regeneration. The limb regains 5 Hit Points at the start of each of its turns. If the limb takes Acid or Fire damage, this trait doesn’t function on the limb’s next turn. The limb dies only if it starts its turn with 0 Hit Points and doesn’t regenerate.
+
+Troll Spawn. The limb uncannily has the same senses as a whole troll. If the limb isn’t destroyed within 24 hours, roll 1d12. On a 12, the limb turns into a Troll. Otherwise, the limb withers away.
+
+### Actions
+
+Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4) Slashing damage. Unicorn

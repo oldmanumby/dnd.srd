@@ -1,31 +1,39 @@
 ## Nightmare
 
-*Large fiend, neutral evil*
+*Large Fiend, Neutral Evil*
 
-**Armor Class** 13 (natural armor)
+**AC 13 Initiative +2 (12)**
 
-**Hit Points** 68 (8d10+24)
+**HP 68 (8d10 + 24)**
 
-**Speed** 60 ft., fly 90 ft.
+**Speed 60 ft., Fly 90 ft. (hover)**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 15 (+2)  | 16 (+3)  | 10 (+0)  | 13 (+1)  | 15 (+2)  |
 
-**Damage Immunities** fire
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
+| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 15 | +2 | +2 |
 
-**Senses** passive Perception 11
+**Immunities Fire**
 
-**Languages** understands Abyssal, Common, and Infernal but can't speak
+**Senses Passive Perception 11**
 
-**Challenge** 3 (700 XP)
+**Languages Understands Abyssal, Common, and Infernal**
 
-***Confer Fire Resistance***. The nightmare can grant resistance to fire damage to anyone riding it.
+but can’t speak
 
-***Illumination***. The nightmare sheds bright light in a 10- foot radius and dim light for an additional 10 feet.
+**CR 3 (XP 700; PB +2)**
 
-###### Actions
+### Traits
 
-***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage plus 7 (2d6) fire damage.
+Confer Fire Resistance. The nightmare can grant Resistance to Fire damage to a rider while it is on the nightmare.
 
-***Ethereal Stride***. The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
+Illumination. The nightmare sheds Bright Light in a 10- foot radius and Dim Light for an additional 10 feet.
+
+### Actions
+
+Hooves. Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage plus 10 (3d6) Fire damage.
+
+Ethereal Stride. The nightmare and up to three willing creatures within 5 feet of it teleport to the Ethereal
+
+Plane from the Material Plane or vice versa. Noble

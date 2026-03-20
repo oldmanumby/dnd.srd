@@ -1,23 +1,29 @@
 ## Cockatrice
 
-*Small monstrosity, unaligned*
+*Small Monstrosity, Unaligned*
 
-**Armor Class** 11
+**AC 11 Initiative +1 (11)**
 
-**Hit Points** 27 (6d6+6)
+**HP 22 (5d6 + 5)**
 
-**Speed** 20 ft., fly 40 ft.
+**Speed 20 ft., Fly 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 6 (-2)   | 12 (+1)  | 12 (+1)  | 2 (-4)   | 13 (+1)  | 5 (-3)   |
 
-**Senses** darkvision 60 ft., passive Perception 11
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 6 | −2 | −2 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
+| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 5 | −3 | −3 |
 
-**Languages** -
+**Immunities Petrified**
 
-**Challenge** 1/2 (100 XP)
+**Senses Darkvision 60 ft.; Passive Perception 11**
 
-###### Actions
+**Languages None**
 
-***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+**CR 1/2 (XP 100; PB +2)**
+
+### Actions
+
+Petrifying Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Piercing damage. If the target is a creature, it is subjected to the following effect. Constitution Saving Throw: DC 11. First Failure: The target has the
+
+Restrained condition. The target repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. Second Failure: The target has the Petrified condition, instead of the Restrained condition, for 24 hours. Commoner

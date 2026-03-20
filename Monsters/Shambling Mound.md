@@ -1,37 +1,47 @@
 ## Shambling Mound
 
-*Large plant, unaligned*
+*Large Plant, Unaligned*
 
-**Armor Class** 15 (natural armor)
+**AC 15 Initiative −1 (9)**
 
-**Hit Points** 136 (16d10+48)
+**HP 110 (13d10 + 39)**
 
-**Speed** 20 ft., swim 20 ft.
+**Speed 30 ft., Swim 20 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 8 (-1)   | 16 (+3)  | 5 (-3)   | 10 (+0)  | 5 (-3)   |
 
-**Skills** Stealth +2
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 16 | +3 | +3 |
+| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
 
-**Damage Resistances** cold, fire
+**Skills Stealth +3**
 
-**Damage Immunities** lightning
+**Resistances Cold, Fire**
 
-**Condition Immunities** blinded, deafened, exhaustion
+**Immunities Lightning; Deafened, Exhaustion**
 
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
+**Senses Blindsight 60 ft.; Passive Perception 10**
 
-**Languages** -
+**Languages None**
 
-**Challenge** 5 (1,800 XP)
+**CR 5 (XP 1,800; PB +3)**
 
-***Lightning Absorption***. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
+### Traits
 
-###### Actions
+Lightning Absorption. Whenever the shambling mound is subjected to Lightning damage, it regains a number of
 
-***Multiattack***. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
+Hit Points equal to the Lightning damage dealt.
 
-***Slam***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.
+### Actions
 
-***Engulf***. The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8+4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+Multiattack. The shambling mound makes three
+
+Charged Tendril attacks. It can replace one attack with a use of Engulf.
+
+Charged Tendril. Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4)
+
+Lightning damage. If the target is a Medium or smaller creature, the shambling mound pulls the target 5 feet straight toward itself.
+
+Engulf. Strength Saving Throw: DC 15, one Medium or smaller creature within 5 feet. Failure: The target is pulled into the shambling mound’s space and has the
+
+Grappled condition (escape DC 14). Until the grapple ends, the target has the Blinded and Restrained conditions, and it takes 10 (3d6) Lightning damage at the start of each of its turns. When the shambling mound moves, the Grappled target moves with it, costing it no extra movement. The shambling mound can have only one creature Grappled by this action at a time. Shield Guardian

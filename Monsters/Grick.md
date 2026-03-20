@@ -1,31 +1,37 @@
 ## Grick
 
-*Medium monstrosity, neutral*
+*Medium Aberration, Unaligned*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +2 (12)**
 
-**Hit Points** 27 (6d8)
+**HP 54 (12d8)**
 
-**Speed** 30 ft., climb 30 ft.
+**Speed 30 ft., Climb 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 14 (+2)  | 14 (+2)  | 11 (+0)  | 3 (-4)   | 14 (+2)  | 5 (-3)   |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 14 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
+| **Int** 3 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 5 | −3 | −3 |
 
-**Senses** darkvision 60 ft., passive Perception 12
+**Skills Stealth +4**
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 12**
 
-**Challenge** 2 (450 XP)
+**Languages None**
 
-***Stone Camouflage***. The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+**CR 2 (XP 450; PB +2)**
 
-###### Actions
+### Actions
 
-***Multiattack***. The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
+Multiattack. The grick makes one Beak attack and one
 
-***Tentacles***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6+2) slashing damage.
+Tentacles attack.
 
-***Beak***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+Beak. Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2)
+
+Piercing damage.
+
+Tentacles. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape
+
+DC 12) from all four tentacles. Griffon

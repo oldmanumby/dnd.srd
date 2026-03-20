@@ -1,41 +1,45 @@
 ## Wight
 
-*Medium undead, neutral evil*
+*Medium Undead, Neutral Evil*
 
-**Armor Class** 14 (studded leather)
+**AC 14 Initiative +4 (14)**
 
-**Hit Points** 45 (6d8+18)
+**HP 82 (11d8 + 33)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 15 (+2)  | 14 (+2)  | 16 (+3)  | 10 (+0)  | 13 (+1)  | 15 (+2)  |
 
-**Skills** Perception +3, Stealth +4
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 15 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 16 | +3 | +3 |
+| **Int** 10 | +0 | +0 | **Wis** 13 | +1 | +1 | **Cha** 15 | +2 | +2 |
 
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+**Skills Perception +3, Stealth +4**
 
-**Damage Immunities** poison
+**Resistances Necrotic**
 
-**Condition Immunities** exhaustion, poisoned
+**Immunities Poison; Exhaustion, Poisoned**
 
-**Senses** darkvision 60 ft., passive Perception 13
+**Gear Studded Leather Armor**
 
-**Languages** the languages it knew in life
+**Senses Darkvision 60 ft.; Passive Perception 13**
 
-**Challenge** 3 (700 XP)
+**Languages Common plus one other language**
 
-***Sunlight Sensitivity***. While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+**CR 3 (XP 700; PB +2)**
 
-###### Actions
+### Traits
 
-***Multiattack***. The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
+Sunlight Sensitivity. While in sunlight, the wight has
 
-***Life Drain***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6+2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+Disadvantage on ability checks and attack rolls.
 
-A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
+### Actions
 
-***Longsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) slashing damage, or 7 (1d10+2) slashing damage if used with two hands.
+Multiattack. The wight makes two attacks, using Necrotic Sword or Necrotic Bow in any combination. It can replace one attack with a use of Life Drain.
 
-***Longbow***. *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
+Necrotic Sword. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage plus 4 (1d8) Necrotic damage.
+
+Necrotic Bow. Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing damage plus 4 (1d8) Necrotic damage.
+
+Life Drain. Constitution Saving Throw: DC 13, one creature within 5 feet. Failure: 6 (1d8 + 2) Necrotic damage, and the target’s Hit Point maximum decreases by an amount equal to the damage taken. A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight’s control, unless the Humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at a time. Will-o’-Wisp

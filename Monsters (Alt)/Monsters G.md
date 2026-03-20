@@ -1,893 +1,867 @@
-# Monsters (G)
-
 ## Gargoyle
 
-*Medium elemental, chaotic evil*
+*Medium Elemental, Chaotic Evil*
 
-**Armor Class** 15 (natural armor)
+**AC 15 Initiative +2 (12)**
 
-**Hit Points** 52 (7d8+21)
+**HP 67 (9d8 + 27)**
 
-**Speed** 30 ft., fly 60 ft.
+**Speed 30 ft., Fly 60 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 15 (+2)  | 11 (+0)  | 16 (+3)  | 6 (-2)   | 11 (+0)  | 7 (-2)   |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 15 | +2 | +2 | **Dex** 11 | +0 | +0 | **Con** 16 | +3 | +3 |
+| **Int** 6 | −2 | −2 | **Wis** 11 | +0 | +0 | **Cha** 7 | −2 | −2 |
 
-**Damage Immunities** poison
+**Skills Stealth +4**
 
-**Condition Immunities** exhaustion, petrified, poisoned
+**Immunities Poison; Exhaustion, Petrified, Poisoned**
 
-**Senses** darkvision 60 ft., passive Perception 10
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Languages** Terran
+**Languages Primordial (Terran)**
 
-**Challenge** 2 (450 XP)
+**CR 2 (XP 450; PB +2)**
 
-***False Appearance***. While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
+### Traits
 
-###### Actions
+Flyby. The gargoyle doesn’t provoke an Opportunity Attack when it flies out of an enemy’s reach.
 
-***Multiattack***. The gargoyle makes two attacks: one with its bite and one with its claws.
+### Actions
 
-***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+Multiattack. The gargoyle makes two Claw attacks.
 
-***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) slashing damage.
+Claw. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2)
 
-## Genies
+Slashing damage. Gelatinous Cube
 
-### Djinni
+## Gelatinous Cube
 
-*Large elemental, chaotic good*
+*Large Ooze, Unaligned*
 
-**Armor Class** 17 (natural armor)
+**AC 6 Initiative −4 (6)**
 
-**Hit Points** 161 (14d10+84)
+**HP 63 (6d10 + 30)**
 
-**Speed** 30 ft., fly 90 ft.
+**Speed 15 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 21 (+5)  | 15 (+2)  | 22 (+6)  | 15 (+2)  | 16 (+3)  | 20 (+5)  |
 
-**Saving Throws** Dex +6, Wis +7, Cha +9
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 14 | +2 | +2 | **Dex** 3 | −4 | −4 | **Con** 20 | +5 | +5 |
+| **Int** 1 | −5 | −5 | **Wis** 6 | −2 | −2 | **Cha** 1 | −5 | −5 |
 
-**Damage Immunities** lightning, thunder
+**Immunities Acid; Blinded, Charmed, Deafened,**
 
-**Senses** darkvision 120 ft., passive Perception 13
+Exhaustion, Frightened, Prone
 
-**Languages** Auran
+**Senses Blindsight 60 ft.; Passive Perception 8**
 
-**Challenge** 11 (7,200 XP)
+**Languages None**
 
-***Elemental Demise***. If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
+**CR 2 (XP 450; PB +2)**
 
-***Innate Spellcasting***. The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material Components
+### Traits
 
-At will: *detect evil and good*, *detect magic*, *thunderwave*
+Ooze Cube. The cube fills its entire space and is transparent. Other creatures can enter that space, but a creature that does so is subjected to the cube’s Engulf and has Disadvantage on the saving throw. Creatures inside the cube have Total Cover, and the cube can hold one Large creature or up to four Medium or Small creatures inside itself at a time. As an action, a creature within 5 feet of the cube can pull a creature or an object out of the cube by succeeding on a DC 12 Strength (Athletics) check, and the puller takes 10 (3d6) Acid damage.
 
-3/day each: *create food and water* (can create wine instead of water), *tongues*, *wind walk*
+Transparent. Even when the cube is in plain sight, a creature must succeed on a DC 15 Wisdom (Perception) check to notice the cube if the creature hasn’t witnessed the cube move or otherwise act.
 
-1/day each: *conjure elemental* (air elemental only), *creation*, *gaseous form*, *invisibility*, *major image*, *plane shift*
+### Actions
 
-###### Actions
+Pseudopod. Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Acid damage.
 
-***Multiattack***. The djinni makes three scimitar attacks.
+Engulf. The cube moves up to its Speed without provoking Opportunity Attacks. The cube can move through the spaces of Large or smaller creatures if it has room inside itself to contain them (see the Ooze Cube trait). Dexterity Saving Throw: DC 12, each creature whose space the cube enters for the first time during this move. Failure: 10 (3d6) Acid damage, and the target is engulfed. An engulfed target is suffocating, can’t cast spells with a Verbal component, has the Restrained condition, and takes 10 (3d6) Acid damage at the start of each of the cube’s turns. When the cube moves, the engulfed target moves with it. An engulfed target can try to escape by taking an action to make a DC 12 Strength (Athletics) check. On a successful check, the target escapes and enters the nearest unoccupied space. Success: Half damage, and the target moves to an unoccupied space within 5 feet of the cube. If there is no unoccupied space, the target fails the save instead. Ghast
 
-***Scimitar***. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice).
+## Ghast
 
-***Create Whirlwind***. A 5-foot radius, 30-foot tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
+*Medium Undead, Chaotic Evil*
 
-A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
+**AC 13 Initiative +3 (13)**
 
-### Efreeti
+**HP 36 (8d8)**
 
-*Large elemental, lawful evil*
+**Speed 30 ft.**
 
-**Armor Class** 17 (natural armor)
 
-**Hit Points** 200 (16d10+112)
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 17 | +3 | +3 | **Con** 10 | +0 | +0 |
+| **Int** 11 | +0 | +0 | **Wis** 10 | +0 | +2 | **Cha** 8 | −1 | −1 |
 
-**Speed** 40 ft., fly 60 ft.
+**Resistances Necrotic**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 22 (+6)  | 12 (+1)  | 24 (+7)  | 16 (+3)  | 15 (+2)  | 16 (+3)  |
+**Immunities Poison; Charmed, Exhaustion, Poisoned**
 
-**Saving Throws** Int +7, Wis +6, Cha +7
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Damage Immunities** fire
+**Languages Common**
 
-**Senses** darkvision 120 ft., passive Perception 12
+**CR 2 (XP 450; PB +2)**
 
-**Languages** Ignan
+### Traits
 
-**Challenge** 11 (7,200 XP)
+Stench. Constitution Saving Throw: DC 10, any creature that starts its turn in a 5-foot Emanation originating from the ghast. Failure: The target has the Poisoned condition until the start of its next turn. Success: The target is immune to this ghast’s Stench for 24 hours.
 
-***Elemental Demise***. If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
+### Actions
 
-***Innate Spellcasting***. The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material Components
+Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3)
 
-At will: *detect magic*
+Piercing damage plus 9 (2d8) Necrotic damage.
 
-3/day each: *enlarge/reduce*, *tongues*
+Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage. If the target is a non-Undead creature, it is subjected to the following effect. Constitution Saving Throw: DC 10. Failure: The target has the
 
-1/day each: *conjure elemental* (fire elemental only), *gaseous form*, *invisibility*, *major image*, *plane shift*, *wall of fire*
-
-###### Actions
-
-***Multiattack***. The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
-
-***Scimitar***. *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage plus 7 (2d6) fire damage.
-
-***Hurl Flame***. *Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 17 (5d6) fire damage.
+Paralyzed condition until the end of its next turn. Ghost
 
 ## Ghost
 
-*Medium undead, any alignment*
+*Medium Undead, Neutral*
 
-**Armor Class** 11
+**AC 11 Initiative +1 (11)**
 
-**Hit Points** 45 (10d8)
+**HP 45 (10d8)**
 
-**Speed** 0 ft., fly 40 ft. (hover)
+**Speed 5 ft., Fly 40 ft. (hover)**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 7 (-2)   | 13 (+1)  | 10 (+0)  | 10 (+0)  | 12 (+1)  | 17 (+3)  |
 
-**Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 7 | −2 | −2 | **Dex** 13 | +1 | +1 | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +1 | **Cha** 17 | +3 | +3 |
 
-**Damage Immunities** cold, necrotic, poison
+**Resistances Acid, Bludgeoning, Cold, Fire, Lightning,**
 
-**Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+Piercing, Slashing, Thunder Immunities Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
 
-**Senses** darkvision 60 ft., passive Perception 11
+**Senses Darkvision 60 ft.; Passive Perception 11**
 
-**Languages** any languages it knew in life
+**Languages Common plus one other language**
 
-**Challenge** 4 (1,100 XP)
+**CR 4 (XP 1,100; PB +2)**
 
-***Ethereal Sight***. The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
+### Traits
 
-***Incorporeal Movement***. The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+Ethereal Sight. The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane.
 
-###### Actions
+Incorporeal Movement. The ghost can move through other creatures and objects as if they were Difficult
 
-***Withering Touch***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 17 (4d6+3) necrotic damage.
+Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
 
-***Etherealness***. The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
+### Actions
 
-***Horrifying Visage***. Each non-undead creature within 60 feet of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this ghost's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a *greater restoration* spell, but only within 24 hours of it occurring.
+Multiattack. The ghost makes two Withering
 
-***Possession (Recharge 6)***. One humanoid that the ghost can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn't deprive the target of awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.
+Touch attacks.
 
-The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the *dispel evil and good* spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
+Withering Touch. Melee Attack Roll: +5, reach 5 ft. Hit: 19 (3d10 + 3) Necrotic damage.
 
-## Ghouls
+Etherealness. The ghost casts the Etherealness spell, requiring no spell components and using Charisma as the spellcasting ability. The ghost is visible on the Material Plane while on the Border Ethereal and vice versa, but it can’t affect or be affected by anything on the other plane.
 
-### Ghast
+Horrific Visage. Wisdom Saving Throw: DC 13, each creature in a 60-foot Cone that can see the ghost and isn’t an Undead. Failure: 10 (2d6 + 3) Psychic damage, and the target has the Frightened condition until the start of the ghost’s next turn. Success: The target is immune to this ghost’s Horrific Visage for 24 hours.
 
-*Medium undead, chaotic evil*
+Possession (Recharge 6). Charisma Saving Throw: DC 13, one Humanoid the ghost can see within 5 feet. Failure: The target is possessed by the ghost; the ghost disappears, and the target has the Incapacitated condition and loses control of its body. The ghost now controls the body, but the target retains awareness. The ghost can’t be targeted by any attack, spell, or other effect, except ones that specifically target Undead. The ghost’s game statistics are the same, except it uses the possessed target’s Speed, as well as the target’s Strength, Dexterity, and Constitution modifiers. The possession lasts until the body drops to 0 Hit
 
-**Armor Class** 13
+Points or the ghost leaves as a Bonus Action. When the possession ends, the ghost appears in an unoccupied space within 5 feet of the target, and the target is immune to this ghost’s Possession for 24 hours. Success: The target is immune to this ghost’s Possession for 24 hours. Ghoul
 
-**Hit Points** 36 (8d8)
+## Ghoul
 
-**Speed** 30 ft.
+*Medium Undead, Chaotic Evil*
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 16 (+3)  | 17 (+3)  | 10 (+0)  | 11 (+0)  | 10 (+0)  | 8 (-1)   |
+**AC 12 Initiative +2 (12)**
 
-**Damage Resistances** necrotic
+**HP 22 (5d8)**
 
-**Damage Immunities** poison
+**Speed 30 ft.**
 
-**Condition Immunities** charmed, exhaustion, poisoned
 
-**Senses** darkvision 60 ft., passive Perception 10
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 13 | +1 | +1 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
+| **Int** 7 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
 
-**Languages** Common
+**Immunities Poison; Charmed, Exhaustion, Poisoned**
 
-**Challenge** 2 (450 XP)
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-***Stench***. Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
+**Languages Common**
 
-***Turning Defiance***. The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
+**CR 1 (XP 200; PB +2)**
 
-###### Actions
+### Actions
 
-***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8+3) piercing damage.
+Multiattack. The ghoul makes two Bite attacks.
 
-***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2)
 
-### Ghoul
+Piercing damage plus 3 (1d6) Necrotic damage.
 
-*Medium undead, chaotic evil*
-
-**Armor Class** 12
-
-**Hit Points** 22 (5d8)
-
-**Speed** 30 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 13 (+1)  | 15 (+2)  | 10 (+0)  | 7 (-2)   | 10 (+0)  | 6 (-2)   |
-
-**Damage Immunities** poison
-
-**Condition Immunities** charmed, exhaustion, poisoned
-
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** Common
-
-**Challenge** 1 (200 XP)
-
-###### Actions
-
-***Bite***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6+2) piercing damage.
-
-***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4+2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-## Giants
-
-### Cloud Giant
-
-*Huge giant, neutral good (50%) or neutral evil (50%)*
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 200 (16d12+96)
-
-**Speed** 40 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 27 (+8)  | 10 (+0)  | 22 (+6)  | 12 (+1)  | 16 (+3)  | 16 (+3)  |
-
-**Saving Throws** Con +10, Wis +7, Cha +7
-
-**Skills** Insight +7, Perception +7
-
-**Senses** passive Perception 17
-
-**Languages** Common, Giant
-
-**Challenge** 9 (5,000 XP)
-
-***Keen Smell***. The giant has advantage on Wisdom (Perception) checks that rely on smell.
-
-***Innate Spellcasting***. The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material Components
-
-At will: *detect magic*, *fog cloud*, *light*
-
-3/day each: *feather fall*, *fly*, *misty step*, *telekinesis*
-
-1/day each: *control weather*, *gaseous form*
-
-###### Actions
-
-***Multiattack***. The giant makes two morningstar attacks.
-
-***Morningstar***. *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 21 (3d8+8) piercing damage.
-
-***Rock***. *Ranged Weapon Attack:* +12 to hit, range 60/240 ft., one target. *Hit:* 30 (4d10+8) bludgeoning damage.
-
-### Fire Giant
-
-*Huge giant, lawful evil*
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 162 (13d12+78)
-
-**Speed** 30 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 25 (+7)  | 9 (-1)   | 23 (+6)  | 10 (+0)  | 14 (+2)  | 13 (+1)  |
-
-**Saving Throws** Dex +3, Con +10, Cha +5
-
-**Skills** Athletics +11, Perception +6
-
-**Damage Immunities** fire
-
-**Senses** passive Perception 16
-
-**Languages** Giant
-
-**Challenge** 9 (5,000 XP)
-
-###### Actions
-
-***Multiattack***. The giant makes two greatsword attacks.
-
-***Greatsword***. *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 28 (6d6+7) slashing damage.
-
-***Rock***. *Ranged Weapon Attack:* +11 to hit, range 60/240 ft., one target. *Hit:* 29 (4d10+7) bludgeoning damage.
-
-### Frost Giant
-
-*Huge giant, neutral evil*
-
-**Armor Class** 15 (patchwork armor)
-
-**Hit Points** 138 (12d12+60)
-
-**Speed** 40 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 23 (+6)  | 9 (-1)   | 21 (+5)  | 9 (-1)   | 10 (+0)  | 12 (+1)  |
-
-**Saving Throws** Con +8, Wis +3, Cha +4
-
-**Skills** Athletics +9, Perception +3
-
-**Damage Immunities** cold
-
-**Senses** passive Perception 13
-
-**Languages** Giant
-
-**Challenge** 8 (3,900 XP)
-
-###### Actions
-
-***Multiattack***. The giant makes two greataxe attacks.
-
-***Greataxe***. *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 25 (3d12+6) slashing damage.
-
-***Rock***. *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage.
-
-### Hill Giant
-
-*Huge giant, chaotic evil*
-
-**Armor Class** 13 (natural armor)
-
-**Hit Points** 105 (10d12+40)
-
-**Speed** 40 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 21 (+5)  | 8 (-1)   | 19 (+4)  | 5 (-3)   | 9 (-1)   | 6 (-2)   |
-
-**Skills** Perception +2
-
-**Senses** passive Perception 12
-
-**Languages** Giant
-
-**Challenge** 5 (1,800 XP)
-
-###### Actions
-
-***Multiattack***. The giant makes two greatclub attacks.
-
-***Greatclub***. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18 (3d8+5) bludgeoning damage.
-
-***Rock***. *Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one target. *Hit:* 21 (3d10+5) bludgeoning damage.
-
-### Stone Giant
-
-*Huge giant, neutral*
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 126 (11d12+55)
-
-**Speed** 40 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 23 (+6)  | 15 (+2)  | 20 (+5)  | 10 (+0)  | 12 (+1)  | 9 (-1)   |
-
-**Saving Throws** Dex +5, Con +8, Wis +4
-
-**Skills** Athletics +12, Perception +4
-
-**Senses** darkvision 60 ft., passive Perception 14
-
-**Languages** Giant
-
-**Challenge** 7 (2,900 XP)
-
-***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
-
-###### Actions
-
-***Multiattack***. The giant makes two greatclub attacks.
-
-***Greatclub***. *Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19 (3d8+6) bludgeoning damage.
-
-***Rock***. *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
-
-###### Reactions
-
-***Rock Catching***. If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
-
-### Storm Giant
-
-*Huge giant, chaotic good*
-
-**Armor Class** 16 (scale mail)
-
-**Hit Points** 230 (20d12+100)
-
-**Speed** 50 ft., swim 50 ft.
-
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 29 (+9)  | 14 (+2)  | 20 (+5)  | 16 (+3)  | 18 (+4)  | 18 (+4)  |
-
-**Saving Throws** Str +14, Con +10, Wis +9, Cha +9
-
-**Skills** Arcana +8, Athletics +14, History +8, Perception +9
-
-**Damage Resistances** cold
-
-**Damage Immunities** lightning, thunder
-
-**Senses** passive Perception 19
-
-**Languages** Common, Giant
-
-**Challenge** 13 (10,000 XP)
-
-***Amphibious***. The giant can breathe air and water.
-
-***Innate Spellcasting***. The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components
-
-At will: *detect magic*, *feather fall*, *levitate*, *light*
-
-3/day each: *control weather*, *water breathing*
-
-###### Actions
-
-***Multiattack***. The giant makes two greatsword attacks.
-
-***Greatsword***. *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30 (6d6+9) slashing damage.
-
-***Rock***. *Ranged Weapon Attack:* +14 to hit, range 60/240 ft., one target. *Hit:* 35 (4d12+9) bludgeoning damage.
-
-***Lightning Strike (Recharge 5-6)***. The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
+Claw. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage. If the target is a creature that isn’t an Undead or elf, it is subjected to the following effect. Constitution Saving Throw: DC 10. Failure: The target has the Paralyzed condition until the end of its next turn. Gibbering Mouther
 
 ## Gibbering Mouther
 
-*Medium aberration, neutral*
+*Medium Aberration, Chaotic Neutral*
 
-**Armor Class** 9
+**AC 9 Initiative −1 (9)**
 
-**Hit Points** 67 (9d8+27)
+**HP 52 (7d8 + 21)**
 
-**Speed** 10 ft., swim 10 ft.
+**Speed 20 ft., Swim 20 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 10 (+0)  | 8 (-1)   | 16 (+3)  | 3 (-4)   | 10 (+0)  | 6 (-2)   |
 
-**Condition Immunities** prone
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 10 | +0 | +0 | **Dex** 8 | −1 | −1 | **Con** 16 | +3 | +3 |
+| **Int** 3 | −4 | −4 | **Wis** 10 | +0 | +0 | **Cha** 6 | −2 | −2 |
 
-**Senses** darkvision 60 ft., passive Perception 10
+**Immunities Prone**
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Challenge** 2 (450 XP)
+**Languages None**
 
-***Aberrant Ground***. The ground in a 10-foot radius around the mouther is dough-like difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
+**CR 2 (XP 450; PB +2)**
 
-***Gibbering***. The mouther babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 20 feet of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
+### Traits
 
-###### Actions
+Aberrant Ground. The ground in a 10-foot Emanation originating from the mouther is Difficult Terrain.
 
-***Multiattack***. The gibbering mouther makes one bite attack and, if it can, uses its Blinding Spittle.
+Gibbering. The mouther babbles incoherently while it doesn’t have the Incapacitated condition. Wisdom Saving Throw: DC 10, any creature that starts its turn within 20 feet of the mouther while it is babbling. Failure: The target rolls 1d8 to determine what it does during the current turn: 1–4. The target does nothing. 5–6. The target takes no action or Bonus Action and uses all its movement to move in a random direction. 7–8. The target makes a melee attack against a randomly determined creature within its reach or does nothing if it can’t make such an attack.
 
-***Bites***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be knocked prone. If the target is killed by this damage, it is absorbed into the mouther.
+### Actions
 
-***Blinding Spittle (Recharge 5-6)***. The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be blinded until the end of the mouther's next turn.
+Bite. Melee Attack Roll: +2, reach 5 ft. Hit: 7 (2d6)
 
-## Gnoll
+Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition. The target dies if it is reduced to 0 Hit Points by this attack. Its body is then absorbed into the mouther, leaving only equipment behind. Blinding Spittle (Recharge 5–6). Dexterity Saving Throw: DC 10, each creature in a 10-foot-radius Sphere centered on a point within 30 feet. Failure: 7 (2d6) Radiant damage, and the target has the Blinded condition until the end of the mouther’s next turn. Glabrezu
 
-*Medium humanoid (gnoll), chaotic evil*
+## Glabrezu
 
-**Armor Class** 15 (hide armor, shield)
+*Large Fiend (Demon), Chaotic Evil*
 
-**Hit Points** 22 (5d8)
+**AC 17 Initiative +6 (16)**
 
-**Speed** 30 ft.
+**HP 189 (18d10 + 90)**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 14 (+2)  | 12 (+1)  | 11 (+0)  | 6 (-2)   | 10 (+0)  | 7 (-2)   |
+**Speed 40 ft.**
 
-**Senses** darkvision 60 ft., passive Perception 10
 
-**Languages** Gnoll
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 20 | +5 | +9 | **Dex** 15 | +2 | +2 | **Con** 21 | +5 | +9 |
+| **Int** 19 | +4 | +4 | **Wis** 17 | +3 | +7 | **Cha** 16 | +3 | +7 |
 
-**Challenge** 1/2 (100 XP)
+**Skills Deception +7, Perception +7**
 
-***Rampage***. When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
+**Resistances Cold, Fire, Lightning**
 
-###### Actions
+**Immunities Poison; Poisoned**
 
-***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) piercing damage.
+**Senses Truesight 120 ft.; Passive Perception 17**
 
-***Spear***. *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6+2) piercing damage, or 6 (1d8+2) piercing damage if used with two hands to make a melee attack.
+**Languages Abyssal; telepathy 120 ft.**
 
-***Longbow***. *Ranged Weapon Attack:* +3 to hit, range 150/600 ft., one target. *Hit:* 5 (1d8+1) piercing damage.
+**CR 9 (XP 5,000; PB +4)**
 
-## Gnome, Deep (Svirfneblin)
+### Traits
 
-*Small humanoid (gnome), neutral good*
+Demonic Restoration. If the glabrezu dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
 
-**Armor Class** 15 (chain shirt)
+Magic Resistance. The glabrezu has Advantage on saving throws against spells and other magical effects.
 
-**Hit Points** 16 (3d6+6)
+### Actions
 
-**Speed** 20 ft.
+Multiattack. The glabrezu makes two Pincer attacks and uses Pummel or Spellcasting.
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 15 (+2)  | 14 (+2)  | 14 (+2)  | 12 (+1)  | 10 (+0)  | 9 (-1)   |
+Pincer. Melee Attack Roll: +9, reach 10 ft. Hit: 16 (2d10 + 5) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape
 
-**Skills** Investigation +3, Perception +2, Stealth +4
+DC 15) from one of two pincers.
 
-**Senses** darkvision 120 ft., passive Perception 12
+Pummel. Dexterity Saving Throw: DC 17, one creature
 
-**Languages** Gnomish, Terran, Undercommon
+Grappled by the glabrezu. Failure: 15 (3d6 + 5) Bludgeoning damage. Success: Half damage.
 
-**Challenge** 1/2 (100 XP)
+Spellcasting. The glabrezu casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16): At Will: Darkness, Detect Magic, Dispel Magic 1/Day Each: Confusion, Fly, Power Word Stun Gladiator
 
-***Stone Camouflage***. The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+## Gladiator
 
-***Gnome Cunning***. The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
+*Medium or Small Humanoid, Neutral*
 
-***Innate Spellcasting***. The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material Components
+**AC 16 Initiative +5 (15)**
 
-At will: *nondetection* (self only)
+**HP 112 (15d8 + 45)**
 
-1/day each: *blindness/deafness*, *blur*, *disguise self*
+**Speed 30 ft.**
 
-###### Actions
 
-***War Pick***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +7 | **Dex** 15 | +2 | +5 | **Con** 16 | +3 | +6 |
+| **Int** 10 | +0 | +0 | **Wis** 12 | +1 | +4 | **Cha** 15 | +2 | +2 |
 
-***Poisoned Dart***. *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one creature. *Hit:* 4 (1d4+2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Skills Athletics +10, Performance +5**
 
-## Goblin
+**Gear Shield, Spears (3), Studded Leather Armor**
 
-*Small humanoid (goblinoid), neutral evil*
+**Senses Passive Perception 11**
 
-**Armor Class** 15 (leather armor, shield)
+**Languages Common**
 
-**Hit Points** 7 (2d6)
+**CR 5 (XP 1,800; PB +3)**
 
-**Speed** 30 ft.
+### Actions
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 8 (-1)   | 14 (+2)  | 10 (+0)  | 10 (+0)  | 8 (-1)   | 8 (-1)   |
+Multiattack. The gladiator makes three Spear attacks. It can replace one attack with a use of Shield Bash.
 
-**Skills** Stealth +6
+Spear. Melee or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit: 11 (2d6 + 4) Piercing damage.
 
-**Senses** darkvision 60 ft., passive Perception 9
+Shield Bash. Strength Saving Throw: DC 15, one creature within 5 feet that the gladiator can see. Failure: 9 (2d4 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
 
-**Languages** Common, Goblin
+### Reactions
 
-**Challenge** 1/4 (50 XP)
+Parry. Trigger: The gladiator is hit by a melee attack roll while holding a weapon. Response: The gladiator adds 3 to its AC against that attack, possibly causing it to miss. Gnoll
 
-***Nimble Escape***. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+## Gnoll Warrior
 
-###### Actions
+*Medium Fiend, Chaotic Evil*
 
-***Scimitar***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) slashing damage.
+**AC 15 Initiative +1 (11)**
 
-***Shortbow***. *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+**HP 27 (6d8)**
 
-## Golems
+**Speed 30 ft.**
 
-### Clay Golem
 
-*Large construct, unaligned*
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 14 | +2 | +2 | **Dex** 12 | +1 | +1 | **Con** 11 | +0 | +0 |
+| **Int** 6 | −2 | −2 | **Wis** 10 | +0 | +0 | **Cha** 7 | −2 | −2 |
 
-**Armor Class** 14 (natural armor)
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Hit Points** 133 (14d10+56)
+**Languages Gnoll**
 
-**Speed** 20 ft.
+**CR 1/2 (XP 100; PB +2)**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 20 (+5)  | 9 (-1)   | 18 (+4)  | 3 (-4)   | 8 (-1)   | 1 (-5)   |
+### Actions
 
-**Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+Rend. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2)
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+Piercing damage.
 
-**Senses** darkvision 60 ft., passive Perception 9
+Bone Bow. Ranged Attack Roll: +3, range 150/600 ft. Hit: 6 (1d10 + 1) Piercing damage.
 
-**Languages** understands the languages of its creator but can't speak
+### Bonus Actions
 
-**Challenge** 9 (5,000 XP)
+Rampage (1/Day). Immediately after dealing damage to a creature that is already Bloodied, the gnoll moves up to half its Speed, and it makes one Rend attack. Goblins
 
-***Acid Absorption***. Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.
+## Goblin Boss
 
-***Berserk***. Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
+*Small Fey (Goblinoid), Chaotic Neutral*
 
-***Immutable Form***. The golem is immune to any spell or effect that would alter its form.
+**AC 17 Initiative +2 (12)**
 
-***Magic Resistance***. The golem has advantage on saving throws against spells and other magical effects.
+**HP 21 (6d6)**
 
-***Magic Weapons***. The golem's weapon attacks are magical.
+**Speed 30 ft.**
 
-###### Actions
 
-***Multiattack***. The golem makes two slam attacks.
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 10 | +0 | +0 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0 | +0 | **Wis** 8 | −1 | −1 | **Cha** 10 | +0 | +0 |
 
-***Slam***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16 (2d10+5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the *greater restoration* spell or other magic.
+**Skills Stealth +6**
 
-***Haste (Recharge 5-6)***. Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
+**Gear Chain Shirt, Scimitar, Shield, Shortbow**
 
-### Flesh Golem
+**Senses Darkvision 60 ft.; Passive Perception 9**
 
-*Medium construct, neutral*
+**Languages Common, Goblin**
 
-**Armor Class** 9
+**CR 1 (XP 200; PB +2)**
 
-**Hit Points** 93 (11d8+44)
+### Actions
 
-**Speed** 30 ft.
+Multiattack. The goblin makes two attacks, using Scimitar or Shortbow in any combination.
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 19 (+4)  | 9 (-1)   | 18 (+4)  | 6 (-2)   | 10 (+0)  | 5 (-3)   |
+Scimitar. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage, plus 2 (1d4) Slashing damage if the attack roll had Advantage.
 
-**Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+Shortbow. Ranged Attack Roll: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing damage, plus 2 (1d4) Piercing damage if the attack roll had Advantage.
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+### Bonus Actions
 
-**Senses** darkvision 60 ft., passive Perception 10
+Nimble Escape. The goblin takes the Disengage or Hide action.
 
-**Languages** understands the languages of its creator but can't speak
+### Reactions
 
-**Challenge** 5 (1,800 XP)
+Redirect Attack. Trigger: A creature the goblin can see makes an attack roll against it. Response: The goblin chooses a Small or Medium ally within 5 feet of itself. The goblin and that ally swap places, and the ally becomes the target of the attack instead. Gold Dragons
 
-***Berserk***. Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
+## Goblin Minion
 
-The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.
+*Small Fey (Goblinoid), Chaotic Neutral*
 
-***Aversion of Fire***. If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
+**AC 12 Initiative +2 (12)**
 
-***Immutable Form***. The golem is immune to any spell or effect that would alter its form.
+**HP 7 (2d6)**
 
-***Lightning Absorption***. Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.
+**Speed 30 ft.**
 
-***Magic Resistance***. The golem has advantage on saving throws against spells and other magical effects.
 
-***Magic Weapons***. The golem's weapon attacks are magical.
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 8 | −1 | −1 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0 | +0 | **Wis** 8 | −1 | −1 | **Cha** 8 | −1 | −1 |
 
-###### Actions
+**Skills Stealth +6**
 
-***Multiattack***. The golem makes two slam attacks.
+**Gear Daggers (3)**
 
-***Slam***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.
+**Senses Darkvision 60 ft.; Passive Perception 9**
 
-### Iron Golem
+**Languages Common, Goblin**
 
-*Large construct, unaligned*
+**CR 1/8 (XP 25; PB +2)**
 
-**Armor Class** 20 (natural armor)
+### Actions
 
-**Hit Points** 210 (20d10+100)
+Dagger. Melee or Ranged Attack Roll: +4, reach 5 ft. or range 20/60 ft. Hit: 4 (1d4 + 2) Piercing damage.
 
-**Speed** 30 ft.
+### Bonus Actions
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 24 (+7)  | 9 (-1)   | 20 (+5)  | 3 (-4)   | 11 (+0)  | 1 (-5)   |
+Nimble Escape. The goblin takes the Disengage or Hide action.
 
-**Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+## Goblin Warrior
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+*Small Fey (Goblinoid), Chaotic Neutral*
 
-**Senses** darkvision 120 ft., passive Perception 10
+**AC 15 Initiative +2 (12)**
 
-**Languages** understands the languages of its creator but can't speak
+**HP 10 (3d6)**
 
-**Challenge** 16 (15,000 XP)
+**Speed 30 ft.**
 
-***Fire Absorption***. Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
 
-***Immutable Form***. The golem is immune to any spell or effect that would alter its form.
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 8 | −1 | −1 | **Dex** 15 | +2 | +2 | **Con** 10 | +0 | +0 |
+| **Int** 10 | +0 | +0 | **Wis** 8 | −1 | −1 | **Cha** 8 | −1 | −1 |
 
-***Magic Resistance***. The golem has advantage on saving throws against spells and other magical effects.
+**Skills Stealth +6**
 
-***Magic Weapons***. The golem's weapon attacks are magical.
+**Gear Leather Armor, Scimitar, Shield, Shortbow**
 
-###### Actions
+**Senses Darkvision 60 ft.; Passive Perception 9**
 
-***Multiattack***. The golem makes two melee attacks.
+**Languages Common, Goblin**
 
-***Slam***. *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 20 (3d8+7) bludgeoning damage.
+**CR 1/4 (XP 50; PB +2)**
 
-***Sword***. *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 23 (3d10+7) slashing damage.
+### Actions
 
-***Poison Breath (Recharge 6)***. The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+Scimitar. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage, plus 2 (1d4) Slashing damage if the attack roll had Advantage.
 
-### Stone Golem
+Shortbow. Ranged Attack Roll: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing damage, plus 2 (1d4) Piercing damage if the attack roll had Advantage.
 
-*Large construct, unaligned*
+### Bonus Actions
 
-**Armor Class** 17 (natural armor)
+Nimble Escape. The goblin takes the Disengage or Hide action.
 
-**Hit Points** 178 (17d10+85)
+## Gold Dragon Wyrmling
 
-**Speed** 30 ft.
+*Medium Dragon (Metallic), Lawful Good*
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 22 (+6)  | 9 (-1)   | 20 (+5)  | 3 (-4)   | 11 (+0)  | 1 (-5)   |
+**AC 17 Initiative +4 (14)**
 
-**Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+**HP 60 (8d8 + 24)**
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+**Speed 30 ft., Fly 60 ft., Swim 30 ft.**
 
-**Senses** darkvision 120 ft., passive Perception 10
 
-**Languages** understands the languages of its creator but can't speak
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 19 | +4 | +4 | **Dex** 14 | +2 | +4 | **Con** 17 | +3 | +3 |
+| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +2 | **Cha** 16 | +3 | +3 |
 
-**Challenge** 10 (5,900 XP)
+**Skills Perception +4, Stealth +4**
 
-***Immutable Form***. The golem is immune to any spell or effect that would alter its form.
+**Immunities Fire**
 
-***Magic Resistance***. The golem has advantage on saving throws against spells and other magical effects.
+**Senses Blindsight 10 ft., Darkvision 60 ft.;**
 
-***Magic Weapons***. The golem's weapon attacks are magical.
+Passive Perception 14 Languages Draconic
 
-###### Actions
+**CR 3 (700 XP; PB +2)**
 
-***Multiattack***. The golem makes two slam attacks.
+### Traits
 
-***Slam***. *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19 (3d8+6) bludgeoning damage.
+Amphibious. The dragon can breathe air and water.
 
-***Slow (Recharge 5-6)***. The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+### Actions
+
+Multiattack. The dragon makes two Rend attacks.
+
+Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage. Fire Breath (Recharge 5–6). Dexterity Saving Throw: DC 13, each creature in a 15-foot Cone. Failure: 22 (4d10) Fire damage. Success: Half damage.
+
+Weakening Breath. Strength Saving Throw: DC 13, each creature that isn’t currently affected by this breath in a 15-foot Cone. Failure: The target has Disadvantage on Strength-based D20 Tests and subtracts 2 (1d4) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
 ## Gorgon
 
-*Large monstrosity, unaligned*
+*Large Construct, Unaligned*
 
-**Armor Class** 19 (natural armor)
+**AC 19 Initiative +0 (10)**
 
-**Hit Points** 114 (12d10+48)
+**HP 114 (12d10 + 48)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 20 (+5)  | 11 (+0)  | 18 (+4)  | 2 (-4)   | 12 (+1)  | 7 (-2)   |
 
-**Skills** Perception +4
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 20 | +5 | +5 | **Dex** 11 | +0 | +0 | **Con** 18 | +4 | +4 |
+| **Int** 2 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
 
-**Condition Immunities** petrified
+**Skills Perception +7**
 
-**Senses** darkvision 60 ft., passive Perception 14
+**Immunities Exhaustion, Petrified**
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 17**
 
-**Challenge** 5 (1,800 XP)
+**Languages None**
 
-***Trampling Charge***. If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.
+**CR 5 (XP 1,800; PB +3)**
 
-###### Actions
+### Actions
 
-***Gore***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 18 (2d12+5) piercing damage.
+Gore. Melee Attack Roll: +8, reach 5 ft. Hit: 18 (2d12 + 5) Piercing damage. If the target is a Large or smaller creature and the gorgon moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition. Petrifying Breath (Recharge 5–6). Constitution Saving Throw: DC 15, each creature in a 30-foot Cone. First Failure: The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. Second Failure: The target has the Petrified condition instead of the Restrained condition.
 
-***Hooves***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16 (2d10+5) bludgeoning damage.
+### Bonus Actions
 
-***Petrifying Breath (Recharge 5-6)***. The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the *greater restoration* spell or other magic.
+Trample. Dexterity Saving Throw: DC 16, one creature within 5 feet that has the Prone condition. Failure: 16 (2d10 + 5) Bludgeoning damage. Success: Half damage. Gray Ooze
+
+## Gray Ooze
+
+*Medium Ooze, Unaligned*
+
+**AC 9 Initiative −2 (13)**
+
+**HP 22 (3d8 + 9)**
+
+**Speed 10 ft., Climb 10 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 12 | +1 | +1 | **Dex** 6 | −2 | −2 | **Con** 16 | +3 | +3 |
+| **Int** 1 | −5 | −5 | **Wis** 6 | −2 | −2 | **Cha** 2 | −4 | −4 |
+
+**Skills Stealth +2**
+
+**Resistances Acid, Cold, Fire**
+
+**Immunities Blinded, Charmed, Deafened, Exhaustion,**
+
+Frightened, Grappled, Prone, Restrained
+
+**Senses Blindsight 60 ft.; Passive Perception 8**
+
+**Languages None**
+
+**CR 1/2 (XP 100; PB +2)**
+
+### Traits
+
+Amorphous. The ooze can move through a space as narrow as 1 inch without expending extra movement to do so.
+
+Corrosive Form. Nonmagical ammunition is destroyed immediately after hitting the ooze and dealing any damage. Any nonmagical weapon takes a cumulative −1 penalty to attack rolls immediately after dealing damage to the ooze and coming into contact with it. The weapon is destroyed if the penalty reaches −5. The penalty can be removed by casting the Mending spell on the weapon. The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
+
+### Actions
+
+Pseudopod. Melee Attack Roll: +3, reach 5 ft. Hit: 10 (2d8 + 1) Acid damage. Nonmagical armor worn by the target takes a −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. The penalty can be removed by casting the Mending spell on the armor. Green Dragons
+
+## Green Dragon Wyrmling
+
+*Medium Dragon (Chromatic), Lawful Evil*
+
+**AC 17 Initiative +3 (13)**
+
+**HP 38 (7d8 + 7)**
+
+**Speed 30 ft., Fly 60 ft., Swim 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 15 | +2 | +2 | **Dex** 12 | +1 | +3 | **Con** 13 | +1 | +1 |
+| **Int** 14 | +2 | +2 | **Wis** 11 | +0 | +2 | **Cha** 13 | +1 | +1 |
+
+**Skills Perception +4, Stealth +3**
+
+**Immunities Poison; Poisoned**
+
+**Senses Blindsight 10 ft., Darkvision 60 ft.;**
+
+Passive Perception 14 Languages Draconic
+
+**CR 2 (XP 450; PB +2)**
+
+### Traits
+
+Amphibious. The dragon can breathe air and water.
+
+### Actions
+
+Multiattack. The dragon makes two Rend attacks.
+
+Rend. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage plus 3 (1d6) Poison damage. Poison Breath (Recharge 5–6). Constitution Saving Throw: DC 11, each creature in a 15-foot Cone. Failure: 21 (6d6) Poison damage. Success: Half damage.
+
+## Green Hag
+
+*Medium Fey, Neutral Evil*
+
+**AC 17 Initiative +1 (11)**
+
+**HP 82 (11d8 + 33)**
+
+**Speed 30 ft., Swim 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 12 | +1 | +1 | **Con** 16 | +3 | +3 |
+| **Int** 13 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 14 | +2 | +2 |
+
+**Skills Arcana +5, Deception +4, Perception +4, Stealth +3**
+
+**Senses Darkvision 60 ft.; Passive Perception 14**
+
+**Languages Common, Elvish, Sylvan**
+
+**CR 3 (XP 700; PB +2)**
+
+### Traits
+
+Amphibious. The hag can breathe air and water.
+
+Coven Magic. While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell’s normal casting time, and using Intelligence as the spellcasting ability (spell save DC 11): Augury, Find Familiar, Identify, Locate Object, Scrying, or Unseen Servant. The hag must finish a Long Rest before using this trait to cast that spell again.
+
+Mimicry. The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations only with a successful DC 14
+
+Wisdom (Insight) check.
+
+### Actions
+
+Multiattack. The hag makes two Claw attacks.
+
+Claw. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4)
+
+Slashing damage plus 3 (1d6) Poison damage.
+
+Spellcasting. The hag casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks): At Will: Dancing Lights, Disguise Self (24-hour duration), Invisibility (self only, and the hag leaves no tracks while Invisible), Minor Illusion, Ray of Sickness (level 3 version) Grick
 
 ## Grick
 
-*Medium monstrosity, neutral*
+*Medium Aberration, Unaligned*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +2 (12)**
 
-**Hit Points** 27 (6d8)
+**HP 54 (12d8)**
 
-**Speed** 30 ft., climb 30 ft.
+**Speed 30 ft., Climb 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 14 (+2)  | 14 (+2)  | 11 (+0)  | 3 (-4)   | 14 (+2)  | 5 (-3)   |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 14 | +2 | +2 | **Dex** 14 | +2 | +2 | **Con** 11 | +0 | +0 |
+| **Int** 3 | −4 | −4 | **Wis** 14 | +2 | +2 | **Cha** 5 | −3 | −3 |
 
-**Senses** darkvision 60 ft., passive Perception 12
+**Skills Stealth +4**
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 12**
 
-**Challenge** 2 (450 XP)
+**Languages None**
 
-***Stone Camouflage***. The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+**CR 2 (XP 450; PB +2)**
 
-###### Actions
+### Actions
 
-***Multiattack***. The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
+Multiattack. The grick makes one Beak attack and one
 
-***Tentacles***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6+2) slashing damage.
+Tentacles attack.
 
-***Beak***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+Beak. Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2)
+
+Piercing damage.
+
+Tentacles. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape
+
+DC 12) from all four tentacles. Griffon
 
 ## Griffon
 
-*Large monstrosity, unaligned*
+*Large Monstrosity, Unaligned*
 
-**Armor Class** 12
+**AC 12 Initiative +2 (12)**
 
-**Hit Points** 59 (7d10+21)
+**HP 59 (7d10 + 21)**
 
-**Speed** 30 ft., fly 80 ft.
+**Speed 30 ft., Fly 80 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 15 (+2)  | 16 (+3)  | 2 (-4)   | 13 (+1)  | 8 (-1)   |
 
-**Skills** Perception +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 15 | +2 | +2 | **Con** 16 | +3 | +3 |
+| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 8 | −1 | −1 |
 
-**Senses** darkvision 60 ft., passive Perception 15
+**Skills Perception +5**
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 15**
 
-**Challenge** 2 (450 XP)
+**Languages None**
 
-***Keen Sight***. The griffon has advantage on Wisdom (Perception) checks that rely on sight.
+**CR 2 (XP 450; PB +2)**
 
-###### Actions
+### Actions
 
-***Multiattack***. The griffon makes two attacks: one with its beak and one with its claws.
+Multiattack. The griffon makes two Rend attacks.
 
-***Beak***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8+4) piercing damage.
+Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4)
 
-***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 14) from both of the griffon’s front claws. Grimlock
 
 ## Grimlock
 
-*Medium humanoid (grimlock), neutral evil*
+*Medium Aberration, Neutral Evil*
 
-**Armor Class** 11
+**AC 11 Initiative +1 (11)**
 
-**Hit Points** 11 (2d8+2)
+**HP 11 (2d8 + 2)**
 
-**Speed** 30 ft.
+**Speed 30 ft., Climb 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 16 (+3)  | 12 (+1)  | 12 (+1)  | 9 (-1)   | 8 (-1)   | 6 (-2)   |
 
-**Skills** Athletics +5, Perception +3, Stealth +3
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
+| **Int** 9 | −1 | −1 | **Wis** 8 | −1 | −1 | **Cha** 6 | −2 | −2 |
 
-**Condition Immunities** blinded
+**Skills Athletics +5, Perception +3, Stealth +5**
 
-**Senses** blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13
+**Senses Blindsight 30 ft.; Passive Perception 13**
 
-**Languages** Undercommon
+**Languages None**
 
-**Challenge** 1/4 (50 XP)
+**CR 1/4 (XP 50; PB +2)**
 
-***Blind Senses***. The grimlock can't use its blindsight while deafened and unable to smell.
+### Actions
 
-***Keen Hearing and Smell***. The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Bone Cudgel. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage plus 2 (1d4) Psychic damage. Guardian Naga
 
-***Stone Camouflage***. The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+## Guard
 
-###### Actions
+*Medium or Small Humanoid, Neutral*
 
-***Spiked Bone Club***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) bludgeoning damage plus 2 (1d4) piercing damage.
+**AC 16 Initiative +1 (11)**
+
+**HP 11 (2d8 + 2)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 13 | +1 | +1 | **Dex** 12 | +1 | +1 | **Con** 12 | +1 | +1 |
+| **Int** 10 | +0 | +0 | **Wis** 11 | +0 | +0 | **Cha** 10 | +0 | +0 |
+
+**Skills Perception +2**
+
+**Gear Chain Shirt, Shield, Spear**
+
+**Senses Passive Perception 12**
+
+**Languages Common**
+
+**CR 1/8 (XP 25; PB +2)**
+
+### Actions
+
+Spear. Melee or Ranged Attack Roll: +3, reach 5 ft. or range 20/60 ft. Hit: 4 (1d6 + 1) Piercing damage.
+
+## Guard Captain
+
+*Medium or Small Humanoid, Neutral*
+
+**AC 18 Initiative +4 (14)**
+
+**HP 75 (10d8 + 30)**
+
+**Speed 30 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 16 | +3 | +3 |
+| **Int** 12 | +1 | +1 | **Wis** 14 | +2 | +2 | **Cha** 13 | +1 | +1 |
+
+**Skills Athletics +6, Perception +4**
+
+**Gear Breastplate, Javelins (6), Longsword, Shield**
+
+**Senses Passive Perception 14**
+
+**Languages Common**
+
+**CR 4 (XP 1,100; PB +2)**
+
+### Actions
+
+Multiattack. The guard makes two attacks, using Javelin or Longsword in any combination.
+
+Javelin. Melee or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit: 14 (3d6 + 4) Piercing damage.
+
+Longsword. Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Slashing damage. Half-Dragon
+
+## Guardian Naga
+
+*Large Celestial, Lawful Good*
+
+**AC 18 Initiative +4 (14)**
+
+**HP 136 (16d10 + 48)**
+
+**Speed 40 ft., Climb 40 ft., Swim 40 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 19 | +4 | +4 | **Dex** 18 | +4 | +8 | **Con** 16 | +3 | +7 |
+| **Int** 16 | +3 | +7 | **Wis** 19 | +4 | +8 | **Cha** 18 | +4 | +8 |
+
+**Skills Arcana +11, History +11, Religion +11**
+
+**Immunities Poison; Charmed, Paralyzed, Poisoned,**
+
+Restrained
+
+**Senses Darkvision 60 ft.; Passive Perception 14**
+
+**Languages Celestial, Common**
+
+**CR 10 (XP 5,900; PB +4)**
+
+### Traits
+
+Celestial Restoration. If the naga dies, it returns to life in 1d6 days and regains all its Hit Points unless Dispel
+
+Evil and Good is cast on its remains.
+
+### Actions
+
+Multiattack. The naga makes two Bite attacks. It can replace any attack with a use of Poisonous Spittle.
+
+Bite. Melee Attack Roll: +8, reach 10 ft. Hit: 17 (2d12 + 4) Piercing damage plus 22 (4d10) Poison damage.
+
+Poisonous Spittle. Constitution Saving Throw: DC 16, one creature the naga can see within 60 feet. Failure: 31 (7d8) Poison damage, and the target has the Blinded condition until the start of the naga’s next turn. Success:
+
+Half damage only.
+
+Spellcasting. The naga casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save DC 16): At Will: Thaumaturgy 1/Day Each: Clairvoyance, Cure Wounds (level 6 version), Flame Strike (level 6 version), Geas, True Seeing Guards

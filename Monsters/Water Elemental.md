@@ -1,39 +1,41 @@
-### Water Elemental
+## Water Elemental
 
-*Large elemental, neutral*
+*Large Elemental, Neutral*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +2 (12)**
 
-**Hit Points** 114 (12d10+48)
+**HP 114 (12d10 + 48)**
 
-**Speed** 30 ft., swim 90 ft.
+**Speed 30 ft., Swim 90 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 14 (+2)  | 18 (+4)  | 5 (-3)   | 10 (+0)  | 8 (-1)   |
 
-**Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 14 | +2 | +2 | **Con** 18 | +4 | +4 |
+| **Int** 5 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 8 | −1 | −1 |
 
-**Damage Immunities** poison
+**Resistances Acid, Fire**
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+**Immunities Poison; Exhaustion, Grappled, Paralyzed,**
 
-**Senses** darkvision 60 ft., passive Perception 10
+Petrified, Poisoned, Prone, Restrained, Unconscious
 
-**Languages** Aquan
+**Senses Darkvision 60 ft.; Passive Perception 10**
 
-**Challenge** 5 (1,800 XP)
+**Languages Primordial (Aquan)**
 
-***Water Form***. The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+**CR 5 (XP 1,800; PB +3)**
 
-***Freeze***. If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
+### Traits
 
-###### Actions
+Freeze. If the elemental takes Cold damage, its Speed decreases by 20 feet until the end of its next turn.
 
-***Multiattack***. The elemental makes two slam attacks.
+Water Form. The elemental can enter an enemy’s space and stop there. It can move through a space as narrow as 1 inch without expending extra movement to do so.
 
-***Slam***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.
+### Actions
 
-***Whelm (Recharge 4-6)***. Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8+4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
+Multiattack. The elemental makes two Slam attacks.
 
-The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8+4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
+Slam. Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition. Whelm (Recharge 4–6). Strength Saving Throw: DC 15, each creature in the elemental’s space. Failure: 22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape
+
+DC 14). Until the grapple ends, the target has the Restrained condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning damage at the start of each of the elemental’s turns. The elemental can grapple one Large creature or up to two Medium or smaller creatures at a time with Whelm. As an action, a creature within 5 feet of the elemental can pull a creature out of it by succeeding on a DC 14 Strength (Athletics) check. Success: Half damage only. Werebear

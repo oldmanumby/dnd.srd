@@ -1,179 +1,231 @@
-# Monsters (R)
-
 ## Rakshasa
 
-*Medium fiend, lawful evil*
+*Medium Fiend, Lawful Evil*
 
-**Armor Class** 16 (natural armor)
+**AC 17 Initiative +8 (18)**
 
-**Hit Points** 110 (13d8+52)
+**HP 221 (26d8 + 104)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 14 (+2)  | 17 (+3)  | 18 (+4)  | 13 (+1)  | 16 (+3)  | 20 (+5)  |
 
-**Skills** Deception +10, Insight +8
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 14 | +2 | +2 | **Dex** 17 | +3 | +3 | **Con** 18 | +4 | +4 |
+| **Int** 13 | +1 | +1 | **Wis** 16 | +3 | +3 | **Cha** 20 | +5 | +5 |
 
-**Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
+**Skills Deception +10, Insight +8, Perception +8**
 
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
+Vulnerabilities Piercing damage from weapons wielded by creatures under the effect of a Bless spell Immunities Charmed, Frightened
 
-**Senses** darkvision 60 ft., passive Perception 13
+**Senses Truesight 60 ft.; Passive Perception 18**
 
-**Languages** Common, Infernal
+**Languages Common, Infernal**
 
-**Challenge** 13 (10,000 XP)
+**CR 13 (XP 10,000; PB +5)**
 
-***Limited Magic Immunity***. The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.
+### Traits
 
-***Innate Spellcasting***. The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material Components
+Greater Magic Resistance. The rakshasa automatically succeeds on saving throws against spells and other magical effects, and the attack rolls of spells automatically miss it. Without the rakshasa’s permission, no spell can observe the rakshasa remotely or detect its thoughts, creature type, or alignment.
 
-At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
+Fiendish Restoration. If the rakshasa dies outside the Nine Hells, its body turns to ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
 
-3/day each: *charm person*, *detect magic*, *invisibility*, *major image*, *suggestion*
+### Actions
 
-1/day each: *dominate person*, *fly*, *plane shift*, *true seeing*
+Multiattack. The rakshasa makes three Cursed
 
-###### Actions
+Touch attacks.
 
-***Multiattack***. The rakshasa makes two claw attacks.
+Cursed Touch. Melee Attack Roll: +10, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage plus 19 (3d12) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target gains no benefit from finishing a
 
-***Claw***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d6+2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a *remove curse* spell or similar magic.
+Short or Long Rest. Baleful Command (Recharge 5–6). Wisdom Saving Throw: DC 18, each enemy in a 30-foot Emanation originating from the rakshasa. Failure: 28 (8d6) Psychic damage, and the target has the Frightened and Incapacitated conditions until the start of the rakshasa’s next turn.
+
+Spellcasting. The rakshasa casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18): At Will: Detect Magic, Detect Thoughts, Disguise Self, Mage Hand, Minor Illusion 1/Day Each: Fly, Invisibility, Major Image, Plane Shift Red Dragons
+
+## Red Dragon Wyrmling
+
+*Medium Dragon (Chromatic), Chaotic Evil*
+
+**AC 17 Initiative +2 (12)**
+
+**HP 75 (10d8 + 30)**
+
+**Speed 30 ft., Climb 30 ft., Fly 60 ft.**
+
+
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 19 | +4 | +4 | **Dex** 10 | +0 | +2 | **Con** 17 | +3 | +3 |
+| **Int** 12 | +1 | +1 | **Wis** 11 | +0 | +2 | **Cha** 15 | +2 | +2 |
+
+**Skills Perception +4, Stealth +2**
+
+**Immunities Fire**
+
+**Senses Blindsight 10 ft., Darkvision 60 ft.;**
+
+Passive Perception 14 Languages Draconic
+
+**CR 4 (XP 1,100; PB +2)**
+
+### Actions
+
+Multiattack. The dragon makes two Rend attacks.
+
+Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage plus 3 (1d6) Fire damage. Fire Breath (Recharge 5–6). Dexterity Saving Throw: DC 13, each creature in a 15-foot Cone. Failure: 24 (7d6) Fire damage. Success: Half damage.
 
 ## Remorhaz
 
-*Huge monstrosity, unaligned*
+*Huge Monstrosity, Unaligned*
 
-**Armor Class** 17 (natural armor)
+**AC 17 Initiative +5 (15)**
 
-**Hit Points** 195 (17d12+85)
+**HP 195 (17d12 + 85)**
 
-**Speed** 30 ft., burrow 20 ft.
+**Speed 40 ft., Burrow 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 24 (+7)  | 13 (+1)  | 21 (+5)  | 4 (-3)   | 10 (+0)  | 5 (-3)   |
 
-**Damage Immunities** cold, fire
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 24 | +7 | +7 | **Dex** 13 | +1 | +1 | **Con** 21 | +5 | +5 |
+| **Int** 4 | −3 | −3 | **Wis** 10 | +0 | +0 | **Cha** 5 | −3 | −3 |
 
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+**Immunities Cold, Fire**
 
-**Languages** -
+**Senses Darkvision 60 ft., Tremorsense 60 ft.;**
 
-**Challenge** 11 (7,200 XP)
+Passive Perception 10 Languages None
 
-***Heated Body***. A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
+**CR 11 (XP 7,200; PB +4)**
 
-###### Actions
+### Traits
 
-***Bite***. *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 40 (6d10+7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.
+Heat Aura. At the end of each of the remorhaz’s turns, each creature in a 5-foot Emanation originating from the remorhaz takes 16 (3d10) Fire damage.
 
-***Swallow***. The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns.
+### Actions
 
-If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
+Bite. Melee Attack Roll: +11, reach 10 ft. Hit: 18 (2d10 + 7) Piercing damage plus 14 (4d6) Fire damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17), and it has the Restrained condition until the grapple ends.
+
+### Bonus Actions
+
+Swallow. Strength Saving Throw: DC 19, one Large or smaller creature Grappled by the remorhaz (it can have up to two creatures swallowed at a time). Failure: The target is swallowed by the remorhaz, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, it has Total Cover against attacks and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage plus 10 (3d6) Fire damage at the start of each of the remorhaz’s turns. If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the remorhaz and has the Prone condition. If the remorhaz dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse by using 15 feet of movement, exiting Prone. Roc
 
 ## Roc
 
-*Gargantuan monstrosity, unaligned*
+*Gargantuan Monstrosity, Unaligned*
 
-**Armor Class** 15 (natural armor)
+**AC 15 Initiative +8 (18)**
 
-**Hit Points** 248 (16d20+80)
+**HP 248 (16d20 + 80)**
 
-**Speed** 20 ft., fly 120 ft.
+**Speed 20 ft., Fly 120 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 28 (+9)  | 10 (+0)  | 20 (+5)  | 3 (-4)   | 10 (+0)  | 9 (-1)   |
 
-**Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 28 | +9 | +9 | **Dex** 10 | +0 | +4 | **Con** 20 | +5 | +5 |
+| **Int** 3 | −4 | −4 | **Wis** 10 | +0 | +4 | **Cha** 9 | −1 | −1 |
 
-**Skills** Perception +4
+**Skills Perception +8**
 
-**Senses** passive Perception 14
+**Senses Passive Perception 18**
 
-**Languages** -
+**Languages None**
 
-**Challenge** 11 (7,200 XP)
+**CR 11 (XP 7,200; PB +4)**
 
-***Keen Sight***. The roc has advantage on Wisdom (Perception) checks that rely on sight.
+### Actions
 
-###### Actions
+Multiattack. The roc makes two Beak attacks. It can replace one attack with a Talons attack.
 
-***Multiattack***. The roc makes two attacks: one with its beak and one with its talons.
+Beak. Melee Attack Roll: +13, reach 10 ft. Hit: 28 (3d12 + 9) Piercing damage.
 
-***Beak***. *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 27 (4d8+9) piercing damage.
+Talons. Melee Attack Roll: +13, reach 5 ft. Hit: 23 (4d6 + 9) Slashing damage. If the target is a Huge or smaller creature, it has the Grappled condition (escape DC 19) from both talons, and it has the Restrained condition until the grapple ends.
 
-***Talons***. *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 23 (4d6+9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+### Bonus Actions
+
+Swoop (Recharge 5–6). If the roc has a creature Grappled, the roc flies up to half its Fly Speed without provoking Opportunity Attacks and drops that creature. Roper
 
 ## Roper
 
-*Large monstrosity, neutral evil*
+*Large Aberration, Neutral Evil*
 
-**Armor Class** 20 (natural armor)
+**AC 20 Initiative +5 (15)**
 
-**Hit Points** 93 (11d10+33)
+**HP 93 (11d10 + 33)**
 
-**Speed** 10 ft., climb 10 ft.
+**Speed 10 ft., Climb 20 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 18 (+4)  | 8 (-1)   | 17 (+3)  | 7 (-2)   | 16 (+3)  | 6 (-2)   |
 
-**Skills** Perception +6, Stealth +5
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 18 | +4 | +4 | **Dex** 8 | −1 | −1 | **Con** 17 | +3 | +3 |
+| **Int** 7 | −2 | −2 | **Wis** 16 | +3 | +3 | **Cha** 6 | −2 | −2 |
 
-**Senses** darkvision 60 ft., passive Perception 16
+**Skills Perception +6, Stealth +5**
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 16**
 
-**Challenge** 5 (1,800 XP)
+**Languages None**
 
-***False Appearance***. While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.
+**CR 5 (XP 1,800; PB +3)**
 
-***Grasping Tendrils***. The roper can have up to six tendrils at a time. Each tendril can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage). Destroying a tendril deals no damage to the roper, which can extrude a replacement tendril on its next turn. A tendril can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.
+### Traits
 
-***Spider Climb***. The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Spider Climb. The roper can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-###### Actions
+### Actions
 
-***Multiattack***. The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.
+Multiattack. The roper makes two Tentacle attacks, uses Reel, and makes two Bite attacks.
 
-***Bite***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 22 (4d8+4) piercing damage.
+Bite. Melee Attack Roll: +7, reach 5 ft. Hit: 17 (3d8 + 4)
 
-***Tendril***. *Melee Weapon Attack:* +7 to hit, reach 50 ft., one creature. *Hit:* The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.
+Piercing damage.
 
-***Reel***. The roper pulls each creature grappled by it up to 25 feet straight toward it.
+Tentacle. Melee Attack Roll: +7, reach 60 ft. Hit: The target has the Grappled condition (escape DC 14) from one of six tentacles, and the target has the Poisoned condition until the grapple ends. The tentacle can be damaged, freeing a creature it has Grappled when destroyed (AC 20, HP 10, Immunity to
+
+Poison and Psychic damage). Damaging the tentacle deals no damage to the roper, and a destroyed tentacle regrows at the start of the roper’s next turn.
+
+Reel. The roper pulls each creature Grappled by it up to 30 feet straight toward it. Rust Monster
 
 ## Rust Monster
 
-*Medium monstrosity, unaligned*
+*Medium Monstrosity, Unaligned*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +1 (11)**
 
-**Hit Points** 27 (5d8+5)
+**HP 33 (6d8 + 6)**
 
-**Speed** 40 ft.
+**Speed 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 13 (+1)  | 12 (+1)  | 13 (+1)  | 2 (-4)   | 13 (+1)  | 6 (-2)   |
 
-**Senses** darkvision 60 ft., passive Perception 11
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 13 | +1 | +1 | **Dex** 12 | +1 | +1 | **Con** 13 | +1 | +1 |
+| **Int** 2 | −4 | −4 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 11**
 
-**Challenge** 1/2 (100 XP)
+**Languages None**
 
-***Iron Scent***. The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.
+**CR 1/2 (XP 100; PB +2)**
 
-***Rust Metal***. Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.
+### Traits
 
-###### Actions
+Iron Scent. The rust monster can pinpoint the location of ferrous metal within 30 feet of itself.
 
-***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8+1) piercing damage.
+### Actions
 
-***Antennae***. The rust monster corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn't being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a DC 11 Dexterity saving throw to avoid the rust monster's touch.
+Multiattack. The rust monster makes one Bite attack and uses Antennae twice.
 
-If the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
+Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1)
+
+Piercing damage.
+
+Antennae. The rust monster targets one nonmagical metal object—armor or a weapon—worn or carried by a creature within 5 feet of itself. Dexterity Saving Throw: DC 11, the creature with the object. Failure: The object takes a −1 penalty to the AC it offers (armor) or to its attack rolls (weapon). Armor is destroyed if the penalty reduces its AC to 10, and a weapon is destroyed if its penalty reaches −5. The penalty can be removed by casting the Mending spell on the armor or weapon.
+
+Destroy Metal. The rust monster touches a nonmagical metal object within 5 feet of itself that isn’t being worn or carried. The touch destroys a 1-foot Cube of the object.
+
+### Reactions
+
+Reflexive Antennae. Trigger: An attack roll hits the rust monster. Response: The rust monster uses Antennae. Sahuagin

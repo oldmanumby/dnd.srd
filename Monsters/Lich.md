@@ -1,64 +1,59 @@
 ## Lich
 
-*Medium undead, any evil alignment*
+*Medium Undead (Wizard), Neutral Evil*
 
-**Armor Class** 17 (natural armor)
+**AC 20 Initiative +17 (27)**
 
-**Hit Points** 135 (18d8+54)
+**HP 315 (42d8 + 126)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 11 (+0)  | 16 (+3)  | 16 (+3)  | 20 (+5)  | 14 (+2)  | 16 (+3)  |
 
-**Saving Throws** Con +10, Int +12, Wis +9
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 11 | +0 | +0 | **Dex** 16 | +3 | +10 | **Con** 16 | +3 | +10 |
+| **Int** 21 | +5 | +12 | **Wis** 14 | +2 | +9 | **Cha** 16 | +3 | +3 |
 
-**Skills** Arcana +19, History +12, Insight +9, Perception +9
+**Skills Arcana +19, History +12, Insight +9, Perception +9**
 
-**Damage Resistances** cold, lightning, necrotic
+**Resistances Cold, Lightning**
 
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
+**Immunities Necrotic, Poison; Charmed, Exhaustion,**
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+Frightened, Paralyzed, Poisoned Gear Component Pouch
 
-**Senses** truesight 120 ft., passive Perception 19
+**Senses Truesight 120 ft.; Passive Perception 19**
 
-**Languages** Common plus up to five other languages
+**Languages All**
 
-**Challenge** 21 (33,000 XP)
+**CR 21 (XP 33,000, or 41,000 in lair; PB +7)**
 
-***Legendary Resistance (3/Day)***. If the lich fails a saving throw, it can choose to succeed instead.
+### Traits
 
-***Rejuvenation***. If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
+Legendary Resistance (4/Day, or 5/Day in Lair). If the lich fails a saving throw, it can choose to succeed instead.
 
-***Spellcasting***. The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
+Spirit Jar. If destroyed, the lich reforms in 1d10 days if it has a spirit jar, reviving with all its Hit Points. The new body appears in an unoccupied space within the lich’s lair.
 
-Cantrips (at will): *mage hand*, *prestidigitation*, *ray of frost*
-1st level (4 slots): *detect magic*, *magic missile*, *shield*, *thunderwave*
-2nd level (3 slots): *acid arrow*, *detect thoughts*, *invisibility*, *mirror image*
-3rd level (3 slots): *animate dead*, *counterspell*, *dispel magic*, *fireball*
-4th level (3 slots): *blight*, *dimension door*
-5th level (3 slots): *cloudkill*, *scrying*
-6th level (1 slot): *disintegrate*, *globe of invulnerability*
-7th level (1 slot): *finger of death*, *plane shift*
-8th level (1 slot): *dominate monster*, *power word stun*
-9th level (1 slot): *power word kill*
+### Actions
 
-***Turn Resistance***. The lich has advantage on saving throws against any effect that turns undead.
+Multiattack. The lich makes three attacks, using Eldritch Burst or Paralyzing Touch in any combination.
 
-###### Actions
+Eldritch Burst. Melee or Ranged Attack Roll: +12, reach 5 ft. or range 120 ft. Hit: 31 (4d12 + 5) Force damage.
 
-***Paralyzing Touch***. *Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Paralyzing Touch. Melee Attack Roll: +12, reach 5 ft. Hit: 15 (3d6 + 5) Cold damage, and the target has the Paralyzed condition until the start of the lich’s next turn.
 
-###### Legendary Actions
+Spellcasting. The lich casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20): At Will: Detect Magic, Detect Thoughts, Dispel Magic, Fireball (level 5 version), Invisibility, Lightning Bolt (level 5 version), Mage Hand, Prestidigitation 2/Day Each: Animate Dead, Dimension Door, Plane Shift 1/Day Each: Chain Lightning, Finger of Death, Power Word Kill, Scrying
 
-The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.
+### Reactions
 
-**Cantrip**. The lich casts a cantrip.
+Protective Magic. The lich casts Counterspell or Shield in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
 
-**Paralyzing Touch (Costs 2 Actions)**. The lich uses its Paralyzing Touch.
+### Legendary Actions
 
-**Frightening Gaze (Costs 2 Actions)**. The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lich's gaze for the next 24 hours.
+Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the lich can expend a use to take one of the following actions. The lich regains all expended uses at the start of each of its turns.
 
-**Disrupt Life (Costs 3 Actions)**. Each non-undead creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+Deathly Teleport. The lich teleports up to 60 feet to an unoccupied space it can see, and each creature within 10 feet of the space it left takes 11 (2d10) Necrotic damage.
+
+Disrupt Life. Constitution Saving Throw: DC 20, each creature that isn’t an Undead in a 20-foot Emanation originating from the lich. Failure: 31 (9d6) Necrotic damage. Success: Half damage. Failure or Success: The lich can’t take this action again until the start of its next turn.
+
+Frightening Gaze. The lich casts Fear, using the same spellcasting ability as Spellcasting. The lich can’t take this action again until the start of its next turn. Mages

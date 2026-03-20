@@ -1,31 +1,29 @@
 ## Owlbear
 
-*Large monstrosity, unaligned*
+*Large Monstrosity, Unaligned*
 
-**Armor Class** 13 (natural armor)
+**AC 13 Initiative +1 (11)**
 
-**Hit Points** 59 (7d10+21)
+**HP 59 (7d10 + 21)**
 
-**Speed** 40 ft.
+**Speed 40 ft., Climb 40 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 20 (+5)  | 12 (+1)  | 17 (+3)  | 3 (-4)   | 12 (+1)  | 7 (-2)   |
 
-**Skills** Perception +3
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 20 | +5 | +5 | **Dex** 12 | +1 | +1 | **Con** 17 | +3 | +3 |
+| **Int** 3 | −4 | −4 | **Wis** 12 | +1 | +1 | **Cha** 7 | −2 | −2 |
 
-**Senses** darkvision 60 ft., passive Perception 13
+**Skills Perception +5**
 
-**Languages** -
+**Senses Darkvision 60 ft.; Passive Perception 15**
 
-**Challenge** 3 (700 XP)
+**Languages None**
 
-***Keen Sight and Smell***. The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
+**CR 3 (XP 700; PB +2)**
 
-###### Actions
+### Actions
 
-***Multiattack***. The owlbear makes two attacks: one with its beak and one with its claws.
+Multiattack. The owlbear makes two Rend attacks.
 
-***Beak***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 10 (1d10+5) piercing damage.
-
-***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8+5) slashing damage.
+Rend. Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage. Pegasus

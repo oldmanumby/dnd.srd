@@ -1,33 +1,37 @@
 ## Otyugh
 
-*Large aberration, neutral*
+*Large Aberration, Neutral*
 
-**Armor Class** 14 (natural armor)
+**AC 14 Initiative +0 (10)**
 
-**Hit Points** 114 (12d10+48)
+**HP 104 (11d10 + 44)**
 
-**Speed** 30 ft.
+**Speed 30 ft.**
 
-| STR      | DEX      | CON      | INT      | WIS      | CHA      |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 16 (+3)  | 11 (+0)  | 19 (+4)  | 6 (-2)   | 13 (+1)  | 6 (-2)   |
 
-**Saving Throws** Con +7
+| | MOD | SAVE | | MOD | SAVE |
+|---|:---:|:---:|---|:---:|:---:|
+| **Str** 16 | +3 | +3 | **Dex** 11 | +0 | +0 | **Con** 19 | +4 | +7 |
+| **Int** 6 | −2 | −2 | **Wis** 13 | +1 | +1 | **Cha** 6 | −2 | −2 |
 
-**Senses** darkvision 120 ft., passive Perception 11
+**Senses Darkvision 120 ft.; Passive Perception 11**
 
-**Languages** Otyugh
+**Languages Otyugh; telepathy 120 ft. (doesn’t allow the**
 
-**Challenge** 5 (1,800 XP)
+receiving creature to respond telepathically)
 
-***Limited Telepathy***. The otyugh can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.
+**CR 5 (XP 1,800; PB +3)**
 
-###### Actions
+### Actions
 
-***Multiattack***. The otyugh makes three attacks: one with its bite and two with its tentacles.
+Multiattack. The otyugh makes one Bite attack and two
 
-***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d8+3) piercing damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured.
+Tentacle attacks.
 
-***Tentacle***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 7 (1d8+3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 13) and restrained until the grapple ends. The otyugh has two tentacles, each of which can grapple one target.
+Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage, and the target has the Poisoned condition. Whenever the Poisoned target finishes a Long Rest, it is subjected to the following effect. Constitution Saving Throw: DC 15. Failure: The target’s Hit Point maximum decreases by 5 (1d10) and doesn’t return to normal until the Poisoned condition ends on the target. Success: The Poisoned condition ends.
 
-***Tentacle Slam***. The otyugh slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6+3) bludgeoning damage and be stunned until the end of the otyugh's next turn. On a successful save, the target takes half the bludgeoning damage and isn't stunned.
+Tentacle. Melee Attack Roll: +6, reach 10 ft. Hit: 12 (2d8 + 3) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape
+
+DC 13) from one of two tentacles.
+
+Tentacle Slam. Constitution Saving Throw: DC 14, each creature Grappled by the otyugh. Failure: 16 (3d8 + 3) Bludgeoning damage, and the target has the Stunned condition until the start of the otyugh’s next turn. Success: Half damage only. Owlbear
