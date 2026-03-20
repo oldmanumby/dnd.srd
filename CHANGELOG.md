@@ -1,10 +1,24 @@
-# To Do
+# Changelog
 
-**[Submit a suggestion, issue or contribute](https://github.com/OldManUmby/DND.SRD.Wiki/issues)**
+## March 20th, 2026
+
+- [x] Complete conversion from SRD 5.1 to SRD 5.2.1 (CC-BY-4.0).
+- [x] Updated all content to 5.2.1 rules, mechanics, and terminology.
+- [x] Renamed `Races/` to `Species/`. Added Goliath and Orc. Removed Half-Elf and Half-Orc.
+- [x] Added `Animals/` directory (separated from Monsters).
+- [x] Added `Rules Glossary/` with all game term definitions and conditions.
+- [x] Updated all 12 classes with 5.2.1 features, embedded spell lists, and subclasses.
+- [x] Updated all spells (339 total) including 20 new spells and 2 renames.
+- [x] Updated all monsters (235 total) with new stat block format, renames, and 13 new entries.
+- [x] Updated all animals (95 total) with 5 new entries and 7 renames.
+- [x] Updated all magic items (170 total) with 18 new items and 4 renames.
+- [x] Updated Equipment with Weapon Mastery Properties, Crafting rules, and revised tools.
+- [x] Updated Gamemastering: renamed Diseases to Magical Contagions, Madness to Fear and Mental Stress. Added Travel, Curses, Environmental Effects, Combat Encounters, Creating a Background.
+- [x] Updated Feats with new Origin, General, Fighting Style, and Epic Boon categories.
+- [x] Removed Pantheons, Planes of Existence (not in 5.2.1).
+- [x] Added SKILL.md for LLM-assisted rules reference and text-based gameplay.
 
 ---
-
-# Completed
 
 ## June 1st, 2023
 

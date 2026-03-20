@@ -2,6 +2,8 @@
 name: DND.SRD.Skill
 description: Reference the D&D 5e SRD for text-based games, TTRPGs, D&D sessions, and rules lookups. Covers rules, spells, monsters, classes, species, equipment, and treasure (Creative Commons BY 4.0).
 user-invocable: true
+metadata:
+  version: 5.2.1
 ---
 
 # D&D 5th Edition System Reference Document (SRD v5.2.1)
