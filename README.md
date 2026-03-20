@@ -81,3 +81,9 @@ Feel free to visit our [discussion](https://github.com/OldManUmby/DND.SRD.Wiki/d
 © 2015 Wizards. All Rights Reserved. Dungeons & Dragons® is a trademark[s] of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at [www.wizards.com](http://www.wizards.com).
 
 Website, markdown conversion, and extended formats by [Old Man Umby](http://www.oldmanumby.com). By permission, this website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit). Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries.
+
+---
+
+## Acknowledgements
+
+Special thanks to [Old Man Umby](http://www.oldmanumby.com) for the original [DND.SRD.Wiki](https://github.com/OldManUmby/DND.SRD.Wiki) project. Their painstaking line-by-line conversion of the SRD 5.1 PDF into well-structured Markdown provided the template and foundation for this skill. Without that work, updating to SRD 5.2.1 and creating a usable LLM reference would have taken considerably longer.
