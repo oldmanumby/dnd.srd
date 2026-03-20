@@ -1,176 +1,193 @@
 # Traps
 
-Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
+Traps should be used sparingly, lest they lose their charm. A hidden pit can be a fun surprise, but too many traps in an adventure can lead players to become overly cautious, which slows down the game.
 
-A trap can be either mechanical or magical in nature. **Mechanical traps** include pits, arrow traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Magic traps** are either magical device traps or spell traps. Magical device traps initiate spell effects when activated. Spell traps are spells such as *glyph of warding* and *symbol* that function as traps.
+The best traps are fleeting distractions that skilled characters can overcome in a short amount of time or deadly puzzles that require quick thinking and teamwork to overcome. Traps that are undetectable and inescapable are rarely fun.
 
-## Traps in Play
+## Parts of a Trap
 
-When adventurers come across a trap, you need to know how the trap is triggered and what it does, as well as the possibility for the characters to detect the trap and to disable or avoid it.
+The description of a trap includes the following parts after the trap's name:
 
-### Triggering a Trap
+**Severity and Levels.** A trap is designated as a nuisance or as deadly for characters of certain levels. A nuisance trap is unlikely to seriously harm characters of the indicated levels, whereas a deadly trap can grievously damage characters of the indicated levels.
 
-Most traps are triggered when a creature goes somewhere or touches something that the trap's creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some magic traps (such as the *glyph of warding* spell) have more complicated trigger conditions, including a password that prevents the trap from activating.
+**Trigger.** Traps are often set to go off when a creature enters an area or touches an object. Examples of triggers include stepping on a pressure plate, crossing a trip wire, turning a doorknob, or using the wrong key in a lock.
 
-### Detecting and Disabling a Trap
+**Duration.** Some traps have durations expressed in rounds, minutes, or hours. Others specify that their effects last until the trap is destroyed or dispelled. If a trap's duration is instantaneous, its effect is resolved instantly. If a trap resets after activating, that fact is noted in this entry. A trap is otherwise inert after activation.
 
-Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap's presence.
+Use caution when introducing a trap to characters of a level lower than the trap's level range. A trap that is a nuisance at one level range could be deadly to characters of a lower level range.
 
-A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom (Perception) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom (Perception) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence (Investigation) check for a character to deduce what needs to be done, followed by a Dexterity check using thieves' tools to perform the necessary sabotage.
+## Example Traps
 
-Any character can attempt an Intelligence (Arcana) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, *dispel magic* has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use *dispel magic*.
-
-In most cases, a trap's description is clear enough that you can adjudicate whether a character's actions locate or foil the trap. As with many situations, you shouldn't allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap's description to determine what happens. No trap's design can anticipate every possible action that the characters might attempt.
-
-You should allow a character to discover a trap without making an ability check if an action would clearly reveal the trap's presence. For example, if a character lifts a rug that conceals a pressure plate, the character has found the trigger and no check is required.
-
-Foiling traps can be a little more complicated. Consider a trapped treasure chest. If the chest is opened without first pulling on the two handles set in its sides, a mechanism inside fires a hail of poison needles toward anyone in front of it. After inspecting the chest and making a few checks, the characters are still unsure if it's trapped. Rather than simply open the chest, they prop a shield in front of it and push the chest open at a distance with an iron rod. In this case, the trap still triggers, but the hail of needles fires harmlessly into the shield.
-
-Traps are often designed with mechanisms that allow them to be disarmed or bypassed. Intelligent monsters that place traps in or around their lairs need ways to get past those traps without harming themselves. Such traps might have hidden levers that disable their triggers, or a secret door might conceal a passage that goes around the trap.
-
-### Trap Effects
-
-The effects of traps can range from inconvenient to deadly, making use of elements such as arrows, spikes, blades, poison, toxic gas, blasts of fire, and deep pits. The deadliest traps combine multiple elements to kill, injure, contain, or drive off any creature unfortunate enough to trigger them. A trap's description specifies what happens when it is triggered.
-
-The attack bonus of a trap, the save DC to resist its effects, and the damage it deals can vary depending on the trap's severity. Use the Trap Save DCs and Attack Bonuses table and the Damage Severity by Level table for suggestions based on three levels of trap severity.
-
-A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels.
-
-**Table- Trap Dangers**
-
-| Trap Danger | Save DC | Attack Bonus |
-|-------------|---------|--------------|
-| Setback     | 10-11   | +3 to +5     |
-| Dangerous   | 12-15   | +6 to +8     |
-| Deadly      | 16-20   | +9 to +12    |
-|             |         |              |
-
-**Table- Trap Severity**
-
-| Character Level | Setback | Dangerous | Deadly |
-|-----------------|---------|-----------|--------|
-| 1st-4th         | 1d10    | 2d10      | 4d10   |
-| 5th-10th        | 2d10    | 4d10      | 10d10  |
-| 11th-16th       | 4d10    | 10d10     | 18d10  |
-| 17th-20th       | 10d10   | 18d10     | 24d10  |
-|                 |         |           |        |
-
-### Complex Traps
-
-Complex traps work like standard traps, except once activated they execute a series of actions each round. A complex trap turns the process of dealing with a trap into something more like a combat encounter.
-
-When a complex trap activates, it rolls initiative. The trap's description includes an initiative bonus. On its turn, the trap activates again, often taking an action. It might make successive attacks against intruders, create an effect that changes over time, or otherwise produce a dynamic challenge. Otherwise, the complex trap can be detected and disabled or bypassed in the usual ways.
-
-For example, a trap that causes a room to slowly flood works best as a complex trap. On the trap's turn, the water level rises. After several rounds, the room is completely flooded.
-
-## Sample Traps
-
-The magical and mechanical traps presented here vary in deadliness and are presented in alphabetical order.
+Traps are presented in alphabetical order.
 
 ### Collapsing Roof
 
-*Mechanical trap*
+*Deadly Trap (Levels 1-4)*
 
-This trap uses a trip wire to collapse the supports keeping an unstable section of a ceiling in place.
+**Trigger:** A creature crosses a trip wire
 
-The trip wire is 3 inches off the ground and stretches between two support beams. The DC to spot the trip wire is 10. A successful DC 15 Dexterity check using thieves' tools disables the trip wire harmlessly. A character without thieves' tools can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
+**Duration:** Instantaneous
 
-Anyone who inspects the beams can easily determine that they are merely wedged in place. As an action, a character can knock over a beam, causing the trap to trigger.
+This trap uses a trip wire to collapse an unstable section of ceiling. The trip wire is 3 inches off the ground and stretches between two weak supports that topple when the trip wire is pulled.
 
-The ceiling above the trip wire is in bad repair, and anyone who can see it can tell that it's in danger of collapse.
+The first creature that crosses the trip wire causes the supports to topple and the unstable section of ceiling to collapse. Each creature beneath the unstable section of ceiling must succeed on a DC 13 Dexterity saving throw, taking 11 (2d10) Bludgeoning damage on a failed save or half as much damage on a successful one. Rubble from the collapse turns the trapped area into Difficult Terrain.
 
-When the trap is triggered, the unstable ceiling collapses. Any creature in the area beneath the unstable section must succeed on a DC 15 Dexterity saving throw, taking 22 (4d10) bludgeoning damage on a failed save, or half as much damage on a successful one. Once the trap is triggered, the floor of the area is filled with rubble and becomes difficult terrain.
+**Detect and Disarm.** As a Search action, a creature can examine the trapped area and make a DC 11 Wisdom (Perception) check, detecting the trip wire and the unstable section of ceiling on a successful check. Once detected, the trip wire can be easily cut or avoided (no ability check required).
+
+**At Higher Levels.** You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table.
+
+| Levels | Bludgeoning Damage | Save DC |
+|---|---|---|
+| 5-10 | 22 (4d10) | 15 |
+| 11-16 | 55 (10d10) | 17 |
+| 17-20 | 99 (18d10) | 19 |
 
 ### Falling Net
 
-*Mechanical trap*
+*Nuisance Trap (Levels 1-4)*
 
-This trap uses a trip wire to release a net suspended from the ceiling.
+**Trigger:** A creature crosses a trip wire
 
-The trip wire is 3 inches off the ground and stretches between two columns or trees. The net is hidden by cobwebs or foliage. The DC to spot the trip wire and net is 10. A successful DC 15 Dexterity check using thieves' tools breaks the trip wire harmlessly. A character without thieves' tools can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
+**Duration:** Instantaneous
 
-When the trap is triggered, the net is released, covering a 10-foot square area. Those in the area are trapped under the net and restrained, and those that fail a DC 10 Strength saving throw are also knocked prone. A creature can use its action to make a DC 10
+A falling net trap uses a trip wire to release a weighted, 10-foot-square Net suspended from the ceiling. The trip wire is 3 inches off the ground and stretches between two columns or trees.
 
-Strength check, freeing itself or another creature within its reach on a success. The net has AC 10 and 20 hit points. Dealing 5 slashing damage to the net (AC 10) destroys a 5-foot square section of it, freeing any creature trapped in that section.
+The first creature that crosses the trip wire causes the Net to fall on it. The target must succeed on a DC 10 Dexterity saving throw or have the Restrained condition until it escapes. The target succeeds automatically if it's Huge or larger. A creature can take an action to make a DC 10 Strength (Athletics) check, freeing itself or another creature within its reach from the Net on a successful check.
 
-### Fire-Breathing Statue
+**Detect and Disarm.** As a Search action, a creature can examine the trapped area and make a DC 11 Wisdom (Perception) check, detecting the trip wire and the suspended Net on a successful check. Once detected, the trip wire can be easily cut or avoided (no ability check required).
 
-*Magic trap*
+**Destroy the Net.** Reducing the Net to 0 Hit Points frees any creature trapped in it (see "Adventuring Gear" for the Net's statistics).
 
-This trap is activated when an intruder steps on a hidden pressure plate, releasing a magical gout of flame from a nearby statue. The statue can be of anything, including a dragon or a wizard casting a spell.
+**Set the Trap.** A creature that has Thieves' Tools and all the trap's components (including a Net) can try to set a falling net trap, doing so with a successful DC 13 Dexterity (Sleight of Hand) check. Each attempt to set this trap takes 10 minutes.
 
-The DC is 15 to spot the pressure plate, as well as faint scorch marks on the floor and walls. A spell or other effect that can sense the presence of magic, such as *detect magic*, reveals an aura of evocation magic around the statue.
+**At Higher Levels.** You can scale the trap for higher levels by increasing the weight of the Net, which increases the save DC and the DC of the Strength (Athletics) check as follows: DC 12 at levels 5-10, DC 14 at levels 11-16, or DC 16 at levels 17-20.
 
-The trap activates when more than 20 pounds of weight is placed on the pressure plate, causing the statue to release a 30-foot cone of fire. Each creature in the fire must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+### Fire-Casting Statue
 
-Wedging an iron spike or other object under the pressure plate prevents the trap from activating. A successful *dispel magic* (DC 13) cast on the statue destroys the trap.
+*Deadly Trap (Levels 1-4)*
 
-### Pits
+**Trigger:** A creature moves onto a pressure plate
 
-*Mechanical trap*
+**Duration:** Instantaneous, and the trap resets at the start of the next turn
 
-Four basic pit traps are presented here.
+When a creature moves onto this trap's pressure plate for the first time on a turn or starts its turn there, a nearby statue exhales a 15-foot Cone of magical flame. The statue can look like anything, such as a dragon or a wizard. Each creature in the Cone must succeed on a DC 15 Dexterity saving throw, taking 11 (2d10) Fire damage on a failed save or half as much damage on a successful one.
 
-***Simple Pit***. A simple pit trap is a hole dug in the ground. The hole is covered by a large cloth anchored on the pit's edge and camouflaged with dirt and debris.
+**Detect and Disarm.** A Detect Magic spell reveals an aura of Evocation magic around the statue. As a Search action, a creature within 5 feet of the statue can examine it and make a DC 10 Wisdom (Perception) check, detecting a tiny glyph on the statue on a successful check. Once the glyph is found, a character can take a Study action to examine it and make a DC 15 Intelligence (Arcana) check, ascertaining that the glyph means "fire" on a successful check. As an action, a character can use a sharp tool to deface the glyph, which disarms the trap.
 
-The DC to spot the pit is 10. Anyone stepping on the cloth falls through and pulls the cloth down into the pit, taking damage based on the pit's depth (usually 10 feet, but some pits are deeper).
+As a Search action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom (Perception) check, detecting the pressure plate on a successful check. Wedging an Iron Spike or similar object under the pressure plate prevents the trap from triggering.
 
-***Hidden Pit***. This pit has a cover constructed from material identical to the floor around it.
+**At Higher Levels.** You can scale the trap for higher levels by increasing the damage and the area of effect, as shown in the following table.
 
-A successful DC 15 Wisdom (Perception) check discerns an absence of foot traffic over the section of floor that forms the pit's cover. A successful DC 15 Intelligence (Investigation) check is necessary to confirm that the trapped section of floor is actually the cover of a pit.
+| Levels | Fire Damage | Area of Effect |
+|---|---|---|
+| 5-10 | 22 (4d10) | 30-foot Cone |
+| 11-16 | 55 (10d10) | 60-foot Cone |
+| 17-20 | 99 (18d10) | 120-foot Cone |
 
-When a creature steps on the cover, it swings open like a trapdoor, causing the intruder to spill into the pit below. The pit is usually 10 or 20 feet deep but can be deeper.
+### Hidden Pit
 
-Once the pit trap is detected, an iron spike or similar object can be wedged between the pit's cover and the surrounding floor in such a way as to prevent the cover from opening, thereby making it safe to cross. The cover can also be magically held shut using the *arcane lock* spell or similar magic.
+*Nuisance Trap (Levels 1-4)*
 
-***Locking Pit***. This pit trap is identical to a hidden pit trap, with one key exception: the trap door that covers the pit is spring-loaded. After a creature falls into the pit, the cover snaps shut to trap its victim inside.
+**Trigger:** A creature moves onto the pit's lid
 
-A successful DC 20 Strength check is necessary to pry the cover open. The cover can also be smashed open. A character in the pit can also attempt to disable the spring mechanism from the inside with a DC 15 Dexterity check using thieves' tools, provided that the mechanism can be reached and the character can see. In some cases, a mechanism (usually hidden behind a secret door nearby) opens the pit.
+**Duration:** Instantaneous
 
-***Spiked Pit***. This pit trap is a simple, hidden, or locking pit trap with sharpened wooden or iron spikes at the bottom. A creature falling into the pit takes 11 (2d10) piercing damage from the spikes, in addition to any falling damage. Even nastier versions have poison smeared on the spikes. In that case, anyone taking piercing damage from the spikes must also make a DC 13 Constitution saving throw, taking an 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
+This 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit. The lid remains open thereafter.
 
-### Poison Darts
+A creature that falls into the pit takes 3 (1d6) Bludgeoning damage from the fall.
 
-*Mechanical trap*
+**Detect and Disarm.** As a Study action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence (Investigation) check, detecting the pit on a successful check. Once the pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using Arcane Lock or similar magic.
 
-When a creature steps on a hidden pressure plate, poison-tipped darts shoot from spring-loaded or pressurized tubes cleverly embedded in the surrounding walls. An area might include multiple pressure plates, each one rigged to its own set of darts.
+**Escape.** A creature needs a Climb Speed, climbing gear, or magic such as Spider Climb to scale the pit's smooth walls. You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.
 
-The tiny holes in the walls are obscured by dust and cobwebs, or cleverly hidden amid bas-reliefs, murals, or frescoes that adorn the walls. The DC to spot them is 15. With a successful DC 15 Intelligence (Investigation) check, a character can deduce the presence of the pressure plate from variations in the mortar and stone used to create it, compared to the surrounding floor. Wedging an iron spike or other object under the pressure plate prevents the trap from activating. Stuffing the holes with cloth or wax prevents the darts contained within from launching.
+**At Higher Levels.** You can scale the trap for higher levels by increasing the pit's depth and damage, as shown in the following table.
 
-The trap activates when more than 20 pounds of weight is placed on the pressure plate, releasing four darts. Each dart makes a ranged attack with a +8
+| Levels | Pit Depth | Bludgeoning Damage |
+|---|---|---|
+| 5-10 | 30 feet | 10 (3d6) |
+| 11-16 | 60 feet | 21 (6d6) |
+| 17-20 | 120 feet | 42 (12d6) |
 
-bonus against a random target within 10 feet of the pressure plate (vision is irrelevant to this attack roll). (If there are no targets in the area, the darts don't hit anything.) A target that is hit takes 2 (1d4) piercing damage and must succeed on a DC 15 Constitution saving throw, taking 11 (2d10) poison damage on a failed save, or half as much damage on a successful one.
+### Poisoned Darts
 
-### Poison Needle
+*Deadly Trap (Levels 1-4)*
 
-*Mechanical trap*
+**Trigger:** A creature moves onto a pressure plate
 
-A poisoned needle is hidden within a treasure chest's lock, or in something else that a creature might open. Opening the chest without the proper key causes the needle to spring out, delivering a dose of poison.
+**Duration:** Instantaneous, and the trap resets at the start of the next turn if it has activated fewer than three times
 
-When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11 (2d10) poison damage, and must succeed on a DC 15 Constitution saving throw or be poisoned for 1 hour.
+When a creature moves onto this trap's pressure plate for the first time on a turn, poisoned darts shoot from tubes embedded in the surrounding walls. The holes that house these tubes are obscured by dust and cobwebs or skillfully hidden amid bas-reliefs, murals, or frescoes.
 
-A successful DC 20 Intelligence (Investigation) check allows a character to deduce the trap's presence from alterations made to the lock to accommodate the needle. A successful DC 15 Dexterity check using thieves' tools disarms the trap, removing the needle from the lock. Unsuccessfully attempting to pick the lock triggers the trap.
+Each creature in the darts' path must succeed on a DC 13 Dexterity saving throw or be struck by 1d3 darts, taking 3 (1d6) Poison damage per dart.
 
-### Rolling Sphere
+**Detect and Disarm.** As a Search action, a creature can examine the walls and make a DC 15 Wisdom (Perception) check, detecting the holes on a successful check. Plugging all the holes with wax, cloth, or detritus prevents the darts from firing.
 
-*Mechanical trap*
+As a Search action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom (Perception) check, detecting the pressure plate on a successful check. Wedging an Iron Spike or a similar object under the pressure plate prevents the trap from triggering.
 
-When 20 or more pounds of pressure are placed on this trap's pressure plate, a hidden trapdoor in the ceiling opens, releasing a 10-foot diameter rolling sphere of solid stone.
+**At Higher Levels.** You can scale the trap for higher levels by increasing each dart's Poison damage as follows: 7 (2d6) at levels 5-10, 14 (4d6) at levels 11-16, or 24 (7d6) at levels 17-20.
 
-With a successful DC 15 Wisdom (Perception) check, a character can spot the trapdoor and pressure plate. A search of the floor accompanied by a successful DC 15 Intelligence (Investigation) check reveals variations in the mortar and stone that betray the pressure plate's presence. The same check made while inspecting the ceiling notes variations in the stonework that reveal the trapdoor. Wedging an iron spike or other object under the pressure plate prevents the trap from activating.
+### Poisoned Needle
 
-Activation of the sphere requires all creatures present to roll initiative. The sphere rolls initiative with a +8 bonus. On its turn, it moves 60 feet in a straight line. The sphere can move through creatures' spaces, and creatures can move through its space, treating it as difficult terrain. Whenever the sphere enters a creature's space or a creature enters its space while it's rolling, that creature must succeed on a DC 15 Dexterity saving throw or take 55 (10d10) bludgeoning damage and be knocked prone.
+*Nuisance Trap (Levels 1-4)*
 
-The sphere stops when it hits a wall or similar barrier. It can't go around corners, but smart dungeon builders incorporate gentle, curving turns into nearby passages that allow the sphere to keep moving.
+**Trigger:** A creature opens the trap's lock improperly or fails to disarm the trap
 
-As an action, a creature within 5 feet of the sphere can attempt to slow it down with a DC 20 Strength check. On a successful check, the sphere's speed is reduced by 15 feet. If the sphere's speed drops to 0, it stops moving and is no longer a threat.
+**Duration:** Instantaneous
 
-### Sphere of Annihilation
+A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes 5 (1d10) Poison damage and has the Poisoned condition for 1 hour. On a successful save, the creature takes half as much damage only.
 
-*Magic trap*
+**Avoid.** The trap doesn't trigger if the lock is opened using a Knock spell or similar magic.
 
-Magical, impenetrable darkness fills the gaping mouth of a stone face carved into a wall. The mouth is 2 feet in diameter and roughly circular. No sound issues from it, no light can illuminate the inside of it, and any matter that enters it is instantly obliterated.
+**Detect and Disarm.** As a Search action, a creature can examine the trapped lock and make a DC 15 Wisdom (Perception) check, detecting the needle on a successful check. Once the trap is detected, a character can take an action to try to disarm the trap, doing so with a successful DC 15 Dexterity (Sleight of Hand) check. On a failed check, the creature triggers the trap.
 
-A successful DC 20 Intelligence (Arcana) check reveals that the mouth contains a *sphere of annihilation* that can't be controlled or moved. It is otherwise identical to a normal *sphere of annihilation*.
+**At Higher Levels.** You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table.
 
-Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the sympathy aspect of the *antipathy/sympathy* spell. A successful *dispel magic* (DC 18) removes this enchantment.
+| Levels | Poison Damage | Save DC |
+|---|---|---|
+| 5-10 | 11 (2d10) | 13 |
+| 11-16 | 22 (4d10) | 15 |
+| 17-20 | 55 (10d10) | 17 |
+
+### Rolling Stone
+
+*Deadly Trap (Levels 11-16) or Nuisance Trap (Levels 17-20)*
+
+**Trigger:** A creature moves onto a pressure plate
+
+**Duration:** Until the stone stops rolling
+
+When a creature moves onto a hidden pressure plate, a 5-foot-radius orb of solid stone is released from a secret compartment and begins to roll. The stone and all creatures nearby roll Initiative; the stone gets a +8 bonus on its Initiative roll.
+
+On its turn, the stone moves 60 feet in one direction, changing course if redirected by an obstacle. The stone can move through creatures' spaces, and creatures can move through the stone's space, treating it as Difficult Terrain. Whenever the stone enters a creature's space for the first time on a turn or a creature enters the stone's space while the stone is rolling, that creature must succeed on a DC 15 Dexterity saving throw or take 55 (10d10) Bludgeoning damage and have the Prone condition.
+
+The stone stops when it hits a wall or similar barrier. It can't go around corners, but creative dungeon builders incorporate curving turns into nearby passages that allow the stone to keep moving.
+
+**Detect and Disarm.** As a Study action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Intelligence (Investigation) check, deducing the pressure plate's function on a successful check. Wedging an Iron Spike or a similar object under the pressure plate prevents the trap from triggering.
+
+**Destroy the Stone.** The stone is a Large object that has AC 17, HP 100, a Damage Threshold of 10, and Immunity to Poison and Psychic damage.
+
+**Slow the Stone.** As an action, a creature can try to slow down the stone with a DC 20 Strength (Athletics) check. If the check is successful, the distance the stone moves on its turn is reduced by 15 feet. If that distance drops to 0, it stops moving and is no longer a threat.
+
+### Spiked Pit
+
+*Deadly Trap (Levels 1-4)*
+
+**Trigger:** A creature moves onto the pit's lid
+
+**Duration:** Instantaneous
+
+A 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit, which has sharpened wooden or metal spikes at the bottom. The lid remains open thereafter.
+
+A creature that falls into the pit lands at the bottom and takes 3 (1d6) Bludgeoning damage from the fall plus 9 (2d8) Piercing damage from the spikes.
+
+**Detect and Disarm.** As a Study action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence (Investigation) check, detecting the pit on a successful check. Once the hidden pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using an Arcane Lock spell or similar magic.
+
+**Escape.** A creature needs a Climb Speed, climbing gear, or magic such as a Spider Climb spell to scale the pit's smooth walls. You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.
+
+**At Higher Levels.** You can scale the trap for higher levels by increasing the pit's depth and damage, as shown in the following table.
+
+| Levels | Pit Depth | Damage |
+|---|---|---|
+| 5-10 | 30 feet | 10 (3d6) Bludgeoning plus 13 (3d8) Piercing |
+| 11-16 | 60 feet | 21 (6d6) Bludgeoning plus 36 (8d8) Piercing |
+| 17-20 | 120 feet | 42 (12d6) Bludgeoning plus 57 (13d8) Piercing |
