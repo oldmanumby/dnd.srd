@@ -1,159 +1,194 @@
 # Barbarian
 
-### Class Features
+## Core Barbarian Traits
 
-As a barbarian, you gain the following class features.
+| Trait | Details |
+|---|---|
+| Primary Ability | Strength |
+| Hit Point Die | D12 per Barbarian level |
+| Saving Throw Proficiencies | Strength and Constitution |
+| Skill Proficiencies | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival |
+| Weapon Proficiencies | Simple and Martial weapons |
+| Armor Training | Light and Medium armor and Shields |
+| Starting Equipment | Choose A or B: (A) Greataxe, 4 Handaxes, Explorer's Pack, and 15 GP; or (B) 75 GP |
 
-#### Hit Points
+## Becoming a Barbarian ...
 
-**Hit Dice:** 1d12 per barbarian level
+### As a Level 1 Character
 
-**Hit Points at 1st Level:** 12 + your Constitution modifier
+- Gain all the traits in the Core Barbarian Traits table.
+- Gain the Barbarian's level 1 features, which are listed in the Barbarian Features table.
 
-**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
+### As a Multiclass Character
 
-#### Proficiencies
+- Gain the following traits from the Core Barbarian Traits table: Hit Point Die, proficiency with Martial weapons, and training with Shields.
+- Gain the Barbarian's level 1 features, which are listed in the Barbarian Features table.
 
-**Armor:** Light armor, medium armor, shields
+## Barbarian Class Features
 
-**Weapons:** Simple weapons, martial weapons
+As a Barbarian, you gain the following class features when you reach the specified Barbarian levels. These features are listed in the Barbarian Features table.
 
-**Tools:** None
+## Barbarian Features
 
-**Saving Throws:** Strength, Constitution
+| Level | Proficiency Bonus | Class Features | Rages | Rage Damage | Weapon Mastery |
+|---|---|---|---|---|---|
+| 1 | +2 | Rage, Unarmored Defense, Weapon Mastery | 2 | +2 | 2 |
+| 2 | +2 | Danger Sense, Reckless Attack | 2 | +2 | 2 |
+| 3 | +2 | Barbarian Subclass, Primal Knowledge | 3 | +2 | 2 |
+| 4 | +2 | Ability Score Improvement | 3 | +2 | 3 |
+| 5 | +3 | Extra Attack, Fast Movement | 3 | +2 | 3 |
+| 6 | +3 | Subclass feature | 4 | +2 | 3 |
+| 7 | +3 | Feral Instinct, Instinctive Pounce | 4 | +2 | 3 |
+| 8 | +3 | Ability Score Improvement | 4 | +2 | 3 |
+| 9 | +4 | Brutal Strike | 4 | +3 | 3 |
+| 10 | +4 | Subclass feature | 4 | +3 | 4 |
+| 11 | +4 | Relentless Rage | 4 | +3 | 4 |
+| 12 | +4 | Ability Score Improvement | 5 | +3 | 4 |
+| 13 | +5 | Improved Brutal Strike | 5 | +3 | 4 |
+| 14 | +5 | Subclass feature | 5 | +3 | 4 |
+| 15 | +5 | Persistent Rage | 5 | +3 | 4 |
+| 16 | +5 | Ability Score Improvement | 5 | +4 | 4 |
+| 17 | +6 | Improved Brutal Strike | 6 | +4 | 4 |
+| 18 | +6 | Indomitable Might | 6 | +4 | 4 |
+| 19 | +6 | Epic Boon | 6 | +4 | 4 |
+| 20 | +6 | Primal Champion | 6 | +4 | 4 |
 
-**Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
+### Level 1: Rage
 
-#### Equipment
+You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren't wearing Heavy armor.
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
-- (*a*) a greataxe or (*b*) any martial melee weapon
-- (*a*) two handaxes or (*b*) any simple weapon
-- An explorer's pack and four javelins
+While active, your Rage follows the rules below.
 
-**Table- The Barbarian**
+**Damage Resistance.** You have Resistance to Bludgeoning, Piercing, and Slashing damage.
 
-| Level | Proficiency Bonus | Features                      | Rages     | Rage Damage |
-|-------|-------------------|-------------------------------|-----------|-------------|
-| 1st   | +2                | Rage, Unarmored Defense       | 2         | +2          |
-| 2nd   | +2                | Reckless Attack, Danger Sense | 2         | +2          |
-| 3rd   | +2                | Primal Path                   | 3         | +2          |
-| 4th   | +2                | Ability Score Improvement     | 3         | +2          |
-| 5th   | +3                | Extra Attack, Fast Movement   | 3         | +2          |
-| 6th   | +3                | Path feature                  | 4         | +2          |
-| 7th   | +3                | Feral Instinct                | 4         | +2          |
-| 8th   | +3                | Ability Score Improvement     | 4         | +2          |
-| 9th   | +4                | Brutal Critical (1 die)       | 4         | +3          |
-| 10th  | +4                | Path feature                  | 4         | +3          |
-| 11th  | +4                | Relentless                    | 4         | +3          |
-| 12th  | +4                | Ability Score Improvement     | 5         | +3          |
-| 13th  | +5                | Brutal Critical (2 dice)      | 5         | +3          |
-| 14th  | +5                | Path feature                  | 5         | +3          |
-| 15th  | +5                | Persistent Rage               | 5         | +3          |
-| 16th  | +5                | Ability Score Improvement     | 5         | +4          |
-| 17th  | +6                | Brutal Critical (3 dice)      | 6         | +4          |
-| 18th  | +6                | Indomitable Might             | 6         | +4          |
-| 19th  | +6                | Ability Score Improvement     | 6         | +4          |
-| 20th  | +6                | Primal Champion               | Unlimited | +4          |
-|       |                   |                               |           |             |
+**Rage Damage.** When you make an attack using Strength—with either a weapon or an Unarmed Strike—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
 
-### Rage
+**Strength Advantage.** You have Advantage on Strength checks and Strength saving throws.
 
-In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
+**No Concentration or Spells.** You can't maintain Concentration, and you can't cast spells.
 
-While raging, you gain the following benefits if you aren't wearing heavy armor:
+**Duration.** The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
 
-- You have advantage on Strength checks and Strength saving throws.
-- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
-- You have resistance to bludgeoning, piercing, and slashing damage.
+- Make an attack roll against an enemy.
+- Force an enemy to make a saving throw.
+- Take a Bonus Action to extend your Rage.
 
-If you are able to cast spells, you can't cast them or concentrate on them while raging.
+Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
 
-Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+### Level 1: Unarmored Defense
 
-Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
+While you aren't wearing any armor, your base Armor Class equals 10 plus your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.
 
-### Unarmored Defense
+### Level 1: Weapon Mastery
 
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
-### Reckless Attack
+When you reach certain Barbarian levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 
-Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
+### Level 2: Danger Sense
 
-### Danger Sense
+You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have Advantage on Dexterity saving throws unless you have the Incapacitated condition.
 
-At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
+### Level 2: Reckless Attack
 
-You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you Advantage on attack rolls using Strength until the start of your next turn, but attack rolls against you have Advantage during that time.
 
-### Primal Path
+### Level 3: Barbarian Subclass
 
-At 3rd level, you choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
+You gain a Barbarian subclass of your choice. The Path of the Berserker subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass's features that are of your Barbarian level or lower.
 
-### Ability Score Improvement
+### Level 3: Primal Knowledge
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.
 
-### Extra Attack
+In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: Acrobatics, Intimidation, Perception, Stealth, or Survival. When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+### Level 4: Ability Score Improvement
 
-### Fast Movement
+You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 
-Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.
+### Level 5: Extra Attack
 
-### Feral Instinct
+You can attack twice instead of once whenever you take the Attack action on your turn.
 
-By 7th level, your instincts are so honed that you have advantage on initiative rolls.
+### Level 5: Fast Movement
 
-Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Your speed increases by 10 feet while you aren't wearing Heavy armor.
 
-### Brutal Critical
+### Level 7: Feral Instinct
 
-Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
+Your instincts are so honed that you have Advantage on Initiative rolls.
 
-This increases to two additional dice at 13th level and three additional dice at 17th level.
+### Level 7: Instinctive Pounce
 
-### Relentless Rage
+As part of the Bonus Action you take to enter your Rage, you can move up to half your Speed.
 
-Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
+### Level 9: Brutal Strike
 
-Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
+If you use Reckless Attack, you can forgo any Advantage on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have Disadvantage. If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
-### Persistent Rage
+**Forceful Blow.** The target is pushed 15 feet straight away from you. You can then move up to half your Speed straight toward the target without provoking Opportunity Attacks.
 
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
+**Hamstring Blow.** The target's Speed is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
 
-### Indomitable Might
+### Level 11: Relentless Rage
 
-Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
 
-### Primal Champion
+Each time you use this feature after the first, the DC increases by 5. When you finish a Short or Long Rest, the DC resets to 10.
 
-At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
+### Level 13: Improved Brutal Strike
 
-## Barbarian Paths
+You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 
-### Path of the Berserker
+**Staggering Blow.** The target has Disadvantage on the next saving throw it makes, and it can't make Opportunity Attacks until the start of your next turn.
 
-For some barbarians, rage is a means to an end- that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
+**Sundering Blow.** Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
 
-#### Frenzy
+### Level 15: Persistent Rage
 
-Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix A).
+When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a Long Rest.
 
-#### Mindless Rage
+In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armor.
 
-Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
+### Level 17: Improved Brutal Strike
 
-#### Intimidating Presence
+The extra damage of your Brutal Strike increases to 2d10. In addition, you can use two different Brutal Strike effects whenever you use your Brutal Strike feature.
 
-Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.
+### Level 18: Indomitable Might
 
-If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
+If your total for a Strength check or Strength saving throw is less than your Strength score, you can use that score in place of the total.
 
-#### Retaliation
+### Level 19: Epic Boon
 
-Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
+You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Irresistible Offense is recommended.
+
+### Level 20: Primal Champion
+
+You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25.
+
+## Barbarian Subclass: Path of the Berserker
+
+*Channel Rage into Violent Fury*
+
+Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them.
+
+### Level 3: Frenzy
+
+If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage Damage bonus, and add them together. The damage has the same type as the weapon or Unarmed Strike used for the attack.
+
+### Level 6: Mindless Rage
+
+You have Immunity to the Charmed and Frightened conditions while your Rage is active. If you're Charmed or Frightened when you enter your Rage, the condition ends on you.
+
+### Level 10: Retaliation
+
+When you take damage from a creature that is within 5 feet of you, you can take a Reaction to make one melee attack against that creature, using a weapon or an Unarmed Strike.
+
+### Level 14: Intimidating Presence
+
+As a Bonus Action, you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot Emanation originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, a creature has the Frightened condition for 1 minute. At the end of each of the Frightened creature's turns, the creature repeats the save, ending the effect on itself on a success.
+
+Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a use of your Rage (no action required) to restore your use of it.

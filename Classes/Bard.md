@@ -1,180 +1,342 @@
 # Bard
 
-### Class Features
+## Core Bard Traits
 
-As a bard, you gain the following class features.
+| Trait | Details |
+|---|---|
+| **Primary Ability** | Charisma |
+| **Hit Point Die** | D8 per Bard level |
+| **Saving Throw Proficiencies** | Dexterity and Charisma |
+| **Skill Proficiencies** | Choose any 3 skills (see "Playing the Game") |
+| **Weapon Proficiencies** | Simple weapons |
+| **Tool Proficiencies** | Choose 3 Musical Instruments (see "Equipment") |
+| **Armor Training** | Light armor |
+| **Starting Equipment** | Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 19 GP; or (B) 90 GP |
 
-#### Hit Points
+## Becoming a Bard
 
-**Hit Dice:** 1d8 per bard level
+### As a Level 1 Character
 
-**Hit Points at 1st Level:** 8 + your Constitution modifier
+- Gain all the traits in the Core Bard Traits table.
+- Gain the Bard's level 1 features, which are listed in the Bard Features table.
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
+### As a Multiclass Character
 
-#### Proficiencies
+- Gain the following traits from the Core Bard Traits table: Hit Point Die, proficiency in one skill of your choice, proficiency with one Musical Instrument of your choice, and training with Light armor.
+- Gain the Bard's level 1 features, which are listed in the Bard Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
 
-**Armor:** Light armor
+## Bard Class Features
 
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+As a Bard, you gain the following class features when you reach the specified Bard levels. These features are listed in the Bard Features table.
 
-**Tools:** Three musical instruments of your choice
+| Level | Proficiency Bonus | Class Features | Bardic Die | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|-------------------|----------------|------------|----------|-----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1 | +2 | Bardic Inspiration, Spellcasting | D6 | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
+| 2 | +2 | Expertise, Jack of All Trades | D6 | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
+| 3 | +2 | Bard Subclass | D6 | 2 | 6 | 4 | 2 | — | — | — | — | — | — | — |
+| 4 | +2 | Ability Score Improvement | D6 | 3 | 7 | 4 | 3 | — | — | — | — | — | — | — |
+| 5 | +3 | Font of Inspiration | D8 | 3 | 9 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6 | +3 | Subclass feature | D8 | 3 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7 | +3 | Countercharm | D8 | 3 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8 | +3 | Ability Score Improvement | D8 | 3 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9 | +4 | Expertise | D8 | 3 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10 | +4 | Magical Secrets | D10 | 4 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11 | +4 | — | D10 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12 | +4 | Ability Score Improvement | D10 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13 | +5 | — | D10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14 | +5 | Subclass feature | D10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15 | +5 | — | D12 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16 | +5 | Ability Score Improvement | D12 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17 | +6 | — | D12 | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | Superior Inspiration | D12 | 4 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | Epic Boon | D12 | 4 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | Words of Creation | D12 | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-**Saving Throws:** Dexterity, Charisma
+### Level 1: Bardic Inspiration
 
-**Skills:** Choose any three
+You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a d6.
 
-#### Equipment
+**Using Bardic Inspiration.** As a Bonus Action, you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
 
-You start with the following equipment, in addition to the equipment granted by your background:
+Once within the next hour when the creature fails a D20 Test, the creature can roll the Bardic Inspiration die and add the number rolled to the d20, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
 
-- (*a*) a rapier, (*b*) a longsword, or (*c*) any simple weapon
-- (*a*) a diplomat's pack or (*b*) an entertainer's pack
-- (*a*) a lute or (*b*) any other musical instrument
-- Leather armor and a dagger
+**Number of Uses.** You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-**Table- The Bard**
+**At Higher Levels.** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a d8 at level 5, a d10 at level 10, and a d12 at level 15.
 
-| Level | Proficiency Bonus | Features                                             | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-------------------|------------------------------------------------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st   | +2                | Spellcasting, Bardic Inspiration (d6)                | 2              | 4            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Jack of All Trades, Song of Rest (d6)                | 2              | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | +2                | Bard College, Expertise                              | 2              | 6            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th   | +2                | Ability Score Improvement                            | 3              | 7            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th   | +3                | Bardic Inspiration (d8), Font of Inspiration         | 3              | 8            | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6th   | +3                | Countercharm, Bard College Feature                   | 3              | 9            | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7th   | +3                | -                                                    | 3              | 10           | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8th   | +3                | Ability Score Improvement                            | 3              | 11           | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9th   | +4                | Song of Rest (d8)                                    | 3              | 12           | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10th  | +4                | Bardic Inspiration (d10), Expertise, Magical Secrets | 4              | 14           | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11th  | +4                | -                                                    | 4              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12th  | +4                | Ability Score Improvement                            | 4              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13th  | +5                | Song of Rest (d10)                                   | 4              | 16           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14th  | +5                | Magical Secrets, Bard College Feature                | 4              | 18           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15th  | +5                | Bardic Inspiration (d12)                             | 4              | 19           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16th  | +5                | Ability Score Improvement                            | 4              | 19           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17th  | +6                | Song of Rest (d12)                                   | 4              | 20           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6                | Magical Secrets                                      | 4              | 22           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6                | Ability Score Improvement                            | 4              | 22           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6                | Superior Inspiration                                 | 4              | 22           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-|       |                   |                                                      |                |              |     |     |     |     |     |     |     |     |     |
+### Level 1: Spellcasting
 
-### Spellcasting
+You have learned to cast spells through your bardic arts. See "Spells" for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the Bard spell list later in the class's description.
 
-You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
+**Cantrips.** You know two cantrips of your choice from the Bard spell list. Dancing Lights and Vicious Mockery are recommended.
 
-Your spells are part of your vast repertoire, magic that you can tune to different situations.
+Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.
 
-#### Cantrips
+When you reach Bard levels 4 and 10, you learn another cantrip of your choice from the Bard spell list, as shown in the Cantrips column of the Bard Features table.
 
-You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.
+**Spell Slots.** The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-#### Spell Slots
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. Charm Person, Color Spray, Dissonant Whispers, and Healing Word are recommended.
 
-The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast *cure wounds* using either slot.
+If another Bard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
 
-#### Spells Known of 1st Level and Higher
+**Changing Your Prepared Spells.** Whenever you gain a Bard level, you can replace one spell on your list with another Bard spell for which you have spell slots.
 
-You know four 1st-level spells of your choice from the bard spell list.
+**Spellcasting Ability.** Charisma is your spellcasting ability for your Bard spells.
 
-The Spells Known column of the Bard table shows when you learn more bard spells of your choice. Each of these spells must be of a level for which you have spell slots, as shown on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+**Spellcasting Focus.** You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
 
-Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+### Level 2: Expertise
 
-#### Spellcasting Ability
+You gain Expertise (see "Rules Glossary") in two of your skill proficiencies of your choice. Performance and Persuasion are recommended if you have proficiency in them.
 
-Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+At Bard level 9, you gain Expertise in two more of your skill proficiencies of your choice.
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+### Level 2: Jack of All Trades
 
-**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.
 
-#### Ritual Casting
+For example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.
 
-You can cast any bard spell you know as a ritual if that spell has the ritual tag.
-
-#### Spellcasting Focus
-
-You can use a musical instrument as a spellcasting focus for your bard spells.
-
-### Bardic Inspiration
-
-You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
-
-Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
-
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.
-
-Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
-
-### Jack of All Trades
-
-Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
-
-### Song of Rest
-
-Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
-
-The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
-
-### Bard College
-
-At 3rd level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th and 14th level.
-
-### Expertise
-
-At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
-
-At 10th level, you can choose another two skill proficiencies to gain this benefit.
-
-### Ability Score Improvement
-
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-### Font of Inspiration
-
-Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
-
-### Countercharm
-
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
-
-### Magical Secrets
-
-By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
-
-The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
-
-You learn two additional spells from any classes at 14th level and again at 18th level.
-
-### Superior Inspiration
-
-At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
-
-## Bard Colleges
-
-### College of Lore
-
-Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
-
-The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
-
-The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
-
-#### Bonus Proficiencies
-
-When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.
-
-#### Cutting Words
-
-Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being charmed.
-
-#### Additional Magical Secrets
-
-At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know.
-
-#### Peerless Skill
-
-Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
+### Level 3: Bard Subclass
+
+You gain a Bard subclass of your choice. The College of Lore subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass's features that are of your Bard level or lower.
+
+### Level 4: Ability Score Improvement
+
+You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
+
+### Level 5: Font of Inspiration
+
+You now regain all your expended uses of Bardic Inspiration when you finish a Short or Long Rest.
+
+In addition, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
+
+### Level 7: Countercharm
+
+You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the Charmed or Frightened condition, you can take a Reaction to cause the save to be rerolled, and the new roll has Advantage.
+
+### Level 10: Magical Secrets
+
+You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the Bard, Cleric, Druid, and Wizard spell lists, and the chosen spells count as Bard spells for you (see a class's section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
+
+### Level 18: Superior Inspiration
+
+When you roll Initiative, you regain expended uses of Bardic Inspiration until you have two if you have fewer than that.
+
+### Level 19: Epic Boon
+
+You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
+
+### Level 20: Words of Creation
+
+You have mastered two of the Words of Creation: the words of life and death. You therefore always have the Power Word Heal and Power Word Kill spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
+
+## Bard Spell List
+
+This section presents the Bard spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, C means the spell requires Concentration, R means it's a Ritual, and M means it requires a specific Material component.
+
+### Cantrips (Level 0 Bard Spells)
+
+| Spell | School | Special |
+|---|---|---|
+| Dancing Lights | Illusion | C |
+| Light | Evocation | — |
+| Mage Hand | Conjuration | — |
+| Mending | Transmutation | — |
+| Message | Transmutation | — |
+| Minor Illusion | Illusion | — |
+| Prestidigitation | Transmutation | — |
+| Starry Wisp | Evocation | — |
+| True Strike | Divination | — |
+| Vicious Mockery | Enchantment | — |
+
+### Level 1 Bard Spells
+
+| Spell | School | Special |
+|---|---|---|
+| Animal Friendship | Enchantment | — |
+| Bane | Enchantment | C |
+| Charm Person | Enchantment | — |
+| Color Spray | Illusion | — |
+| Command | Enchantment | — |
+| Comprehend Languages | Divination | R |
+| Cure Wounds | Abjuration | — |
+| Detect Magic | Divination | C, R |
+| Disguise Self | Illusion | — |
+| Dissonant Whispers | Enchantment | — |
+| Faerie Fire | Evocation | C |
+| Feather Fall | Transmutation | — |
+| Healing Word | Abjuration | — |
+| Heroism | Enchantment | C |
+| Hideous Laughter | Enchantment | C |
+| Identify | Divination | R, M |
+| Illusory Script | Illusion | R, M |
+| Longstrider | Transmutation | — |
+| Silent Image | Illusion | C |
+| Sleep | Enchantment | C |
+| Speak with Animals | Divination | R |
+| Thunderwave | Evocation | — |
+| Unseen Servant | Conjuration | R |
+
+### Level 2 Bard Spells
+
+| Spell | School | Special |
+|---|---|---|
+| Aid | Abjuration | — |
+| Animal Messenger | Enchantment | R |
+| Blindness/Deafness | Transmutation | — |
+| Calm Emotions | Enchantment | C |
+| Detect Thoughts | Divination | C |
+| Enhance Ability | Transmutation | C |
+| Enlarge/Reduce | Transmutation | C |
+| Enthrall | Enchantment | C |
+| Heat Metal | Transmutation | C |
+| Hold Person | Enchantment | C |
+| Invisibility | Illusion | C |
+| Knock | Transmutation | — |
+| Lesser Restoration | Abjuration | — |
+| Locate Animals or Plants | Divination | R |
+| Locate Object | Divination | C |
+| Magic Mouth | Illusion | R, M |
+| Mirror Image | Illusion | — |
+| See Invisibility | Divination | — |
+| Shatter | Evocation | — |
+| Silence | Illusion | C, R |
+| Suggestion | Enchantment | C |
+| Zone of Truth | Enchantment | — |
+
+### Level 3 Bard Spells
+
+| Spell | School | Special |
+|---|---|---|
+| Bestow Curse | Necromancy | C |
+| Clairvoyance | Divination | C, M |
+| Dispel Magic | Abjuration | — |
+| Fear | Illusion | C |
+| Glyph of Warding | Abjuration | M |
+| Hypnotic Pattern | Illusion | C |
+| Major Image | Illusion | C |
+| Mass Healing Word | Abjuration | — |
+| Nondetection | Abjuration | M |
+| Plant Growth | Transmutation | — |
+| Sending | Divination | — |
+| Slow | Transmutation | C |
+| Speak with Dead | Necromancy | — |
+| Speak with Plants | Transmutation | — |
+| Stinking Cloud | Conjuration | C |
+| Tiny Hut | Evocation | R |
+| Tongues | Divination | — |
+
+### Level 4 Bard Spells
+
+| Spell | School | Special |
+|---|---|---|
+| Charm Monster | Enchantment | — |
+| Compulsion | Enchantment | C |
+| Confusion | Enchantment | C |
+| Dimension Door | Conjuration | — |
+| Freedom of Movement | Abjuration | — |
+| Greater Invisibility | Illusion | C |
+| Hallucinatory Terrain | Illusion | — |
+| Locate Creature | Divination | C |
+| Phantasmal Killer | Illusion | C |
+| Polymorph | Transmutation | C |
+
+### Level 5 Bard Spells
+
+| Spell | School | Special |
+|---|---|---|
+| Animate Objects | Transmutation | C |
+| Awaken | Transmutation | M |
+| Dominate Person | Enchantment | C |
+| Dream | Illusion | — |
+| Geas | Enchantment | — |
+| Greater Restoration | Abjuration | M |
+| Hold Monster | Enchantment | C |
+| Legend Lore | Divination | M |
+| Mass Cure Wounds | Abjuration | — |
+| Mislead | Illusion | C |
+| Modify Memory | Enchantment | C |
+| Planar Binding | Abjuration | M |
+| Raise Dead | Necromancy | M |
+| Scrying | Divination | C, M |
+| Seeming | Illusion | — |
+| Telepathic Bond | Divination | R |
+| Teleportation Circle | Conjuration | M |
+
+### Level 6 Bard Spells
+
+| Spell | School | Special |
+|---|---|---|
+| Eyebite | Necromancy | C |
+| Find the Path | Divination | C, M |
+| Guards and Wards | Abjuration | M |
+| Heroes' Feast | Conjuration | M |
+| Irresistible Dance | Enchantment | C |
+| Mass Suggestion | Enchantment | — |
+| Programmed Illusion | Illusion | M |
+| True Seeing | Divination | M |
+
+### Level 7 Bard Spells
+
+| Spell | School | Special |
+|---|---|---|
+| Arcane Sword | Evocation | C, M |
+| Etherealness | Conjuration | — |
+| Forcecage | Evocation | C, M |
+| Magnificent Mansion | Conjuration | M |
+| Mirage Arcane | Illusion | — |
+| Prismatic Spray | Evocation | — |
+| Project Image | Illusion | C, M |
+| Regenerate | Transmutation | — |
+| Resurrection | Necromancy | M |
+| Symbol | Abjuration | M |
+| Teleport | Conjuration | — |
+
+### Level 8 Bard Spells
+
+| Spell | School | Special |
+|---|---|---|
+| Antipathy/Sympathy | Enchantment | — |
+| Befuddlement | Enchantment | — |
+| Dominate Monster | Enchantment | C |
+| Glibness | Enchantment | — |
+| Mind Blank | Abjuration | — |
+| Power Word Stun | Enchantment | — |
+
+### Level 9 Bard Spells
+
+| Spell | School | Special |
+|---|---|---|
+| Foresight | Divination | — |
+| Power Word Heal | Enchantment | — |
+| Power Word Kill | Enchantment | — |
+| Prismatic Wall | Abjuration | — |
+| True Polymorph | Transmutation | C |
+
+## Bard Subclass: College of Lore
+
+*Plumb the Depths of Magical Knowledge*
+
+Bards of the College of Lore collect spells and secrets from diverse sources, such as scholarly tomes, mystical rites, and peasant tales. The college's members gather in libraries and universities to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
+
+### Level 3: Bonus Proficiencies
+
+You gain proficiency with three skills of your choice.
+
+### Level 3: Cutting Words
+
+You learn to use your wit to supernaturally distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of yourself makes a damage roll or succeeds on an ability check or attack roll, you can take a Reaction to expend one use of your Bardic Inspiration; roll your Bardic Inspiration die, and subtract the number rolled from the creature's roll, reducing the damage or potentially turning the success into a failure.
+
+### Level 6: Magical Discoveries
+
+You learn two spells of your choice. These spells can come from the Cleric, Druid, or Wizard spell list or any combination thereof (see a class's section for its spell list). A spell you choose must be a cantrip or a spell for which you have spell slots, as shown in the Bard Features table.
+
+You always have the chosen spells prepared, and whenever you gain a Bard level, you can replace one of the spells with another spell that meets these requirements.
+
+### Level 14: Peerless Skill
+
+When you make an ability check or attack roll and fail, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20, potentially turning a failure into a success. On a failure, the Bardic Inspiration isn't expended.

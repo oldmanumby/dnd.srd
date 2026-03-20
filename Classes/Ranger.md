@@ -1,221 +1,261 @@
 # Ranger
 
-### Class Features
+## Core Ranger Traits
 
-As a ranger, you gain the following class features.
+| Trait | Detail |
+|---|---|
+| **Primary Ability** | Dexterity and Wisdom |
+| **Hit Point Die** | D10 per Ranger level |
+| **Saving Throw Proficiencies** | Strength and Dexterity |
+| **Skill Proficiencies** | Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival |
+| **Weapon Proficiencies** | Simple and Martial weapons |
+| **Armor Training** | Light and Medium armor and Shields |
+| **Starting Equipment** | Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or (B) 150 GP |
 
-#### Hit Points
+## Becoming a Ranger
 
-**Hit Dice:** 1d10 per ranger level
+### As a Level 1 Character
 
-**Hit Points at 1st Level:** 10 + your Constitution modifier
+- Gain all the traits in the Core Ranger Traits table.
+- Gain the Ranger's level 1 features, which are listed in the Ranger Features table.
 
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st
+### As a Multiclass Character
 
-#### Proficiencies
+- Gain the following traits from the Core Ranger Traits table: Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger's skill list, and training with Light and Medium armor and Shields.
+- Gain the Ranger's level 1 features, which are listed in the Ranger Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
 
-**Armor:** Light armor, medium armor, shields
+## Ranger Features
 
-**Weapons:** Simple weapons, martial weapons
+As a Ranger, you gain the following class features when you reach the specified Ranger levels. These features are listed in the Ranger Features table.
 
-**Tools:** None
+| Level | Proficiency Bonus | Class Features | Favoured Enemy | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
+|-------|-------------------|----------------|----------------|-----------------|-----|-----|-----|-----|-----|
+| 1 | +2 | Spellcasting, Favored Enemy, Weapon Mastery | 2 | 2 | 2 | — | — | — | — |
+| 2 | +2 | Deft Explorer, Fighting Style | 2 | 3 | 2 | — | — | — | — |
+| 3 | +2 | Ranger Subclass | 2 | 4 | 3 | — | — | — | — |
+| 4 | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — |
+| 5 | +3 | Extra Attack | 3 | 6 | 4 | 2 | — | — | — |
+| 6 | +3 | Roving | 3 | 6 | 4 | 2 | — | — | — |
+| 7 | +3 | Subclass feature | 3 | 7 | 4 | 3 | — | — | — |
+| 8 | +3 | Ability Score Improvement | 3 | 7 | 4 | 3 | — | — | — |
+| 9 | +4 | Expertise | 4 | 9 | 4 | 3 | 2 | — | — |
+| 10 | +4 | Tireless | 4 | 9 | 4 | 3 | 2 | — | — |
+| 11 | +4 | Subclass feature | 4 | 10 | 4 | 3 | 3 | — | — |
+| 12 | +4 | Ability Score Improvement | 4 | 10 | 4 | 3 | 3 | — | — |
+| 13 | +5 | Relentless Hunter | 5 | 11 | 4 | 3 | 3 | 1 | — |
+| 14 | +5 | Nature's Veil | 5 | 11 | 4 | 3 | 3 | 1 | — |
+| 15 | +5 | Subclass feature | 5 | 12 | 4 | 3 | 3 | 2 | — |
+| 16 | +5 | Ability Score Improvement | 5 | 12 | 4 | 3 | 3 | 2 | — |
+| 17 | +6 | Precise Hunter | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | Feral Senses | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | Epic Boon | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Foe Slayer | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
 
-**Saving Throws:** Strength, Dexterity
+### Level 1: Spellcasting
 
-**Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+You have learned to channel the magical essence of nature to cast spells. See "Spells" for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the Ranger spell list later in the class's description.
 
-#### Equipment
+**Spell Slots.** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-You start with the following equipment, in addition to the equipment granted by your background:
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. Cure Wounds and Ensnaring Strike are recommended.
 
-- (*a*) scale mail or (*b*) leather armor
-- (*a*) two shortswords or (*b*) two simple melee weapons
-- (*a*) a dungeoneer's pack or (*b*) an explorer's pack
-- A longbow and a quiver of 20 arrows
+The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
 
-**Table- The Ranger**
+If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
 
-| Level | Proficiency Bonus | Features                                          | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
-|-------|-------------------|---------------------------------------------------|--------------|-----|-----|-----|-----|-----|
-| 1st   | +2                | Favored Enemy, Natural Explorer                   | -            | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Fighting Style, Spellcasting                      | 2            | 2   | -   | -   | -   | -   |
-| 3rd   | +2                | Ranger Archetype, Primeval Awareness              | 3            | 3   | -   | -   | -   | -   |
-| 4th   | +2                | Ability Score Improvement                         | 3            | 3   | -   | -   | -   | -   |
-| 5th   | +3                | Extra Attack                                      | 4            | 4   | 2   | -   | -   | -   |
-| 6th   | +3                | Favored Enemy and Natural Explorer improvements   | 4            | 4   | 2   | -   | -   | -   |
-| 7th   | +3                | Ranger Archetype feature                          | 5            | 4   | 3   | -   | -   | -   |
-| 8th   | +3                | Ability Score Improvement, Land's Stride          | 5            | 4   | 3   | -   | -   | -   |
-| 9th   | +4                | -                                                 | 6            | 4   | 3   | 2   | -   | -   |
-| 10th  | +4                | Natural Explorer improvement, Hide in Plain Sight | 6            | 4   | 3   | 2   | -   | -   |
-| 11th  | +4                | Ranger Archetype feature                          | 7            | 4   | 3   | 3   | -   | -   |
-| 12th  | +4                | Ability Score Improvement                         | 7            | 4   | 3   | 3   | -   | -   |
-| 13th  | +5                | -                                                 | 8            | 4   | 3   | 3   | 1   | -   |
-| 14th  | +5                | Favored Enemy improvement, Vanish                 | 8            | 4   | 3   | 3   | 1   | -   |
-| 15th  | +5                | Ranger Archetype feature                          | 9            | 4   | 3   | 3   | 2   | -   |
-| 16th  | +5                | Ability Score Improvement                         | 9            | 4   | 3   | 3   | 2   | -   |
-| 17th  | +6                | -                                                 | 10           | 4   | 3   | 3   | 3   | 1   |
-| 18th  | +6                | Feral Senses                                      | 10           | 4   | 3   | 3   | 3   | 1   |
-| 19th  | +6                | Ability Score Improvement                         | 11           | 4   | 3   | 3   | 3   | 2   |
-| 20th  | +6                | Foe Slayer                                        | 11           | 4   | 3   | 3   | 3   | 2   |
-|       |                   |                                                   |              |     |     |     |     |     |
+**Changing Your Prepared Spells.** Whenever you finish a Long Rest, you can replace one spell on your list with another Ranger spell for which you have spell slots.
 
-### Favored Enemy
+**Spellcasting Ability.** Wisdom is your spellcasting ability for your Ranger spells.
 
-Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
+**Spellcasting Focus.** You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
 
-Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.
+### Level 1: Favored Enemy
 
-You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+You always have the Hunter's Mark spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
-When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
+The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
 
-You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
+### Level 1: Weapon Mastery
 
-### Natural Explorer
+Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
 
-You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.
+Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords.
 
-While traveling for an hour or more in your favored terrain, you gain the following benefits:
+### Level 2: Deft Explorer
 
-- Difficult terrain doesn't slow your group's travel.
-- Your group can't become lost except by magical means.
-- Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
-- If you are traveling alone, you can move stealthily at a normal pace.
-- When you forage, you find twice as much food as you normally would.
-- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+Thanks to your travels, you gain the following benefits.
 
-You choose additional favored terrain types at 6th and 10th level.
+**Expertise.** Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
 
-### Fighting Style
+**Languages.** You know two languages of your choice from the language tables in "Character Creation."
 
-At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
+### Level 2: Fighting Style
 
-#### Archery
+You gain a Fighting Style feat of your choice (see "Feats"). Instead of choosing one of those feats, you can choose the option below.
 
-You gain a +2 bonus to attack rolls you make with ranged weapons.
+**Druidic Warrior.** You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). Guidance and Starry Wisp are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
-#### Defense
+### Level 3: Ranger Subclass
 
-While you are wearing armor, you gain a +1 bonus to AC.
+You gain a Ranger subclass of your choice. The Hunter subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
 
-#### Dueling
+### Level 4: Ability Score Improvement
 
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
-#### Two-Weapon Fighting
+### Level 5: Extra Attack
 
-When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+You can attack twice instead of once whenever you take the Attack action on your turn.
 
-### Spellcasting
+### Level 6: Roving
 
-By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See the general rules for spellcasting and the ranger spell list.
+Your Speed increases by 10 feet while you aren't wearing Heavy armor. You also have a Climb Speed and a Swim Speed equal to your Speed.
 
-#### Spell Slots
+### Level 9: Expertise
 
-The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+Choose two of your skill proficiencies with which you lack Expertise. You gain Expertise in those skills.
 
-For example, if you know the 1st-level spell *animal friendship* and have a 1st-level and a 2nd-level spell slot available, you can cast *animal friendship* using either slot.
+### Level 10: Tireless
 
-#### Spells Known of 1st Level and Higher
+Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-You know two 1st-level spells of your choice from the ranger spell list.
+**Temporary Hit Points.** As a Magic action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+**Decrease Exhaustion.** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
 
-Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
+### Level 13: Relentless Hunter
 
-#### Spellcasting Ability
+Taking damage can't break your Concentration on Hunter's Mark.
 
-Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+### Level 14: Nature's Veil
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+You invoke spirits of nature to magically hide yourself. As a Bonus Action, you can give yourself the Invisible condition until the end of your next turn.
 
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-### Ranger Archetype
+### Level 17: Precise Hunter
 
-At 3rd level, you choose an archetype that you strive to emulate: Hunter or Beast Master, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
+You have Advantage on attack rolls against the creature currently marked by your Hunter's Mark.
 
-### Primeval Awareness
+### Level 18: Feral Senses
 
-Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
+Your connection to the forces of nature grants you Blindsight with a range of 30 feet.
 
-### Ability Score Improvement
+### Level 19: Epic Boon
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
 
-### Extra Attack
+### Level 20: Foe Slayer
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+The damage die of your Hunter's Mark is a d10 rather than a d6.
 
-### Land's Stride
+## Ranger Spell List
 
-Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+This section presents the Ranger spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, C means the spell requires Concentration, R means it's a Ritual, and M means it requires a specific Material component.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the *entangle* spell.
+### Level 1 Ranger Spells
 
-### Hide in Plain Sight
+| Spell | School | Special |
+|---|---|---|
+| Alarm | Abjuration | R |
+| Animal Friendship | Enchantment | — |
+| Cure Wounds | Abjuration | — |
+| Detect Magic | Divination | C, R |
+| Detect Poison and Disease | Divination | C, R |
+| Ensnaring Strike | Conjuration | C |
+| Entangle | Conjuration | C |
+| Fog Cloud | Conjuration | C |
+| Goodberry | Conjuration | — |
+| Hunter's Mark | Divination | C |
+| Jump | Transmutation | — |
+| Longstrider | Transmutation | — |
+| Speak with Animals | Divination | R |
 
-Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
+### Level 2 Ranger Spells
 
-Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
+| Spell | School | Special |
+|---|---|---|
+| Aid | Abjuration | — |
+| Animal Messenger | Enchantment | R |
+| Barkskin | Transmutation | — |
+| Darkvision | Transmutation | — |
+| Enhance Ability | Transmutation | C |
+| Find Traps | Divination | — |
+| Gust of Wind | Evocation | C |
+| Lesser Restoration | Abjuration | — |
+| Locate Animals or Plants | Divination | R |
+| Locate Object | Divination | C |
+| Magic Weapon | Transmutation | — |
+| Pass without Trace | Abjuration | C |
+| Protection from Poison | Abjuration | — |
+| Silence | Illusion | C, R |
+| Spike Growth | Transmutation | C |
 
-### Vanish
+### Level 3 Ranger Spells
 
-Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
+| Spell | School | Special |
+|---|---|---|
+| Conjure Animals | Conjuration | C |
+| Daylight | Evocation | — |
+| Dispel Magic | Abjuration | — |
+| Meld into Stone | Transmutation | R |
+| Nondetection | Abjuration | M |
+| Plant Growth | Transmutation | — |
+| Protection from Energy | Abjuration | C |
+| Revivify | Necromancy | M |
+| Speak with Plants | Transmutation | — |
+| Water Breathing | Transmutation | R |
+| Water Walk | Transmutation | R |
+| Wind Wall | Evocation | C |
 
-### Feral Senses
+### Level 4 Ranger Spells
 
-At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
+| Spell | School | Special |
+|---|---|---|
+| Conjure Woodland Beings | Conjuration | C |
+| Dominate Beast | Enchantment | C |
+| Freedom of Movement | Abjuration | — |
+| Locate Creature | Divination | C |
+| Stoneskin | Transmutation | C, M |
 
-You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
+### Level 5 Ranger Spells
 
-### Foe Slayer
+| Spell | School | Special |
+|---|---|---|
+| Commune with Nature | Divination | R |
+| Greater Restoration | Abjuration | M |
+| Tree Stride | Conjuration | C |
 
-At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+## Ranger Subclass: Hunter
 
-## Ranger Archetypes
+*Protect Nature and People from Destruction*
 
-The ideal of the ranger has two classic expressions: the Hunter and the Beast Master.
+You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.
 
-### Hunter
+### Level 3: Hunter's Lore
 
-Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
+You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter's Mark, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
 
-#### Hunter's Prey
+### Level 3: Hunter's Prey
 
-At 3rd level, you gain one of the following features of your choice.
+You gain one of the following feature options of your choice. Whenever you finish a Short or Long Rest, you can replace the chosen option with the other one.
 
-***Colossus Slayer***. Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.
+**Colossus Slayer.** Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it's missing any of its Hit Points. You can deal this extra damage only once per turn.
 
-***Giant Killer***. When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
+**Horde Breaker.** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon's range, and that you haven't attacked this turn.
 
-***Horde Breaker***. Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+### Level 7: Defensive Tactics
 
-#### Defensive Tactics
+You gain one of the following feature options of your choice. Whenever you finish a Short or Long Rest, you can replace the chosen option with the other one.
 
-At 7th level, you gain one of the following features of your choice.
+**Escape the Horde.** Opportunity Attacks have Disadvantage against you.
 
-***Escape the Horde***. Opportunity attacks against you are made with disadvantage.
+**Multiattack Defense.** When a creature hits you with an attack roll, that creature has Disadvantage on all other attack rolls against you this turn.
 
-***Multiattack Defense***. When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
+### Level 11: Superior Hunter's Prey
 
-***Steel Will***. You have advantage on saving throws against being frightened.
+Once per turn when you deal damage to a creature marked by your Hunter's Mark, you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature.
 
-#### Multiattack
+### Level 15: Superior Hunter's Defense
 
-At 11th level, you gain one of the following features of your choice.
-
-***Volley***. You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
-
-***Whirlwind Attack***. You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
-
-#### Superior Hunter's Defense
-
-At 15th level, you gain one of the following features of your choice.
-
-***Evasion***. When you are subjected to an effect, such as a red dragon's fiery breath or a *lightning bolt* spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
-
-***Stand Against the Tide***. When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
-
-***Uncanny Dodge***. When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+When you take damage, you can take a Reaction to give yourself Resistance to that damage and any other damage of the same type until the end of the current turn.

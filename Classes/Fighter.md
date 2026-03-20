@@ -1,148 +1,162 @@
 # Fighter
 
-### Class Features
+## Core Fighter Traits
 
-As a fighter, you gain the following class features.
+| Trait | Detail |
+|---|---|
+| **Primary Ability** | Strength or Dexterity |
+| **Hit Point Die** | D10 per Fighter level |
+| **Saving Throw Proficiencies** | Strength and Constitution |
+| **Skill Proficiencies** | Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival |
+| **Weapon Proficiencies** | Simple and Martial weapons |
+| **Armor Training** | Light, Medium, and Heavy armor and Shields |
+| **Starting Equipment** | Choose A, B, or C: (A) Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 4 GP; (B) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 11 GP; or (C) 155 GP |
 
-#### Hit Points
+## Becoming a Fighter ...
 
-**Hit Dice:** 1d10 per fighter level
+### As a Level 1 Character
 
-**Hit Points at 1st Level:** 10 + your Constitution modifier
+- Gain all the traits in the Core Fighter Traits table.
+- Gain the Fighter's level 1 features, which are listed in the Fighter Features table.
 
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
+### As a Multiclass Character
 
-#### Proficiencies
+- Gain the following traits from the Core Fighter Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
+- Gain the Fighter's level 1 features, which are listed in the Fighter Features table.
 
-**Armor:** All armor, shields
+## Fighter Class Features
 
-**Weapons:** Simple weapons, martial weapons
+As a Fighter, you gain the following class features when you reach the specified Fighter levels. These features are listed on the Fighter Features table.
 
-**Tools:** None
+### Fighter Features
 
-**Saving Throws:** Strength, Constitution
+| Level | Proficiency Bonus | Class Features | Second Wind | Weapon Mastery |
+|---|---|---|---|---|
+| 1 | +2 | Fighting Style, Second Wind, Weapon Mastery | 2 | 3 |
+| 2 | +2 | Action Surge (one use), Tactical Mind | 2 | 3 |
+| 3 | +2 | Fighter Subclass | 2 | 3 |
+| 4 | +2 | Ability Score Improvement | 3 | 4 |
+| 5 | +3 | Extra Attack, Tactical Shift | 3 | 4 |
+| 6 | +3 | Ability Score Improvement | 3 | 4 |
+| 7 | +3 | Subclass feature | 3 | 4 |
+| 8 | +3 | Ability Score Improvement | 3 | 4 |
+| 9 | +4 | Indomitable (one use), Tactical Master | 3 | 4 |
+| 10 | +4 | Subclass feature | 4 | 5 |
+| 11 | +4 | Two Extra Attacks | 4 | 5 |
+| 12 | +4 | Ability Score Improvement | 4 | 5 |
+| 13 | +5 | Indomitable (two uses), Studied Attacks | 4 | 5 |
+| 14 | +5 | Ability Score Improvement | 4 | 5 |
+| 15 | +5 | Subclass feature | 4 | 5 |
+| 16 | +5 | Ability Score Improvement | 4 | 6 |
+| 17 | +6 | Action Surge (two uses), Indomitable (three uses) | 4 | 6 |
+| 18 | +6 | Subclass feature | 4 | 6 |
+| 19 | +6 | Epic Boon | 4 | 6 |
+| 20 | +6 | Three Extra Attacks | 4 | 6 |
 
-**Skills:** Choose two skills from Acrobatics, Animal, Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+### Level 1: Fighting Style
 
-#### Equipment
+You have honed your martial prowess and gain a Fighting Style feat of your choice (see "Feats"). Defense is recommended.
 
-You start with the following equipment, in addition to the equipment granted by your background:
+Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 
-- (*a*) chain mail or (*b*) leather armor, longbow, and 20 arrows
-- (*a*) a martial weapon and a shield or (*b*) two martial weapons
-- (*a*) a light crossbow and 20 bolts or (*b*) two handaxes
-- (*a*) a dungeoneer's pack or (*b*) an explorer's pack
+### Level 1: Second Wind
 
-**Table- The Fighter**
+You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.
 
-| Level | Proficiency Bonus | Features                                          |
-|-------|-------------------|---------------------------------------------------|
-| 1st   | +2                | Fighting Style, Second Wind                       |
-| 2nd   | +2                | Action Surge (one use)                            |
-| 3rd   | +2                | Martial Archetype                                 |
-| 4th   | +2                | Ability Score Improvement                         |
-| 5th   | +3                | Extra Attack                                      |
-| 6th   | +3                | Ability Score Improvement                         |
-| 7th   | +3                | Martial Archetype Feature                         |
-| 8th   | +3                | Ability Score Improvement                         |
-| 9th   | +4                | Indomitable (one use)                             |
-| 10th  | +4                | Martial Archetype Feature                         |
-| 11th  | +4                | Extra Attack (2)                                  |
-| 12th  | +4                | Ability Score Improvement                         |
-| 13th  | +5                | Indomitable (two uses)                            |
-| 14th  | +5                | Ability Score Improvement                         |
-| 15th  | +5                | Martial Archetype Feature                         |
-| 16th  | +5                | Ability Score Improvement                         |
-| 17th  | +6                | Action Surge (two uses), Indomitable (three uses) |
-| 18th  | +6                | Martial Archetype Feature                         |
-| 19th  | +6                | Ability Score Improvement                         |
-| 20th  | +6                | Extra Attack (3)                                  |
-|       |                   |                                                   |
+You can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
-### Fighting Style
+When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.
 
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
+### Level 1: Weapon Mastery
 
-#### Archery
+Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
-You gain a +2 bonus to attack rolls you make with ranged weapons.
+When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
-#### Defense
+### Level 2: Action Surge
 
-While you are wearing armor, you gain a +1 bonus to AC.
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.
 
-#### Dueling
+Once you use this feature, you can't do so again until you finish a Short or Long Rest. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
-When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+### Level 2: Tactical Mind
 
-#### Great Weapon Fighting
+You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
-When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+### Level 3: Fighter Subclass
 
-#### Protection
+You gain a Fighter subclass of your choice. The Champion subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+### Level 4: Ability Score Improvement
 
-#### Two-Weapon Fighting
+You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 
-When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+### Level 5: Extra Attack
 
-### Second Wind
+You can attack twice instead of once whenever you take the Attack action on your turn.
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.
+### Level 5: Tactical Shift
 
-### Action Surge
+Whenever you activate your Second Wind with a Bonus Action, you can move up to half your Speed without provoking Opportunity Attacks.
 
-Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.
+### Level 9: Indomitable
 
-Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a Long Rest.
 
-### Martial Archetype
+You can use this feature twice before a Long Rest starting at level 13 and three times before a Long Rest starting at level 17.
 
-At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
+### Level 9: Tactical Master
 
-### Ability Score Improvement
+When you attack with a weapon whose mastery property you can use, you can replace that property with the Push, Sap, or Slow property for that attack.
 
-When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+### Level 11: Two Extra Attacks
 
-### Extra Attack
+You can attack three times instead of once whenever you take the Attack action on your turn.
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+### Level 13: Studied Attacks
 
-The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
+You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have Advantage on your next attack roll against that creature before the end of your next turn.
 
-### Indomitable
+### Level 19: Epic Boon
 
-Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Combat Prowess is recommended.
 
-You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
+### Level 20: Three Extra Attacks
 
-## Martial Archetypes
+You can attack four times instead of once whenever you take the Attack action on your turn.
 
-Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.
+## Fighter Subclass: Champion
 
-### Champion
+*Pursue Physical Excellence in Combat*
 
-The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
+A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.
 
-#### Improved Critical
+### Level 3: Improved Critical
 
-Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
+Your attack rolls with weapons and Unarmed Strikes can score a Critical Hit on a roll of 19 or 20 on the d20.
 
-#### Remarkable Athlete
+### Level 3: Remarkable Athlete
 
-Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
+Thanks to your athleticism, you have Advantage on Initiative rolls and Strength (Athletics) checks.
 
-In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
+In addition, immediately after you score a Critical Hit, you can move up to half your Speed without provoking Opportunity Attacks.
 
-#### Additional Fighting Style
+### Level 7: Additional Fighting Style
 
-At 10th level, you can choose a second option from the Fighting Style class feature.
+You gain another Fighting Style feat of your choice.
 
-#### Superior Critical
+### Level 10: Heroic Warrior
 
-Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.
+The thrill of battle drives you toward victory. During combat, you can give yourself Heroic Inspiration whenever you start your turn without it.
 
-#### Survivor
+### Level 15: Superior Critical
 
-At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
+Your attack rolls with weapons and Unarmed Strikes can now score a Critical Hit on a roll of 18–20 on the d20.
+
+### Level 18: Survivor
+
+You attain the pinnacle of resilience in battle, giving you these benefits.
+
+**Defy Death.** You have Advantage on Death Saving Throws. Moreover, when you roll 18–20 on a Death Saving Throw, you gain the benefit of rolling a 20 on it.
+
+**Heroic Rally.** At the start of each of your turns, you regain Hit Points equal to 5 plus your Constitution modifier if you are Bloodied and have at least 1 Hit Point.
