@@ -1,5 +1,5 @@
 ### Bracers of Defense
 
-*Wondrous item, rare (requires attunement)*
+*Wondrous Item, Rare (Requires Attunement)*
 
-While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.
+While wearing these bracers, you gain a +2 bonus to Armor Class if you are wearing no armor and using no Shield.

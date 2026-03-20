@@ -1,5 +1,5 @@
 ### Boots of Elvenkind
 
-*Wondrous item, uncommon*
+*Wondrous Item, Uncommon*
 
-While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.
+While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have Advantage on Dexterity (Stealth) checks.

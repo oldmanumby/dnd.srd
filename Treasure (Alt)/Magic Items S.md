@@ -1,305 +1,105 @@
-# Magic Items (S)
-
 ### Scarab of Protection
 
-*Wondrous item, legendary (requires attunement)*
+*Wondrous Item, Legendary (Requires Attunement)*
 
-If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:
-
-- You have advantage on saving throws against spells.
-- The scarab has 12 charges. If you fail a saving throw against a necromancy spell or a harmful effect originating from an undead creature, you can use your reaction to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended.
+This beetle-shaped medallion provides three benefits while it is on your person. Defense. You gain a +1 bonus to Armor Class. Preservation. The scarab has 12 charges. If you fail a saving throw against a Necromancy spell or a harmful effect originating from an Undead, you can take a Reaction to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended. Spell Resistance. You have Advantage on saving throws against spells.
 
 ### Scimitar of Speed
 
-*Weapon (scimitar), very rare (requires attunement)*
+*Weapon (Scimitar), Very Rare (Requires Attunement)*
 
-You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a Bonus Action on each of your turns.
 
-### Shield, +1, +2, or +3
+### Sending Stones
 
-*Armor (shield), uncommon (+1), rare (+2), or very rare (+3)*
+*Wondrous Item, Uncommon*
 
-While holding this shield, you have a bonus to AC determined by the shield's rarity. This bonus is in addition to the shield's normal bonus to AC.
+Sending Stones come in pairs, with each stone carved to match the other so the pairing is easily recognized. While you touch one stone, you can cast Sending from it. The target is the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone, and you don’t cast the spell. Once Sending is cast using either stone, the stones can’t be used again until the next dawn. If one of the stones in a pair is destroyed, the other one becomes nonmagical.
+
+### Sentinel Shield
+
+*Armor (Shield), Uncommon*
+
+While holding this Shield, you have Advantage on Initiative rolls and Wisdom (Perception) checks. The Shield is emblazoned with a symbol of an eye.
 
 ### Shield of Missile Attraction
 
-*Armor (shield), rare (requires attunement)*
+*Armor (Shield), Rare (Requires Attunement)*
 
-While holding this shield, you have resistance to damage from ranged weapon attacks.
+While holding this Shield, you have Resistance to damage from attacks made with Ranged weapons. Curse. This Shield is cursed. Attuning to it curses you until you are targeted by a Remove Curse spell or similar magic. Removing the Shield fails to end the curse on you. Whenever an attack with a Ranged weapon targets a creature within 10 feet of you, the curse causes you to become the target instead.
 
-***Curse***. This shield is cursed. Attuning to it curses you until you are targeted by the *remove curse* spell or similar magic. Removing the shield fails to end the curse on you. Whenever a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.
+### Shield of the Cavalier
+
+*Armor (Shield), Very Rare (Requires Attunement)*
+
+While holding this Shield, you have a +2 bonus to Armor Class. This bonus is in addition to the Shield’s normal bonus to AC. The Shield has the following additional properties that you can use while holding it. Forceful Bash. When you take the Attack action, you can make one of the attack rolls using the Shield against a target within 5 feet of yourself. Apply your Proficiency Bonus and Strength modifier to the attack roll. On a hit, the Shield deals Force damage to the target equal to 2d6 + 2 plus your Strength modifier, and if the target is a creature, you can push it up to 10 feet directly away from yourself. If the creature is your size or smaller, you can also knock it down, giving it the Prone condition. Protective Field. As a Reaction, when you or an ally you can see within 5 feet of you is targeted by an attack or makes a saving throw against an area of effect, you can use the Shield to create an immobile 5-foot Emanation originating from you. When the Emanation appears, any creatures or objects not fully contained within it are pushed into the nearest unoccupied spaces outside it. The attack or area of effect that triggered the Reaction has no effect on creatures and objects inside the Emanation, which lasts as long as you maintain Concentration, up to 1 minute. Nothing can pass into or out of the Emanation. A creature or object inside the Emanation can’t be damaged by attacks or effects originating from outside, nor can a creature inside the Emanation damage anything outside it. Once this property is used, it can’t be used again until the next dawn.
+
+### Shield, +1, +2, or +3
+
+*Armor (Shield), Uncommon (+1), Rare (+2), or Very*
+
+Rare (+3) While holding this Shield, you have a bonus to Armor Class determined by the Shield’s rarity, in addition to the Shield’s normal bonus to AC.
 
 ### Slippers of Spider Climbing
 
-*Wondrous item, uncommon (requires attunement)*
+*Wondrous Item, Uncommon (Requires Attunement)*
 
-While you wear these light shoes, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. You have a climbing speed equal to your walking speed. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
+While you wear these light shoes, you can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free. You have a Climb Speed equal to your Speed. However, the slippers don’t allow you to move this way on a slippery surface, such as one covered by ice or oil.
 
 ### Sovereign Glue
 
-*Wondrous item, legendary*
+*Wondrous Item, Legendary*
 
-This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with *oil of slipperiness*. When found, a container contains 1d6+1 ounces.
-
-One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of *universal solvent* or *oil of etherealness*, or with a *wish* spell.
-
-### Spell Scroll
-
-*Scroll, varies*
-
-A *spell scroll* bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.
-
-If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10+the spell's level. On a failed check, the spell disappears from the scroll with no other effect. Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.
-
-The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.
-
-**Table- Spell Scroll**
-
-| Spell Level | Rarity    | Save DC | Attack Bonus |
-|-------------|-----------|---------|--------------|
-| Cantrip     | Common    | 13      | +5           |
-| 1st         | Common    | 13      | +5           |
-| 2nd         | Uncommon  | 13      | +5           |
-| 3rd         | Uncommon  | 15      | +7           |
-| 4th         | Rare      | 15      | +7           |
-| 5th         | Rare      | 17      | +9           |
-| 6th         | Very rare | 17      | +9           |
-| 7th         | Very rare | 18      | +10          |
-| 8th         | Very rare | 18      | +10          |
-| 9th         | Legendary | 19      | +11          |
-|             |           |         |              |
-
-A wizard spell on a *spell scroll* can be copied just as spells in spellbooks can be copied. When a spell is copied from a the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10+the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the *spell scroll* is destroyed.
+This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with Oil of Slipperiness. When found, a container contains 1d6 + 1 ounces. One ounce of the glue can cover a 1-foot square surface. Applying an ounce of Sovereign Glue takes a Utilize action, and the applied glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of Universal Solvent or Oil of Etherealness, or with a Wish spell.
 
 ### Spellguard Shield
 
-*Armor (shield), very rare (requires attunement)*
+*Armor (Shield), Very Rare (Requires Attunement)*
 
-While holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you.
+While holding this Shield, you have Advantage on saving throws against spells and other magical effects, and spell attack rolls have Disadvantage against you. Spell Scroll Scroll, Rarity Varies A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn’t lost. If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell’s level. On a failed check, the spell disappears from the scroll with no other effect. The level of the spell on the scroll determines the spell’s saving throw DC and attack bonus, as well as the scroll’s rarity, as shown in the following table. Spell Level Rarity Save DC Attack Bonus Cantrip Common 13 +5 1 Common 13 +5 2 Uncommon 13 +5 3 Uncommon 15 +7 Spell Level Rarity Save DC Attack Bonus 4 Rare 15 +7 5 Rare 17 +9 6 Very Rare 17 +9 7 Very Rare 18 +10 8 Very Rare 18 +10 9 Legendary 19 +11 Copying a Scroll into a Spellbook. A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 plus the spell’s level. On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
 
 ### Sphere of Annihilation
 
-*Wondrous item, legendary*
+*Wondrous Item, Legendary*
 
-This 2-foot diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
+This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it. The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an Artifact is susceptible to damage from a Sphere of Annihilation, it passes through the sphere unscathed. Anything else that touches the sphere but isn’t wholly engulfed and obliterated by it takes 8d10 Force damage. Controlling the Sphere. A Sphere of Annihilation is stationary until someone takes control of it. If you are within 60 feet of a sphere, you can take a Magic action to make a DC 25 Intelligence (Arcana) check. On a successful check, you control the sphere until the start of your next turn, and if it was under another creature’s control, that creature loses control of the sphere. On a failed check, the sphere moves 10 feet toward you in a straight line. While in control of the sphere, you can take a Bonus Action to cause it to move in one direction of your choice, up to a number of feet equal to 5 times your Intelligence modifier (minimum 5 feet). Any creature whose space the sphere enters must succeed on a DC 19 Dexterity saving throw or be touched by it, taking 8d10 Force damage. A creature reduced to 0 Hit Points by this damage is obliterated, leaving its possessions behind but no other physical remains. Sphere Interactions. If the sphere comes into contact with a planar portal (such as that created by the Gate spell) or an extradimensional space (such as that within a Portable Hole), the GM determines randomly what happens using the following table.
 
-The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an artifact is susceptible to damage from a *sphere of annihilation*, it passes through the sphere unscathed. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes 4d10 force damage.
+1d100 Result
 
-The sphere is stationary until someone controls it. If you are within 60 feet of an uncontrolled sphere, you can use an action to make a DC 25 Intelligence (Arcana) check. On a success, the sphere levitates in one direction of your choice, up to a number of feet equal to 5 × your Intelligence modifier (minimum 5 feet). On a failure, the sphere moves 10 feet toward you. A creature whose space the sphere enters must succeed on a DC 13 Dexterity saving throw or be touched by it, taking 4d10 force damage.
+01–50 The sphere is destroyed.
 
-If you attempt to control a sphere that is under another creature's control, you make an Intelligence (Arcana) check contested by the other creature's Intelligence (Arcana) check. The winner of the contest gains control of the sphere and can levitate it as normal.
+51–85 The sphere moves through the portal or into
 
-If the sphere comes into contact with a planar portal, such as that created by the *gate* spell, or an extradimensional space, such as that within a *portable hole*, the GM determines randomly what happens, using the following table.
+the extradimensional space.
 
-**Table- Sphere of Annihilation**
+86–00 A spatial rift sends the sphere and each creature and object within 180 feet of the sphere
 
-| d100  | Result                                                                                                                             |
-|-------|------------------------------------------------------------------------------------------------------------------------------------|
-| 01-50 | The sphere is destroyed.                                                                                                           |
-| 51-85 | The sphere moves through the portal or into the extradimensional space.                                                            |
-| 86-00 | A spatial rift sends each creature and object within 180 feet of the sphere, including the sphere, to a random plane of existence. |
-|       |                                                                                                                                    |
+to a random plane of existence. Staff of Charming Staff, Rare (Requires Attunement by a Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard) This staff has 10 charges. While holding the staff, you can use any of its properties: Cast Spell. You can expend 1 of the staff’s charges to cast Charm Person, Command, or Comprehend Languages from it using your spell save DC. Reflect Enchantment. If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a Reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell. Resist Enchantment. If you fail a saving throw against an Enchantment spell that targets only you, you can turn your failed save into a successful one. You can’t use this property of the staff again until the next dawn. Regaining Charges. The staff regains 1d8 + 2 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff crumbles to dust and is destroyed. Staff of Fire Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard) You have Resistance to Fire damage while you hold this staff. Spells. The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell. Spell Charge Cost Spell Charge Cost Burning Hands 1 Wall of Fire 4 Fireball 3 Regaining Charges. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff crumbles into cinders and is destroyed. Staff of Frost Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard) You have Resistance to Cold damage while you hold this staff. Spells. The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell. Spell Charge Cost Spell Charge Cost Cone of Cold 5 Ice Storm 4 Fog Cloud 1 Wall of Ice 4 Regaining Charges. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff turns to water and is destroyed. Staff of Healing Staff, Rare (Requires Attunement by a Bard, Cleric, or Druid) This staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spellcasting ability modifier. The table indicates how many charges you must expend to cast the spell. Spell Charge Cost Cure Wounds 1 charge per spell level (maximum 4 for a level 4 spell) Lesser Restoration 2 Mass Cure Wounds 5 Regaining Charges. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff vanishes in a flash of light, lost forever. Staff of Power Staff, Very Rare (Requires Attunement by a Sorcerer, Warlock, or Wizard) This staff has 20 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls. Spells. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell. Spell Charge Cost Cone of Cold 5 Fireball (level 5 version) 5 Globe of Invulnerability 6 Hold Monster 5 Levitate 2 Lightning Bolt (level 5 version) 5 Magic Missile 1 Ray of Enfeeblement 1 Wall of Force 5 Regaining Charges. The staff regains 2d8 + 4 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff retains its +2 bonus to attack rolls and damage rolls but loses all other properties. On a 20, the staff regains 1d8 + 2 charges. Retributive Strike. You can take a Magic action to break the staff over your knee or against a solid surface. The staff is destroyed and releases its magic in an explosion that fills a 30-foot Emanation originating from itself. You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take Force damage equal to 16 times the number of charges in the staff. Each other creature in the area makes a DC 17 Dexterity saving throw. On a failed save, a creature takes Force damage equal to 4 times the number of charges in the staff. On a successful save, a creature takes half as much damage. Staff of Striking Staff, Very Rare (Requires Attunement) This staff can be wielded as a magic Quarterstaff that grants a +3 bonus to attack rolls and damage rolls made with it. The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 charges. For each charge you expend, the target takes an extra 1d6 Force damage. Regaining Charges. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff becomes a nonmagical Quarterstaff. Staff of Swarming Insects Staff, Rare (Requires Attunement by a Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard) This staff has 10 charges. Insect Cloud. While holding the staff, you can take a Magic action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30- foot Emanation originating from you. The insects remain for 10 minutes, making the area Heavily Obscured for creatures other than you. A strong wind (like that created by Gust of Wind) disperses the swarm and ends the effect. Spells. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC and spell attack modifier. The table indicates how many charges you must expend to cast the spell. Spell Charge Cost Giant Insect 4 Insect Plague 5 Regaining Charges. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses. Staff of the Magi Staff, Legendary (Requires Attunement by a Sorcerer, Warlock, or Wizard) This staff has 50 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls. Spell Absorption. While holding the staff, you have Advantage on saving throws against spells. In addition, you can take a Reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the magic of the spell, canceling its effect and gaining a number of charges equal to the absorbed spell’s level. However, if doing so brings the staff’s total number of charges above 50, the staff explodes as if you activated its Retributive Strike (see below). Spells. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell. Spell Charge Cost Arcane Lock 0 Conjure Elemental 7 Detect Magic 0 Dispel Magic 3 Enlarge/Reduce 0 Fireball (level 7 version) 7 Flaming Sphere 2 Ice Storm 4 Invisibility 2 Knock 2 Light 0 Lightning Bolt (level 7 version) 7 Spell Charge Cost Mage Hand 0 Passwall 5 Plane Shift 7 Protection from Evil and Good 0 Telekinesis 5 Wall of Fire 4 Web 2 Regaining Charges. The staff regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 20, the staff regains 1d12 + 1 charges. Retributive Strike. You can take a Magic action to break the staff over your knee or against a solid surface. The staff is destroyed and releases its magic in an explosion that fills a 30-foot Emanation originating from itself. You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take Force damage equal to 16 times the number of charges in the staff. Each other creature in the area makes a DC 17 Dexterity saving throw. On a failed save, a creature takes Force damage equal to 6 times the number of charges in the staff. On a successful save, a creature takes half as much damage. Staff of the Python Staff, Uncommon (Requires Attunement) As a Magic action, you can throw this staff so that it lands in an unoccupied space within 10 feet of you, causing the staff to become a Giant Constrictor Snake in that space. The snake is under your control and shares your Initiative count, taking its turn immediately after yours. On your turn, you can mentally command the snake (no action required) if it is within 60 feet of you and you don’t have the Incapacitated condition. You decide what action the snake takes and where it moves during its turn, or you can issue it a general command, such as to attack your enemies or guard a location. Absent commands from you, the snake defends itself. As a Bonus Action, you can command the snake to revert to staff form in its current space, and you can’t use the staff’s property again for 1 hour. If the snake is reduced to 0 Hit Points, it dies and reverts to its staff form; the staff then shatters and is destroyed. If the snake reverts to staff form before losing all its Hit Points, it regains all of them. Staff of the Woodlands Staff, Rare (Requires Attunement by a Druid) This staff has 6 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls. Spells. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell. Spell Charge Cost Animal Friendship 1 Awaken 5 Barkskin 2 Locate Animals or Plants 2 Pass without Trace 2 Speak with Animals 1 Speak with Plants 3 Wall of Thorns 6 Tree Form. You can take a Magic action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the Detect Magic spell. While touching the tree and using a Magic action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff. Regaining Charges. The staff regains 1d6 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff loses its properties and becomes a nonmagical Quarterstaff. Staff of Thunder and Lightning Staff, Very Rare (Requires Attunement) This staff can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. It also has the following additional properties. Once one of these properties is used, it can’t be used again until the next dawn. Lightning. When you hit with a melee attack using the staff, you can cause the target to take an extra 2d6 Lightning damage (no action required). Thunder. When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder audible out to 300 feet (no action required). The target you hit must succeed on a DC 17 Constitution saving throw or have the Stunned condition until the end of your next turn. Thunder and Lightning. Immediately after you hit with a melee attack using the staff, you can take a Bonus Action to use the Lightning and Thunder properties (see above) at the same time. Doing so doesn’t expend the daily use of those properties, only the use of this one. Lightning Strike. You can take a Magic action to cause a bolt of lightning to leap from the staff’s tip in a Line that is 5 feet wide and 120 feet long. Each creature in that Line makes a DC 17 Dexterity saving throw, taking 9d6 Lightning damage on a failed save or half as much damage on a successful one. Thunderclap. You can take a Magic action to cause the staff to produce a thunderclap audible out to 600 feet. Every creature within a 60-foot Emanation originating from you makes a DC 17 Constitution saving throw. On a failed save, a creature takes
 
-### Staff of Charming
+2d6 Thunder damage and has the Deafened condition for 1 minute. On a successful save, a creature
 
-*Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*
-
-While holding this staff, you can use an action to expend 1 of its 10 charges to cast *charm person*, *command*, *or comprehend languages* from it using your spell save DC. The staff can also be used as a magic quarterstaff.
-
-If you are holding the staff and fail a saving throw against an enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn. If you succeed on a save against an enchantment spell that targets only you, with or without the staff's intervention, you can use your reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
-
-The staff regains 1d8+2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
-
-### Staff of Fire
-
-*Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*
-
-You have resistance to fire damage while you hold this staff.
-
-The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *burning hands* (1 charge), *fireball* (3 charges), or *wall of fire* (4 charges).
-
-The staff regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff blackens, crumbles into cinders, and is destroyed.
-
-### Staff of Frost
-
-*Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*
-
-You have resistance to cold damage while you hold this staff.
-
-The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *cone of cold* (5 charges), *fog cloud* (1 charge), *ice storm* (4 charges), or *wall of ice* (4 charges).
-
-The staff regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns to water and is destroyed.
-
-### Staff of Healing
-
-*Staff, rare (requires attunement by a bard, cleric, or druid)*
-
-This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: *cure wounds* (1 charge per spell level, up to 4th), *lesser restoration* (2 charges), or *mass cure wounds* (5 charges).
-
-The staff regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff vanishes in a flash of light, lost forever.
-
-### Staff of Power
-
-*Staff, very rare (requires attunement by a sorcerer, warlock, or wizard)*
-
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
-
-The staff has 20 charges for the following properties. The staff regains 2d8+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff retains its +2 bonus to attack and damage rolls but loses all other properties. On a 20, the staff regains 1d8+2 charges.
-
-***Power Strike***. When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra 1d6 force damage to the target.
-
-***Spells***. While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: *cone of cold* (5 charges), *fireball* (5th-level version, 5 charges), *globe of invulnerability* (6 charges), *hold monster* (5 charges), *levitate* (2 charges), *lightning bolt* (5th-level version, 5 charges), *magic missile* (1 charge), *ray of enfeeblement* (1 charge), or *wall of force* (5 charges).
-
-***Retributive Strike***. You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot radius sphere centered on it.
-
-You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
-
-**Table- Staff of Power**
-
-| Distance from Origin  | Damage                                 |
-|-----------------------|----------------------------------------|
-| 10 ft. away or closer | 8 × the number of charges in the staff |
-| 11 to 20 ft. away     | 6 × the number of charges in the staff |
-| 21 to 30 ft. away     | 4 × the number of charges in the staff |
-|                       |                                        |
-
-### Staff of Striking
-
-*Staff, very rare (requires attunement)*
-
-This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.
-
-The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra 1d6 force damage. The staff regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
-
-### Staff of Swarming Insects
-
-*Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*
-
-This staff has 10 charges and regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses.
-
-***Spells***. While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: *giant insect* (4 charges) or *insect plague* (5 charges).
-
-***Insect Cloud***. While holding the staff, you can use an action and expend 1 charge to cause a swarm of harmless flying insects to spread out in a 30-foot radius from you. The insects remain for 10 minutes, making the area heavily obscured for creatures other than you. The swarm moves with you, remaining centered on you. A wind of at least 10 miles per hour disperses the swarm and ends the effect.
-
-### Staff of the Magi
-
-*Staff, legendary (requires attunement by a sorcerer, warlock, or wizard)*
-
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
-
-The staff has 50 charges for the following properties. It regains 4d6+2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 20, the staff regains 1d12+1 charges.
-
-***Spell Absorption***. While holding the staff, you have advantage on saving throws against spells. In addition, you can use your reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the magic of the spell, canceling its effect and gaining a number of charges equal to the absorbed spell's level. However, if doing so brings the staff's total number of charges above 50, the staff explodes as if you activated its retributive strike (see below).
-
-***Spells***. While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: *conjure elemental* (7 charges), *dispel magic* (3 charges), *fireball* (7th-level version, 7 charges), *flaming sphere* (2 charges), *ice storm* (4 charges), *invisibility* (2 charges), *knock* (2 charges), *lightning bolt* (7th-level version, 7 charges), *passwall* (5 charges), *plane shift* (7 charges), *telekinesis* (5 charges), *wall of fire* (4 charges), or *web* (2 charges).
-
-You can also use an action to cast one of the following spells from the staff without using any charges: *arcane lock*, *detect magic*, *enlarge/reduce*, *light*, *mage hand*, or *protection from evil and good.*
-
-***Retributive Strike***. You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot radius sphere centered on it.
-
-You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
-
-**Table- Staff of the Magi**
-
-| Distance from Origin  | Damage                                 |
-|-----------------------|----------------------------------------|
-| 10 ft. away or closer | 8 × the number of charges in the staff |
-| 11 to 20 ft. away     | 6 × the number of charges in the staff |
-| 21 to 30 ft. away     | 4 × the number of charges in the staff |
-|                       |                                        |
-
-### Staff of the Python
-
-*Staff, uncommon (requires attunement by a cleric, druid, or warlock)*
-
-You can use an action to speak this staff's command word and throw the staff on the ground within 10 feet of you. The staff becomes a giant constrictor snake under your control and acts on its own initiative count. By using a bonus action to speak the command word again, you return the staff to its normal form in a space formerly occupied by the snake.
-
-On your turn, you can mentally command the snake if it is within 60 feet of you and you aren't incapacitated. You decide what action the snake takes and where it moves during its next turn, or you can issue it a general command, such as to attack your enemies or guard a location.
-
-If the snake is reduced to 0 hit points, it dies and reverts to its staff form. The staff then shatters and is destroyed. If the snake reverts to staff form before losing all its hit points, it regains all of them.
-
-### Staff of the Woodlands
-
-*Staff, rare (requires attunement by a druid)*
-
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
-
-The staff has 10 charges for the following properties. It regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff loses its properties and becomes a nonmagical quarterstaff.
-
-***Spells***. You can use an action to expend 1 or more of the staff's charges to cast one of the following spells from it, using your spell save DC: *animal friendship* (1 charge), *awaken* (5 charges), *barkskin* (2 charges), *locate animals or plants* (2 charges), *speak with animals* (1 charge), *speak with plants* (3 charges), or *wall of thorns* (6 charges).
-
-You can also use an action to cast the *pass without trace* spell from the staff without using any charges.
-
-***Tree Form***. You can use an action to plant one end of the staff in fertile earth and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot diameter trunk, and its branches at the top spread out in a 20-foot radius.
-
-The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by *detect magic*. While touching the tree and using another action to speak its command word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.
-
-### Staff of Thunder and Lightning
-
-*Staff, very rare (requires attunement)*
-
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.
-
-***Lightning***. When you hit with a melee attack using the staff, you can cause the target to take an extra 2d6 lightning damage.
-
-***Thunder***. When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become stunned until the end of your next turn.
-
-***Lightning Strike***. You can use an action to cause a bolt of lightning to leap from the staff's tip in a line that is 5 feet wide and 120 feet long. Each creature in that line must make a DC 17 Dexterity saving throw, taking 9d6 lightning damage on a failed save, or half as much damage on a successful one.
-
-***Thunderclap***. You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 1 minute. On a successful save, a creature takes half damage and isn't deafened.
-
-***Thunder and Lightning***. You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.
-
-### Staff of Withering
-
-*Staff, rare (requires attunement by a cleric, druid, or warlock)*
-
-This staff has 3 charges and regains 1d3 expended charges daily at dawn.
-
-The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to deal an extra 2d10 necrotic damage to the target. In addition, the target must succeed on a DC 15 Constitution saving throw or have disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.
+takes half as much damage only. Staff of Withering Staff, Rare (Requires Attunement) This staff has 3 charges and regains 1d3 expended charges daily at dawn. The staff can be wielded as a magic Quarterstaff. On a hit, it deals damage as a normal Quarterstaff, and you can expend 1 charge to deal an extra 2d10 Necrotic damage to the target and force it to make a DC 15 Constitution saving throw. On a failed save, the target has Disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.
 
 ### Stone of Controlling Earth Elementals
 
-*Wondrous item, rare*
+*Wondrous Item, Rare*
 
-If the stone is touching the ground, you can use an action to speak its command word and summon an earth elemental, as if you had cast the *conjure elemental* spell. The stone can't be used this way again until the next dawn. The stone weighs 5 pounds.
+While touching this 5-pound stone to the ground, you can take a Magic action to summon an Earth Elemental. The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The stone can’t be used this way again until the next dawn.
 
 ### Stone of Good Luck (Luckstone)
 
-*Wondrous item, uncommon (requires attunement)*
+*Wondrous Item, Uncommon (Requires Attunement)*
 
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.
 
 ### Sun Blade
 
-*Weapon (longsword), rare (requires attunement)*
+*Weapon (Longsword), Rare (Requires Attunement)*
 
-This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with shortswords or longswords, you are proficient with the *sun blade*.
-
-You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra 1d8 radiant damage.
-
-The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
-
-### Sword of Life Stealing
-
-*Weapon (any sword), rare (requires attunement)*
-
-When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.
+This item appears to be a sword hilt. Blade of Radiance. While grasping the hilt, you can take a Bonus Action to cause a blade of pure radiance to spring into existence or make the blade disappear. While the blade exists, this magic weapon functions as a Longsword with the Finesse property. If you are proficient with Longswords or Shortswords, you are proficient with the Sun Blade. You gain a +2 bonus to attack rolls and damage rolls made with this weapon, which deals Radiant damage instead of Slashing damage. When you hit an Undead with it, that target takes an extra 1d8 Radiant damage. Sunlight. The sword’s luminous blade emits Bright Light in a 15-foot radius and Dim Light for an additional 15 feet. The light is sunlight. While the blade persists, you can take a Magic action to expand or reduce its radius of Bright Light and Dim Light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each. Sword of Life Stealing Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Rare (Requires Attunement) When you attack a creature with this magic weapon and roll a 20 on the d20 for the attack roll, that target takes an extra 15 Necrotic damage if it isn’t a Construct or an Undead, and you gain Temporary Hit Points equal to the amount of Necrotic damage taken.
 
 ### Sword of Sharpness
 
-*Weapon (any sword that deals slashing damage), very rare (requires attunement)*
+*Weapon (Glaive, Greatsword, Longsword, or Scimitar),*
 
-When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
-
-When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4d6 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.
-
-In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.
-
-### Sword of Wounding
-
-*Weapon (any sword), rare (requires attunement)*
-
-Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
-
-Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.
+Very Rare (Requires Attunement) When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target. When you attack a creature with this weapon and roll a 20 on the d20 for the attack roll, that target takes an extra 14 Slashing damage and gains 1 Exhaustion level. Sword of Wounding Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Rare (Requires Attunement) When you hit a creature with an attack using this magic weapon, the target takes an extra 2d6 Necrotic damage and must succeed on a DC 15 Constitution saving throw or be unable to regain Hit Points for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.

@@ -1,5 +1,5 @@
 ### Periapt of Proof against Poison
 
-*Wondrous item, rare*
+*Wondrous Item, Rare (Requires Attunement)*
 
-This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no effect on you. You are immune to the poisoned condition and have immunity to poison damage.
+This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, you have Immunity to the Poisoned condition and Poison damage.

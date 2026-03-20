@@ -1,5 +1,5 @@
 ### Periapt of Health
 
-*Wondrous item, uncommon*
+*Wondrous Item, Uncommon (Requires Attunement)*
 
-You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects of the disease are suppressed you while you wear the pendant.
+While wearing this pendant, you can take a Magic action to regain 2d4 + 2 Hit Points. Once used, this property can’t be used again until the next dawn. In addition, you have Advantage on saving throws to avoid or end the Poisoned condition while you wear this pendant.

@@ -1,5 +1,5 @@
 ### Cloak of the Manta Ray
 
-*Wondrous item, uncommon*
+*Wondrous Item, Uncommon (Requires Attunement)*
 
-While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action.
+While wearing this cloak, you can breathe underwater, and you have a Swim Speed of 60 feet.

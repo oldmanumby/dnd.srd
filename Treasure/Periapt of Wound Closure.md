@@ -1,5 +1,5 @@
 ### Periapt of Wound Closure
 
-*Wondrous item, uncommon (requires attunement)*
+*Wondrous Item, Uncommon (Requires Attunement)*
 
-While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.
+While wearing this pendant, you gain the following benefits. Life Preservation. Whenever you make a Death Saving Throw, you can change a roll of 9 or lower to a 10, turning a failed save into a successful one. Natural Healing Boost. Whenever you roll a Hit Point Die to regain Hit Points, double the number of Hit Points it restores.

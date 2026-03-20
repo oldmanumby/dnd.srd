@@ -1,5 +1,5 @@
 ### Mantle of Spell Resistance
 
-*Wondrous item, rare (requires attunement)*
+*Wondrous Item, Rare (Requires Attunement)*
 
-You have advantage on saving throws against spells while you wear this cloak.
+You have Advantage on saving throws against spells while you wear this cloak.

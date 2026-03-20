@@ -1,3 +1,0 @@
-# Magic Items (X)
-
-None.

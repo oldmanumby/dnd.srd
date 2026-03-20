@@ -1,5 +1,5 @@
 ### Brooch of Shielding
 
-*Wondrous item, uncommon (requires attunement)*
+*Wondrous Item, Uncommon (Requires Attunement)*
 
-While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the *magic missile* spell.
+While wearing this brooch, you have Resistance to Force damage, and you have Immunity to damage from the Magic Missile spell.

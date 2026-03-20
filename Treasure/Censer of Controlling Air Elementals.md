@@ -1,7 +1,5 @@
 ### Censer of Controlling Air Elementals
 
-*Wondrous item, rare*
+*Wondrous Item, Rare*
 
-While incense is burning in this censer, you can use an action to speak the censer's command word and summon an air elemental, as if you had cast the *conjure elemental* spell. The censer can't be used this way again until the next dawn.
-
-This 6-inch-wide, 1-foot high vessel resembles a chalice with a decorated lid. It weighs 1 pound.
+While gently swinging this censer, you can take a Magic action to summon an Air Elemental. The elemental appears in an unoccupied space as close to the censer as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The censer can’t be used this way again until the next dawn.

@@ -1,16 +1,5 @@
 ### Belt of Dwarvenkind
 
-*Wondrous item, rare (requires attunement)*
+*Wondrous Item, Rare (Requires Attunement)*
 
-While wearing this belt, you gain the following benefits:
-
-- Your Constitution score increases by 2, to a maximum of 20.
-- You have advantage on Charisma (Persuasion) checks made to interact with dwarves.
-
-In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you're capable of growing one, or a visibly thicker beard if you already have one.
-
-If you aren't a dwarf, you gain the following additional benefits while wearing the belt:
-
-- You have advantage on saving throws against poison, and you have resistance against poison damage.
-- You have darkvision out to a range of 60 feet.
-- You can speak, read, and write Dwarvish.
+While wearing this belt, you gain the following benefits: Dwarvish. You know Dwarvish. Friend of Dwarvenkind. You have Advantage on Charisma (Persuasion) checks made to interact with dwarves and duergar. Toughness. Your Constitution increases by 2, to a maximum of 20. In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you can grow one, or a thicker beard if you already have one. If you aren’t a dwarf or duergar, you gain the following additional benefits while wearing the belt: Darkvision. You have Darkvision with a range of 60 feet. Resilience. You have Resistance to Poison damage. You also have Advantage on saving throws you make to avoid or end the Poisoned condition. Belt of Giant Strength Wondrous Item, Rarity Varies (Requires Attunement) While wearing this belt, your Strength changes to a score granted by the belt. The type of giant determines the score (see the table below). The item has no effect on you if your Strength without the belt is equal to or greater than the belt’s score. Belt Str. Rarity Belt of Giant Strength (hill) 21 Rare Belt of Giant Strength (frost or stone) 23 Very Rare Belt of Giant Strength (fire) 25 Very Rare Belt of Giant Strength (cloud) 27 Legendary Belt of Giant Strength (storm) 29 Legendary

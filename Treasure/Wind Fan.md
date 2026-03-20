@@ -1,5 +1,5 @@
 ### Wind Fan
 
-*Wondrous item, uncommon*
+*Wondrous Item, Uncommon*
 
-While holding this fan, you can use an action to cast the *gust of wind* spell (save DC 13) from it. Once used, the fan shouldn't be used again until the next dawn. Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters.
+While holding this fan, you can cast Gust of Wind (save DC 13) from it. Each subsequent time the fan is used before the next dawn, it has a cumulative 20 percent chance of not working; if the fan fails to work, it tears into useless, nonmagical tatters.

@@ -1,5 +1,5 @@
 ### Plate Armor of Etherealness
 
-*Armor (plate), legendary (requires attunement)*
+*Armor (Half Plate Armor or Plate Armor), Legendary (Requires Attunement)*
 
-While you're wearing this armor, you can speak its command word as an action to gain the effect of the *etherealness* spell, which last for 10 minutes or until you remove the armor or use an action to speak the command word again. This property of the armor can't be used again until the next dawn.
+While you’re wearing this armor, you can take a Magic action and use a command word to gain the effect of the Etherealness spell. The spell ends immediately if you remove the armor or take a Magic action to repeat the command word. This property of the armor can’t be used again until the next dawn.

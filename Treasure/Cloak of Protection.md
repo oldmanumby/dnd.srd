@@ -1,5 +1,5 @@
 ### Cloak of Protection
 
-*Wondrous item, uncommon (requires attunement)*
+*Wondrous Item, Uncommon (Requires Attunement)*
 
-You gain a +1 bonus to AC and saving throws while you wear this cloak.
+You gain a +1 bonus to Armor Class and saving throws while you wear this cloak.

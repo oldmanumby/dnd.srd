@@ -1,19 +1,15 @@
 ### Carpet of Flying
 
-*Wondrous item, very rare*
+*Wondrous Item, Very Rare*
 
-You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
+You can make this carpet hover and fly by taking a Magic action and using the carpet’s command word. It moves according to your directions if you are within 30 feet of it. Four sizes of Carpet of Flying exist. The GM chooses the size of a given carpet or determines it randomly by rolling on the following table. A carpet can carry up to twice the weight shown on the table, but its Fly Speed is halved if it carries more than its normal capacity.
 
-Four sizes of *carpet of flying* exist. The GM chooses the size of a given carpet or determines it randomly.
+1d100 Size Capacity Fly Speed
 
-**Table- Carpet of Flying**
+01–20 3 ft. × 5 ft. 200 lb. 80 feet
 
-| d100   | Size          | Capacity | Flying Speed |
-|--------|---------------|----------|--------------|
-| 01-20  | 3 ft. × 5 ft. | 200 lb.  | 80 feet      |
-| 21-55  | 4 ft. × 6 ft. | 400 lb.  | 60 feet      |
-| 56-80  | 5 ft. × 7 ft. | 600 lb.  | 40 feet      |
-| 81-100 | 6 ft. × 9 ft. | 800 lb.  | 30 feet      |
-|        |               |          |              |
+21–55 4 ft. × 6 ft. 400 lb. 60 feet
 
-A carpet can carry up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity.
+56–80 5 ft. × 7 ft. 600 lb. 40 feet
+
+81–00 6 ft. × 9 ft. 800 lb. 30 feet
