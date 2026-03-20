@@ -30,7 +30,7 @@ I recommend using the following Markdown applications to edit the material:
 * [Typora](https://typora.io): $15 (Pay Once)
 * [Visual Studio Code](https://code.visualstudio.com/Download): FREE!
 
-To export Markdown to various publishing formats, I recommend using Typora (listed above) as it has many good export options which will satify the majority of users. Most any good Markdown editors will offer basic exports. However, if you want more options, [PanWriter](https://panwriter.com) is the best solution. However, for PanWiter to function properly, the following applications must also be installed to maximize your export options:
+To export Markdown to various publishing formats, I recommend using Typora (listed above) as it has many good export options which will satisfy the majority of users. Most any good Markdown editors will offer basic exports. However, if you want more options, [PanWriter](https://panwriter.com) is the best solution. However, for PanWiter to function properly, the following applications must also be installed to maximize your export options:
 
 * [Download PanDoc](https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-macOS.pkg)
 
