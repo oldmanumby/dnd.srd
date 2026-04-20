@@ -13,7 +13,7 @@ This is an adaptation of the D&D 5E SRD REformatted in Markdown (.MD) for easy e
 
 **The Systems Reference Document (SRD)** contains guidelines for publishing content under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (“CC-BY-4.0”). The [Dungeon Masters Guild](http://dungeonmastersguild.com) also provides self-publishing opportunities for individuals and groups. The OGL and Dungeon Masters Guild offer different kinds of publishing opportunities. For an overview of the programs, please visit the official [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd) to compare the programs.
 
-The material contained herein was REmastered line-by-line into Markdown format to be utilized in your own 5E projects. I have painstakingly converted the original Wizard's SRD v5.1 PDF to markdown, plus all errata from the _Nov 2018 update_. For more information, please visit the [RPG SRD Hub](https://oldmanumby.github.io/dnd.srd).
+The material contained herein was REmastered line-by-line into Markdown format to be utilized in your own 5E projects. I have painstakingly converted the original Wizard's SRD v5.1 PDF to markdown, plus all errata from the _Nov 2018 update_. For more information, please visit the [RPG SRD Hub](https://oldmanumby.github.io/rpg.srd).
 
 <details>
  <summary>Why Markdown format?</summary>
