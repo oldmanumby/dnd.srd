@@ -30,7 +30,7 @@ I recommend using the following Markdown applications to edit the material:
 * [Typora](https://typora.io): $15 (Pay Once)
 * [Visual Studio Code](https://code.visualstudio.com/Download): FREE!
 
-To export Markdown to various publishing formats, I recommend using Typora (listed above) as it has many good export options which will satify the majority of users. Most good Markdown editors will offer basic exports. However, if you want more options, [PanWriter](https://panwriter.com) is the best solution. However, for PanWiter to function properly, the following applications must also be installed to maximize your export options:
+To export Markdown to various publishing formats, I recommend using Typora (listed above) as it has many good export options that will satisfy the majority of users. Most good Markdown editors will offer basic exports. However, if you want more options, [PanWriter](https://panwriter.com) is the best solution. However, for PanWiter to function properly, the following applications must also be installed to maximize your export options:
 
 * [Download PanDoc](https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-macOS.pkg)
 
@@ -63,21 +63,3 @@ This adaptation of the D&D 5E SRD contains optional content designed specificall
  <summary>Discussions & Issues</summary>
 
 Feel free to visit our [discussion](https://github.com/OldManUmby/dnd.srd/discussions) forum to examine publishing ideas regarding the D&D SRD. Please **REport** any [issues](https://github.com/OldManUmby/dnd.srd/issues) you find through GitHub. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](https://github.com/OldManUmby/dnd.srd/pulls).
-
-</details>
-
-<details>
- <summary>Get Downloads</summary>
-
-* Download the latest [Release](https://github.com/OldManUmby/dnd.srd/releases).
-* Download Wizard's official [SRD v5.1 in PDF format](https://www.dndbeyond.com/attachments/39j2li89/SRD5.1-CCBY4.0_License_live%20links.pdf).
-* Download Wizard's official [Errata and Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
-* Download Wizard's official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
-
-</details>
-
----
-
-© 2015 Wizards. All Rights Reserved. Dungeons & Dragons® is a trademark[s] of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at [www.wizards.com](http://www.wizards.com).
-
-Website, markdown conversion, and extended formats by [Old Man Umby](http://www.oldmanumby.com). By permission, this website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit). Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries.
