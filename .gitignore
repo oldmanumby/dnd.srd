@@ -1,7 +1,0 @@
-# Local files
-# **/.*
-# **/_*
-# **/_assets
-*.code-workspace
-.DS_Store
-.cache
