@@ -1,3 +1,0 @@
-# Magic Items (Q)
-
-None.
