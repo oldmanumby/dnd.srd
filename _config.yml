@@ -42,7 +42,7 @@ search:
 # Aux links for the upper right navigation
 aux_links:
   "View the GitHub Project":
-    - "//github.com/OldManUmby/ose.srd"
+    - "//github.com/OldManUmby/dnd.srd"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
