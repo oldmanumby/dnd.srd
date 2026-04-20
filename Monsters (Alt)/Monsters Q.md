@@ -1,3 +1,0 @@
-# Monsters (Q)
-
-None.
